@@ -5,12 +5,15 @@
 
  // TODO CLEAN UP CSS!!
 
+.site-header {
+    border: 1px solid $gray-color-light;
+}
+
 .header-main {
     height: 20px;
     max-width: 700px;
     margin-left: auto;
     margin-right: auto;
-    padding-top: 7px;
 }
 
 /*Styling of header*/
@@ -72,14 +75,18 @@
     }
 
 
+.logo {
+
+}
+
+
 /*Styling of Navigation Bar*/
 .site-nav {
-    border: 1px solid $gray-color-light;
     border-width: 1px 0;
     list-style: none;
-    margin-top: 20px;
     padding: 10px 0px;
-    text-align: center;
+    text-align: right;
+    float: right;
 
     ul {
         -webkit-margin-before:0em;
@@ -124,13 +131,6 @@
         font-family: 'Helvetica';
     }
 
-    a {
-        color: $gray-color;
-
-        &:hover {
-            color: #CDCDCD;
-        }
-    }
 
     h1, h2, h3 {
         color: $black-color;
