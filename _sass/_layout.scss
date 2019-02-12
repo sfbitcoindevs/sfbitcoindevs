@@ -1,85 +1,4 @@
 
-/**
- * Site header
- */
-
- // TODO CLEAN UP CSS!!
-
-.site-header {
-    border: 1px solid $gray-color-light;
-}
-
-.header-main {
-    height: 20px;
-    max-width: 700px;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-/*Styling of header*/
-    #name {
-        max-width: 700px;
-        margin-left: auto;
-        margin-right: auto;
-        float: left;
-        text-align: left;
-        font-family: 'Futura';
-        font-size: 20px;
-
-        @include media-query($on-palm) {
-            width: 100%;
-            text-align: center;
-        }
-    }
-
-/* Social Icons*/
-    #icons{
-        text-align: right;
-        float: right;
-        width: 200px;
-        padding-right: 55px;
-
-        @include media-query($on-palm) {
-            display: none;
-        }
-    }
-
-    a.socialIcons:hover{
-        opacity: .65;
-        filter:alpha(opacity=80); /* For IE8 and earlier */
-    }
-
-/*Logo Styling (big A)*/
-    .circle {
-        width: 100px;
-        height: 100px;
-        border-radius: 50px;
-        border: 1px solid $gray-color-dark;
-        font-size: 75px;
-        font-family: 'Helvetica', serif;
-        color: $white-color !important;
-        line-height: 100px;
-        text-align: center;
-        background:#000;
-        margin: auto;
-
-        @include media-query($on-palm) {
-            display: none;
-        }
-    }
-
-    .circle:hover {
-        color: $black-color !important;
-        background: $white-color;
-        border: 1px solid $gray-color-dark;
-    }
-
-
-.logo {
-
-}
-
-
 /*Styling of Navigation Bar*/
 .site-nav {
     border-width: 1px 0;
@@ -139,8 +58,6 @@
 
 }
 
-
-
 /**
  * Site footer
  */
@@ -168,17 +85,6 @@
 
 
 /**
- * Home Page
- */
-
- .home-profile-image {
-    display: block;
-    margin: 0 auto;
-    border-radius: 50%;
-    padding-top: 20px;
- }
-
-/**
  * Posts
  */
 
@@ -201,10 +107,6 @@
     display: block;
     font-size: 24px;
     text-decoration: underline;
-}
-
-.post-tags {
-
 }
 
 .post-tag {
