@@ -2,7 +2,7 @@
 
 ## Socratic Reading List Sources
 
-These are good places to start when compiling the reading List;
+These are good places to start when compiling the reading List
 
 - Bitcoin Optech - https://bitcoinops.org/en/publications/
 - bitcoin-dev - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
