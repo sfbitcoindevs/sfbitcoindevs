@@ -14,3 +14,5 @@ These are good places to start when compiling the reading List:
 - Triangle BitDevs - https://trianglebitdevs.org/
 - BitDevs NYC - https://bitdevs.org/
 - Austin BitDevs - https://austinbitdevs.com/
+
+[Music to listen to while compiling.](https://www.door.link/)
