@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -euxo pipefail
+set -euo pipefail
 
 echo 'feed.xml
 posts
@@ -31,6 +31,6 @@ socratic/2018/11/13/socratic-4.html
 socratic/2018/10/18/socratic-3.html
 socratic/2018/08/28/socratic-2.html
 socratic/2018/07/24/socratic-1.html' | while read link; do
-  echo Trying $link
-  curl --fail localhost:1111/$link
+  echo Checking ${link}…
+  curl --fail -sS localhost:1111/$link > /dev/null
 done

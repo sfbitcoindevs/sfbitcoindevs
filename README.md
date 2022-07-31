@@ -19,7 +19,6 @@ These are good places to start when compiling the reading List:
 
 ## TODO
 
-- Make feed available at feed.xml
 - Style like the old page or like bitdevs NYC?
 - CI using GitHub Actions
   - check that it builds
