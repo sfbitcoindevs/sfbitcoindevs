@@ -9,10 +9,9 @@
   <b><a href="https://www.meetup.com/SF-Bitcoin-Devs/">Go to Meetup Page &raquo;</a></b>
 </p>
 
-<h2>Reading Lists</h2>
+<h2>Posts</h2>
 <ul>
-  {% set socratic = get_section(path="socratic/_index.md") %}
-  {% for page in socratic.pages %}
+  {% for page in section.pages %}
   <li>{{ page.date }} <a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
   {% endfor %}
 </ul>
