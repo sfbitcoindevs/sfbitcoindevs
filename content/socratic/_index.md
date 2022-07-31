@@ -1,7 +1,7 @@
 +++
 title = "Socratic Seminar Reading Lists"
 sort_by = "date"
-template = "blog.html"
-page_template = "blog-page.html"
+template = "socratic.html"
+page_template = "socratic-reading-list.html"
 aliases = ["posts"]
 +++
