@@ -3,8 +3,18 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>SF Bitcoin Devs</title>
+    <title>
+      SF Bitcoin Devs |
+      {% if page.title %}
+        {{ page.title }}
+      {% elif section.title %}
+        {{ section.title }}
+      {% else %}
+        Home
+      {% endif %}
+    </title>
     <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
   </head>
   <body>
     <header class="site-header">
@@ -17,7 +27,7 @@
         <nav class="site-nav">
           <ul>
             <li><a href="/" class="link-nav" id="link-about">About </a></li>
-            <li><a href="/socratic/" class="link-nav" id="link-blog">Posts</a></li>
+            <li><a href="/socratic/" class="link-nav" id="link-blog">Reading Lists</a></li>
           </ul>
         </nav>
       </div>
