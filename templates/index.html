@@ -1,17 +1,19 @@
 {% extends "base.html" %}
 
 {% block content %}
-<div>
-  <h1>About SF Bitcoin Devs</h1>
-  <p>SF Bitcoin Devs is a meetup group for discussing Bitcoin software development topics. We typically have two types of meetups: Socratic Seminars and Presentations. Socratic seminars are group discussions about a wide range of bitcoin-related topics. Pull requests, new papers, security vulnerabilities and other topics are discussed at socratic seminars. Participants are welcome to propose topics for discussion before each event. The presentation meetups, in contrast to socratic seminars, involve a single presenter giving a deep dive into a specific topic.</p>
-  <p><b><a href="https://www.meetup.com/SF-Bitcoin-Devs/">Go to Meetup Page &raquo;</a></b></p>
-</div>
+<h1>About SF Bitcoin Devs</h1>
+<p>
+  SF Bitcoin Devs is a meetup group for discussing Bitcoin software development topics. We typically have two types of meetups: Socratic Seminars and Presentations. Socratic seminars are group discussions about a wide range of bitcoin-related topics. Pull requests, new papers, security vulnerabilities and other topics are discussed at socratic seminars. Participants are welcome to propose topics for discussion before each event. The presentation meetups, in contrast to socratic seminars, involve a single presenter giving a deep dive into a specific topic.
+</p>
+<p>
+  <b><a href="https://www.meetup.com/SF-Bitcoin-Devs/">Go to Meetup Page &raquo;</a></b>
+</p>
 
 <h2>Reading Lists</h2>
-
-{% set socratic = get_section(path="socratic/_index.md") %}
-{% for page in socratic.pages %}
-<li>{{ page.date }} <a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-{% endfor %}
-
+<ul>
+  {% set socratic = get_section(path="socratic/_index.md") %}
+  {% for page in socratic.pages %}
+  <li>{{ page.date }} <a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
 {% endblock content %}
