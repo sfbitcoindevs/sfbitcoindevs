@@ -16,11 +16,3 @@ These are good places to start when compiling the reading List:
 - Austin BitDevs - https://austinbitdevs.com/
 
 [Music to listen to while compiling.](https://www.door.link/)
-
-## TODO
-
-- Style like the old page or like bitdevs NYC?
-- CI using GitHub Actions
-  - check that it builds
-  - check that old links don't break
-- Publish using GitHub Actions
