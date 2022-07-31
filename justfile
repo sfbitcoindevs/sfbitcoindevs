@@ -1,6 +1,15 @@
 list:
   just --list
 
+install:
+  cargo install zola
+
+serve:
+  zola serve
+
+open:
+  open http://localhost:1111
+
 rename:
   #!/usr/bin/env python3
   import glob
