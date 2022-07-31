@@ -7,25 +7,19 @@ on:
     branches:
     - master
 jobs:
-  check:
-    runs-on: ubuntu-latest
-    if: github.ref != 'refs/heads/master'
+  all:
+    runs-on: macos-latest
     steps:
     - uses: actions/checkout@v3.0.0
-    - run: ./bin/check-links
-    - uses: shalzz/zola-deploy-action@v0.16.0
-      env:
-        BUILD_DIR: docs
-        BUILD_ONLY: true
-        BUILD_FLAGS: --drafts
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  deploy:
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
-    steps:
-    - uses: actions/checkout@v3.0.0
-    - uses: shalzz/zola-deploy-action@v0.16.0
-      env:
-        BUILD_DIR: docs
-        PAGES_BRANCH: gh-pages
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - run: |
+      brew install zola
+      zola serve &
+      ./bin/check-links
+      kill $(jobs -p)
+    - name: Deploy Pages
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/master'
+      with:
+        github_token: ${{secrets.GITHUB_TOKEN}}
+        publish_branch: gh-pages
+        publish_dir: public
