@@ -1,4 +1,7 @@
-feed.xml
+#!/usr/bin/env bash
+set -euxo pipefail
+
+echo 'feed.xml
 posts
 socratic/2022/07/25/socratic-28.html
 socratic/2022/06/27/socratic-27.html
@@ -27,4 +30,7 @@ socratic/2018/12/11/socratic-5.html
 socratic/2018/11/13/socratic-4.html
 socratic/2018/10/18/socratic-3.html
 socratic/2018/08/28/socratic-2.html
-socratic/2018/07/24/socratic-1.html
+socratic/2018/07/24/socratic-1.html' | while read link; do
+  echo Trying $link
+  curl --fail localhost:1111/$link
+done

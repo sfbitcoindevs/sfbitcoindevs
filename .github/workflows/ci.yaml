@@ -1,4 +1,4 @@
-name: Pages
+name: CI
 on:
   push:
     branches:
@@ -7,11 +7,12 @@ on:
     branches:
     - master
 jobs:
-  build:
+  check:
     runs-on: ubuntu-latest
     if: github.ref != 'refs/heads/master'
     steps:
     - uses: actions/checkout@v3.0.0
+    - run: ./bin/check-links
     - uses: shalzz/zola-deploy-action@v0.16.0
       env:
         BUILD_DIR: docs
