@@ -11,7 +11,7 @@ Bitcoin Core 0.18 release
 <https://github.com/bitcoin/bitcoin/releases/tag/v0.18.0>
 
 Binance Hack & reorg debate  
-[Binance Hack Analysis](/assets/socratic_10/binance_hack.pdf)  
+[Binance Hack Analysis](binance_hack.pdf)  
 <https://twitter.com/cz_binance/status/1125996194734399488>
 
 Gotenna w/ Blockstream Satellite  
