@@ -12,10 +12,10 @@ jobs:
     steps:
     - uses: actions/checkout@v3.0.0
     - run: |
-      brew install zola
-      zola serve &
-      ./bin/check-links
-      kill $(jobs -p)
+        brew install zola
+        zola serve &
+        ./bin/check-links
+        kill $(jobs -p)
     - name: Deploy Pages
       uses: peaceiris/actions-gh-pages@v3
       if: github.ref == 'refs/heads/master'
