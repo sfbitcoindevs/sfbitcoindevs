@@ -19,10 +19,6 @@ These are good places to start when compiling the reading List:
 
 ## TODO
 
-- Should content be under content/socratic/ or just under content/?
-  - just being under content/ is probably more flexible, don't have to put
-  - everything in sections, fewer templates. Also, the only page on the site is the posts list,
-    and it seems unnecessary to have that on the main page and a sub-page.
 - Make feed available at feed.xml
 - Style like the old page or like bitdevs NYC?
 - CI using GitHub Actions
