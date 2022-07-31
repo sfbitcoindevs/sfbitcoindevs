@@ -1,45 +1,43 @@
 <!DOCTYPE html>
 <!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
 <html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>SF Bitcoin Devs</title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+  </head>
+  <body>
+    <section class="section">
+      <div class="container">
+        {% block content %} {% endblock %}
+      </div>
+    </section>
+    <footer class="site-footer">
+      <div class="wrapper">
+        <div class="copyright">
+          <p>
+            Copyright &copy; {{ page.year | default(value="") }}
 
-<head>
-  <meta charset="utf-8">
-  <title>SF Bitcoin Devs</title>
-  <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
-</head>
+            SF Bitcoin Devs.
 
-<body>
-  <section class="section">
-    <div class="container">
-      {% block content %} {% endblock %}
-    </div>
-  </section>
-</body>
+            All rights reserved.
+          </p>
+          <p>
+            Sponsored by
+            <span itemscope itemtype="http://schema.org/Corporation">
+              <a itemprop="url" href="https://river.com">
+                <span itemprop="name">River Financial</span>
+              </a>
+            </span> and
 
+            <span itemscope itemtype="http://schema.org/Corporation">
+              <a itemprop="url" href="https://www.garage.co.jp/en/">
+                <span itemprop="name">Digital Garage</span>
+              </a>
+            </span>.
+          </p>
+        </div>
+      </div>
+    </footer>
+  </body>
 </html>
-
-<footer class="site-footer">
-
-  <div class="wrapper">
-    <div class="copyright">
-      <p>Copyright &copy; {{ page.year | default(value="") }}
-
-        SF Bitcoin Devs.
-
-        All rights reserved.<p>
-      <p>Sponsored by
-        <span itemscope itemtype="http://schema.org/Corporation">
-          <a itemprop="url" href="https://river.com">
-            <span itemprop="name">River Financial</span>
-          </a>
-        </span> and
-
-        <span itemscope itemtype="http://schema.org/Corporation">
-          <a itemprop="url" href="https://www.garage.co.jp/en/">
-            <span itemprop="name">Digital Garage</span>
-          </a>
-        </span>.
-    </div>
-  </div>
-
-</footer>
