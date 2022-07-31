@@ -16,5 +16,5 @@ check-links:
 
   cat links.txt | while read link; do
     echo Trying $link
-   curl --fail localhost:1111/$link
+    curl --fail localhost:1111/$link
   done
