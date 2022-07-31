@@ -4,32 +4,14 @@
 <div>
   <h1>About SF Bitcoin Devs</h1>
   <p>SF Bitcoin Devs is a meetup group for discussing Bitcoin software development topics. We typically have two types of meetups: Socratic Seminars and Presentations. Socratic seminars are group discussions about a wide range of bitcoin-related topics. Pull requests, new papers, security vulnerabilities and other topics are discussed at socratic seminars. Participants are welcome to propose topics for discussion before each event. The presentation meetups, in contrast to socratic seminars, involve a single presenter giving a deep dive into a specific topic.</p>
-  <p><b><a href="https://www.meetup.com/SF-Bitcoin-Devs/">Go to Meetup Page &raquo</a></b></p>
+  <p><b><a href="https://www.meetup.com/SF-Bitcoin-Devs/">Go to Meetup Page &raquo;</a></b></p>
 </div>
-
-<br/>
-<br/>
 
 <h2>Reading Lists</h2>
 
-  {% set socratic = get_section(path="socratic/_index.md") %}
-  {% for page in socratic.pages %}
-  <li><a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
-  {% endfor %}
+{% set socratic = get_section(path="socratic/_index.md") %}
+{% for page in socratic.pages %}
+<li>{{ page.date }} <a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+{% endfor %}
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "description": "A group for discussing Bitcoin software development topics.",
-  "name": "SF Bitcoin Devs",
-  "url": "https://www.sfbitcoindevs.org",
-  "sameAs": [
-    "http://www.twitter.com/sfbitcoindevs",
-    "https://www.meetup.com/SF-Bitcoin-Devs",
-    "https://github.com/SF-Bitcoindevs",
-    "https://www.youtube.com/channel/UCREs0ConyCR2sEFf-DrLRMw"
-  ]
-}
-</script>
 {% endblock content %}

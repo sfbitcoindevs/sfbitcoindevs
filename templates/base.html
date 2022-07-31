@@ -19,52 +19,30 @@
     <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/atom.xml">
   </head>
   <body>
-    <header class="site-header">
-      <div class="wrapper">
-        <a href="/" class="logo">
-          <svg height="30" width="200" font-size="20" font-weight="bolder">
-            <text x="0" y="30" fill="black">SF Bitcoin Devs</text>
-          </svg>
-        </a>
-        <nav class="site-nav">
-          <ul>
-            <li><a href="/" class="link-nav" id="link-about">About </a></li>
-            <li><a href="/socratic/" class="link-nav" id="link-blog">Reading Lists</a></li>
-          </ul>
-        </nav>
-      </div>
+    <header>
+      <a href="/">SF Bitcoin Devs</a>
+      <nav>
+        <ul>
+          <li><a href="/">About</a></li>
+          <li><a href="/socratic/">Reading Lists</a></li>
+        </ul>
+      </nav>
     </header>
-    <section class="section">
-      <div class="container">
-        {% block content %} {% endblock %}
-      </div>
-    </section>
-    <footer class="site-footer">
-      <div class="wrapper">
-        <div class="copyright">
-          <p>
-            Copyright &copy; {{ page.year | default(value="") }}
+    <article>
+      {% block content %} {% endblock %}
+    </article>
+    <footer>
+      <p>
+        Copyright &copy; {{ page.year | default(value="") }}
 
-            SF Bitcoin Devs.
+        SF Bitcoin Devs.
 
-            All rights reserved.
-          </p>
-          <p>
-            Sponsored by
-            <span itemscope itemtype="http://schema.org/Corporation">
-              <a itemprop="url" href="https://river.com">
-                <span itemprop="name">River Financial</span>
-              </a>
-            </span> and
-
-            <span itemscope itemtype="http://schema.org/Corporation">
-              <a itemprop="url" href="https://www.garage.co.jp/en/">
-                <span itemprop="name">Digital Garage</span>
-              </a>
-            </span>.
-          </p>
-        </div>
-      </div>
+        All rights reserved.
+      </p>
+      <p>
+        Sponsored by <a href="https://river.com">River Financial</a>
+        and <a href="https://www.garage.co.jp/en/">Digital Garage</a>
+      </p>
     </footer>
   </body>
 </html>

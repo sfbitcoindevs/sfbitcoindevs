@@ -19,7 +19,8 @@ These are good places to start when compiling the reading List:
 
 ## TODO
 
-- Remove cruft from HTML
 - Use semantic elements
+- Make sure feed is still available at /feed.xml
 - Style
   - Should I style like the old page, or like bitdevs NYC?
+- Write workflow to publish
