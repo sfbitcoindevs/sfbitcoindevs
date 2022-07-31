@@ -1,7 +1,7 @@
 +++
 title =  "Socratic 10 Reading List"
 date = 2019-05-20
-aliases = ["socratic/2019/05/20-socratic-10.html"]
+aliases = ["socratic/2019/05/20/socratic-10.html"]
 +++
 
 ## News
