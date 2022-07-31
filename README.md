@@ -16,3 +16,10 @@ These are good places to start when compiling the reading List:
 - Austin BitDevs - https://austinbitdevs.com/
 
 [Music to listen to while compiling.](https://www.door.link/)
+
+## TODO
+
+- Remove cruft from HTML
+- Use semantic elements
+- Style
+  - Should I style like the old page, or like bitdevs NYC?
