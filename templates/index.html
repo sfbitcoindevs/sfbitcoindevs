@@ -14,15 +14,21 @@
   </head>
   <body>
     <header>
-      <a href="/">SF Bitcoin Devs</a>
+      <h1 class="logo"><a href="/">SF Bitcoin Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/">Meetup</a>
+      </nav>
     </header>
+    <hr>
     <article>
       {% block content %} {% endblock %}
     </article>
     <hr>
     <footer>
-      Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a> and
-      <a href="https://www.bitrefill.com/">Bitrefill</a>
+      <span>
+        Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a> and
+        <a href="https://www.bitrefill.com/">Bitrefill</a>
+      </span>
       <a href="/feed.xml">RSS Feed</a>
     </footer>
   </body>
