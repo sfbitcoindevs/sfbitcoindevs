@@ -1,0 +1,17 @@
+html {
+  color: #333;
+}
+
+hr {
+  border-style: dashed;
+  border-width: 0.0625rem 0 0.0625rem 0;
+  height: 0.1rem;
+}
+
+footer {
+  opacity: 0.4;
+}
+
+footer a {
+  color: #333;
+}

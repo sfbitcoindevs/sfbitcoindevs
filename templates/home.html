@@ -1,0 +1,18 @@
+{% extends "index.html" %}
+
+{% block content %}
+<h1>SF Bitcoin Devs</h1>
+<p>
+  SF Bitcoin Devs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
+</p>
+<p>
+  <b><a href="https://www.meetup.com/SF-Bitcoin-Devs/">Go to Meetup Page &raquo;</a></b>
+</p>
+
+<h2>Upcoming and Recent Events</h2>
+<ul>
+  {% for page in section.pages %}
+  <li>{{ page.date }} » <a href="{{ page.permalink | safe }}">{{ page.title }}</a></li>
+  {% endfor %}
+</ul>
+{% endblock content %}

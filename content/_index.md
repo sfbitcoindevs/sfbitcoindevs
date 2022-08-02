@@ -1,6 +1,6 @@
 +++
 sort_by = "date"
-template = "index.html"
+template = "home.html"
 page_template = "post.html"
 aliases = ["posts"]
 +++
