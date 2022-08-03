@@ -34,6 +34,13 @@ time {
 footer, header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
+}
+
+header > nav > a {
+  color: #333;
+  opacity: 0.4;
+  font-size: 1.3rem;
 }
 
 a {
@@ -41,7 +48,7 @@ a {
   text-decoration: none;
 }
 
-.logo {
+header > a {
   font-size: 2.2rem;
 }
 
@@ -51,5 +58,5 @@ a {
 
 @font-face {
   font-family: 'Source Code Pro';
-  src: url('/SourceCodePro/SourceCodePro-Regular.ttf.woff2') format('woff2');
+  src: url('/SourceCodePro-Regular.ttf.woff2') format('woff2');
 }
