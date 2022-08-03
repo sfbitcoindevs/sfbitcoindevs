@@ -1,0 +1,18 @@
+{% extends "index.html" %}
+
+{% block content %}
+<p>
+  SF Bitcoin Devs is a community for those interested in discussing and participating in the research and development of Bitcoin and related protocols.
+</p>
+
+<h2>Socratic Seminars</h2>
+<ul class="posts">
+  {% for page in section.pages %}
+    <li>
+      <time>{{ page.date | date(format="%d %b %Y") }}</time>
+      »
+      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+{% endblock content %}
