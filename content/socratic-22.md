@@ -1,5 +1,5 @@
 +++
-title =  "Socratic Seminar 22"
+title = "Socratic Seminar 22"
 date = 2021-02-22
 aliases = ["socratic/2021/02/22/socratic-22.html"]
 +++
