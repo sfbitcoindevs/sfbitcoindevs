@@ -1,0 +1,31 @@
+name: CI
+on:
+  push:
+    branches:
+    - master
+  pull_request:
+    branches:
+    - master
+defaults:
+  run:
+    shell: bash
+jobs:
+  all:
+    runs-on: macos-latest
+    steps:
+    - uses: actions/checkout@v3.0.0
+    - run: brew install zola
+    - name: Check
+      run: |
+        zola serve &
+        sleep 1
+        ./bin/check-links
+        kill $(jobs -p)
+    - run: zola build
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/master'
+      with:
+        github_token: ${{secrets.GITHUB_TOKEN}}
+        publish_branch: gh-pages
+        publish_dir: public
