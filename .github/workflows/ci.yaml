@@ -14,13 +14,14 @@ jobs:
     runs-on: macos-latest
     steps:
     - uses: actions/checkout@v3.0.0
+    - run: brew install zola
     - name: Check
       run: |
-        brew install zola
         zola serve &
         sleep 1
         ./bin/check-links
         kill $(jobs -p)
+    - run: zola build
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       # if: github.ref == 'refs/heads/master'
