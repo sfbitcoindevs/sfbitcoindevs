@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Bitcoin Devs | Socratic Seminar 28
+    </title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Bitcoin Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <header>
+      <a href="/">SF Bitcoin Devs</a>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/">Meetup</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 28</h1>
+<p><strong>2022-07-25</strong></p>
+<h2 id="preamble">Preamble</h2>
+<ul>
+<li>Questions are encouraged, including basic ones!</li>
+<li><a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a></li>
+<li><a href="https://github.com/leishman/sf-bitcoin-devs/issues/7">Suggest topics for the next Socratic Seminar in this GitHub issue!</a></li>
+</ul>
+<h2 id="educational-resources">Educational Resources</h2>
+<ul>
+<li><a href="https://twitter.com/base58btc/status/1544140600622055426">Free Base58 open source Bitcoin project deep dive summer series</a></li>
+<li><a href="https://learnmeabitcoin.com/technical/script">Script: A mini programming language. Great page explaining Bitcoin script, with extremely cute little animations</a></li>
+<li><a href="https://twitter.com/murchandamus/status/1548361670350630914">An animation from murch showing the effect of different coin selection algorithms on UTXO pools</a></li>
+<li><a href="https://github.com/jamesob/mempool.work">The mempool is hard! Challenges and ongoing work</a></li>
+</ul>
+<h2 id="new-work-research">New Work &amp; Research</h2>
+<ul>
+<li><a href="https://thelab31.xyz/blog/txwithhold">Gleb Naumenko, with contributions from Antoine Riard, discusses bribing miners to censor specific transactions, &quot;TxWithhold smart contracts&quot;</a>. Interestingly, one do so is probably via Ethereum, which already has the equivalent of on-chain Bitcoin SPV clients. Bitcoin developers should probably be at least peripherally aware of such potential interactions with other chains. Additionally, UTXO set inspection is impossible today, but could be accidentally added to the protocol.</li>
+</ul>
+<h2 id="privacy">Privacy</h2>
+<ul>
+<li><a href="https://github.com/fedimint/minimint/pull/174">Fedimint users can now accept Lightning payments. Cypherpunks stack sats.</a></li>
+</ul>
+<h2 id="history">History</h2>
+<ul>
+<li><a href="https://blog.bitmex.com/dapps-or-only-bitcoin-transactions-the-2014-debate/">The OP_RETURN wars. Some drama from 2014 over usage of Bitcoin block space for non-Bitcoin transactions.</a></li>
+</ul>
+<h2 id="applications">Applications</h2>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020745.html">How to do Proof of Micro-Burn?</a></li>
+</ul>
+<h2 id="fun">Fun</h2>
+<ul>
+<li><a href="https://rodarmor.com/blog/ordinal-theory/">Presenters shilling privilage: I wrote a blog post on ordinal theory. New fun notation is introduced, leveraging the fact that the difficulty adjustment and the halving fall on the same block every six halvings.</a></li>
+</ul>
+<h2 id="cryptography">Cryptography</h2>
+<ul>
+<li><a href="https://github.com/jonasnick/bips/issues/32">Were X-only pubkeys a mistake? Maybe, because they make a bunch of protocols more complicated, but maybe it's not so bad if we only use them at the very end, just-in-time X-only pubkeys, if you will.</a>. Great comment <a href="https://github.com/jonasnick/bips/issues/32#issuecomment-1177725159">here</a> by real-or-random.</li>
+<li><a href="https://blog.blockstream.com/half-aggregation-of-bip-340-signatures/">Apparently you can non-interactively half-aggregate BIP-340 signatures, who knew?</a> But this <a href="https://www.gijsvandam.nl/post/why-does-signature-half-aggregation-break-adaptor-signatures/">breaks adapter signatures</a>) so it's kind of a monkey's-paw type situation. Why? Because the untweaked signature is never published on-chain, only the tweaked signature.</li>
+<li><a href="https://github.com/sancoder/noomnem">Order is hard. How to make your mnemonic a little longer but the order doesn't matter.</a></li>
+</ul>
+<h2 id="bitcoin-core">Bitcoin Core</h2>
+<ul>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/24836">PR adding a regtest only RPC call for testing package relay</a></li>
+<li><a href="https://twitter.com/pwuille/status/1545159642447335424">pwuille steps down as maintainer</a> and <a href="https://github.com/bitcoin/bitcoin/pull/25524">glozow steps up to the plate</a>, all involved still writing as much code as usual.</li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/24571">Bitcoin Core PR that sends extra getheaders messages, so we don't leak knowledge of stale blocks</a></li>
+<li><a href="https://bitcoincore.reviews/25218">Nice Bitcoin Core refactor that introduces a Rust-like Result class and uses it to remove a bunch of out-params</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/issues/24861">Sjors walks us through the Bitcoin Core multisig PR labyrinth</a></li>
+</ul>
+<h2 id="lightning">Lightning</h2>
+<ul>
+<li><a href="http://sphinx.chat/2022/06/27/a-lightning-nodes-problem-with-hats/">A nice post on the different roles of Lightning Nodes</a>, and how the <a href="https://gitlab.com/lightning-signer">Validated Lightning Signer</a> project helps.</li>
+<li><a href="https://stacker.news/">Stacker News: Likely old news to many, but still a great Lightning project! Hacker News / Reddit clone with paid upvotes for sats</a></li>
+<li><a href="https://twitter.com/TunnelSats/status/1546978719784476672">Some kind of VPN thing for your Lightning Node in exchange for sats?</a></li>
+<li><a href="https://blog.bitmex.com/price-of-anarchy-from-selfish-routing-strategies/">What is the price of anarchy for selfish routing strategies on the Lightning Network?</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003616.html">Announcing splices: in a PR and a discussion on the Lightning-Dev mailing list, developers discussed the best way to communicate that a channel that was seemingly being closed onchain was in fact a splice where funds were being added to the channel or removed from it.</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003623.html">Bastien Teinturier posted a summary of an idea he attributes to Rusty Russell for rate limiting onion messages.</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-July/003643.html">Inbound channel routing fees</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-July/003649.html">Using BOLT 8 to Send Wumbo Messages</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-June/003617.html">ZmnSCPxj departs from his &quot;typical crap&quot; with a short missive on three strategies for Lightning forwarding nodes</a></li>
+</ul>
+<h2 id="covenants">Covenants</h2>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020763.html">Antoine Riard proposes a new community process to specify covenants</a></li>
+</ul>
+<h2 id="post-subsidy-era-security">Post-subsidy-era Security</h2>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020665.html">Surprisingly, tail emission is not inflationary, Peter Todd claims. Many chime in with much wailing and gnashing of teeth.</a> Great summary of the discussion in <a href="https://bitcoinops.org/en/newsletters/2022/07/20/">Bitcoin Optech #209</a>.</li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020702.html">Security problems with relying on transaction fees for security</a></li>
+</ul>
+<h2 id="grab-bag">Grab Bag</h2>
+<ul>
+<li><a href="https://github.com/Giszmo/Nostr-Voice-Chat">Wildly insecure, but still cool, voice chat over Nostr</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+        Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a> and
+        <a href="https://www.bitrefill.com/">Bitrefill</a>
+      </span>
+      <nav>
+        <a href="https://github.com/leishman/sf-bitcoin-devs">GitHub</a>
+        •
+        <a href="/feed.xml">RSS Feed</a>
+      </nav>
+    </footer>
+  </body>
+</html>
