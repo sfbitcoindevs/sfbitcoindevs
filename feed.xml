@@ -4,8 +4,26 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-07-25T00:00:00+00:00</updated>
+	<updated>2022-08-29T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 29 (draft)</title>
+		<published>2022-08-29T00:00:00+00:00</published>
+		<updated>2022-08-29T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-29/" type="text/html"/>
+		<id>https://www.sfbitcoindevs.org/socratic-29/</id>
+		<content type="html">&lt;h2 id=&quot;preamble&quot;&gt;Preamble&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;leishman&#x2F;sf-bitcoin-devs&#x2F;issues&#x2F;7&quot;&gt;Suggest topics for the next Socratic Seminar in this GitHub issue!&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;culture&quot;&gt;Culture&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;TheBlueMatt&#x2F;status&#x2F;1556448996159377414&quot;&gt;The Blue Matt contra Bitcoin maximalism&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 28</title>
 		<published>2022-07-25T00:00:00+00:00</published>
