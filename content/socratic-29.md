@@ -9,7 +9,7 @@ Preamble
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Suggest topics for the next Socratic Seminar!](https://github.com/sf-bitcoin-devs/sf-bitcoin-devs/issues/new/choose)
 - Why does SF Bitcoin Devs suck? How could SF Bitcoin Devs be improved?
-- This reading list covers July 25th to August 25th, and was compiled in a cramped plane seat on shitty in-flight wifi. May be missing lake-breaking news, and all typos are aktually new coinages.
+- This reading list covers July 25th to August 25th.
 
 Theory, Research, and Abstract Concepts
 ---------------------------------------
