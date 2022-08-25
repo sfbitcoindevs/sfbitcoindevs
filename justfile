@@ -17,3 +17,6 @@ update-feed-template:
 
 check-links:
   ./bin/check-links
+
+edit:
+  vim content/`exa -n1 content | tail -n1`
