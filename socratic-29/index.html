@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <title>
-      SF Bitcoin Devs | Socratic Seminar 29 (draft)
+      SF Bitcoin Devs | Socratic Seminar 29
     </title>
     <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -22,17 +22,68 @@
     <hr>
     <article>
       
-<h1>Socratic Seminar 29 (draft)</h1>
+<h1>Socratic Seminar 29</h1>
 <p><strong>2022-08-29</strong></p>
 <h2 id="preamble">Preamble</h2>
 <ul>
 <li>Questions are encouraged, including basic ones!</li>
 <li><a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a></li>
-<li><a href="https://github.com/leishman/sf-bitcoin-devs/issues/7">Suggest topics for the next Socratic Seminar in this GitHub issue!</a></li>
+<li><a href="https://github.com/sf-bitcoin-devs/sf-bitcoin-devs/issues/new/choose">Suggest topics for the next Socratic Seminar!</a></li>
+<li>Why does SF Bitcoin Devs suck? How could SF Bitcoin Devs be improved?</li>
+<li>This reading list covers July 25th to August 25th.</li>
+</ul>
+<h2 id="theory-research-and-abstract-concepts">Theory, Research, and Abstract Concepts</h2>
+<ul>
+<li><a href="https://arxiv.org/pdf/2208.01908.pdf">Cosimo &quot;Lightning Rod&quot; Sguanci and Anastasios &quot;The Channel Butcher&quot; Sidiropoulos's Paper on Mass Exit Attacks on the Lightning Network</a></li>
+<li><a href="https://jamming-dev.github.io/book/">Antoine Riard and Gleb Naumenko publish a book on channel jamming the Lightning Network</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020784.html">Aaradhya Chauhan wonders if we could and should have a lower minrelaytxfee</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2018-September/016352.html">Ruben Somsen: Guiding transaction fees towards a more censorship resistant outcome</a> cf. Bitcoin Core requiring a transaction be included higher block height than the current, <a href="https://github.com/bitcoin/bips/blob/master/bip-0115.mediawiki">Luke Dashjr's BIP 115 requiring a transaction to be built on top of a specific block</a>, and coinjoin transaction requiring that a transaction be included with a bunch of other transactions.</li>
+</ul>
+<h2 id="concrete-proposals">Concrete Proposals</h2>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020759.html">Ali Sherief proposes multiformat single-sig message signing</a> and <a href="https://github.com/ZenulAbidin/bips/blob/master/bip-notatether-signedmessage.mediawiki">BIP</a>. Many bitcoin wallets allow signing arbitrary messages using address pubkeys, but only support doing so with legacy addresses. This mail includes guidelines for message signing and verification with other address types. <a href="https://github.com/bitcoin/bips/blob/master/bip-0322.mediawiki">BIP 322</a> is a proposed but as-of-yet unmerged-into-core standard for message signing using arbitrary scripts.</li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020791.html">Andrew Chow proposes Receiving and Change Derivation Paths in a Single Descriptor</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020875.html">alicexbt proposes joinstr, a coinjoin implementation using nostr</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020887.html">Craig Raw, lead developer of Sparrow wallet, proposes a format for exporting wallet labels</a> with a <a href="https://github.com/craigraw/bips/blob/master/bip-wallet-labels.mediawiki">draft BIP</a>.</li>
+</ul>
+<h2 id="explication">Explication</h2>
+<ul>
+<li><a href="https://bitcoin.stackexchange.com/questions/114467/is-there-code-in-libsecp256k1-that-theoretically-should-be-moved-to-the-main-cor">What belongs in libsecp256k1 vs Bitcoin Core? Pieter Wuille opines</a></li>
+</ul>
+<h2 id="chain-weather">Chain Weather</h2>
+<ul>
+<li><a href="https://twitter.com/murchandamus/status/1557782865622056961">Murch notices some chonky blocks</a></li>
+<li><a href="https://bitcoin.stackexchange.com/questions/37077/how-much-inflation-does-bitcoin-have-year-by-year/37092#37092">Murch updates estimates of historic inflation</a></li>
+<li><a href="https://txstats.com/dashboard/db/taproot-statistics?orgId=1">Pretty taproot adoption graphs</a>.</li>
+</ul>
+<h2 id="code">Code</h2>
+<ul>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/25720">Suhas Daftuar Bitcoin Core PR: p2p: Reduce bandwidth during initial headers sync when a block is found, only add one new peer when a new block is found, instead of all announcing peers</a></li>
 </ul>
 <h2 id="culture">Culture</h2>
 <ul>
-<li><a href="https://twitter.com/TheBlueMatt/status/1556448996159377414">The Blue Matt contra Bitcoin maximalism</a></li>
+<li><a href="https://twitter.com/TheBlueMatt/status/1556448996159377414">The Blue Matt on Twitter contra Bitcoin maximalism</a></li>
+</ul>
+<h2 id="there-but-for-the-grace-of-god-go-we">There but for the grace of God go we</h2>
+<ul>
+<li><a href="https://blog.bitmex.com/ofac-sanctions-ethereum-pos-some-technical-nuances/">There but for the grace of god go we: BitMEX Research: OFAC Sanctions &amp; Ethereum PoS – Some Technical Nuances</a>. Note: Flashbot transaction block inclusion doesn't allow including other transactions post-merge. Speculation: Censorious stakers will test the waters by not-including sinful transactions in blocks they produce. Once they observe that a threshold of blocks don't include sinful transactions, they will switch to refusing to build on blocks that include sinful transactions.</li>
+<li><a href="https://twitter.com/JackNiewold/status/1560284429519667202">Ethereum developer Micah Zoltu says that soft forks (lock funds) and hard forks (confiscate funds) are part of the design of proof-of-stake that keep it secure.</a> This is akin to saying that hard-forks of bitcoin that change the proof-of-work function are part of its design to keep it secure.</li>
+</ul>
+<h2 id="ordinal-theory">Ordinal Theory</h2>
+<ul>
+<li><a href="https://ordinals.com/clock">Inscrutable Bitcoin clock</a></li>
+<li><a href="https://ordinals.com/bounties">Bounty for the oldest sat</a></li>
+<li><a href="https://ordinals.com/">Ordinals block explorer looking shinier</a></li>
+</ul>
+<h2 id="development">Development</h2>
+<ul>
+<li><a href="https://blog.blockstream.com/core-lightning-v0-12-0/">Core Lightning 0.12.0 released</a>, Rusty Russell's commando plugin is now written in C and ships with Core Lightning. <em>Can someone please explain to me what commando does and how it works?</em> Lisa &quot;Nifty&quot; Neigut adds accounting to see your channel APYs.</li>
+<li><a href="https://blog.blockstream.com/fedimint-update/">Blockstream Blog: Fedimint development continues unabated</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/issues/21194#issuecomment-1189536659">Bitcoin Core: GUIX reproducible for 7 of 9 target architectures when building cross-architecture</a></li>
+</ul>
+<h2 id="complaining">Complaining</h2>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020878.html">micaroni complains that performance of deranged, 273MB bitcoin core wallet with 2m transactions has begun to degrade, with getbalance pinning 32 cores until the call times out</a></li>
 </ul>
 
 
