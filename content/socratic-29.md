@@ -21,7 +21,7 @@ Theory, Research, and Abstract Concepts
 Concrete Proposals
 ------------------
 - [Ali Sherief proposes multiformat single-sig message signing](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020759.html) and [BIP](https://github.com/ZenulAbidin/bips/blob/master/bip-notatether-signedmessage.mediawiki). Many bitcoin wallets allow signing arbitrary messages using address pubkeys, but only support doing so with legacy addresses. This mail includes guidelines for message signing and verification with other address types. [BIP 322](https://github.com/bitcoin/bips/blob/master/bip-0322.mediawiki) is a proposed but as-of-yet unmerged-into-core standard for message signing using arbitrary scripts.
-- [Andrew Chow proposes Receiving and Change Derivation Paths in a Single Descriptor](<https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020791.html)
+- [Andrew Chow proposes Receiving and Change Derivation Paths in a Single Descriptor](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-July/020791.html)
 - [alicexbt proposes joinstr, a coinjoin implementation using nostr](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020875.html)
 - [Craig Raw, lead developer of Sparrow wallet, proposes a format for exporting wallet labels](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020887.html) with a [draft BIP](https://github.com/craigraw/bips/blob/master/bip-wallet-labels.mediawiki).
 
@@ -56,7 +56,7 @@ Ordinal Theory
 
 Development
 -----------
-- [Core Lightning 0.12.0 released](https://blog.blockstream.com/core-lightning-v0-12-0/), Rusty Russell's commando plugin is now written in C and ships with CLN. *Can someone please explain to me what commando does and how it works?* Lisa "Nifty" Neigut adds accounting to see your channel APYs.
+- [Core Lightning 0.12.0 released](https://blog.blockstream.com/core-lightning-v0-12-0/), Rusty Russell's commando plugin is now written in C and ships with Core Lightning. *Can someone please explain to me what commando does and how it works?* Lisa "Nifty" Neigut adds accounting to see your channel APYs.
 - [Blockstream Blog: Fedimint development continues unabated](https://blog.blockstream.com/fedimint-update/)
 - [Bitcoin Core: GUIX reproducible for 7 of 9 target architectures when building cross-architecture](https://github.com/bitcoin/bitcoin/issues/21194#issuecomment-1189536659)
 
