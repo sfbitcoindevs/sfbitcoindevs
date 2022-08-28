@@ -11,6 +11,11 @@ Preamble
 - Why does SF Bitcoin Devs suck? How could SF Bitcoin Devs be improved?
 - This reading list covers July 25th to August 25th.
 
+Craig Wright is a laughable fraud, but we must take his attack on Bitcoin seriously
+-----------------------------------------------------------------------------------
+- [Greg Maxwell on Wright vs Hodlonuat](https://np.reddit.com/r/Bitcoin/comments/ws8wfd/starting_september_12th_in_oslo_norway_hodlonaut/ikxqxoo/)
+- [Contribute to Hodlonaut's legal battle against Craig Wright](https://www.defendingbtc.com/)
+
 Theory, Research, and Abstract Concepts
 ---------------------------------------
 - [Cosimo "Lightning Rod" Sguanci and Anastasios "The Channel Butcher" Sidiropoulos's Paper on Mass Exit Attacks on the Lightning Network](https://arxiv.org/pdf/2208.01908.pdf)
@@ -43,8 +48,8 @@ Culture
 -------
 - [The Blue Matt on Twitter contra Bitcoin maximalism](https://twitter.com/TheBlueMatt/status/1556448996159377414)
 
-There but for the grace of God go we
-------------------------------------
+There but for the grace of God go we…
+-------------------------------------
 - [There but for the grace of god go we: BitMEX Research: OFAC Sanctions & Ethereum PoS – Some Technical Nuances](https://blog.bitmex.com/ofac-sanctions-ethereum-pos-some-technical-nuances/). Note: Flashbot transaction block inclusion doesn't allow including other transactions post-merge. Speculation: Censorious stakers will test the waters by not-including sinful transactions in blocks they produce. Once they observe that a threshold of blocks don't include sinful transactions, they will switch to refusing to build on blocks that include sinful transactions.
 - [Ethereum developer Micah Zoltu says that soft forks (lock funds) and hard forks (confiscate funds) are part of the design of proof-of-stake that keep it secure.](https://twitter.com/JackNiewold/status/1560284429519667202) This is akin to saying that hard-forks of bitcoin that change the proof-of-work function are part of its design to keep it secure.
 
