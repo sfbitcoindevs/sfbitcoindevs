@@ -20,6 +20,11 @@
 &lt;li&gt;Why does SF Bitcoin Devs suck? How could SF Bitcoin Devs be improved?&lt;&#x2F;li&gt;
 &lt;li&gt;This reading list covers July 25th to August 25th.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;craig-wright-is-a-laughable-fraud-but-we-must-take-his-attack-on-bitcoin-seriously&quot;&gt;Craig Wright is a laughable fraud, but we must take his attack on Bitcoin seriously&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;np.reddit.com&#x2F;r&#x2F;Bitcoin&#x2F;comments&#x2F;ws8wfd&#x2F;starting_september_12th_in_oslo_norway_hodlonaut&#x2F;ikxqxoo&#x2F;&quot;&gt;Greg Maxwell on Wright vs Hodlonuat&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.defendingbtc.com&#x2F;&quot;&gt;Contribute to Hodlonaut&#x27;s legal battle against Craig Wright&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;theory-research-and-abstract-concepts&quot;&gt;Theory, Research, and Abstract Concepts&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2208.01908.pdf&quot;&gt;Cosimo &amp;quot;Lightning Rod&amp;quot; Sguanci and Anastasios &amp;quot;The Channel Butcher&amp;quot; Sidiropoulos&#x27;s Paper on Mass Exit Attacks on the Lightning Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -52,9 +57,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;TheBlueMatt&#x2F;status&#x2F;1556448996159377414&quot;&gt;The Blue Matt on Twitter contra Bitcoin maximalism&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;there-but-for-the-grace-of-god-go-we&quot;&gt;There but for the grace of God go we&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;the-ethereum-merge&quot;&gt;The Ethereum Merge&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;ofac-sanctions-ethereum-pos-some-technical-nuances&#x2F;&quot;&gt;There but for the grace of god go we: BitMEX Research: OFAC Sanctions &amp;amp; Ethereum PoS – Some Technical Nuances&lt;&#x2F;a&gt;. Note: Flashbot transaction block inclusion doesn&#x27;t allow including other transactions post-merge. Speculation: Censorious stakers will test the waters by not-including sinful transactions in blocks they produce. Once they observe that a threshold of blocks don&#x27;t include sinful transactions, they will switch to refusing to build on blocks that include sinful transactions.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;ofac-sanctions-ethereum-pos-some-technical-nuances&#x2F;&quot;&gt;BitMEX Research: OFAC Sanctions &amp;amp; Ethereum PoS – Some Technical Nuances&lt;&#x2F;a&gt;. Note: Flashbot transaction block inclusion doesn&#x27;t allow including other transactions post-merge. Speculation: Censorious stakers will test the waters by not-including sinful transactions in blocks they produce. Once they observe that a threshold of blocks don&#x27;t include sinful transactions, they will switch to refusing to build on blocks that include sinful transactions.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;JackNiewold&#x2F;status&#x2F;1560284429519667202&quot;&gt;Ethereum developer Micah Zoltu says that soft forks (lock funds) and hard forks (confiscate funds) are part of the design of proof-of-stake that keep it secure.&lt;&#x2F;a&gt; This is akin to saying that hard-forks of bitcoin that change the proof-of-work function are part of its design to keep it secure.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;ordinal-theory&quot;&gt;Ordinal Theory&lt;&#x2F;h2&gt;
