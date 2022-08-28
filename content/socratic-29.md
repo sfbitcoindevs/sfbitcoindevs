@@ -48,9 +48,9 @@ Culture
 -------
 - [The Blue Matt on Twitter contra Bitcoin maximalism](https://twitter.com/TheBlueMatt/status/1556448996159377414)
 
-There but for the grace of God go we…
--------------------------------------
-- [There but for the grace of god go we: BitMEX Research: OFAC Sanctions & Ethereum PoS – Some Technical Nuances](https://blog.bitmex.com/ofac-sanctions-ethereum-pos-some-technical-nuances/). Note: Flashbot transaction block inclusion doesn't allow including other transactions post-merge. Speculation: Censorious stakers will test the waters by not-including sinful transactions in blocks they produce. Once they observe that a threshold of blocks don't include sinful transactions, they will switch to refusing to build on blocks that include sinful transactions.
+The Ethereum Merge
+------------------
+- [BitMEX Research: OFAC Sanctions & Ethereum PoS – Some Technical Nuances](https://blog.bitmex.com/ofac-sanctions-ethereum-pos-some-technical-nuances/). Note: Flashbot transaction block inclusion doesn't allow including other transactions post-merge. Speculation: Censorious stakers will test the waters by not-including sinful transactions in blocks they produce. Once they observe that a threshold of blocks don't include sinful transactions, they will switch to refusing to build on blocks that include sinful transactions.
 - [Ethereum developer Micah Zoltu says that soft forks (lock funds) and hard forks (confiscate funds) are part of the design of proof-of-stake that keep it secure.](https://twitter.com/JackNiewold/status/1560284429519667202) This is akin to saying that hard-forks of bitcoin that change the proof-of-work function are part of its design to keep it secure.
 
 Ordinal Theory
