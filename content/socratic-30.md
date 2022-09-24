@@ -15,6 +15,7 @@ draft = true
 
 Preamble
 --------
+
 - Questions are encouraged, including basic ones!
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Suggest topics for the next Socratic Seminar!](https://github.com/sf-bitcoin-devs/sf-bitcoin-devs/issues/new/choose)
