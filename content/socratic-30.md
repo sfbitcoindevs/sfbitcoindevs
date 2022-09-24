@@ -6,7 +6,6 @@ draft = true
 
 - Bitcoin Optech - https://bitcoinops.org/en/publications/
 - bitcoin-dev - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
-- lightning-dev - https://lists.linuxfoundation.org/pipermail/lightning-dev/
 - BitDevs NYC - https://bitdevs.org/
 - Austin BitDevs - https://austinbitdevs.com/
 
@@ -15,6 +14,7 @@ draft = true
 
 Preamble
 --------
+
 - Questions are encouraged, including basic ones!
 - [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Suggest topics for the next Socratic Seminar!](https://github.com/sf-bitcoin-devs/sf-bitcoin-devs/issues/new/choose)
@@ -78,3 +78,17 @@ Gleb and Antoine propose [Coinpool](https://coinpool.dev/v0.1.pdf), a new shared
 
 Lloyd Fournier, independent researcher and host of [APAC Bitcoin](https://twitter.com/APACbitcoin), shared a [post](https://mailmanlists.org/pipermail/dlc-dev/2022-August/000149.html) to the dlc-dev mailing list explaining how BLS attestations enable powerful and simple stateless DLC oracles.
 
+[Lightning-dev] Splice Pinning Prevention w/o Anchors. How does it work?
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003665.html
+
+[Lightning-dev] Supporting a custodial user who wishes to withdraw all sats from the account...
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003674.html
+
+[Lightning-dev] Core-Lightning Release v0.12.0 [Web 8-init]
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003676.html
+
+[Lightning-dev] Fee Ratecards (your gateway to negativity)
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html
+
+[Lightning-dev] `htlc_maximum_msat` as a valve for flow control on the Lightning Network
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003686.html
