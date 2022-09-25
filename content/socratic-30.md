@@ -15,10 +15,13 @@ Preamble
 - This reading list covers August 26th to September 26th.
 
 # Topics
+
 - [Fedimint Signet](https://faucet.sirion.io/)
     - Eric Sirion running a signet federation: set up a fluttermint wallet, connect to the federation, use the lightning gateway to send sigsats in/out of the federation
+
 - [Bitcoin Core 24.0 Draft Release Notes](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/24.0-Release-Notes-draft)
   - opt-out fullrbf: The GUI currently opts in to RBF by default, but RPCs do not, and -walletrbf is default disabled. This PR makes the default in those two places to also opt in. (not a single nack!)
+
 - [Spookchains: Drivechain Analog with One-Time Trusted Setup & APO](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020919.html)
 
   ● Creating drivechains with APO and a trusted setup: Jeremy Rubin posted to the Bitcoin-Dev mailing list a description for how a trusted setup procedure could be combined with the proposed SIGHASH_ANYPREVOUT opcode to implement behavior similar to that proposed by drivechains. Drivechains are a type of sidechain where miners are normally responsible for keeping the sidechain funds secure (in contrast to full nodes which are responsible for securing funds on Bitcoin’s mainchain). Miners attempting to steal drivechain funds must broadcast their malicious intentions days or weeks in advance, giving users a chance to change their full nodes to enforce the rules of the sidechain. Drivechains are primarily proposed for inclusion into Bitcoin as a soft fork (see BIPs 300 and 301), but a previous post to the mailing list (see Newsletter #190) described how some other flexible proposed additions to Bitcoin’s contracting language could also allow the implementation of drivechains.
