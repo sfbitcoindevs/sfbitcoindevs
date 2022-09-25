@@ -92,3 +92,6 @@ https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.
 
 [Lightning-dev] `htlc_maximum_msat` as a valve for flow control on the Lightning Network
 https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003686.html
+
+cashu:
+https://github.com/callebtc/cashu
