@@ -4,14 +4,6 @@ date = 2022-09-26
 draft = true
 +++
 
-- Bitcoin Optech - https://bitcoinops.org/en/publications/
-- bitcoin-dev - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
-- BitDevs NYC - https://bitdevs.org/
-- Austin BitDevs - https://austinbitdevs.com/
-
-[Music to listen to while compiling.](https://www.door.link/)
-
-
 Preamble
 --------
 
@@ -28,6 +20,12 @@ Preamble
 - [Bitcoin Core 24.0 Draft Release Notes](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/24.0-Release-Notes-draft)
   - opt-out fullrbf: The GUI currently opts in to RBF by default, but RPCs do not, and -walletrbf is default disabled. This PR makes the default in those two places to also opt in. (not a single nack!)
 - [Spookchains: Drivechain Analog with One-Time Trusted Setup & APO](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020919.html)
+
+  ● Creating drivechains with APO and a trusted setup: Jeremy Rubin posted to the Bitcoin-Dev mailing list a description for how a trusted setup procedure could be combined with the proposed SIGHASH_ANYPREVOUT opcode to implement behavior similar to that proposed by drivechains. Drivechains are a type of sidechain where miners are normally responsible for keeping the sidechain funds secure (in contrast to full nodes which are responsible for securing funds on Bitcoin’s mainchain). Miners attempting to steal drivechain funds must broadcast their malicious intentions days or weeks in advance, giving users a chance to change their full nodes to enforce the rules of the sidechain. Drivechains are primarily proposed for inclusion into Bitcoin as a soft fork (see BIPs 300 and 301), but a previous post to the mailing list (see Newsletter #190) described how some other flexible proposed additions to Bitcoin’s contracting language could also allow the implementation of drivechains.
+
+  In this week’s post, Rubin described yet another way drivechains could be implemented using a proposed addition to Bitcoin’s contracting language, in this case using SIGHASH_ANYPREVOUT (APO) as proposed in BIP118. The described APO-based drivechains have several drawbacks compared to BIP300 but perhaps provides similar enough behavior that APO can be considered as enabling drivechains, which some individuals may consider a benefit and others may consider a problem.
+
+
   - Possible motivation for supporting APO over alternative covenant proposals?
 - [Revocable Proof of Burn Draft BIP](https://github.com/veleslavs/bips/blob/bip-rpob-tx-template/bip-rpob-tx-template.mediawiki)
 - [Core Lightning v12](https://blog.blockstream.com/core-lightning-v0-12-0)
@@ -95,3 +93,57 @@ https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003686.
 
 cashu:
 https://github.com/callebtc/cashu
+
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020908.html
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020921.html
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020933.html
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020932.html
+
+# News
+- [Carl Dong leaving Chaincode Labs and bitcoin core contributing](https://twitter.com/carl_dong/status/1565108387842560000)
+- [Coinbase funding lawsuit against Treasury dept](https://blog.coinbase.com/defending-privacy-in-crypto-e09db33dece8?gi=248cf3e6ee23)
+- [Sanctions updates](https://www.nobsbitcoin.com/ofac-tornado-sanctions-update/)
+
+# Security
+- STONEWALLx2 DoS attack on Samurai Wallet: [Mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020914.html), [CVE](https://www.cve.org/CVERecord?id=CVE-2022-35913)
+
+# Contract Protocols
+- [Spookchains](https://rubin.io/bitcoin/2022/09/14/drivechain-apo/)
+- [Tapscript: New Opcodes, Reduced Limits and Covenants](https://blog.blockstream.com/tapscript-new-opcodes-reduced-limits-and-covenants/)
+
+# Privacy
+- [Spiral - private electrum server](https://btc.usespiral.com/) [Paper](https://eprint.iacr.org/2022/368)
+- [$\mu$Cash: Transparent Anonymous Transactions](https://eprint.iacr.org/2022/1104.pdf)
+- [Credible Confessions](https://github.com/DavidVorick/CredibleConfessions)
+- [silent payment descriptor](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020857.html)
+- [Bitcoin-STARKS khepri](https://github.com/bitcoin-stark/khepri)
+
+# Cryptography
+- [Musig2 approaching v1.0 of the BIP](https://nitter.net/n1ckler/status/1567168267025874944)
+- [Work on Schnorr Batch Verification](https://github.com/bitcoin-core/secp256k1/pull/1134)
+
+# Bitcoin
+- [I2P - transient addresses for outbound connections](https://github.com/bitcoin/bitcoin/pull/25355)
+- [Making Bitcoin Unstoppable: Mesh Nets](https://bitcoinmagazine.com/technical/making-bitcoin-unstoppable-part-one-mesh-nets)
+- [Looking into a weird block](https://twitter.com/akaKush0/status/1567554622742560768)
+- [Wallet label BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-August/020887.html)
+- [braidpool implementation](https://github.com/pool2win/braidpool), [blog post](https://pool2win.github.io/braidpool/2021/08/18/deliver-hashrate-to-market-makers.html)
+- [migratewallet rpc commmand](https://github.com/bitcoin/bitcoin/pull/19602)
+
+# Lightning
+- [BOLT 12 fork of LND](https://github.com/carlaKC/boltnd)
+- [Scaling Problems For Taro on Bitcoin?](https://bitcoinmagazine.com/technical/scaling-problem-for-lightning-labs-taro)
+- [Can Bitcoin's Lightning Network Overcome The Price Of Anarchy?](https://bitcoinmagazine.com/technical/can-bitcoin-overcome-price-of-anarchy)
+
+https://bitcoin.stackexchange.com/a/114687
+● When did Bitcoin Core deprecate the mining function? Pieter Wuille provides a historical overview of mining-related features within Bitcoin Core over the years
+
+https://github.com/bitcoin/bitcoin/issues/25717
+● Bitcoin Core #25717 adds a “Headers Presync” step during Initial Block Download (IBD) to help prevent Denial of Service (DoS) attacks and step towards removing checkpoints. Nodes use the pre-sync phase to verify that a peer’s headers chain has sufficient work before storing them permanently.
+
+During IBD, adversarial peers may attempt to stall the syncing process, serve blocks that don’t lead to the most-work chain, or simply exhaust the node’s resources. As such, while sync speed and bandwidth usage are important concerns during IBD, a primary design goal is avoiding Denial of Service attacks. Since v0.10.0, Bitcoin Core nodes sync block headers first before downloading block data and reject headers that don’t connect to a set of checkpoints. Instead of using hard-coded values, this new design utilizes the inherent DoS-resistant property of Proof of Work (PoW) puzzles to minimize the amount of memory allocated before finding the main chain.
+
+With these changes, nodes download headers twice during initial headers sync: a first pass to verify the headers’ PoW (without storing them) until the accumulated work meets a predetermined threshold, and then a second pass to store them. To prevent an attacker sending the main chain during presync and then a different, malicious chain during redownload, the node stores commitments to the headers chain during presync.
+
+add migratewallet command:
+https://github.com/bitcoin/bitcoin/pull/19602
