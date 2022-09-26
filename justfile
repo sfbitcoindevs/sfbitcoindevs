@@ -5,7 +5,7 @@ install:
   cargo install zola
 
 serve:
-  zola serve --open
+  zola serve --open --drafts
 
 open:
   open http://localhost:1111
