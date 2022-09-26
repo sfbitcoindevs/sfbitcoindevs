@@ -75,3 +75,4 @@ Lightning Network
 - [option_recipient_pays_routing_fee to allow draining accounts over Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-August/003674.html)
 - [Fee Ratecards: capacity-dependent Lightning channel negative and positive fee rates](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-September/003685.html)
 - [Mempool.space adds lightning support](https://mempool.space/lightning)
+- [Sats Overflow launched](https://satsoverflow.io/)
