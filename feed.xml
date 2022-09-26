@@ -4,8 +4,98 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-08-29T00:00:00+00:00</updated>
+	<updated>2022-09-26T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 30</title>
+		<published>2022-09-26T00:00:00+00:00</published>
+		<updated>2022-09-26T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-30/" type="text/html"/>
+		<id>https://www.sfbitcoindevs.org/socratic-30/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers August 26th to September 26th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;topics&quot;&gt;Topics&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;chain-weather&quot;&gt;Chain Weather&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinvisuals.com&#x2F;ln-capacity&quot;&gt;Lightning Network Capacity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;transactionfee.info&#x2F;charts&#x2F;fees-package-feerates&#x2F;&quot;&gt;Fees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;research-and-development&quot;&gt;Research and Development&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-September&#x2F;020919.html&quot;&gt;Spookchains: Drivechain Analog with One-Time Trusted Setup &amp;amp; APO&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;veleslavs&#x2F;bips&#x2F;blob&#x2F;bip-rpob-tx-template&#x2F;bip-rpob-tx-template.mediawiki&quot;&gt;Revocable Proof of Burn Draft BIP&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Lloyd Fournier, independent researcher and host of &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;APACbitcoin&quot;&gt;APAC Bitcoin&lt;&#x2F;a&gt;, shares a &lt;a href=&quot;https:&#x2F;&#x2F;mailmanlists.org&#x2F;pipermail&#x2F;dlc-dev&#x2F;2022-August&#x2F;000149.html&quot;&gt;post&lt;&#x2F;a&gt; to the dlc-dev mailing list explaining how BLS attestations enable powerful and simple stateless DLC oracles.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-September&#x2F;020921.html&quot;&gt;bitcoin-inquistion: evaluating soft forks on signet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;grab-bag&quot;&gt;Grab Bag&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;tapscript-new-opcodes-reduced-limits-and-covenants&#x2F;&quot;&gt;Liquid Tapscript: New Opcodes, Reduced Limits and Covenants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;DavidVorick&#x2F;CredibleConfessions&quot;&gt;Credible Confessions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;faucet.sirion.io&#x2F;&quot;&gt;Eric Sirion&#x27;s Signet Fedimint Instance&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;carl_dong&#x2F;status&#x2F;1565108387842560000&quot;&gt;Carl Dong leaving Chaincode Labs and bitcoin core contributing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;The Wright trial continues. Fortunately &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;wizsecurity&#x2F;status&#x2F;1570773449886543874&quot;&gt;things aren&#x27;t looking great for Wright.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;a&#x2F;114687&quot;&gt;When did Bitcoin Core deprecate the mining function? Pieter Wuille provides a historical overview of mining-related features within Bitcoin Core over the years&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cryptography&quot;&gt;Cryptography&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nitter.net&#x2F;n1ckler&#x2F;status&#x2F;1567168267025874944&quot;&gt;Musig2 approaching v1.0 of the BIP&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;secp256k1&#x2F;pull&#x2F;1134&quot;&gt;Work on Schnorr Batch Verification&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;privacy&quot;&gt;Privacy&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2022&#x2F;1104.pdf&quot;&gt;$\mu$Cash: Transparent Anonymous Transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-August&#x2F;020857.html&quot;&gt;silent payment descriptor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-stark&#x2F;khepri&quot;&gt;Bitcoin-STARKS khepri&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;btc.usespiral.com&#x2F;&quot;&gt;Spiral - private electrum server&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2022&#x2F;368&quot;&gt;Paper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;callebtc&#x2F;cashu&quot;&gt;Cashu is a Chaumian Ecash wallet and mint with Bitcoin Lightning support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;politics&quot;&gt;Politics&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.cryptoactionnetwork.org&#x2F;scorecard&quot;&gt;Coinbase Launches Crypto Action Network&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;In-app scorecards for current representatives and candidates for federal government. &lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.coinbase.com&#x2F;defending-privacy-in-crypto-e09db33dece8?gi=248cf3e6ee23&quot;&gt;Coinbase funding lawsuit against Treasury dept&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;ofac-tornado-sanctions-update&#x2F;&quot;&gt;Sanctions updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;bitcoin-devwiki&#x2F;wiki&#x2F;24.0-Release-Notes-draft&quot;&gt;Bitcoin Core 24.0 Draft Release Notes&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Among other things, enables full RBF by default. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;25610&quot;&gt;Incredibly, not a single nack on the PR.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;25717&quot;&gt;Bitcoin Core #25717&lt;&#x2F;a&gt; adds a “Headers Presync” step during Initial Block Download (IBD) to help prevent Denial of Service (DoS) attacks and step towards removing checkpoints. Nodes use the pre-sync phase to verify that a peer’s headers chain has sufficient work before storing them permanently.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;19602&quot;&gt;Bitcoin Core #19602&lt;&#x2F;a&gt; adds &lt;code&gt;migratewallet&lt;&#x2F;code&gt; command for migrating legacy wallets to descriptor wallets.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;25355&quot;&gt;I2P - transient addresses for outbound connections&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;lightning-network&quot;&gt;Lightning Network&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;core-lightning-v0-12-0&quot;&gt;Core Lightning v12&lt;&#x2F;a&gt; 
+&lt;ul&gt;
+&lt;li&gt;Bookkeeper plugin for lightning accounting: see profitability, flows, and routing information down to the satoshi&lt;&#x2F;li&gt;
+&lt;li&gt;Commando plugin: remotely connect directly to your core lightning node with runes to send RPC calls&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;the-power-of-htlc_maximum_msat-as-a-control-valve-for-better-flow-control-improved-reliability-and-lower-expected-payment-failure-rates-on-the-lightning-network&#x2F;&quot;&gt;&lt;code&gt;htlc_maximum_msat&lt;&#x2F;code&gt; as a valve for flow control on the Lightning Network&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-September&#x2F;003686.html&quot;&gt;lightning-dev post by René Pickhardt&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Very exciting LND PR &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;6810&quot;&gt;enabling taproot by default&lt;&#x2F;a&gt; for sweeping funds, funding channels, and sending blobs to watch towers.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-August&#x2F;003674.html&quot;&gt;option_recipient_pays_routing_fee to allow draining accounts over Lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-September&#x2F;003685.html&quot;&gt;Fee Ratecards: capacity-dependent Lightning channel negative and positive fee rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;lightning&quot;&gt;Mempool.space adds lightning support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 29</title>
 		<published>2022-08-29T00:00:00+00:00</published>
