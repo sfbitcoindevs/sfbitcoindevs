@@ -35,6 +35,11 @@ Grab Bag
 - [Celsius doxxes all users](https://www.nobsbitcoin.com/celsius-doxxes-all-users/)
 - [NYDIG Bitcoin developer report])https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
   - Some interesting charts on pages 10 & 13
+  
+Meetup.com Suggestions
+--------
+- [Original LN grant proposal (apparently mostly complete, but not released)](https://urbit.org/grants/volt-lightning-on-urbit)
+- [Continuing LN development grant, beginning with submarine swaps](https://urbit.org/grants/lightning-development)
 
 Lightning
 --------
