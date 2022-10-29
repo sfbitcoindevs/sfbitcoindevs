@@ -33,7 +33,7 @@ Grab Bag
 - [Refreshed BIP324 (encrypted transport protocol)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020985.html)
 - [Stratum V2 reference implementation is published](https://twitter.com/StratumV2/status/1579805619351326722)
 - [Celsius doxxes all users](https://www.nobsbitcoin.com/celsius-doxxes-all-users/)
-- [NYDIG Bitcoin developer report])https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
+- [NYDIG Bitcoin developer report](https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf)
   - Some interesting charts on pages 10 & 13
 - [Taro Alpha Release](https://lightning.engineering/posts/2022-9-28-taro-launch/)
   
