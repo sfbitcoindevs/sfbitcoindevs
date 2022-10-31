@@ -15,8 +15,7 @@ Housekeeping
 Chain Weather Report
 --------------------
 
-- [Lightning Network Capacity](https://bitcoinvisuals.com/ln-capacity)
-  - Over 5000 BTC in lightning channels
+- [Lightning Network Capacity](https://bitcoinvisuals.com/ln-capacity) Over 5000 BTC in lightning channels.
 - [Fees](https://transactionfee.info/charts/fees-package-feerates/)
 - [Bitcoin Node Count](https://luke.dashjr.org/programs/bitcoin/files/charts/historical.html)
 - [Ongoing Tor Network DDoS](https://status.torproject.org/issues/2022-06-09-network-ddos/)
