@@ -30,7 +30,7 @@ RBF
 ---
 
 - [New transaction policies (nVersion=3) for contracting protocols](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html)
-- [Muun developers object to full RBF rollout timeline](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html) Interesting nugget: "Even though many of the biggest miners offer off-band transaction broadcasting services, they currently won't process conflicting transactions."
+- [Muun developers object to full RBF rollout timeline](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html) "Even though many of the biggest miners offer off-band transaction broadcasting services, they currently won't process conflicting transactions."
 - [Full RBF Summary by Gloria Zhao](https://github.com/glozow/bitcoin-notes/blob/full-rbf/full-rbf.md) "Does Core control whether full RBF happens or not?"
 
 
