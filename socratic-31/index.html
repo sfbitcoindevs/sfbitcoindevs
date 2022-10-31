@@ -35,53 +35,65 @@
 <li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
 <li>The reading list covers September 26th to October 30th.</li>
 </ul>
-<h2 id="topics">Topics</h2>
-<h2 id="chain-weather">Chain Weather</h2>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
 <ul>
-<li><a href="https://bitcoinvisuals.com/ln-capacity">Lightning Network Capacity</a>
-<ul>
-<li>Over 5000 BTC in lightning channels</li>
-</ul>
-</li>
+<li><a href="https://bitcoinvisuals.com/ln-capacity">Lightning Network Capacity</a> Over 5000 BTC in lightning channels.</li>
 <li><a href="https://transactionfee.info/charts/fees-package-feerates/">Fees</a></li>
 <li><a href="https://luke.dashjr.org/programs/bitcoin/files/charts/historical.html">Bitcoin Node Count</a></li>
+<li><a href="https://status.torproject.org/issues/2022-06-09-network-ddos/">Ongoing Tor Network DDoS</a></li>
+</ul>
+<h2 id="core">Core</h2>
+<ul>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/23443">Erlay PR Merged</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/26398">PR to loosen relay policy for small transactions</a> <a href="https://bitslog.com/2018/06/09/leaf-node-weakness-in-bitcoin-merkle-tree-design/">Originally created because of leaf-Node weakness in Bitcoin Merkle Tree Design</a></li>
+</ul>
+<h2 id="rbf">RBF</h2>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html">New transaction policies (nVersion=3) for contracting protocols</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html">Muun developers object to full RBF rollout timeline</a> &quot;Even though many of the biggest miners offer off-band transaction broadcasting services, they currently won't process conflicting transactions.&quot;</li>
+<li><a href="https://github.com/glozow/bitcoin-notes/blob/full-rbf/full-rbf.md">Full RBF Summary by Gloria Zhao</a> &quot;Does Core control whether full RBF happens or not?&quot;</li>
+</ul>
+<h2 id="research-and-development">Research and Development</h2>
+<ul>
+<li><a href="https://github.com/judica-org/judica-vm">Judica VM</a>. Why? [It's hard to get started on Bitcoin apps.][https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g163d69ce953_0_130] <a href="https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g163d69ce953_0_135">Ethereum applications are extremely hackathon friendly.</a> <a href="https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g16482b91015_1_199">A note on security.</a></li>
+<li><a href="https://arxiv.org/abs/1212.3257">Pay-to-contract</a></li>
+<li><a href="https://github.com/zerosync/zerosync">ZeroSync instant-sync Bitcoin client</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020985.html">Refreshed BIP324 encrypted transport protocol</a></li>
+<li><a href="https://bitcoinrollups.org">Validity Rollups research by John Light</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020991.html">What has the Taproot Annex ever done for us? TLV format proposal for annex data.</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021000.html">(low impact) MuSig2 vulnerability: It is still true that cryptography is hard, unfortunately.</a></li>
+<li><a href="https://lightning.engineering/posts/2022-9-28-taro-launch/">Taro Alpha Release</a></li>
+<li><a href="https://wallet.build/how-we-design-our-hardware/">Block update on hardware signing device</a> Decision to not include a screen is controversial.</li>
+<li><a href="https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf">NYDIG Bitcoin developer report</a> Some interesting charts on pages 10 and 13.</li>
 </ul>
 <h2 id="grab-bag">Grab Bag</h2>
 <ul>
-<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020980.html">RBF config discussion on dev mailing list</a></li>
-<li><a href="https://github.com/glozow/bitcoin-notes/blob/full-rbf/full-rbf.md">RBF summary by Gloria Zhao</a>
-<ul>
-<li>Does Core control whether full RBF happens or not?</li>
-</ul>
-</li>
-<li><a href="https://bitcoinrollups.org">Validity Rollups research by John Light</a></li>
-<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-September/020937.html">Proposal for new transaction relay policies</a></li>
-<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html">Ephemeral Anchors</a></li>
-<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020985.html">Refreshed BIP324 (encrypted transport protocol)</a></li>
-<li><a href="https://twitter.com/StratumV2/status/1579805619351326722">Stratum V2 reference implementation is published</a></li>
+<li><a href="https://bitcoin.stackexchange.com/questions/115344/why-is-there-a-5-days-gap-between-genesis-and-block-1">Why is there a 5 days gap between genesis and block 1?</a></li>
+<li><a href="https://bitcoin.stackexchange.com/questions/115443/1-of-1-multisig">Who is Crazy1o1?!?! Ongoing user of 1-1 multisig transaction</a></li>
+<li><a href="https://twitter.com/hodlonaut/status/1583086284792205312">HODLONAUT VICTORIOUS</a></li>
 <li><a href="https://www.nobsbitcoin.com/celsius-doxxes-all-users/">Celsius doxxes all users</a></li>
-<li><a href="https://assets-global.website-files.com/614e11536f66309636c98688/63208342664438223226c3de_NYDIG%20-%20Developers%20of%20Bitcoin%202022.pdf">NYDIG Bitcoin developer report</a>
-<ul>
-<li>Some interesting charts on pages 10 &amp; 13</li>
+<li><a href="https://github.com/fedimint/fedimint/pull/600">Fedimint distributed key generation</a></li>
+<li><a href="https://whentaproot.org/">ser wen taproot</a></li>
 </ul>
-</li>
-<li><a href="https://lightning.engineering/posts/2022-9-28-taro-launch/">Taro Alpha Release</a></li>
+<h2 id="mining">Mining</h2>
+<ul>
+<li><a href="https://twitter.com/StratumV2/status/1579805619351326722">Stratum V2 reference implementation is published</a></li>
 <li><a href="https://bitcoinmagazine.com/business/public-miner-capitulation-takes-and-core-scientific">Trouble for public Bitcoin miners</a></li>
-<li><a href="https://wallet.build/how-we-design-our-hardware/">Block update on hardware signing device</a>
-<ul>
-<li>Decision to not include a screen is controversial</li>
-</ul>
-</li>
-</ul>
-<h2 id="meetup-com-suggestions">Meetup.com Suggestions</h2>
-<ul>
-<li><a href="https://urbit.org/grants/volt-lightning-on-urbit">Original LN grant proposal (apparently mostly complete, but not released)</a></li>
-<li><a href="https://urbit.org/grants/lightning-development">Continuing LN development grant, beginning with submarine swaps</a></li>
 </ul>
 <h2 id="lightning">Lightning</h2>
 <ul>
 <li><a href="https://twitter.com/brqgoo/status/1579216353780957185">BTCD and LND impacted by block parsing bug</a></li>
 <li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-October/003707.html">Watchtower-free Lightning channels for casual users</a></li>
+<li><a href="https://twitter.com/sphinx_chat/status/1571974701098074112">VLSProject Lightning Cutie</a></li>
+<li><a href="https://www.nakamoto.codes/BitcoinDevShop/LNsploit">LNsploit</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021036.html">Ephemeral Anchors</a></li>
+<li><a href="https://urbit.org/grants/volt-lightning-on-urbit">Original LN grant proposal (apparently mostly complete, but not released)</a></li>
+<li><a href="https://urbit.org/grants/lightning-development">Continuing LN development grant, beginning with submarine swaps</a></li>
+</ul>
+<h2 id="ordinals">Ordinals</h2>
+<ul>
+<li><a href="https://twitter.com/rodarmor/status/1583585567710662656"><code>ord wallet send</code></a></li>
+<li><a href="https://docs.ordinals.com/bounty/3.html">Ordinal Bounty 3</a></li>
 </ul>
 
 
