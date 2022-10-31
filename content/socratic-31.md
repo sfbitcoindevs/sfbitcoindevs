@@ -37,7 +37,7 @@ RBF
 Research and Development
 ------------------------
 
-- [Judica VM](https://github.com/judica-org/judica-vm). Why? [It's hard to get started on Bitcoin apps.)[https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g163d69ce953_0_130] [Ethereum applications are extremely hackathon friendly.](https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g163d69ce953_0_135) [A note on security.](https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g16482b91015_1_199)
+- [Judica VM](https://github.com/judica-org/judica-vm). Why? [It's hard to get started on Bitcoin apps.][https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g163d69ce953_0_130] [Ethereum applications are extremely hackathon friendly.](https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g163d69ce953_0_135) [A note on security.](https://docs.google.com/presentation/d/1WmyfpLC1lC3F0uhfi5oONszsMCPqNMstQHUpRzsO45g/edit#slide=id.g16482b91015_1_199)
 - [Pay-to-contract](https://arxiv.org/abs/1212.3257)
 - [ZeroSync instant-sync Bitcoin client](https://github.com/zerosync/zerosync)
 - [Refreshed BIP324 encrypted transport protocol](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/020985.html)
