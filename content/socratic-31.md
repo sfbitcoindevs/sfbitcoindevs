@@ -78,5 +78,5 @@ Lightning
 Ordinals
 --------
 
-- [Ordinal Bounty 3](https://docs.ordinals.com/bounty/3.html)
 - [`ord wallet send`](https://twitter.com/rodarmor/status/1583585567710662656)
+- [Ordinal Bounty 3](https://docs.ordinals.com/bounty/3.html)
