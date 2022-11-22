@@ -20,9 +20,24 @@ Chain Weather Report
 
 - [Lightning Network Capacity](https://bitcoinvisuals.com/ln-capacity) Over 5000 BTC in lightning channels.
 - [Fees](https://transactionfee.info/charts/fees-package-feerates/)
-- [Bitcoin Node Count](https://luke.dashjr.org/programs/bitcoin/files/charts/historical.html)
+- [Recent mempool spike (Binance consolidates legacy UTXOs to segwit addresses)](https://www.bitcoin-mempool.info/#BTC,1y,weight)
+- [Wallets with >1 BTC balance approaching 1 million](https://www.lookintobitcoin.com/charts/wallets-greater-than-1-btc/)
 
 RBF
 ---
-
 - [Sergej Kotliar of Bitrefill on practical issues with full RBF](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021056.html)
+
+Ordinals
+--------
+- [Ordinals Bounty #3](https://docs.ordinals.com/bounty/3.html)
+
+Misc
+----
+- [From Miniscript to Simplicity](https://blog.blockstream.com/from-miniscript-to-simplicity/)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
