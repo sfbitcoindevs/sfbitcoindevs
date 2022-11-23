@@ -17,12 +17,29 @@ Housekeeping
 
 Chain Weather Report
 --------------------
-
 - [Lightning Network Capacity](https://bitcoinvisuals.com/ln-capacity) Over 5000 BTC in lightning channels.
 - [Fees](https://transactionfee.info/charts/fees-package-feerates/)
-- [Bitcoin Node Count](https://luke.dashjr.org/programs/bitcoin/files/charts/historical.html)
+- [Recent mempool spike](https://www.bitcoin-mempool.info/#BTC,1y,weight)
+  - Binance consolidates legacy UTXOs to segwit addresses?
+- [Wallets with >1 BTC balance](https://www.lookintobitcoin.com/charts/wallets-greater-than-1-btc/)
+  -  Approaching 1 million unique wallets (recent increase driven by exchange outflows post-FTX collapse?)
+- [Brian Armstrong reveals that Coinbase holds ~2M BTC on behalf of customers](https://twitter.com/brian_armstrong/status/1595126123439923200?s=20&t=CiKYJqsES4eiScqZdsiFuw)
 
 RBF
 ---
-
 - [Sergej Kotliar of Bitrefill on practical issues with full RBF](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021056.html)
+
+Ordinals
+--------
+- [Ordinals Bounty #3](https://docs.ordinals.com/bounty/3.html)
+
+Misc
+----
+- [Merkelize All The Things (covenant proposal)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021182.html)
+  - [Accompanying website](https://merkle.fun)
+- [From Miniscript to Simplicity](https://blog.blockstream.com/from-miniscript-to-simplicity/)
+
+Conference Recordings
+---------------------
+- [Pacific Bitcoin 2022 - Recordings](https://www.youtube.com/watch?v=h7YAWhvFY9Y&list=PLoB1eZWSVHVaCfQJ_Suq9gBw0fCyUKELP)
+- [Adopting Bitcoin 2022 - Recordings](https://www.youtube.com/@adoptingbitcoin/videos)
