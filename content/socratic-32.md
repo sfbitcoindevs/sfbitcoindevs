@@ -23,11 +23,15 @@ Chain Weather Report
   - Binance consolidates legacy UTXOs to segwit addresses?
 - [Wallets with >1 BTC balance](https://www.lookintobitcoin.com/charts/wallets-greater-than-1-btc/)
   -  Approaching 1 million unique wallets (recent increase driven by exchange outflows post-FTX collapse?)
-- [Brian Armstrong reveals that Coinbase holds ~2M BTC on behalf of customers](https://twitter.com/brian_armstrong/status/1595126123439923200?s=20&t=CiKYJqsES4eiScqZdsiFuw)
 
 RBF
 ---
 - [Sergej Kotliar of Bitrefill on practical issues with full RBF](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021056.html)
+
+Lightning
+--------
+- [Proportion of Lightning node implementations](https://stacker.news/items/97320)
+- [Full lightning node in a mobile browser using LDK + WASM](https://twitter.com/benthecarman/status/1595395624010190850?s=46&t=PGN3o7U19B-QRVYkcgTj9w)
 
 Ordinals
 --------
@@ -35,9 +39,11 @@ Ordinals
 
 Misc
 ----
+- [Bitcoin Core v24.0 is officially released](https://github.com/bitcoin/bitcoin/releases/tag/v24.0)
 - [Merkelize All The Things (covenant proposal)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021182.html)
   - [Accompanying website](https://merkle.fun)
 - [From Miniscript to Simplicity](https://blog.blockstream.com/from-miniscript-to-simplicity/)
+- [Brian Armstrong reveals that Coinbase holds ~2M BTC on behalf of customers](https://twitter.com/brian_armstrong/status/1595126123439923200?s=20&t=CiKYJqsES4eiScqZdsiFuw)
 
 Conference Recordings
 ---------------------
