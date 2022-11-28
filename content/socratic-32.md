@@ -1,7 +1,6 @@
 +++
 title = "Socratic Seminar 32"
 date = 2022-11-28
-draft = true
 +++
 
 Housekeeping
