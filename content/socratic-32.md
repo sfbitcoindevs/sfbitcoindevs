@@ -77,9 +77,20 @@ https://blog.bitmex.com/bitcoin-sv-hardfork-significant-security-risks/
 From Miniscript to Simplicity: Comparison of miniscript to simplicity
 https://blog.blockstream.com/from-miniscript-to-simplicity/
 
+LMAAAOO LIGHTNING IN BROWSER GET FUCKED
+https://reckless.mutinywallet.com/
+
+Draft PR opened by ddustin: splicing: Adds the features needed to enable collaborative splicing & resizing of active channels. #5675
+https://github.com/ElementsProject/lightning/pull/5675
+
+Merged: wallet: fast rescan with BIP157 block filters for descriptor wallets #25957
+https://github.com/bitcoin/bitcoin/pull/25957
+
+Bitcoin Core 24.0
+- mempoolfullrbf option
+- sendall for draining yer wallet
+- -walletrbf startup option will now default to true
+https://github.com/bitcoin/bitcoin/releases/tag/v24.0
+
 - Bitcoin Optech - https://bitcoinops.org/en/publications/
 - bitcoin-dev - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
-- Bitcoin PR Review Club - https://bitcoincore.reviews/
-- Triangle BitDevs - https://trianglebitdevs.org/
-- BitDevs NYC - https://bitdevs.org/
-- Austin BitDevs - https://austinbitdevs.com/
