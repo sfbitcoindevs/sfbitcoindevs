@@ -49,3 +49,37 @@ Conference Recordings
 ---------------------
 - [Pacific Bitcoin 2022 - Recordings](https://www.youtube.com/watch?v=h7YAWhvFY9Y&list=PLoB1eZWSVHVaCfQJ_Suq9gBw0fCyUKELP)
 - [Adopting Bitcoin 2022 - Recordings](https://www.youtube.com/@adoptingbitcoin/videos)
+
+[Lightning-dev] Fat Errors: attributing errors on LN
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-October/003723.html
+
+[Lightning-dev] Unjamming lightning (new research paper)
+Clara Shikhelman and Sergei Tikhomirov
+unconditional (~ upfront) fees and local reputation to fight jamming
+https://podcast.chaincode.com/2022/11/23/clara-sergei-lightning-jamming.html
+https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003740.html
+https://github.com/s-tikhomirov/ln-jamming-simulator/blob/master/unjamming-lightning.pdf
+
+Insane block intervals
+https://twitter.com/murchandamus/status/1595633680340627457
+
+Another massive consolidation
+https://twitter.com/murchandamus/status/1595506413027135509
+Massive consolidation
+https://twitter.com/murchandamus/status/1592274621977477120
+
+BitMEX Research gives up on BSV:
+https://twitter.com/BitMEXResearch/status/1595484019885572096
+
+BSV Coin Seizure Hardfork
+https://blog.bitmex.com/bitcoin-sv-hardfork-significant-security-risks/
+
+From Miniscript to Simplicity: Comparison of miniscript to simplicity
+https://blog.blockstream.com/from-miniscript-to-simplicity/
+
+- Bitcoin Optech - https://bitcoinops.org/en/publications/
+- bitcoin-dev - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
+- Bitcoin PR Review Club - https://bitcoincore.reviews/
+- Triangle BitDevs - https://trianglebitdevs.org/
+- BitDevs NYC - https://bitdevs.org/
+- Austin BitDevs - https://austinbitdevs.com/
