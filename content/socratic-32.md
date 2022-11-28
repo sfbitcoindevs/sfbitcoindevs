@@ -42,6 +42,9 @@ Misc
 - [Bitcoin Core v24.0 is officially released](https://github.com/bitcoin/bitcoin/releases/tag/v24.0)
 - [Merkelize All The Things (covenant proposal)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021182.html)
   - [Accompanying website](https://merkle.fun)
+● General smart contracts in Bitcoin via covenants: Salvatore Ingala posted to the Bitcoin-Dev mailing list a proposal for a new type of covenant (requiring a soft fork) that would allow using merkle trees to create smart contracts that can carry state from one onchain transaction to another. To use an example from Ingala’s post, two users could wager on a game of chess where the contract could hold the rules of the game and the state could hold the positions of all the pieces on the board, with it being possible to update that state by each onchain transaction. Of course, a well-designed contract would allow the game to be played offchain with only the settlement transaction at the end of the game being put onchain (or possibly even then staying offchain if the game was played within another offchain construct, such as a payment channel).
+
+
 - [From Miniscript to Simplicity](https://blog.blockstream.com/from-miniscript-to-simplicity/)
 - [Brian Armstrong reveals that Coinbase holds ~2M BTC on behalf of customers](https://twitter.com/brian_armstrong/status/1595126123439923200?s=20&t=CiKYJqsES4eiScqZdsiFuw)
 
@@ -51,6 +54,9 @@ Conference Recordings
 - [Adopting Bitcoin 2022 - Recordings](https://www.youtube.com/@adoptingbitcoin/videos)
 
 [Lightning-dev] Fat Errors: attributing errors on LN
+> LN payment attempts can end in failure for a variety of reasons, from the ultimate receiver refusing to release the payment preimage to one of the routing nodes temporarily being offline. Information about which nodes caused a payment to fail would be extremely useful to spenders for avoiding those nodes for near-future payments, but the LN protocol today doesn’t provide any authenticated method for routing nodes to communicate that information to a spender.
+> Several years ago, Joost Jager proposed a solution (see Newsletter #51), which he has now updated with improvements and additional details. The mechanism would ensure identification of the pair of nodes between which a payment failed (or between which one of them an earlier failure message was censored or became garbled). The main downside of Jager’s proposal is that it would significantly increase the size of LN onion messages for failures if other LN properties remained the same, although the size of onion messages for failures wouldn’t need to be as large if the maximum number of LN hops was decreased.
+> Alternatively, Rusty Russell suggested that a spender could use a mechanism similar to spontaneous payments where each routing node is paid one sat even if the ultimate payment fails. The spender could then identify which hop the payment failed at by comparing how many satoshis it sent to how many satoshis it received back.
 https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-October/003723.html
 
 [Lightning-dev] Unjamming lightning (new research paper)
@@ -89,10 +95,27 @@ https://github.com/bitcoin/bitcoin/pull/25957
 [bitcoin-dev] new MuSig2 BIP
 https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021159.html
 
+burak at it again
+https://twitter.com/brqgoo/status/1587397646125260802
+
+sdaftuar opens and closes pr, much ink is spilled
+https://bitcoinops.org/en/newsletters/2022/11/09/
+https://github.com/bitcoin/bitcoin/pull/26438
+
+fav comment
+https://github.com/bitcoin/bitcoin/pull/26438#issuecomment-1302477335
+
+on not adding mempoolfullrbf
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021135.html
+
 Bitcoin Core 24.0
 - mempoolfullrbf option
 - sendall for draining yer wallet
 - -walletrbf startup option will now default to true
 https://github.com/bitcoin/bitcoin/releases/tag/v24.0
 
-- Bitcoin Optech - https://bitcoinops.org/en/publications/
+Replace-By-Fee (RBF)-enabled transaction cancellation
+https://github.com/sparrowwallet/sparrow/releases/tag/1.7.0
+
+https://bitcoin.stackexchange.com/questions/115960/how-were-p2pk-transactions-made/115962#115962
+● What software was used to make P2PK transactions? Pieter Wuille notes that P2PK outputs were created using the original Bitcoin software in coinbase transactions as well as when sending using pay-to-IP address.
