@@ -86,6 +86,9 @@ https://github.com/ElementsProject/lightning/pull/5675
 Merged: wallet: fast rescan with BIP157 block filters for descriptor wallets #25957
 https://github.com/bitcoin/bitcoin/pull/25957
 
+[bitcoin-dev] new MuSig2 BIP
+https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021159.html
+
 Bitcoin Core 24.0
 - mempoolfullrbf option
 - sendall for draining yer wallet
@@ -93,4 +96,3 @@ Bitcoin Core 24.0
 https://github.com/bitcoin/bitcoin/releases/tag/v24.0
 
 - Bitcoin Optech - https://bitcoinops.org/en/publications/
-- bitcoin-dev - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
