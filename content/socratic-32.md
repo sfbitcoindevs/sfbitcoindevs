@@ -17,10 +17,10 @@ Housekeeping
 
 Chain Weather Report
 --------------------
-- [Lightning Network Capacity](https://bitcoinvisuals.com/ln-capacity) Over 5000 BTC in lightning channels.
-- [Fees](https://transactionfee.info/charts/fees-package-feerates/)
-- [Recent mempool spike](https://www.bitcoin-mempool.info/#BTC,1y,weight)
+
+- [Recent mempool spike](https://www.bitcoin-mempool.info/#BTC,30d,weight)
   - Binance consolidates legacy UTXOs to segwit addresses?
+- [Fees](https://transactionfee.info/charts/fees-package-feerates/)
 - [Wallets with >1 BTC balance](https://www.lookintobitcoin.com/charts/wallets-greater-than-1-btc/)
   -  Approaching 1 million unique wallets (recent increase driven by exchange outflows post-FTX collapse?)
 
