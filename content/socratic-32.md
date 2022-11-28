@@ -33,6 +33,15 @@ Chain Weather Report
   - Recent increase driven by exchange outflows post-FTX collapse?
 - [Exchange outflows](https://twitter.com/glassnode/status/1591943265296998400)
 
+Research and Development
+------------------------
+
+- [Merkelize All The Things (covenant proposal)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021182.html)
+  - [Accompanying website](https://merkle.fun)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/11/16/#general-smart-contracts-in-bitcoin-via-covenants)
+- [From Miniscript to Simplicity](https://blog.blockstream.com/from-miniscript-to-simplicity/)
+- [new MuSig2 BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021159.html)
+
 RBF
 ---
 
@@ -58,23 +67,17 @@ Lightning
 - [Overview of Observed Lightning node implementations](https://stacker.news/items/97320)
 - [Lightning Wallet w/node in a mobile browser using LDK + WASM](https://twitter.com/benthecarman/status/1595395624010190850?s=46&t=PGN3o7U19B-QRVYkcgTj9w). [It's Mutiny wallet.](https://reckless.mutinywallet.com/).
 - [Burak at it again. Exploits subtle between max stack size rule an OP_SUCCESS to hose btcd](https://twitter.com/brqgoo/status/1587397646125260802)
-
-Ordinals
---------
-- [Ordinals Bounty #3](https://docs.ordinals.com/bounty/3.html)
-
-Research and Development
-------------------------
-
-- [Merkelize All The Things (covenant proposal)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021182.html)
-  - [Accompanying website](https://merkle.fun)
-  - [Optech](https://bitcoinops.org/en/newsletters/2022/11/16/#general-smart-contracts-in-bitcoin-via-covenants)
-- [From Miniscript to Simplicity](https://blog.blockstream.com/from-miniscript-to-simplicity/)
-- [new MuSig2 BIP](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021159.html)
+- [Draft PR by Dustin implementing splicing in Core Lightning](https://github.com/ElementsProject/lightning/pull/5675)
+- [Fat errors: attributing errors on LN](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-October/003723.html)
+  - [optech](https://bitcoinops.org/en/newsletters/2022/11/02/#ln-routing-failure-attribution)
+- [Unjamming lightning by Clara Shikhelman and Sergei Tikhomirov: unconditional upfront fees and local reputation to fight jamming](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003740.html)
+  - [pdf](https://github.com/s-tikhomirov/ln-jamming-simulator/blob/master/unjamming-lightning.pdf)
+  - [on the chaincode podcast](https://podcast.chaincode.com/2022/11/23/clara-sergei-lightning-jamming.html)
 
 Misc
 ----
 
+- [Ordinals Bounty #3](https://docs.ordinals.com/bounty/3.html)
 - [Sparrow wallet 1.7.0 released](https://github.com/sparrowwallet/sparrow/releases/tag/1.7.0)
   - Replace-By-Fee-enabled transaction cancellation
 - [Brian Armstrong reveals that Coinbase holds ~2M BTC on behalf of customers](https://twitter.com/brian_armstrong/status/1595126123439923200?s=20&t=CiKYJqsES4eiScqZdsiFuw)
@@ -82,13 +85,3 @@ Misc
 - [BitMEX Research gives up on ever syncing BSV](https://twitter.com/BitMEXResearch/status/1595484019885572096)
 - [BSV adds coin seizure feature](https://blog.bitmex.com/bitcoin-sv-hardfork-significant-security-risks/)
 - [How were PSPK outputs created? Apparently coinbase and pay-to-IP.](https://bitcoin.stackexchange.com/questions/115960/how-were-p2pk-transactions-made/115962#115962)
-
-Lightning
----------
-
-- [Draft PR by Dustin implementing splicing in Core Lightning](https://github.com/ElementsProject/lightning/pull/5675)
-- [Fat errors: attributing errors on LN](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-October/003723.html)
-  - [optech](https://bitcoinops.org/en/newsletters/2022/11/02/#ln-routing-failure-attribution)
-- [Unjamming lightning by Clara Shikhelman and Sergei Tikhomirov: unconditional upfront fees and local reputation to fight jamming](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003740.html)
-  - [pdf](https://github.com/s-tikhomirov/ln-jamming-simulator/blob/master/unjamming-lightning.pdf)
-  - [on the chaincode podcast](https://podcast.chaincode.com/2022/11/23/clara-sergei-lightning-jamming.html)
