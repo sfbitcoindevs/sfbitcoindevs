@@ -4,8 +4,121 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2022-10-31T00:00:00+00:00</updated>
+	<updated>2022-11-28T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 32</title>
+		<published>2022-11-28T00:00:00+00:00</published>
+		<updated>2022-11-28T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-32/" type="text/html"/>
+		<id>https://www.sfbitcoindevs.org/socratic-32/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers October 30th to November 28th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;conference-recordings&quot;&gt;Conference Recordings&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=h7YAWhvFY9Y&amp;amp;list=PLoB1eZWSVHVaCfQJ_Suq9gBw0fCyUKELP&quot;&gt;Pacific Bitcoin 2022 - Recordings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;@adoptingbitcoin&#x2F;videos&quot;&gt;Adopting Bitcoin 2022 - Recordings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Binance consolidating legacy UTXOs to segwit addresses?&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;murchandamus&#x2F;status&#x2F;1592274621977477120&quot;&gt;11&#x2F;14 consolidation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;murchandamus&#x2F;status&#x2F;1595506413027135509&quot;&gt;11&#x2F;23 consolidation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;transactionfee.info&#x2F;charts&#x2F;fees-package-feerates&#x2F;&quot;&gt;Fees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.lookintobitcoin.com&#x2F;charts&#x2F;wallets-greater-than-1-btc&#x2F;&quot;&gt;Wallets with &amp;gt;1 BTC balance&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Approaching 1 million unique wallets&lt;&#x2F;li&gt;
+&lt;li&gt;Recent increase driven by exchange outflows post-FTX collapse?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;glassnode&#x2F;status&#x2F;1591943265296998400&quot;&gt;Exchange outflows&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;rbf&quot;&gt;RBF&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-October&#x2F;021056.html&quot;&gt;Sergej Kotliar of Bitrefill on practical issues with full RBF&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-October&#x2F;021135.html&quot;&gt;Suhas Daftuar on bitcoin-dev contra -mempoolfullrbf.&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;26438&quot;&gt;Opening&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;26438#issuecomment-1307715677&quot;&gt;closing&lt;&#x2F;a&gt; a PR to remove -mempoolfullrbf. Much ink is spilled. &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;26438#issuecomment-1302477335&quot;&gt;Best comment&lt;&#x2F;a&gt;, given a blank slate, we might prefer a mempool policy that refuses to relay transactions with unconfirmed inputs entirely, and relax it on a case-by-case basis, instead of the free-for-all we have now.&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;blob&#x2F;master&#x2F;doc&#x2F;release-notes&#x2F;release-notes-24.0.md&quot;&gt;Bitcoin Core 24.0 released&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;-mempoolfullrbf&lt;&#x2F;code&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;code&gt;sendall&lt;&#x2F;code&gt; command added to drain wallet&lt;&#x2F;li&gt;
+&lt;li&gt;Somewhat terrifying &lt;code&gt;migratewallet&lt;&#x2F;code&gt; command to convert legacy wallets to descriptor wallets. Many caveats!&lt;&#x2F;li&gt;
+&lt;li&gt;RBF in wallet and RPC calls is now opt-out.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;25957&quot;&gt;Merged: fast wallet rescan with BIP157 block filters for descriptor wallets&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stacker.news&#x2F;items&#x2F;97320&quot;&gt;Overview of Observed Lightning node implementations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;benthecarman&#x2F;status&#x2F;1595395624010190850?s=46&amp;amp;t=PGN3o7U19B-QRVYkcgTj9w&quot;&gt;Lightning Wallet w&#x2F;node in a mobile browser using LDK + WASM&lt;&#x2F;a&gt;. &lt;a href=&quot;https:&#x2F;&#x2F;reckless.mutinywallet.com&#x2F;&quot;&gt;It&#x27;s Mutiny wallet.&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;brqgoo&#x2F;status&#x2F;1587397646125260802&quot;&gt;Burak at it again. Exploits subtle between max stack size rule an OP_SUCCESS to hose btcd&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;ordinals&quot;&gt;Ordinals&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.ordinals.com&#x2F;bounty&#x2F;3.html&quot;&gt;Ordinals Bounty #3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;research-and-development&quot;&gt;Research and Development&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-November&#x2F;021182.html&quot;&gt;Merkelize All The Things (covenant proposal)&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;merkle.fun&quot;&gt;Accompanying website&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2022&#x2F;11&#x2F;16&#x2F;#general-smart-contracts-in-bitcoin-via-covenants&quot;&gt;Optech&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;from-miniscript-to-simplicity&#x2F;&quot;&gt;From Miniscript to Simplicity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-November&#x2F;021159.html&quot;&gt;new MuSig2 BIP&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;misc&quot;&gt;Misc&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sparrowwallet&#x2F;sparrow&#x2F;releases&#x2F;tag&#x2F;1.7.0&quot;&gt;Sparrow wallet 1.7.0 released&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Replace-By-Fee-enabled transaction cancellation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;brian_armstrong&#x2F;status&#x2F;1595126123439923200?s=20&amp;amp;t=CiKYJqsES4eiScqZdsiFuw&quot;&gt;Brian Armstrong reveals that Coinbase holds ~2M BTC on behalf of customers&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;murchandamus&#x2F;status&#x2F;1595633680340627457&quot;&gt;Insane block intervals&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;BitMEXResearch&#x2F;status&#x2F;1595484019885572096&quot;&gt;BitMEX Research gives up on ever syncing BSV&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;bitcoin-sv-hardfork-significant-security-risks&#x2F;&quot;&gt;BSV adds coin seizure feature&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;115960&#x2F;how-were-p2pk-transactions-made&#x2F;115962#115962&quot;&gt;How were PSPK outputs created? Apparently coinbase and pay-to-IP.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;lightning-1&quot;&gt;Lightning&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;pull&#x2F;5675&quot;&gt;Draft PR by Dustin implementing splicing in Core Lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-October&#x2F;003723.html&quot;&gt;Fat errors: attributing errors on LN&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2022&#x2F;11&#x2F;02&#x2F;#ln-routing-failure-attribution&quot;&gt;optech&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-November&#x2F;003740.html&quot;&gt;Unjamming lightning by Clara Shikhelman and Sergei Tikhomirov: unconditional upfront fees and local reputation to fight jamming&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;s-tikhomirov&#x2F;ln-jamming-simulator&#x2F;blob&#x2F;master&#x2F;unjamming-lightning.pdf&quot;&gt;pdf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;podcast.chaincode.com&#x2F;2022&#x2F;11&#x2F;23&#x2F;clara-sergei-lightning-jamming.html&quot;&gt;on the chaincode podcast&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 31</title>
 		<published>2022-10-31T00:00:00+00:00</published>

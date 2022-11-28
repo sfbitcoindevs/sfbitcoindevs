@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Bitcoin Devs | Socratic Seminar 32
+    </title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Bitcoin Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <header>
+      <a href="/">SF Bitcoin Devs</a>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/">Meetup</a>
+        <a href="https://twitter.com/sfbitcoindevs">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sfbitcoindevs">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 32</h1>
+<p><strong>2022-11-28</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a href="https://dg717.com/">Digital Garage</a> and <a href="https://bitrefill.com/">Bitrefill</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers October 30th to November 28th.</li>
+</ul>
+<h2 id="conference-recordings">Conference Recordings</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=h7YAWhvFY9Y&amp;list=PLoB1eZWSVHVaCfQJ_Suq9gBw0fCyUKELP">Pacific Bitcoin 2022 - Recordings</a></li>
+<li><a href="https://www.youtube.com/@adoptingbitcoin/videos">Adopting Bitcoin 2022 - Recordings</a></li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a href="https://www.bitcoin-mempool.info/#BTC,30d,weight">Mempool</a>
+<ul>
+<li>Binance consolidating legacy UTXOs to segwit addresses?</li>
+<li><a href="https://twitter.com/murchandamus/status/1592274621977477120">11/14 consolidation</a></li>
+<li><a href="https://twitter.com/murchandamus/status/1595506413027135509">11/23 consolidation</a></li>
+</ul>
+</li>
+<li><a href="https://transactionfee.info/charts/fees-package-feerates/">Fees</a></li>
+<li><a href="https://www.lookintobitcoin.com/charts/wallets-greater-than-1-btc/">Wallets with &gt;1 BTC balance</a>
+<ul>
+<li>Approaching 1 million unique wallets</li>
+<li>Recent increase driven by exchange outflows post-FTX collapse?</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/glassnode/status/1591943265296998400">Exchange outflows</a></li>
+</ul>
+<h2 id="rbf">RBF</h2>
+<ul>
+<li>
+<p><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021056.html">Sergej Kotliar of Bitrefill on practical issues with full RBF</a></p>
+</li>
+<li>
+<p><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021135.html">Suhas Daftuar on bitcoin-dev contra -mempoolfullrbf.</a> <a href="https://github.com/bitcoin/bitcoin/pull/26438">Opening</a> and <a href="https://github.com/bitcoin/bitcoin/pull/26438#issuecomment-1307715677">closing</a> a PR to remove -mempoolfullrbf. Much ink is spilled. <a href="https://github.com/bitcoin/bitcoin/pull/26438#issuecomment-1302477335">Best comment</a>, given a blank slate, we might prefer a mempool policy that refuses to relay transactions with unconfirmed inputs entirely, and relax it on a case-by-case basis, instead of the free-for-all we have now.</p>
+</li>
+</ul>
+<h2 id="bitcoin-core">Bitcoin Core</h2>
+<ul>
+<li>
+<p><a href="https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-24.0.md">Bitcoin Core 24.0 released</a>.</p>
+<ul>
+<li><code>-mempoolfullrbf</code></li>
+<li><code>sendall</code> command added to drain wallet</li>
+<li>Somewhat terrifying <code>migratewallet</code> command to convert legacy wallets to descriptor wallets. Many caveats!</li>
+<li>RBF in wallet and RPC calls is now opt-out.</li>
+</ul>
+</li>
+<li>
+<p><a href="https://github.com/bitcoin/bitcoin/pull/25957">Merged: fast wallet rescan with BIP157 block filters for descriptor wallets</a></p>
+</li>
+</ul>
+<h2 id="lightning">Lightning</h2>
+<ul>
+<li><a href="https://stacker.news/items/97320">Overview of Observed Lightning node implementations</a></li>
+<li><a href="https://twitter.com/benthecarman/status/1595395624010190850?s=46&amp;t=PGN3o7U19B-QRVYkcgTj9w">Lightning Wallet w/node in a mobile browser using LDK + WASM</a>. <a href="https://reckless.mutinywallet.com/">It's Mutiny wallet.</a>.</li>
+<li><a href="https://twitter.com/brqgoo/status/1587397646125260802">Burak at it again. Exploits subtle between max stack size rule an OP_SUCCESS to hose btcd</a></li>
+</ul>
+<h2 id="ordinals">Ordinals</h2>
+<ul>
+<li><a href="https://docs.ordinals.com/bounty/3.html">Ordinals Bounty #3</a></li>
+</ul>
+<h2 id="research-and-development">Research and Development</h2>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021182.html">Merkelize All The Things (covenant proposal)</a>
+<ul>
+<li><a href="https://merkle.fun">Accompanying website</a></li>
+<li><a href="https://bitcoinops.org/en/newsletters/2022/11/16/#general-smart-contracts-in-bitcoin-via-covenants">Optech</a></li>
+</ul>
+</li>
+<li><a href="https://blog.blockstream.com/from-miniscript-to-simplicity/">From Miniscript to Simplicity</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021159.html">new MuSig2 BIP</a></li>
+</ul>
+<h2 id="misc">Misc</h2>
+<ul>
+<li><a href="https://github.com/sparrowwallet/sparrow/releases/tag/1.7.0">Sparrow wallet 1.7.0 released</a>
+<ul>
+<li>Replace-By-Fee-enabled transaction cancellation</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/brian_armstrong/status/1595126123439923200?s=20&amp;t=CiKYJqsES4eiScqZdsiFuw">Brian Armstrong reveals that Coinbase holds ~2M BTC on behalf of customers</a></li>
+<li><a href="https://twitter.com/murchandamus/status/1595633680340627457">Insane block intervals</a></li>
+<li><a href="https://twitter.com/BitMEXResearch/status/1595484019885572096">BitMEX Research gives up on ever syncing BSV</a></li>
+<li><a href="https://blog.bitmex.com/bitcoin-sv-hardfork-significant-security-risks/">BSV adds coin seizure feature</a></li>
+<li><a href="https://bitcoin.stackexchange.com/questions/115960/how-were-p2pk-transactions-made/115962#115962">How were PSPK outputs created? Apparently coinbase and pay-to-IP.</a></li>
+</ul>
+<h2 id="lightning-1">Lightning</h2>
+<ul>
+<li><a href="https://github.com/ElementsProject/lightning/pull/5675">Draft PR by Dustin implementing splicing in Core Lightning</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-October/003723.html">Fat errors: attributing errors on LN</a>
+<ul>
+<li><a href="https://bitcoinops.org/en/newsletters/2022/11/02/#ln-routing-failure-attribution">optech</a></li>
+</ul>
+</li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003740.html">Unjamming lightning by Clara Shikhelman and Sergei Tikhomirov: unconditional upfront fees and local reputation to fight jamming</a>
+<ul>
+<li><a href="https://github.com/s-tikhomirov/ln-jamming-simulator/blob/master/unjamming-lightning.pdf">pdf</a></li>
+<li><a href="https://podcast.chaincode.com/2022/11/23/clara-sergei-lightning-jamming.html">on the chaincode podcast</a></li>
+</ul>
+</li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+        Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a> and
+        <a href="https://www.bitrefill.com/">Bitrefill</a>
+      </span>
+    </footer>
+  </body>
+</html>
