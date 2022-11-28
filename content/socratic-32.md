@@ -24,6 +24,9 @@ Chain Weather Report
 - [Wallets with >1 BTC balance](https://www.lookintobitcoin.com/charts/wallets-greater-than-1-btc/)
   -  Approaching 1 million unique wallets (recent increase driven by exchange outflows post-FTX collapse?)
 
+- Exchange outflows:
+  https://twitter.com/glassnode/status/1591943265296998400
+
 RBF
 ---
 - [Sergej Kotliar of Bitrefill on practical issues with full RBF](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-October/021056.html)
