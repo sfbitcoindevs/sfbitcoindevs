@@ -39,7 +39,6 @@ Bitcoin Core
 - [Proposal for a Bitcoin implementation with Core Lightning](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021343.html)
 - [Full-RBF Peering Bitcoin Core v24.0.1 Released](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021270.html)
   - [At least 17% of v24.x listening nodes are running full-rbf](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021296.html)
-- []()
 - [Ephemeral Anchors implementation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021222.html)
 
 
