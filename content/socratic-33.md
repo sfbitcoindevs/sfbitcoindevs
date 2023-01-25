@@ -14,7 +14,6 @@ Housekeeping
 - Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.
 - The reading list covers November 28th to January 30th.
 
-
 Chain Weather Report
 --------------------
 
