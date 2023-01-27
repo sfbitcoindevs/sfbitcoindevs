@@ -4,6 +4,28 @@ date = 2023-01-30
 draft = true
 +++
 
+- bitcoin-dev - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
+- lightning-dev - https://lists.linuxfoundation.org/pipermail/lightning-dev/
+- Murch's Twitter - https://twitter.com/murchandamus
+- Bitcoin PR Review Club - https://bitcoincore.reviews/
+- BitMEX Research - https://blog.bitmex.com/research/
+- Blockstream Blog - https://blog.blockstream.com/
+- Triangle BitDevs - https://trianglebitdevs.org/
+- BitDevs NYC - https://bitdevs.org/
+- Austin BitDevs - https://austinbitdevs.com/
+
+- [Antoine Riard: Mitigating Channel Jamming with Reputation Credentials: a Protocol Sketch](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003754.html)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/11/30/#reputation-credentials-proposal-to-mitigate-ln-jamming-attacks)
+
+- [Accept feerate increases even if they aren't high enough for us](https://github.com/lightningdevkit/rust-lightning/pull/1852)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/11/30/#ldk-1852)
+
+- [Greg Sanders: ephemeral anchors implementation in Bitcoin Core](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021222.html)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
+
+- [PR Review Club: Bump unconfirmed ancestor transactions to target feerate](https://bitcoincore.reviews/26152)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/12/07/#bitcoin-core-pr-review-club)
+
 Housekeeping
 ------------
 
