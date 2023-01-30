@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Bitcoin Devs | Socratic Seminar 33
+    </title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Bitcoin Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+    <header>
+      <a href="/">SF Bitcoin Devs</a>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/">Meetup</a>
+        <a href="https://twitter.com/sfbitcoindevs">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sfbitcoindevs">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 33</h1>
+<p><strong>2023-01-30</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a href="https://dg717.com/">Digital Garage</a> and <a href="https://bitrefill.com/">Bitrefill</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers November 28th to January 30th.</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a href="https://www.bitcoin-mempool.info/#BTC,30d,weight">Mempool</a></li>
+<li><a href="https://transactionfee.info/charts/fees-package-feerates/">Fees</a></li>
+</ul>
+<h2 id="news-and-announcements">News and Announcements</h2>
+<ul>
+<li><a href="https://binarywatch.org/">BinaryWatch.org - Coinkite's Checksum Checker</a></li>
+<li><a href="https://bitcoinops.org/en/newsletters/2023/01/18/#ledger-supports-miniscript">Ledger Supports Miniscript</a></li>
+<li><a href="https://blog.kraken.com/post/16740/bitcoin-taproot-address-now-supported-on-kraken/">Bitcoin Taproot address now supported on Kraken</a></li>
+<li><a href="https://wizardsardine.com/blog/liana-announcement/">Liana Wallet</a></li>
+<li><a href="https://bitcoinops.org/en/newsletters/2023/01/18/#liana-wallet-released">Optech</a></li>
+<li><a href="https://twitter.com/LukeDashjr/status/1609613748364509184">Luke Jr. was hacked &amp; PGP key compromised. Don't download/trust Bitcoin Knots.</a></li>
+<li><a href="https://bitcoinops.org/en/newsletters/2023/01/04/#bitcoin-knots-signing-key-compromised">Bitcoin Knots signing key compromised</a></li>
+</ul>
+<h2 id="research-and-development">Research and Development</h2>
+<ul>
+<li><a href="https://jameso.be/vaults.pdf">OP_VAULT Proposal</a>
+<ul>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/26857">Draft Implementation</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021318.html">Mailing list discussion</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021339.html">Using OP_VAULT to improve DLCs</a></li>
+<li><a href="https://bitcoinops.org/en/newsletters/2023/01/18/#proposal-for-new-vault-specific-opcodes">Optech</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/bitcoin/bips/issues/1378">BIP324: v2 P2P Transport Protocol merged</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021334.html">SIGHASH_GROUP vs Ephemeral anchors</a>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-July/019243.html">SIGHASH_GROUP proposal</a></li>
+<li><a href="https://bitcoinops.org/en/newsletters/2023/01/25/#ephemeral-anchors-compared-to-sighash-group">Optech</a></li>
+</ul>
+</li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021275.html">bitcoin-inquistion 23.0: evaluating soft forks on signet</a></li>
+<li><a href="https://github.com/straylight-orbit/whirlpool-client-rs">Samourai Whirlpool Client Rust Crate</a></li>
+</ul>
+<h2 id="bitcoin-core">Bitcoin Core</h2>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021222.html">Ephemeral anchors implementation in Bitcoin Core</a>
+<ul>
+<li><a href="https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation">Optech</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/26265">POLICY: Relax MIN_STANDARD_TX_NONWITNESS_SIZE to 65 non-witness bytes</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/21576">rpc, gui: bumpfee signer support</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/24865">rpc: Enable wallet import on pruned nodes and add test</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/19762">rpc: Allow named and positional arguments to be used together</a></li>
+</ul>
+<h2 id="rbf">RBF</h2>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021270.html">Full-RBF Peering Bitcoin Core v24.0.1 Released</a>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021296.html">At least 17% of v24.x listening nodes are running full-rbf</a> <em>This data is also an underestimate: I'm only measuring successful propagation.</em></li>
+</ul>
+</li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021258.html">RBF Replacement Monitor</a>
+<ul>
+<li><a href="https://fullrbf.mempool.observer/">link</a></li>
+</ul>
+</li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021276.html">miners who have made a long-term capital investment in mining equipment might instead prefer to optimize fee income over multiple blocks</a> <em>It's also possible that owners of ASICs or pool operators will decide that they're in this for the long term, and therefore that it's smarter to look at fee income over multiple blocks, rather than taking each block as its own entity. Similar to treating the prisoner's dilemma as a one-off game (where the dominant strategy is to always defect) versus an iterated game (where cooperation or tit-for-tat may be better strategies).</em></li>
+</ul>
+<h2 id="lightning">Lightning</h2>
+<ul>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003782.html">Factory-Optimized Protocols Proposal</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003781.html">Jamming against Channel Jamming</a>
+<ul>
+<li><a href="https://bitcoinops.org/en/newsletters/2022/12/14/#local-jamming-to-prevent-remote-jamming">Optech</a></li>
+</ul>
+</li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003810.html">Swap-in-Potentiam: Moving Onchain Funds &quot;Instantly&quot; To Lightning</a>
+<ul>
+<li><a href="https://bitcoinops.org/en/newsletters/2023/01/11/#non-interactive-ln-channel-open-commitments">Optech</a></li>
+</ul>
+</li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003754.html">Mitigating Channel Jamming with Reputation Credentials: a Protocol Sketch</a>
+<ul>
+<li><a href="https://bitcoinops.org/en/newsletters/2022/11/30/#reputation-credentials-proposal-to-mitigate-ln-jamming-attacks">Optech</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/1852">Accept feerate increases even if they aren't high enough for us</a>
+<ul>
+<li><a href="https://bitcoinops.org/en/newsletters/2022/11/30/#ldk-1852">Optech</a></li>
+</ul>
+</li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003782.html">Factory-Optimized Protocols For Lightning</a>
+<ul>
+<li><a href="https://bitcoinops.org/en/newsletters/2022/12/14/#factory-optimized-ln-protocol-proposal">Optech</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="ordinals">Ordinals</h2>
+<ul>
+<li><a href="https://twitter.com/rodarmor/status/1616567899719860230">Inscriptions hit mainnet</a>
+<ul>
+<li><a href="https://github.com/casey/ord">ord</a></li>
+<li><a href="https://ordinals.com/inscriptions">inscriptions</a></li>
+<li>Development driven by illicit inscriptions.</li>
+</ul>
+</li>
+</ul>
+<h2 id="q-a">Q&amp;A</h2>
+<ul>
+<li><a href="https://bitcoin.stackexchange.com/questions/116146/why-is-connecting-bitcoin-exclusively-over-tor-considered-bad-practice">Why is connecting bitcoin exclusively over Tor considered bad practice?</a></li>
+<li><a href="https://bitcoin.stackexchange.com/questions/116257/why-arent-3-party-or-more-channels-realistically-possible-in-lightning-today">Why aren't 3 party (or more) channels realistically possible in lightning today?</a></li>
+<li><a href="https://bitcoin.stackexchange.com/questions/116275/when-is-a-miniscript-solution-malleable">When is a Miniscript solution malleable?</a></li>
+<li><a href="https://bitcoin.stackexchange.com/questions/116551/bls-signatures-vs-schnorr">BLS signatures vs Schnorr</a></li>
+<li><a href="https://bitcoincore.reviews/26152">PR Review Club: Bump unconfirmed ancestor transactions to target feerate</a>
+<ul>
+<li><a href="https://bitcoinops.org/en/newsletters/2022/12/07/#bitcoin-core-pr-review-club">Optech</a></li>
+</ul>
+</li>
+<li><a href="https://bitcoin.stackexchange.com/questions/116875/follow-up-to-segwit-arbitrary-data-storage-in-witness">Follow-up to Segwit: Arbitrary data storage in witness?</a>
+<ul>
+<li><a href="https://bitcoinops.org/en/newsletters/2023/01/25/#arbitrary-data-storage-in-witness">Optech</a></li>
+</ul>
+</li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+        Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a> and
+        <a href="https://www.bitrefill.com/">Bitrefill</a>
+      </span>
+    </footer>
+  </body>
+</html>
