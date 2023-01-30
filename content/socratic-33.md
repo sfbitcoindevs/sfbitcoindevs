@@ -18,17 +18,22 @@ Chain Weather Report
 
 - [Mempool](https://www.bitcoin-mempool.info/#BTC,30d,weight)
 - [Fees](https://transactionfee.info/charts/fees-package-feerates/)
+- [P2TR inputs and outputs](https://imgur.com/CqdSe9S)
+- [Lightning Network Capacity](https://bitcoinvisuals.com/ln-capacity)
+- [Block mined by small pool](https://mobile.twitter.com/BraiinsInsights/status/1603080683206983681)
 
 News and Announcements
 ----------------------
 
 - [BinaryWatch.org - Coinkite's Checksum Checker](https://binarywatch.org/)
+- [Bitcoin Binary](https://bitcoinbinary.org/)
 - [Ledger Supports Miniscript](https://bitcoinops.org/en/newsletters/2023/01/18/#ledger-supports-miniscript)
 - [Bitcoin Taproot address now supported on Kraken](https://blog.kraken.com/post/16740/bitcoin-taproot-address-now-supported-on-kraken/)
 - [Liana Wallet](https://wizardsardine.com/blog/liana-announcement/)
  - [Optech](https://bitcoinops.org/en/newsletters/2023/01/18/#liana-wallet-released)
 - [Luke Jr. was hacked & PGP key compromised. Don't download/trust Bitcoin Knots.](https://twitter.com/LukeDashjr/status/1609613748364509184)
 - [Bitcoin Knots signing key compromised](https://bitcoinops.org/en/newsletters/2023/01/04/#bitcoin-knots-signing-key-compromised)
+- [LastPass pwned](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
 
 Research and Development
 ------------------------
@@ -44,6 +49,9 @@ Research and Development
   - [Optech](https://bitcoinops.org/en/newsletters/2023/01/25/#ephemeral-anchors-compared-to-sighash-group)
 - [bitcoin-inquistion 23.0: evaluating soft forks on signet](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021275.html)
 - [Samourai Whirlpool Client Rust Crate](https://github.com/straylight-orbit/whirlpool-client-rs)
+- [Coldcard Mk4 Security Model and Secure Element Use](https://blog.coinkite.com/understanding-mk4-security-model/)
+- [Wallet Label Export Format BIP Merged](https://github.com/bitcoin/bips/pull/1383)
+- [NIP-47: BIP-47 payment code notification via Nostr DM](https://github.com/nostr-protocol/nips/pull/165)
 
 Bitcoin Core
 ------------
@@ -54,6 +62,7 @@ Bitcoin Core
 - [rpc, gui: bumpfee signer support](https://github.com/bitcoin/bitcoin/pull/21576)
 - [rpc: Enable wallet import on pruned nodes and add test](https://github.com/bitcoin/bitcoin/pull/24865)
 - [rpc: Allow named and positional arguments to be used together](https://github.com/bitcoin/bitcoin/pull/19762)
+- [Getting off of GitHub](https://diyhpl.us/wiki/transcripts/bitcoin-core-dev-tech/2022-10-11-github/)
 
 RBF
 ---
@@ -63,6 +72,8 @@ RBF
 - [RBF Replacement Monitor](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021258.html)
   - [link](https://fullrbf.mempool.observer/)
 - [miners who have made a long-term capital investment in mining equipment might instead prefer to optimize fee income over multiple blocks](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021276.html) *It's also possible that owners of ASICs or pool operators will decide that they're in this for the long term, and therefore that it's smarter to look at fee income over multiple blocks, rather than taking each block as its own entity. Similar to treating the prisoner's dilemma as a one-off game (where the dominant strategy is to always defect) versus an iterated game (where cooperation or tit-for-tat may be better strategies).*
+- [Why Full-RBF Makes DoS Attacks on Multiparty Protocols Significantly More Expensive](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021322.html)
+- [Full RBF double-spend mined](https://mastodon.petertodd.org/@pete/109516427881528479)
 
 Lightning
 --------
@@ -78,6 +89,9 @@ Lightning
   - [Optech](https://bitcoinops.org/en/newsletters/2022/11/30/#ldk-1852)
 - [Factory-Optimized Protocols For Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003782.html)
   - [Optech](https://bitcoinops.org/en/newsletters/2022/12/14/#factory-optimized-ln-protocol-proposal)
+- [Taproot Lightning Channel](https://twitter.com/roasbeef/status/1609009596034863104)
+- [Possible Attack IF we add BOTH upfront AND negative routing fees to the Lightning Network](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003809.html)
+- [WoS doing 20k payments/day](https://twitter.com/kerooke/status/1612953910867632129)
 
 Ordinals
 --------
@@ -85,6 +99,7 @@ Ordinals
 - [Inscriptions hit mainnet](https://twitter.com/rodarmor/status/1616567899719860230)
   - [ord](https://github.com/casey/ord)
   - [inscriptions](https://ordinals.com/inscriptions)
+  - [bitcoin-dev notices](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021370.html)
   - Development driven by illicit inscriptions.
 
 Q&A
