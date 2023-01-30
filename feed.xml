@@ -25,16 +25,21 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;transactionfee.info&#x2F;charts&#x2F;fees-package-feerates&#x2F;&quot;&gt;Fees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;imgur.com&#x2F;CqdSe9S&quot;&gt;P2TR inputs and outputs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinvisuals.com&#x2F;ln-capacity&quot;&gt;Lightning Network Capacity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mobile.twitter.com&#x2F;BraiinsInsights&#x2F;status&#x2F;1603080683206983681&quot;&gt;Block mined by small pool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;news-and-announcements&quot;&gt;News and Announcements&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;binarywatch.org&#x2F;&quot;&gt;BinaryWatch.org - Coinkite&#x27;s Checksum Checker&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinbinary.org&#x2F;&quot;&gt;Bitcoin Binary&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;01&#x2F;18&#x2F;#ledger-supports-miniscript&quot;&gt;Ledger Supports Miniscript&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.kraken.com&#x2F;post&#x2F;16740&#x2F;bitcoin-taproot-address-now-supported-on-kraken&#x2F;&quot;&gt;Bitcoin Taproot address now supported on Kraken&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;wizardsardine.com&#x2F;blog&#x2F;liana-announcement&#x2F;&quot;&gt;Liana Wallet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;01&#x2F;18&#x2F;#liana-wallet-released&quot;&gt;Optech&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;LukeDashjr&#x2F;status&#x2F;1609613748364509184&quot;&gt;Luke Jr. was hacked &amp;amp; PGP key compromised. Don&#x27;t download&#x2F;trust Bitcoin Knots.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;01&#x2F;04&#x2F;#bitcoin-knots-signing-key-compromised&quot;&gt;Bitcoin Knots signing key compromised&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lastpass.com&#x2F;2022&#x2F;12&#x2F;notice-of-recent-security-incident&#x2F;&quot;&gt;LastPass pwned&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;research-and-development&quot;&gt;Research and Development&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -55,6 +60,9 @@
 &lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-December&#x2F;021275.html&quot;&gt;bitcoin-inquistion 23.0: evaluating soft forks on signet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;straylight-orbit&#x2F;whirlpool-client-rs&quot;&gt;Samourai Whirlpool Client Rust Crate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.coinkite.com&#x2F;understanding-mk4-security-model&#x2F;&quot;&gt;Coldcard Mk4 Security Model and Secure Element Use&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1383&quot;&gt;Wallet Label Export Format BIP Merged&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nostr-protocol&#x2F;nips&#x2F;pull&#x2F;165&quot;&gt;NIP-47: BIP-47 payment code notification via Nostr DM&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -67,6 +75,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;21576&quot;&gt;rpc, gui: bumpfee signer support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;24865&quot;&gt;rpc: Enable wallet import on pruned nodes and add test&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;19762&quot;&gt;rpc: Allow named and positional arguments to be used together&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;diyhpl.us&#x2F;wiki&#x2F;transcripts&#x2F;bitcoin-core-dev-tech&#x2F;2022-10-11-github&#x2F;&quot;&gt;Getting off of GitHub&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;rbf&quot;&gt;RBF&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -81,6 +90,8 @@
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-December&#x2F;021276.html&quot;&gt;miners who have made a long-term capital investment in mining equipment might instead prefer to optimize fee income over multiple blocks&lt;&#x2F;a&gt; &lt;em&gt;It&#x27;s also possible that owners of ASICs or pool operators will decide that they&#x27;re in this for the long term, and therefore that it&#x27;s smarter to look at fee income over multiple blocks, rather than taking each block as its own entity. Similar to treating the prisoner&#x27;s dilemma as a one-off game (where the dominant strategy is to always defect) versus an iterated game (where cooperation or tit-for-tat may be better strategies).&lt;&#x2F;em&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-January&#x2F;021322.html&quot;&gt;Why Full-RBF Makes DoS Attacks on Multiparty Protocols Significantly More Expensive&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mastodon.petertodd.org&#x2F;@pete&#x2F;109516427881528479&quot;&gt;Full RBF double-spend mined&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -110,6 +121,9 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2022&#x2F;12&#x2F;14&#x2F;#factory-optimized-ln-protocol-proposal&quot;&gt;Optech&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;roasbeef&#x2F;status&#x2F;1609009596034863104&quot;&gt;Taproot Lightning Channel&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-January&#x2F;003809.html&quot;&gt;Possible Attack IF we add BOTH upfront AND negative routing fees to the Lightning Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;kerooke&#x2F;status&#x2F;1612953910867632129&quot;&gt;WoS doing 20k payments&#x2F;day&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;ordinals&quot;&gt;Ordinals&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -117,6 +131,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;casey&#x2F;ord&quot;&gt;ord&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ordinals.com&#x2F;inscriptions&quot;&gt;inscriptions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-January&#x2F;021370.html&quot;&gt;bitcoin-dev notices&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;Development driven by illicit inscriptions.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
