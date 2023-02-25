@@ -1,7 +1,6 @@
 +++
 title = "Socratic Seminar 33"
 date = 2023-01-30
-draft = true
 +++
 
 Housekeeping
@@ -19,6 +18,22 @@ Chain Weather Report
 
 - [Mempool](https://www.bitcoin-mempool.info/#BTC,30d,weight)
 - [Fees](https://transactionfee.info/charts/fees-package-feerates/)
+- [P2TR inputs and outputs](https://imgur.com/CqdSe9S)
+- [Lightning Network Capacity](https://bitcoinvisuals.com/ln-capacity)
+- [Block mined by small pool](https://mobile.twitter.com/BraiinsInsights/status/1603080683206983681)
+
+News and Announcements
+----------------------
+
+- [BinaryWatch.org - Coinkite's Checksum Checker](https://binarywatch.org/)
+- [Bitcoin Binary](https://bitcoinbinary.org/)
+- [Ledger Supports Miniscript](https://bitcoinops.org/en/newsletters/2023/01/18/#ledger-supports-miniscript)
+- [Bitcoin Taproot address now supported on Kraken](https://blog.kraken.com/post/16740/bitcoin-taproot-address-now-supported-on-kraken/)
+- [Liana Wallet](https://wizardsardine.com/blog/liana-announcement/)
+ - [Optech](https://bitcoinops.org/en/newsletters/2023/01/18/#liana-wallet-released)
+- [Luke Jr. was hacked & PGP key compromised. Don't download/trust Bitcoin Knots.](https://twitter.com/LukeDashjr/status/1609613748364509184)
+- [Bitcoin Knots signing key compromised](https://bitcoinops.org/en/newsletters/2023/01/04/#bitcoin-knots-signing-key-compromised)
+- [LastPass pwned](https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/)
 
 Research and Development
 ------------------------
@@ -27,31 +42,74 @@ Research and Development
   - [Draft Implementation](https://github.com/bitcoin/bitcoin/pull/26857)
   - [Mailing list discussion](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021318.html)
   - [Using OP_VAULT to improve DLCs](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021339.html)
-- [Pseudocode for robust tail emission](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021299.html)
+  - [Optech](https://bitcoinops.org/en/newsletters/2023/01/18/#proposal-for-new-vault-specific-opcodes)
+- [BIP324: v2 P2P Transport Protocol merged](https://github.com/bitcoin/bips/issues/1378)
+- [SIGHASH_GROUP vs Ephemeral anchors](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021334.html)
+  - [SIGHASH_GROUP proposal](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-July/019243.html)
+  - [Optech](https://bitcoinops.org/en/newsletters/2023/01/25/#ephemeral-anchors-compared-to-sighash-group)
+- [bitcoin-inquistion 23.0: evaluating soft forks on signet](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021275.html)
+- [Samourai Whirlpool Client Rust Crate](https://github.com/straylight-orbit/whirlpool-client-rs)
+- [Coldcard Mk4 Security Model and Secure Element Use](https://blog.coinkite.com/understanding-mk4-security-model/)
+- [Wallet Label Export Format BIP Merged](https://github.com/bitcoin/bips/pull/1383)
+- [NIP-47: BIP-47 payment code notification via Nostr DM](https://github.com/nostr-protocol/nips/pull/165)
 
 Bitcoin Core
 ------------
-- [Bitcoin-inquisition v23.0](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021275.html)
-  - Contains APO & CTV on signet
-- [Proposal for a Bitcoin implementation with Core Lightning](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021343.html)
+
+- [Ephemeral anchors implementation in Bitcoin Core](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021222.html)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/12/07/#ephemeral-anchors-implementation)
+- [POLICY: Relax MIN_STANDARD_TX_NONWITNESS_SIZE to 65 non-witness bytes](https://github.com/bitcoin/bitcoin/pull/26265)
+- [rpc, gui: bumpfee signer support](https://github.com/bitcoin/bitcoin/pull/21576)
+- [rpc: Enable wallet import on pruned nodes and add test](https://github.com/bitcoin/bitcoin/pull/24865)
+- [rpc: Allow named and positional arguments to be used together](https://github.com/bitcoin/bitcoin/pull/19762)
+- [Getting off of GitHub](https://diyhpl.us/wiki/transcripts/bitcoin-core-dev-tech/2022-10-11-github/)
+
+RBF
+---
+
 - [Full-RBF Peering Bitcoin Core v24.0.1 Released](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021270.html)
-  - [At least 17% of v24.x listening nodes are running full-rbf](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021296.html)
-- [Ephemeral Anchors implementation](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-November/021222.html)
+  - [At least 17% of v24.x listening nodes are running full-rbf](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021296.html) *This data is also an underestimate: I'm only measuring successful propagation.*
+- [RBF Replacement Monitor](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021258.html)
+  - [link](https://fullrbf.mempool.observer/)
+- [miners who have made a long-term capital investment in mining equipment might instead prefer to optimize fee income over multiple blocks](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2022-December/021276.html) *It's also possible that owners of ASICs or pool operators will decide that they're in this for the long term, and therefore that it's smarter to look at fee income over multiple blocks, rather than taking each block as its own entity. Similar to treating the prisoner's dilemma as a one-off game (where the dominant strategy is to always defect) versus an iterated game (where cooperation or tit-for-tat may be better strategies).*
+- [Why Full-RBF Makes DoS Attacks on Multiparty Protocols Significantly More Expensive](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021322.html)
+- [Full RBF double-spend mined](https://mastodon.petertodd.org/@pete/109516427881528479)
 
 Lightning
 --------
 
 - [Factory-Optimized Protocols Proposal](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003782.html)
 - [Jamming against Channel Jamming](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003781.html)
-- [Swap-in-Potentiam](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003810.html)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/12/14/#local-jamming-to-prevent-remote-jamming)
+- [Swap-in-Potentiam: Moving Onchain Funds "Instantly" To Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003810.html)
+  - [Optech](https://bitcoinops.org/en/newsletters/2023/01/11/#non-interactive-ln-channel-open-commitments)
+- [Mitigating Channel Jamming with Reputation Credentials: a Protocol Sketch](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-November/003754.html)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/11/30/#reputation-credentials-proposal-to-mitigate-ln-jamming-attacks)
+- [Accept feerate increases even if they aren't high enough for us](https://github.com/lightningdevkit/rust-lightning/pull/1852)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/11/30/#ldk-1852)
+- [Factory-Optimized Protocols For Lightning](https://lists.linuxfoundation.org/pipermail/lightning-dev/2022-December/003782.html)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/12/14/#factory-optimized-ln-protocol-proposal)
+- [Taproot Lightning Channel](https://twitter.com/roasbeef/status/1609009596034863104)
+- [Possible Attack IF we add BOTH upfront AND negative routing fees to the Lightning Network](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-January/003809.html)
+- [WoS doing 20k payments/day](https://twitter.com/kerooke/status/1612953910867632129)
 
 Ordinals
 --------
 
-- [`ord` alpha v0.4.0 launched on mainnet!](https://twitter.com/rodarmor/status/1616567899719860230)
-  - People are using it (and mis-using it by adding unsupported file types)
+- [Inscriptions hit mainnet](https://twitter.com/rodarmor/status/1616567899719860230)
+  - [ord](https://github.com/casey/ord)
+  - [inscriptions](https://ordinals.com/inscriptions)
+  - [bitcoin-dev notices](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-January/021370.html)
+  - Development driven by illicit inscriptions.
 
-Misc
-----
+Q&A
+---
 
-- [Luke Jr. was hacked & PGP key compromised. Don't download/trust Bitcoin Knots.](https://twitter.com/LukeDashjr/status/1609613748364509184)
+- [Why is connecting bitcoin exclusively over Tor considered bad practice?](https://bitcoin.stackexchange.com/questions/116146/why-is-connecting-bitcoin-exclusively-over-tor-considered-bad-practice)
+- [Why aren't 3 party (or more) channels realistically possible in lightning today?](https://bitcoin.stackexchange.com/questions/116257/why-arent-3-party-or-more-channels-realistically-possible-in-lightning-today)
+- [When is a Miniscript solution malleable?](https://bitcoin.stackexchange.com/questions/116275/when-is-a-miniscript-solution-malleable)
+- [BLS signatures vs Schnorr](https://bitcoin.stackexchange.com/questions/116551/bls-signatures-vs-schnorr)
+- [PR Review Club: Bump unconfirmed ancestor transactions to target feerate](https://bitcoincore.reviews/26152)
+  - [Optech](https://bitcoinops.org/en/newsletters/2022/12/07/#bitcoin-core-pr-review-club)
+- [Follow-up to Segwit: Arbitrary data storage in witness?](https://bitcoin.stackexchange.com/questions/116875/follow-up-to-segwit-arbitrary-data-storage-in-witness)
+  - [Optech](https://bitcoinops.org/en/newsletters/2023/01/25/#arbitrary-data-storage-in-witness)
