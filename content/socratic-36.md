@@ -3,6 +3,9 @@ title = "Socratic Seminar 36"
 date = 2023-04-24
 +++
 
+| :zap:   This reading list is a WIP      |
+|-----------------------------------------|
+
 Housekeeping
 ------------
 
