@@ -4,8 +4,65 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2023-01-30T00:00:00+00:00</updated>
+	<updated>2023-04-24T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 36</title>
+		<published>2023-04-24T00:00:00+00:00</published>
+		<updated>2023-04-24T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-36/" type="text/html"/>
+		<id>https://www.sfbitcoindevs.org/socratic-36/</id>
+		<content type="html">&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;:zap:   This reading list is a WIP&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
+&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
+&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers March 27th to April 23rd.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;transactionfee.info&#x2F;charts&#x2F;fees-package-feerates&#x2F;&quot;&gt;Fees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinvisuals.com&#x2F;ln-capacity&quot;&gt;Lightning Network Capacity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;benthecarman&#x2F;status&#x2F;1638006709741289474&quot;&gt;95% of nostr zaps are from custodial wallets&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news-and-announcements&quot;&gt;News and Announcements&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;civkit&#x2F;paper&#x2F;blob&#x2F;main&#x2F;civ_kit_paper.pdf&quot;&gt;CivKit: p2p electronic market system&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;vinteum-org&#x2F;introducing-floresta-an-utreexo-powered-electrum-server-implementation-60feba8e179d&quot;&gt;Floresta: Utreexo powered electrum server implementation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stratumprotocol.org&#x2F;blog&#x2F;stratumv2-jn-announcement&#x2F;&quot;&gt;Stratum v2 Reference Implementation (SRI) update&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-April&#x2F;021554.html&quot;&gt;RGB v0.10 release announcement&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;waxy.org&#x2F;2023&#x2F;04&#x2F;the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos&#x2F;&quot;&gt;The Bitcoin Whitepaper is hidden in every modern copy of macOS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;research-and-development&quot;&gt;Research and Development&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;zerosync-reduces-bitcoin-node-validation&quot;&gt;ZeroSync: using ZKPs to accelerate initial sync&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2023&#x2F;445.pdf&quot;&gt;Sparkle: Fully Adaptive Schnorr Threshold Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2023&#x2F;452.pdf&quot;&gt;Piano: Extremely Simple, Single-Server PIR with Sublinear Server Computation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;06-linkinglion&#x2F;&quot;&gt;LinkingLion: An entity linking Bitcoin transactions to IPs?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;jamesob&#x2F;status&#x2F;1639019107432513537&quot;&gt;OP_VAULT updates - TLUVification and OP_CTV&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.mutinywallet.com&#x2F;mutinynet&#x2F;&quot;&gt;Mutinynet: custom signet with 30 second block times&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;realtbast&#x2F;status&#x2F;1640606307924291585&quot;&gt;Route blinding officially added to lightning spec&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-March&#x2F;003895.html&quot;&gt;Proposed changes to splicing spec&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightningdevkit.org&#x2F;blog&#x2F;ldk-roadmap&#x2F;&quot;&gt;LDK shares their 2023 roadmap&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kuutamolabs&#x2F;lightning-knd&quot;&gt;New LDK implementation: kuutamo lightning distribution&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;misc&quot;&gt;Misc&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Is there interest in a chat group for SF Bitdevs? If yes: what are preferences between Signal, Telegram, and other platforms?&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 33</title>
 		<published>2023-01-30T00:00:00+00:00</published>
@@ -1866,7 +1923,7 @@ Costs in Blockchains&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;bitcoin-core-0180-release-heres-whats-new&#x2F;&quot;&gt;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;bitcoin-core-0180-release-heres-whats-new&#x2F;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;releases&#x2F;tag&#x2F;v0.18.0&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;releases&#x2F;tag&#x2F;v0.18.0&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Binance Hack &amp;amp; reorg debate&lt;br &#x2F;&gt;
-&lt;a href=&quot;binance_hack.pdf&quot;&gt;Binance Hack Analysis&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;www.sfbitcoindevs.org&#x2F;socratic-10&#x2F;binance_hack.pdf&quot;&gt;Binance Hack Analysis&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;cz_binance&#x2F;status&#x2F;1125996194734399488&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;cz_binance&#x2F;status&#x2F;1125996194734399488&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Gotenna w&#x2F; Blockstream Satellite&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;blockstream.com&#x2F;2019&#x2F;05&#x2F;11&#x2F;gotenna-satellite-api-integration&#x2F;&quot;&gt;https:&#x2F;&#x2F;blockstream.com&#x2F;2019&#x2F;05&#x2F;11&#x2F;gotenna-satellite-api-integration&#x2F;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
