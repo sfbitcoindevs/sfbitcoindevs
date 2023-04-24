@@ -12,9 +12,7 @@
 		<updated>2023-04-24T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-36/" type="text/html"/>
 		<id>https://www.sfbitcoindevs.org/socratic-36/</id>
-		<content type="html">&lt;table&gt;&lt;thead&gt;&lt;tr&gt;&lt;th&gt;:zap:   This reading list is a WIP&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;&lt;&#x2F;thead&gt;&lt;tbody&gt;
-&lt;&#x2F;tbody&gt;&lt;&#x2F;table&gt;
-&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
 &lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
@@ -37,6 +35,8 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stratumprotocol.org&#x2F;blog&#x2F;stratumv2-jn-announcement&#x2F;&quot;&gt;Stratum v2 Reference Implementation (SRI) update&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-April&#x2F;021554.html&quot;&gt;RGB v0.10 release announcement&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;waxy.org&#x2F;2023&#x2F;04&#x2F;the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos&#x2F;&quot;&gt;The Bitcoin Whitepaper is hidden in every modern copy of macOS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gandlafbtc&#x2F;nutstash-wallet&quot;&gt;Nutstash (cashu wallet) adds new features&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;thebitcoinmanual.com&#x2F;articles&#x2F;send-ecash-tokens-nostr&#x2F;&quot;&gt;A guide to sending ecash tokens to nostr users via cashu&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;research-and-development&quot;&gt;Research and Development&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -48,7 +48,11 @@
 &lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;jamesob&#x2F;status&#x2F;1639019107432513537&quot;&gt;OP_VAULT updates - TLUVification and OP_CTV&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.mutinywallet.com&#x2F;mutinynet&#x2F;&quot;&gt;Mutinynet: custom signet with 30 second block times&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.mutinywallet.com&#x2F;mutinynet&#x2F;&quot;&gt;Mutinynet: custom signet with 30 second block times&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;The team at Mutiny also shared that they are developing synthetic dollars via DLCs (different to how &lt;a href=&quot;https:&#x2F;&#x2F;stablesats.com&quot;&gt;stablesats&lt;&#x2F;a&gt; work)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -56,6 +60,11 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-March&#x2F;003895.html&quot;&gt;Proposed changes to splicing spec&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lightningdevkit.org&#x2F;blog&#x2F;ldk-roadmap&#x2F;&quot;&gt;LDK shares their 2023 roadmap&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;kuutamolabs&#x2F;lightning-knd&quot;&gt;New LDK implementation: kuutamo lightning distribution&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;q-a&quot;&gt;Q&amp;amp;A&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;117837&#x2F;how-many-sigops-are-in-the-invalid-block-783426&quot;&gt;How many sigops are invalid in block 783426?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;117860&#x2F;bitcoin-lock-script-simple-math&quot;&gt;Creating a bitcoin lock script with simple math&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;misc&quot;&gt;Misc&lt;&#x2F;h2&gt;
 &lt;ul&gt;
