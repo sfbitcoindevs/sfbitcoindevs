@@ -73,6 +73,128 @@
 </content>
 	</entry>
 	<entry xml:lang="en">
+		<title>Socratic Seminar 34</title>
+		<published>2023-02-27T00:00:00+00:00</published>
+		<updated>2023-02-27T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-34/" type="text/html"/>
+		<id>https://www.sfbitcoindevs.org/socratic-34/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers January 30th to Feburary 27th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;transactionfee.info&#x2F;charts&#x2F;fees-package-feerates&#x2F;&quot;&gt;Fees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;imgur.com&#x2F;CqdSe9S&quot;&gt;P2TR inputs and outputs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinvisuals.com&#x2F;ln-capacity&quot;&gt;Lightning Network Capacity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mobile.twitter.com&#x2F;BraiinsMining&#x2F;status&#x2F;1628952959332806658&quot;&gt;All-time High Hashrate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;murchandamus&#x2F;status&#x2F;1626653510719705114&quot;&gt;Segwit Adoption&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;ordinals-data&#x2F;&quot;&gt;Ordinals Data&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;LuxorTechTeam&#x2F;status&#x2F;1620921129287430144&quot;&gt;Luxor mining inscriptions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hashrateindex.com&#x2F;hashrate&#x2F;pools&quot;&gt;Foundry nearing 40%&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news-and-announcements&quot;&gt;News and Announcements&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;jamesob&#x2F;status&#x2F;1618949541407113217&quot;&gt;James O&#x27;Beirne on dev funding situation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;MrKukks&#x2F;status&#x2F;1630221270246719489&quot;&gt;Coinjoin plugin for BTCPay Server&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;interesting-things&quot;&gt;Interesting Things&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cashubtc&#x2F;cashu&quot;&gt;cashu&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lontivero.github.io&#x2F;Wiki&#x2F;html&#x2F;cashabi.html&quot;&gt;cashabi&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinsearch.xyz&#x2F;&quot;&gt;bitcoinsearch.xyz&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sha256algorithm.com&#x2F;&quot;&gt;sha256algorithm.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;tapscript-signature-malleability&quot;&gt;Tapscript Signature Malleability&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;02&#x2F;15&#x2F;#tapscript-signature-malleability&quot;&gt;Tapscript signature malleability&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-February&#x2F;021452.html&quot;&gt;Unenforceable fee obligations in multiparty protocols with Taproot inputs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;issues&#x2F;19&quot;&gt;BIP118 sigs should commit to full path to tapleaf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bips&quot;&gt;BIPs&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bip324&quot;&gt;bip324&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bip324.com&#x2F;&quot;&gt;bip324.com&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dhruv&#x2F;bips&#x2F;blob&#x2F;bip324&#x2F;bip-0324.mediawiki&quot;&gt;BIP324&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;op-vault&quot;&gt;OP_VAULT&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jamesob&#x2F;bips&#x2F;blob&#x2F;jamesob-23-02-opvault&#x2F;bip-vaults.mediawiki&quot;&gt;James BIP324&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;codex32&quot;&gt;codex32&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;02&#x2F;22&#x2F;#proposed-bip-for-codex32-seed-encoding-scheme&quot;&gt;codex32 bitcoin ops newsletter&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;apoelstra&#x2F;bips&#x2F;blob&#x2F;2023-02--volvelles&#x2F;bip-0000.mediawiki&quot;&gt;codex32 bip&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-February&#x2F;021469.html&quot;&gt;codex32 mailing list post&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;secretcodex32.com&#x2F;&quot;&gt;codex32 website&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;secretcodex32.com&#x2F;docs&#x2F;2022-09-26--color.pdf&quot;&gt;Codex 32 document&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=kf48oPoiHX0&quot;&gt;Andrew Poelstra video on Codex32&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;02&#x2F;15&#x2F;#offchain-coin-coloring&quot;&gt;Offchain Coin Coloring&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-February&#x2F;021396.html&quot;&gt;Purely off-chain coin coloring&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;02&#x2F;15&#x2F;#increasing-allowed-op-return-space-in-standard-transactions&quot;&gt;Increasing allowed OP_RETURN space in standard transactions&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;02&#x2F;01&#x2F;#serverless-payjoin-proposal&quot;&gt;Serverless Payjoin Proposal&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-January&#x2F;021364.html&quot;&gt;Serverless Payjoin&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;02&#x2F;01&#x2F;#ln-async-proof-of-payment&quot;&gt;LN async proof of payment&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;realtbast&#x2F;status&#x2F;1603053124356390914&quot;&gt;Route-blinding Announcement&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;blob&#x2F;route-blinding&#x2F;proposals&#x2F;route-blinding.md&quot;&gt;Route-blinding&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-February&#x2F;003842.html&quot;&gt;Highly Available Lightning Channels&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;research-and-development&quot;&gt;Research and Development&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2023&#x2F;189&quot;&gt;tlock: Practical Timelock Encryption from Threshold BLS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2023&#x2F;216&quot;&gt;Two-Round Stateless Deterministic Two-Party Schnorr Signatures From Pseudorandom Correlation Functions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2023&#x2F;086&quot;&gt;Flyover: Repayment Protocol for Fast Bitcoin Transfers over Federated Pegs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;misc&quot;&gt;Misc&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;braiins.com&#x2F;blog&#x2F;debt-capital-markets-in-bitcoin-mining-part-1&quot;&gt;Braiins: Debt Capital Markets in Bitcoin Mining&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;q-a&quot;&gt;Q&amp;amp;A&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;117057&#x2F;why-is-witness-data-downloaded-during-ibd-in-prune-mode&quot;&gt;Why is witness data downloaded during IBD in prune mode?&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;27050&quot;&gt;Don&#x27;t download witnesses for assumed-valid blocks when running in prune mode&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;116931&#x2F;how-does-one-become-a-dns-seed-for-bitcoin-core&quot;&gt;How does one become a DNS seed for Bitcoin Core?&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;blob&#x2F;master&#x2F;doc&#x2F;dnsseed-policy.md&quot;&gt;Expectations for DNS Seed Operators&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
 		<title>Socratic Seminar 33</title>
 		<published>2023-01-30T00:00:00+00:00</published>
 		<updated>2023-01-30T00:00:00+00:00</updated>
