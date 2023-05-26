@@ -3,9 +3,6 @@ title = "Socratic Seminar 36"
 date = 2023-04-24
 +++
 
-| :zap:   This reading list is a WIP      |
-|-----------------------------------------|
-
 Housekeeping
 ------------
 
@@ -32,6 +29,8 @@ News and Announcements
 - [Stratum v2 Reference Implementation (SRI) update](https://stratumprotocol.org/blog/stratumv2-jn-announcement/)
 - [RGB v0.10 release announcement](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021554.html)
 - [The Bitcoin Whitepaper is hidden in every modern copy of macOS](https://waxy.org/2023/04/the-bitcoin-whitepaper-is-hidden-in-every-modern-copy-of-macos/)
+- [Nutstash (cashu wallet) adds new features](https://github.com/gandlafbtc/nutstash-wallet)
+- [A guide to sending ecash tokens to nostr users via cashu](https://thebitcoinmanual.com/articles/send-ecash-tokens-nostr/)
 
 Research and Development
 ------------------------
@@ -46,6 +45,7 @@ Bitcoin Core
 
 - [OP_VAULT updates - TLUVification and OP_CTV](https://twitter.com/jamesob/status/1639019107432513537)
 - [Mutinynet: custom signet with 30 second block times](https://blog.mutinywallet.com/mutinynet/)
+  - The team at Mutiny also shared that they are developing synthetic dollars via DLCs (different to how [stablesats](https://stablesats.com) work)
 
 Lightning
 --------
@@ -54,6 +54,12 @@ Lightning
 - [Proposed changes to splicing spec](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-March/003895.html)
 - [LDK shares their 2023 roadmap](https://lightningdevkit.org/blog/ldk-roadmap/)
 - [New LDK implementation: kuutamo lightning distribution](https://github.com/kuutamolabs/lightning-knd)
+
+Q&A
+---
+
+- [How many sigops are invalid in block 783426?](https://bitcoin.stackexchange.com/questions/117837/how-many-sigops-are-in-the-invalid-block-783426)
+- [Creating a bitcoin lock script with simple math](https://bitcoin.stackexchange.com/questions/117860/bitcoin-lock-script-simple-math)
 
 Misc
 ----
