@@ -19,34 +19,38 @@ Chain Weather Report
 - [Mempool](https://www.bitcoin-mempool.info/#BTC,30d,weight)
 - [Fees](https://transactionfee.info/charts/fees-package-feerates/)
 - [Lightning Network Capacity](https://bitcoinvisuals.com/ln-capacity)
-- [Ordinals Dashboard](https://dune.com/nikka/bitcoin-ordinals-analysis) - >9 million inscriptions
+- [Ordinals](https://dune.com/dataalways/ordinals)
 
-News and Announcements
-----------------------
+Releases
+--------
 
+- [Bitcoin Core 25.0.0 Released](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-25.0.md)
+- [Core Lightning 23.05 adds support for blinded payments and PSBTv2](https://github.com/ElementsProject/lightning/releases/tag/v23.05)
+
+News & Announcements
+--------------------
+
+- [Fedi alpha available for testing](https://www.nobsbitcoin.com/fedi-alpha-available-for-testing/)
+- [Signet Mutiny Wallet is available for testing with lightning and LSP support](https://twitter.com/MutinyWallet/status/1661381554478669825)
 - [Burak announces Ark](https://www.arkpill.me/deep-dive)
-  - [Mailing list post](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021694.html) - received feedback from Zmn and others
-- [ZeroSync publishes summary of their research](https://zerosync.org/zerosync.pdf)
-  - We discussed chain state proofs last seminar, but it looks like they now have ambitions to impelement zkCoins (see section 6 of their summary)
+  - [Mailing list post](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021694.html) - received feedback from ZmnSCP and others
+- [Brink & Marathon raising $1MM for Bitcoin Core development](https://www.nobsbitcoin.com/brink-marathon-partnership/)
+- [Mempool.space announces accelerator for transactions stuck in the mempool](https://www.nobsbitcoin.com/mempool-acceleration-marketplace-upcoming/)
+  - Likely to make fee estimation more difficult?
 - [Boltz adds Liquid <-> Lightning atomic swaps](https://blog.boltz.exchange/p/launching-liquid-swaps-unfairly-cheap)
-  - Will this help on board new users to Liquid? Avoiding the 102 block confirmations for peg-ins to go through makes onboarding much easier.
-
-Research and Development
-------------------------
-
-- []()
+  - Will this bring new users to Liquid? Avoiding the 102 block confirmations for peg-ins makes onboarding much easier.
 
 Bitcoin Core
 ------------
 
-- []()
+- [Suhas proposes a new mempool design](https://github.com/bitcoin/bitcoin/issues/27677)
+- [Joost Jager considers transaction relay via Nostr](https://twitter.com/joostjgr/status/1658487013237211155)
+- [ZeroSync publishes summary of their research](https://zerosync.org/zerosync.pdf) including [zkCoins writeup](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab119)
+  - We discussed chain state proofs last seminar, but not zkCoins
+- [Interactive Payment Batching w/ Payjoin](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021653.html)
 
 Lightning
 --------
 
-- []()
-
-Q&A
----
-
-- []()
+- [Request for feedback on LSP spec](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-May/003926.html)
+- [Liquidity griefing for 0-conf dual-funded channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-May/003920.html)
