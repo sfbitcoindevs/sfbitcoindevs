@@ -49,6 +49,7 @@ Lightning
 --------
 
 - [BOLT11 bundled payment proposal](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-June/003977.html)
+- [Dynamic commitments extension bolt](https://github.com/lightning/bolts/blob/db5133e7f20ba69c6bed3c54c3e4bcfdcd27169a/zzz-dynamic-commit.md)
 
 Releases
 --------
