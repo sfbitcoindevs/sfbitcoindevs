@@ -31,6 +31,8 @@ News & Announcements
 - [Binance adds Lightning deposits and withdrawals](https://www.binance.com/en/support/announcement/binance-completes-integration-of-bitcoin-btc-on-lightning-network-opens-deposits-and-withdrawals-eefbfae2c0ae472d9e1e36f1a30bf340)
 - [Bitgo adds Taproot MuSig2 to their wallet](https://blog.bitgo.com/save-fees-with-musig2-at-bitgo-3248d690f573)
 - [Mempool Open Source Project details improvements for upcoming v3.0 release](https://twitter.com/mempool/status/1683118485206102017)
+- [Mutiny Wallet launches open beta](https://blog.mutinywallet.com/mutiny-wallet-open-beta/)
+  - [Fluffypony writes thread about difficulties securing web wallets](https://twitter.com/fluffypony/status/1680571802249056256)
 
 R&D
 ---
