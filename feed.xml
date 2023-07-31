@@ -67,6 +67,10 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;acinq.co&#x2F;blog&#x2F;phoenix-splicing-update&quot;&gt;Phoenix introduces splicing beta on Android&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;acinq.co&#x2F;blog&#x2F;securing-a-100M-lightning-node&quot;&gt;ACINQ blog post details their lightning node security&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinj&#x2F;bitcoinj&#x2F;releases&#x2F;tag&#x2F;v0.17-alpha2&quot;&gt;bitcoinj 0.17-alpha2 - Refactoring presented at Socratic Seminar 35 continues&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;bitcoin-adjacent&quot;&gt;Bitcoin adjacent&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;carol-computer&#x2F;carol&quot;&gt;Carol - a programmable third party for any protocol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
