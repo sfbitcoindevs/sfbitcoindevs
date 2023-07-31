@@ -61,6 +61,10 @@ Lightning
 - [Phoenix introduces splicing beta on Android](https://acinq.co/blog/phoenix-splicing-update)
 - [ACINQ blog post details their lightning node security](https://acinq.co/blog/securing-a-100M-lightning-node)
 
+Releases
+--------
+- [bitcoinj 0.17-alpha2 - Refactoring presented at Socratic Seminar 35 continues](https://github.com/bitcoinj/bitcoinj/releases/tag/v0.17-alpha2)
+
 Bitcoin adjacent
 ----------------
 
