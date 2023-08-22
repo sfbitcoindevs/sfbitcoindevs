@@ -36,7 +36,7 @@ R&D
 Bitcoin Core
 ------------
 
-- []()
+- [Luke Dashjr opens draft PR for Drivechains consensus-level logic](https://github.com/bitcoin/bitcoin/pull/28311)
 
 Lightning
 --------
