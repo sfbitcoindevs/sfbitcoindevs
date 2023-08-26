@@ -4,8 +4,73 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2023-07-31T00:00:00+00:00</updated>
+	<updated>2023-08-28T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 40</title>
+		<published>2023-08-28T00:00:00+00:00</published>
+		<updated>2023-08-28T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-40/" type="text/html"/>
+		<id>https://www.sfbitcoindevs.org/socratic-40/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers July 29th to August 25th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;transactionfee.info&#x2F;charts&#x2F;fees-package-feerates&#x2F;&quot;&gt;Fees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinvisuals.com&#x2F;ln-capacity&quot;&gt;Lightning Network Capacity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;opensats.org&#x2F;blog&#x2F;bitcoin-and-nostr-grants-august-2023&quot;&gt;OpenSats announces second wave of grants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;08&#x2F;16&#x2F;&quot;&gt;Field reporting: Implementing MuSig2 at BitGo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.prweb.com&#x2F;releases&#x2F;bitgo-secures-100m-series-c-funding-at-1-75b-valuation-301901731.html&quot;&gt;BitGo raises $100M Series C at $1.75B Valuation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;introducing-the-basic-note-a-bitcoin-denominated-investment-in-undervalued-mining-assets&#x2F;&quot;&gt;Blockstream announces BASIC note&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;blockstream&#x2F;liquid-functionary&quot;&gt;Liquid open sources their functionary code&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;drivechains&#x2F;&quot;&gt;Bitmex writes a blog post evaluating Drivechains&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;thoughts-on-scaling-and-consensus-changes-2023&#x2F;32&quot;&gt;James O&#x27;Beirne writes post on scaling and consensus changes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin-adjacent&quot;&gt;Bitcoin Adjacent&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy&#x2F;&quot;&gt;Acoustic attack steals data from kesyroke audio with 95% accuracy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;milksad.info&quot;&gt;Milk Sad vulnerability summary&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;r-d&quot;&gt;R&amp;amp;D&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;simplicity-sharing-of-witness-and-disconnect&#x2F;&quot;&gt;Simplicity: Sharing of Witness and Disconnect&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;moonsettler&#x2F;42b588fa97a1da3ac0adea0dd16dadf2&quot;&gt;Bitcoin denominated ecash without custodial risk&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-July&#x2F;021823.html&quot;&gt;PR to enable Full-RBF by default&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;27877&quot;&gt;PR to add new coin selection algorithm&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;28008&quot;&gt;BIP324 ciphersuite merged&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-August&#x2F;021844.html&quot;&gt;Updates to BIP352 (Silent Payments)&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Interesting discussion in this thread around importance of expiring addresses&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-August&#x2F;021868.html&quot;&gt;BIP for Serverless Payjoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;28311&quot;&gt;Luke Dashjr opens draft PR for Drivechains consensus-level logic&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-August&#x2F;021907.html&quot;&gt;Combined CTV+APO to minimal TXHASH+CSFS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.mutinywallet.com&#x2F;enhanced-lightning-privacy-for-mutiny-users&#x2F;&quot;&gt;How Voltage enhances privacy for Mutiny Wallet users&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-August&#x2F;004043.html&quot;&gt;Resumable channels using OP_CSFS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;phoenix&#x2F;releases&#x2F;tag&#x2F;android-v2.0.0&quot;&gt;Phoenix v2.0 on Android is officially released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;releases&#x2F;tag&#x2F;v0.0.116&quot;&gt;LDK v0.0.116 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;releases&#x2F;tag&#x2F;v23.08&quot;&gt;CLN v23.08 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 39</title>
 		<published>2023-07-31T00:00:00+00:00</published>
