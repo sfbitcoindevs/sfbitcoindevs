@@ -27,6 +27,7 @@ News & Announcements
 - [F2Pool received 20 BTC transaction fee and controversially returns it](https://twitter.com/satofishi/status/1701042302238724512)
 - [Ripple acquires Fortress trust](https://www.nobsbitcoin.com/ripple-acquires-fortress-trust/)
 - ZeroSync released a [demo](https://zerosync.org/demo/) & [repo](https://github.com/ZeroSync/header_chain) for header chain verification
+- [ord v0.9.0 adds support for provenance](https://github.com/ordinals/ord/releases/tag/0.9.0)
 - [Machankura announces additive batching feature](https://twitter.com/machankura8333/status/1695827506794754104)
   - [Bitcoin Optech overview of payment batching and scaling impacts](https://bitcoinops.org/en/payment-batching/)
 - [Fedimint v0.1.0 release](https://github.com/fedimint/fedimint/releases/tag/v0.1.0)
