@@ -26,6 +26,7 @@ News & Announcements
 
 - [F2Pool received 20 BTC transaction fee and controversially returns it](https://twitter.com/satofishi/status/1701042302238724512)
 - [Ripple acquires Fortress trust](https://www.nobsbitcoin.com/ripple-acquires-fortress-trust/)
+- [Donjon Faults SE2 on Coldcard Mk4](https://blog.coinkite.com/donjon-faults-2023/)
 - ZeroSync released a [demo](https://zerosync.org/demo/) & [repo](https://github.com/ZeroSync/header_chain) for header chain verification
 - [ord v0.9.0 adds support for provenance](https://github.com/ordinals/ord/releases/tag/0.9.0)
 - [Machankura announces additive batching feature](https://twitter.com/machankura8333/status/1695827506794754104)
