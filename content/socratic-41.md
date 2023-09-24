@@ -31,6 +31,7 @@ News & Announcements
 - [ord v0.9.0 adds support for provenance](https://github.com/ordinals/ord/releases/tag/0.9.0)
 - [Machankura announces additive batching feature](https://twitter.com/machankura8333/status/1695827506794754104)
   - [Bitcoin Optech overview of payment batching and scaling impacts](https://bitcoinops.org/en/payment-batching/)
+  - [Field Report: Using RBF and Additive Batching](https://bitcoinops.org/en/cardcoins-rbf-batching/)
 - [Fedimint v0.1.0 release](https://github.com/fedimint/fedimint/releases/tag/v0.1.0)
 - [UTXOracle](https://twitter.com/SteveSimple/status/1704864674431332503)
 - [Nunchuk Byzantine - collaborative custody platform for Bitcoin advisors](https://nunchuk.io/blog/byzantine)
