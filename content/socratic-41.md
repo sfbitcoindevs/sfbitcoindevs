@@ -21,7 +21,7 @@ Chain Weather Report
 - [Lightning Network Capacity](https://bitcoinvisuals.com/ln-capacity)
 - [Regular TXs & Inscription TXs compared by vsize](https://dune.com/queries/2962509/4908103)
 - [BRC-20 mints omitting signature check](https://twitter.com/mononautical/status/1705457795745595570)
-- [River reduces the capacity of its lighgnting node by 48%](https://twitter.com/River_LN/status/1696251824213475724_
+- [River reduces the capacity of its lightning node by 48%](https://twitter.com/River_LN/status/1696251824213475724_
 
 News & Announcements
 --------------------
