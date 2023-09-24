@@ -20,6 +20,8 @@ Chain Weather Report
 - [Fees](https://transactionfee.info/charts/fees-package-feerates/)
 - [Lightning Network Capacity](https://bitcoinvisuals.com/ln-capacity)
 - [Regular TXs & Inscription TXs compared by vsize](https://dune.com/queries/2962509/4908103)
+- [BRC-20 mints omitting signature check](https://twitter.com/mononautical/status/1705457795745595570)
+- [River reduces the capacity of its lighgnting node by 48%](https://twitter.com/River_LN/status/1696251824213475724_
 
 News & Announcements
 --------------------
@@ -35,6 +37,8 @@ News & Announcements
 - [Fedimint v0.1.0 release](https://github.com/fedimint/fedimint/releases/tag/v0.1.0)
 - [UTXOracle](https://twitter.com/SteveSimple/status/1704864674431332503)
 - [Nunchuk Byzantine - collaborative custody platform for Bitcoin advisors](https://nunchuk.io/blog/byzantine)
+- [Latest Tor release supports HiddenServicePOW](https://gitlab.torproject.org/tpo/core/tor/-/commit/8b46d1c6ca20b8c99b979569c7432a97d8fc20a1)
+  - [Proposal 327: A First Take at PoW Over Introduction Circuits](https://gitlab.torproject.org/tpo/core/torspec/-/blob/main/proposals/327-pow-over-intro.txt)   
 
 R&D
 ---
@@ -53,6 +57,9 @@ Bitcoin Core
 - [BIP324 v2 transport connection support merged in a non-exposed way](https://github.com/bitcoin/bitcoin/pull/28196)
 - [Auto-CPFP when spending unconfirmed UTXOs](https://github.com/bitcoin/bitcoin/pull/26152)
 - [Removing provably unspendable UTXOs from UTXO set](https://github.com/bitcoin/bitcoin/pull/28400)
+- [p2p: Diversify automatic outbound connections with respect to networks](https://github.com/bitcoin/bitcoin/pull/27213)
+- [p2p: Restrict self-advertisements with privacy networks to avoid fingerprinting](https://github.com/bitcoin/bitcoin/pull/27411)
+- [Remove arbitrary restrictions on OP_RETURN by default](https://github.com/bitcoin/bitcoin/pull/28130)
 
 Lightning
 --------
@@ -64,3 +71,4 @@ Lightning
 - [LDK watch towers](https://github.com/lightningdevkit/rust-lightning/pull/2337)
 - [Scaling LN with simple covenants](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004092.html)
 - [SimLN: realistic payment activity generator for lightning](https://github.com/bitcoin-dev-project/sim-ln)
+- [DoS: Fake Lightning Channels](https://morehouse.github.io/lightning/fake-channel-dos/)
