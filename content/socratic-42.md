@@ -1,7 +1,6 @@
 +++
 title = "Socratic Seminar 42"
 date = 2023-10-26
-draft = true
 +++
 
 Housekeeping
@@ -25,7 +24,12 @@ Chain Weather Report
 News & Announcements
 --------------------
 
-- []() 
+- [Strike partners with Bitrefill to buy gift cards and pay for streaming services on lightning](https://nitter.net/Strike/status/1715039996946653643)
+- [FinCEN proposes strict regulation on Bitcoin mixers](https://www.fincen.gov/news/news-releases/fincen-proposes-new-regulation-enhance-transparency-convertible-virtual-currency)
+- [SEC does not appeal Grayscale ETF conversion ruling](https://www.reuters.com/markets/us/us-sec-does-not-plan-appeal-court-decision-grayscale-bitcoin-etf-source-2023-10-13/)
+- [Newsom signs California crypto licensing framework into law](https://www.coindesk.com/policy/2023/10/16/california-bitlicense-bill-signed-by-gov-newsom/)
+- [Block shares MDK hashboard prototype](https://www.mining.build/meet-the-mdk-hashboard/)
+- [Taproot Assets v0.3.0 - first mainnet release](https://github.com/lightninglabs/taproot-assets/releases/tag/v0.3.0)
 
 R&D
 ---
@@ -37,6 +41,7 @@ R&D
 Bitcoin Core
 ------------
 
+- [Bitcoin Core 25.1 released](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2023-October/000127.html)
 - [assumeutxo merged](https://github.com/bitcoin/bitcoin/pull/27596)
 - [MiniTapscript merged](https://github.com/bitcoin/bitcoin/pull/27255)
 - [MuSig2 PSBT Fields BIP](https://github.com/achow101/bips/blob/musig2-psbt/bip-musig2-psbt.mediawiki)
@@ -46,4 +51,4 @@ Bitcoin Core
 Lightning
 --------
 
-- []()
+- [Come to the SF Lightning Devs meetup at Digital Garage on 11/7/23!](https://www.meetup.com/sf-lightning-devs/events/296396863/)
