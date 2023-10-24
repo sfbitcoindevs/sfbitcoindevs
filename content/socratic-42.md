@@ -47,7 +47,7 @@ Bitcoin Core
 - [MiniTapscript merged](https://github.com/bitcoin/bitcoin/pull/27255)
 - [Covenant tools softfork proposal](https://delvingbitcoin.org/t/covenant-tools-softfork/98/1)
 - [Proposed BIP for MuSig2 PSBT Fields](https://github.com/achow101/bips/blob/musig2-psbt/bip-musig2-psbt.mediawiki)
-- [Proposed BIP for MuSig2 Discriptors](https://github.com/achow101/bips/blob/musig2-descriptors/bip-musig2-descriptors.mediawiki)
+- [Proposed BIP for MuSig2 Descriptors](https://github.com/achow101/bips/blob/musig2-descriptors/bip-musig2-descriptors.mediawiki)
 - [Draft BIP for OP_TXHASH](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021975.html)
 - [Proposed BIP for OP_CAT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022049.html)
 
