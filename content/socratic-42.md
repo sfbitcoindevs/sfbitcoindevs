@@ -34,6 +34,7 @@ News & Announcements
 R&D
 ---
 
+- [Wallet Fingerprints: Detection & Analysis](https://ishaana.com/blog/wallet_fingerprinting/)
 - [BitVM: Compute Anything on Bitcoin](https://bitvm.org/bitvm.pdf)
   - [Proof of concept implementation](https://github.com/supertestnet/tapleaf-circuits)
 - [Runes: fungible token protocol proposal](https://rodarmor.com/blog/runes/)
@@ -44,8 +45,11 @@ Bitcoin Core
 - [Bitcoin Core 25.1 released](https://lists.linuxfoundation.org/pipermail/bitcoin-core-dev/2023-October/000127.html)
 - [assumeutxo merged](https://github.com/bitcoin/bitcoin/pull/27596)
 - [MiniTapscript merged](https://github.com/bitcoin/bitcoin/pull/27255)
-- [MuSig2 PSBT Fields BIP](https://github.com/achow101/bips/blob/musig2-psbt/bip-musig2-psbt.mediawiki)
-- [MuSig2 Discriptors BIP](https://github.com/achow101/bips/blob/musig2-descriptors/bip-musig2-descriptors.mediawiki)
+- [Covenant tools softfork proposal](https://delvingbitcoin.org/t/covenant-tools-softfork/98/1)
+- [Proposed BIP for MuSig2 PSBT Fields](https://github.com/achow101/bips/blob/musig2-psbt/bip-musig2-psbt.mediawiki)
+- [Proposed BIP for MuSig2 Discriptors](https://github.com/achow101/bips/blob/musig2-descriptors/bip-musig2-descriptors.mediawiki)
+- [Draft BIP for OP_TXHASH](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021975.html)
+- [Proposed BIP for OP_CAT](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022049.html)
 
 
 Lightning
