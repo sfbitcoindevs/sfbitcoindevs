@@ -42,6 +42,7 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;r-d&quot;&gt;R&amp;amp;D&lt;&#x2F;h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ishaana.com&#x2F;blog&#x2F;wallet_fingerprinting&#x2F;&quot;&gt;Wallet Fingerprints: Detection &amp;amp; Analysis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitvm.org&#x2F;bitvm.pdf&quot;&gt;BitVM: Compute Anything on Bitcoin&lt;&#x2F;a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;tapleaf-circuits&quot;&gt;Proof of concept implementation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -54,8 +55,11 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-core-dev&#x2F;2023-October&#x2F;000127.html&quot;&gt;Bitcoin Core 25.1 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;27596&quot;&gt;assumeutxo merged&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;27255&quot;&gt;MiniTapscript merged&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;achow101&#x2F;bips&#x2F;blob&#x2F;musig2-psbt&#x2F;bip-musig2-psbt.mediawiki&quot;&gt;MuSig2 PSBT Fields BIP&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;achow101&#x2F;bips&#x2F;blob&#x2F;musig2-descriptors&#x2F;bip-musig2-descriptors.mediawiki&quot;&gt;MuSig2 Discriptors BIP&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;covenant-tools-softfork&#x2F;98&#x2F;1&quot;&gt;Covenant tools softfork proposal&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;achow101&#x2F;bips&#x2F;blob&#x2F;musig2-psbt&#x2F;bip-musig2-psbt.mediawiki&quot;&gt;Proposed BIP for MuSig2 PSBT Fields&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;achow101&#x2F;bips&#x2F;blob&#x2F;musig2-descriptors&#x2F;bip-musig2-descriptors.mediawiki&quot;&gt;Proposed BIP for MuSig2 Discriptors&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-September&#x2F;021975.html&quot;&gt;Draft BIP for OP_TXHASH&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-October&#x2F;022049.html&quot;&gt;Proposed BIP for OP_CAT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
 &lt;ul&gt;
