@@ -19,10 +19,11 @@
 &lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
 &lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
 &lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
-&lt;li&gt;The reading list covers September 23rd to October 23rd.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers September 23rd to October 26th.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.clarkmoody.com&#x2F;dashboard&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ordpool.space&#x2F;mempool-block&#x2F;0&quot;&gt;Ordpool.space&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -36,9 +37,10 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nitter.net&#x2F;Strike&#x2F;status&#x2F;1715039996946653643&quot;&gt;Strike partners with Bitrefill to buy gift cards and pay for streaming services on lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.fincen.gov&#x2F;news&#x2F;news-releases&#x2F;fincen-proposes-new-regulation-enhance-transparency-convertible-virtual-currency&quot;&gt;FinCEN proposes strict regulation on Bitcoin mixers&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reuters.com&#x2F;markets&#x2F;us&#x2F;us-sec-does-not-plan-appeal-court-decision-grayscale-bitcoin-etf-source-2023-10-13&#x2F;&quot;&gt;SEC does not appeal Grayscale ETF conversion ruling&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.coindesk.com&#x2F;policy&#x2F;2023&#x2F;10&#x2F;16&#x2F;california-bitlicense-bill-signed-by-gov-newsom&#x2F;&quot;&gt;Newsom signs California crypto licensing framework into law&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.coindesk.com&#x2F;policy&#x2F;2023&#x2F;10&#x2F;16&#x2F;california-bitlicense-bill-signed-by-gov-newsom&#x2F;&quot;&gt;Newsom signs California BitLicense framework into law&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mining.build&#x2F;meet-the-mdk-hashboard&#x2F;&quot;&gt;Block shares MDK hashboard prototype&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightninglabs&#x2F;taproot-assets&#x2F;releases&#x2F;tag&#x2F;v0.3.0&quot;&gt;Taproot Assets v0.3.0 - first mainnet release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;words.filippo.io&#x2F;dispatches&#x2F;seeds-bounty&#x2F;&quot;&gt;Announcing the $12k NIST Elliptic Curves Seeds Bounty&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;r-d&quot;&gt;R&amp;amp;D&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -48,7 +50,13 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;tapleaf-circuits&quot;&gt;Proof of concept implementation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2023&#x2F;1472&quot;&gt;Naysayer Proofs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-September&#x2F;021974.html&quot;&gt;MATT Demo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2023&#x2F;1633&quot;&gt;One-time and Revocable Ring Signature with Logarithmic Size in Blockchain&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2023&#x2F;451&quot;&gt;Non-interactive VSS using Class Groups and Application to Distributed Key Generation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rodarmor.com&#x2F;blog&#x2F;runes&#x2F;&quot;&gt;Runes: fungible token protocol proposal&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.trailofbits.com&#x2F;2023&#x2F;09&#x2F;20&#x2F;dont-overextend-your-oblivious-transfer&#x2F;&quot;&gt;Don&#x27;t overextend your Oblivious Transfer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;cybersecurity.springeropen.com&#x2F;articles&#x2F;10.1186&#x2F;s42400-023-00182-9&quot;&gt;Evicting and filling attack for linking multiple network addresses of Bitcoin nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;bitcoin-core&quot;&gt;Bitcoin Core&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -58,11 +66,12 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;covenant-tools-softfork&#x2F;98&#x2F;1&quot;&gt;Covenant tools softfork proposal&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;achow101&#x2F;bips&#x2F;blob&#x2F;musig2-psbt&#x2F;bip-musig2-psbt.mediawiki&quot;&gt;Proposed BIP for MuSig2 PSBT Fields&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;achow101&#x2F;bips&#x2F;blob&#x2F;musig2-descriptors&#x2F;bip-musig2-descriptors.mediawiki&quot;&gt;Proposed BIP for MuSig2 Descriptors&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-September&#x2F;021975.html&quot;&gt;Draft BIP for OP_TXHASH&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-September&#x2F;021975.html&quot;&gt;Draft BIP for OP_TXHASH and OP_CHECKTXHASHVERIFY&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-October&#x2F;022049.html&quot;&gt;Proposed BIP for OP_CAT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-October&#x2F;021999.html&quot;&gt;Full Disclosure: All your mempool are belong to us&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.meetup.com&#x2F;sf-lightning-devs&#x2F;events&#x2F;296396863&#x2F;&quot;&gt;Come to the SF Lightning Devs meetup at Digital Garage on 11&#x2F;7&#x2F;23!&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
