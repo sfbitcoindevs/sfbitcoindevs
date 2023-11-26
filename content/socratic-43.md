@@ -45,6 +45,7 @@ Research & Whitepapers
 - [BitStream](https://robinlinus.com/bitstream.pdf)
 - [Durabit](https://github.com/4de67a207019fd4d855ef0a188b4519c/Durabit/blob/main/Durabit%20-%20A%20Bitcoin-native%20Incentive%20Mechanism%20for%20Data%20Distribution.pdf)
 - [BitEscrow](https://github.com/BitEscrow/escrow-core)
+- [SHA256 function for BitVM](https://twitter.com/super_testnet/status/1726772975544807913)
 - [AJ Towns again examines lisp-variant for Script replacement](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022099.html)
 - [TrueVote](https://truevote.org/TrueVote.pdf)
 - [PathCoin](https://gist.github.com/AdamISZ/b462838cbc8cc06aae0c15610502e4da)
