@@ -50,6 +50,7 @@ Research & Whitepapers
 - [TrueVote](https://truevote.org/TrueVote.pdf)
 - [PathCoin](https://gist.github.com/AdamISZ/b462838cbc8cc06aae0c15610502e4da)
 - [nostrmint draft implementation](https://github.com/fedimint/fedimint/pull/3583)
+- [Dexchain Gist](https://gist.github.com/jaybny/45f34c90bd1b28cbac9592fab504c454) [Sidepit Paper](https://drive.google.com/file/d/13edfo0uhuG5JAaP6i2VTOJho1lP1AnhF/view)  
 
 Bitcoin Core
 ------------
