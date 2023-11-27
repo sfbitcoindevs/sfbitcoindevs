@@ -28,7 +28,7 @@ News & Announcements
 - [83.7 BTC transaction fee (highest ever in dollar terms)](https://twitter.com/mononautical/status/1727627818929094973)
 - [Binance and CEO Plead Guilty to Federal Charges in $4B Resolution](https://www.justice.gov/opa/pr/binance-and-ceo-plead-guilty-federal-charges-4b-resolution)
 - [Wallet of Satoshi stops serving the United States](https://nostr.com/note1cu575mfy2xdakh9aklhghhn8vmluwkh79anrh09vmexgw5m3tyrq2edm2z)
-- [Taproot Wizards raises $7.5MM](https://techcrunch.com/2023/11/16/taproot-wizards-bitcoin-ordinals/) & [Hire rot13maxi as CTO](https://x.com/rot13maxi/status/1727357665918243279)
+- [Taproot Wizards raises $7.5MM](https://techcrunch.com/2023/11/16/taproot-wizards-bitcoin-ordinals/) & [hires rot13maxi as CTO](https://x.com/rot13maxi/status/1727357665918243279)
 - [Investigation: F2Pool Filtering OFAC-Sanctioned Transactions](https://b10c.me/observations/08-missing-sanctioned-transactions/)
   - [F2Pool disabled transaction filtering patch](https://www.nobsbitcoin.com/f2pool-disables-transaction-filtering-patch/)
   - [Adam Back reshares 2013 proposal for blind symmetric commitment](https://bitcointalk.org/index.php?topic=206303.15)
