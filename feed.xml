@@ -4,8 +4,124 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2023-11-27T00:00:00+00:00</updated>
+	<updated>2024-01-29T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 44</title>
+		<published>2024-01-29T00:00:00+00:00</published>
+		<updated>2024-01-29T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-44/" type="text/html"/>
+		<id>https://www.sfbitcoindevs.org/socratic-44/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers November 25th to January 25th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard v2.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;Now with &lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;mempool-block&#x2F;0&quot;&gt;Mempool Goggles&lt;&#x2F;a&gt; in the upper left corner of each block&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;transactionfee.info&#x2F;charts&#x2F;fees-package-feerates&#x2F;&quot;&gt;Fees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinvisuals.com&#x2F;ln-capacity&quot;&gt;Lightning Network Capacity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;River&#x2F;status&#x2F;1749437948292952356&quot;&gt;River monthly routing stats&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;bitcoin-etf-hopefuls-still-expect-sec-approval-despite-social-media-hack-2024-01-10&#x2F;&quot;&gt;SEC approves spot Bitcoin ETFs&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitwiseinvestments.com&#x2F;newsroom&#x2F;bitwise-to-donate-10-percent-of-profits-of-bitb&quot;&gt;Bitwise to donate 10% of profits from BITB to Brink, OpenSats, and the Human Rights Foundation’s Bitcoin Development Fund&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;newsroom&#x2F;treasury-and-irs-announce-that-businesses-do-not-have-to-report-certain-transactions-involving-digital-assets-until-regulations-are-issued&quot;&gt;Treasury and IRS: Taxpayers Do Not Have to Report $10K+ Bitcoin Transactions As Cash Until Further Regulations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;business&#x2F;human-rights-foundation-grants-500000-to-18-bitcoin-projects-worldwide&quot;&gt;Human Rights Foundation Grants $500,000 To 18 Bitcoin Projects&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Swan&#x2F;status&#x2F;1750565936216649860&quot;&gt;Swan mining launches with ~4.5 EH&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bipbounty-org-is-open-for-your-bips&quot;&gt;Reminder: BIPBounty.org is Open for Your BIPs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;[2023 Mining Reviews] &lt;a href=&quot;https:&#x2F;&#x2F;nicosmid.substack.com&#x2F;p&#x2F;review-2023-state-of-the-network&quot;&gt;State of the Network&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;nicosmid.substack.com&#x2F;p&#x2F;review-2023-asic-market&quot;&gt;ASIC Market&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;nicosmid.substack.com&#x2F;p&#x2F;review-2023-mining-pools&quot;&gt;Mining Pools&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lopp.net&#x2F;economically-unspendable-bitcoin-utxos&#x2F;&quot;&gt;Economically Unspendable Bitcoin UTXOs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;robin_linus&#x2F;status&#x2F;1740012153816715507&quot;&gt;BitVM transaction graph diagram&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;OwenKemeys&#x2F;status&#x2F;1744181234417140076&quot;&gt;CTV use case thread&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;petertodd.org&#x2F;2024&#x2F;one-shot-replace-by-fee-rate&quot;&gt;One-Shot Replace-by-Fee-Rate&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;121541&#x2F;what-is-the-problem-with-the-recent-one-shot-replace-by-fee-rate-proposal&#x2F;121542#121542&quot;&gt;problem&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rusty.ozlabs.org&#x2F;2024&#x2F;01&#x2F;04&#x2F;OP_SEGMENT.html&quot;&gt;OP_SEGMENT: Allowing Introspection to Check Partial Scripts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rusty.ozlabs.org&#x2F;2024&#x2F;01&#x2F;16&#x2F;pay-to-tapscript.html&quot;&gt;Pay-to-Tapscript: Keyless Entry For Better Future Scripting&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rusty.ozlabs.org&#x2F;2024&#x2F;01&#x2F;08&#x2F;txhash-tx-stacking.html&quot;&gt;Transaction Stacking for Covenant Fee Minimization&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;mailing-list-delving-bitcoin&quot;&gt;Mailing list &amp;amp; Delving Bitcoin&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022195.html&quot;&gt;Addressing the possibility of profitable fee manipulation attacks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022200.html&quot;&gt;BIP: output descriptors for PSBT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022201.html&quot;&gt;Lamport scheme (not signature) to economize on L1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022208.html&quot;&gt;Kerckhoffian protocol for coercion-resistance in non-shared custody&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022215.html&quot;&gt;Swift Activation - CTV&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022275.html&quot;&gt;Introducing a version field to BIP39 mnemonic phrases&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022285.html&quot;&gt;BitBlend Proposal for 2106&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022289.html&quot;&gt;BIP process friction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022298.html&quot;&gt;One-Shot Replace-By-Fee-Rate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022269.html&quot;&gt;Update to Compressed Bitcoin Transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022282.html&quot;&gt;Update to MuSig2 derivation, descriptor, and PSBT field BIPs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;cpu-usage-of-peers&#x2F;196&quot;&gt;CPU usage of peers&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;games-in-the-head-and-fraud-proofs-for-the-plebs&quot;&gt;Games in the head (and fraud proofs for the plebs)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;op-checksigfromstackverify-ecdsa-useful&quot;&gt;OP_CHECKSIGFROMSTACKVERIFY ECDSA useful?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;stratum-v2-noise-protocol-bip324-nuggets&quot;&gt;Stratum v2 Noise Protocol: BIP324 nuggets?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;deploying-new-taproot-leaf-versions&quot;&gt;Deploying new taproot leaf versions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;64-bit-arithmetic-soft-fork&quot;&gt;64 bit arithmetic soft fork&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rusty.ozlabs.org&#x2F;2023&#x2F;12&#x2F;30&#x2F;arithmetic-opcodes.html&quot;&gt;Rusty&#x27;s article on arithmetic opcodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;an-overview-of-the-cluster-mempool-proposal&quot;&gt;An overview of the cluster mempool proposal&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;package-aware-fee-estimator-post-cluster-mempool&quot;&gt;Package aware Fee estimator post cluster mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;how-to-linearize-your-cluster&quot;&gt;How to linearize your cluster&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;emulating-curve-point-scalar-multiplication-with-op-cat&quot;&gt;Emulating curve point scalar multiplication with OP_CAT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;on-consensus-changes-in-bitcoin-2024&quot;&gt;On consensus changes in bitcoin 2024&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;unspendable-keys-in-descriptors&quot;&gt;Unspendable keys in descriptors&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;warnet-increase-tx-relay-rate&quot;&gt;Warnet + Increase Tx Relay Rate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;research&quot;&gt;Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;025&quot;&gt;Bitcoin Clique: Channel-free Off-chain Payments using Two-Shot Adaptor Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;020&quot;&gt;EROR: Efficient Repliable Onion Routing with Strong Provable Privacy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;024&quot;&gt;FlexHi: A Flexible Hierarchical Threshold&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2401.11868v1&quot;&gt;Self-Balancing Semi-Hierarchical PCNs for CBDCs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ncbi.nlm.nih.gov&#x2F;pmc&#x2F;articles&#x2F;PMC10631630&#x2F;&quot;&gt;Statistical and clustering analysis of attributes of Bitcoin backbone nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;denial-of-service-bugs-in-lnds-channel-update-gossip-handling&#x2F;314&quot;&gt;Denial-of-service bugs in LND’s channel update gossip handling&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;disclosure-btcd-consensus-bugs-due-to-usage-of-signed-transaction-version&quot;&gt;Disclosure: Btcd consensus bugs due to usage of signed transaction version&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;hacker-spins-up-1-million-virtual-servers-to-illegally-mine-crypto&#x2F;&quot;&gt;Hacker spins up 1 million virtual servers to illegally mine crypto&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2024&#x2F;01&#x2F;heres-some-bitcoin-oh-and-youve-been-served&#x2F;&quot;&gt;Here’s Some Bitcoin: Oh, and You’ve Been Served!&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;ex-amazon-engineer-pleads-guilty-to-hacking-crypto-exchanges&#x2F;&quot;&gt;Ex-Amazon engineer pleads guilty to hacking crypto exchanges&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;kroll-reveals-ftx-customer-info-exposed-in-august-data-breach&#x2F;&quot;&gt;Kroll reveals FTX customer info exposed in August data breach&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ledger.com&#x2F;blog&#x2F;a-letter-from-ledger-chairman-ceo-pascal-gauthier-regarding-ledger-connect-kit-exploit&quot;&gt;Ledger Connect Kit Exploit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;BtcpayServer&#x2F;status&#x2F;1739669361223172448&quot;&gt;LNBank Vulnerability&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;stacker.news&#x2F;items&#x2F;347361&quot;&gt;prior hack&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;johnstawinski.com&#x2F;2024&#x2F;01&#x2F;11&#x2F;playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch&#x2F;&quot;&gt;Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022220.html&quot;&gt;libsecp256k1 v0.4.1 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022301.html&quot;&gt;Full-RBF Peering Bitcoin Core v26.0 Released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;releases&#x2F;tag&#x2F;v0.0.120&quot;&gt;LDK v0.0.120&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bsst-bitcoin-like-script-symbolic-tracer-v0-1-2-released&quot;&gt;B&#x27;SST: Bitcoin-like Script Symbolic Tracer v0.1.2 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;vincenzopalazzo&#x2F;lampo.rs&quot;&gt;lampo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;mercury-layer-a-massive-improvement-on-statechains&quot;&gt;MercuryLayer initial release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fedimint&#x2F;fedimint&#x2F;releases&#x2F;tag&#x2F;v0.2.1&quot;&gt;Fedimint v0.2.1 stable MVP released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nostr.com&#x2F;note1xkz6gtymgx76rqd3h2ffyaagym3q3mk4dmrpwn95vac26mkdl37q2nf4y7&quot;&gt;Mutiny v0.5.7 adds Payjoin support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 43</title>
 		<published>2023-11-27T00:00:00+00:00</published>
@@ -831,122 +947,6 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;01&#x2F;25&#x2F;#arbitrary-data-storage-in-witness&quot;&gt;Optech&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Socratic Seminar 44</title>
-		<published>2023-01-29T00:00:00+00:00</published>
-		<updated>2023-01-29T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-44/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-44/</id>
-		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
-&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
-&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
-&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
-&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
-&lt;li&gt;The reading list covers November 25th to January 25th.&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard v2.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;
-&lt;ul&gt;
-&lt;li&gt;Now with &lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;mempool-block&#x2F;0&quot;&gt;Mempool Goggles&lt;&#x2F;a&gt; in the upper left corner of each block&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;transactionfee.info&#x2F;charts&#x2F;fees-package-feerates&#x2F;&quot;&gt;Fees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinvisuals.com&#x2F;ln-capacity&quot;&gt;Lightning Network Capacity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;River&#x2F;status&#x2F;1749437948292952356&quot;&gt;River monthly routing stats&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;bitcoin-etf-hopefuls-still-expect-sec-approval-despite-social-media-hack-2024-01-10&#x2F;&quot;&gt;SEC approves spot Bitcoin ETFs&lt;&#x2F;a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitwiseinvestments.com&#x2F;newsroom&#x2F;bitwise-to-donate-10-percent-of-profits-of-bitb&quot;&gt;Bitwise to donate 10% of profits from BITB to Brink, OpenSats, and the Human Rights Foundation’s Bitcoin Development Fund&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.irs.gov&#x2F;newsroom&#x2F;treasury-and-irs-announce-that-businesses-do-not-have-to-report-certain-transactions-involving-digital-assets-until-regulations-are-issued&quot;&gt;Treasury and IRS: Taxpayers Do Not Have to Report $10K+ Bitcoin Transactions As Cash Until Further Regulations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;business&#x2F;human-rights-foundation-grants-500000-to-18-bitcoin-projects-worldwide&quot;&gt;Human Rights Foundation Grants $500,000 To 18 Bitcoin Projects&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;Swan&#x2F;status&#x2F;1750565936216649860&quot;&gt;Swan mining launches with ~4.5 EH&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bipbounty-org-is-open-for-your-bips&quot;&gt;Reminder: BIPBounty.org is Open for Your BIPs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;[2023 Mining Reviews] &lt;a href=&quot;https:&#x2F;&#x2F;nicosmid.substack.com&#x2F;p&#x2F;review-2023-state-of-the-network&quot;&gt;State of the Network&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;nicosmid.substack.com&#x2F;p&#x2F;review-2023-asic-market&quot;&gt;ASIC Market&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;nicosmid.substack.com&#x2F;p&#x2F;review-2023-mining-pools&quot;&gt;Mining Pools&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lopp.net&#x2F;economically-unspendable-bitcoin-utxos&#x2F;&quot;&gt;Economically Unspendable Bitcoin UTXOs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;robin_linus&#x2F;status&#x2F;1740012153816715507&quot;&gt;BitVM transaction graph diagram&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;OwenKemeys&#x2F;status&#x2F;1744181234417140076&quot;&gt;CTV use case thread&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;petertodd.org&#x2F;2024&#x2F;one-shot-replace-by-fee-rate&quot;&gt;One-Shot Replace-by-Fee-Rate&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitcoin.stackexchange.com&#x2F;questions&#x2F;121541&#x2F;what-is-the-problem-with-the-recent-one-shot-replace-by-fee-rate-proposal&#x2F;121542#121542&quot;&gt;problem&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rusty.ozlabs.org&#x2F;2024&#x2F;01&#x2F;04&#x2F;OP_SEGMENT.html&quot;&gt;OP_SEGMENT: Allowing Introspection to Check Partial Scripts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rusty.ozlabs.org&#x2F;2024&#x2F;01&#x2F;16&#x2F;pay-to-tapscript.html&quot;&gt;Pay-to-Tapscript: Keyless Entry For Better Future Scripting&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rusty.ozlabs.org&#x2F;2024&#x2F;01&#x2F;08&#x2F;txhash-tx-stacking.html&quot;&gt;Transaction Stacking for Covenant Fee Minimization&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;mailing-list-delving-bitcoin&quot;&gt;Mailing list &amp;amp; Delving Bitcoin&lt;&#x2F;h2&gt;
-&lt;h4 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022195.html&quot;&gt;Addressing the possibility of profitable fee manipulation attacks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022200.html&quot;&gt;BIP: output descriptors for PSBT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022201.html&quot;&gt;Lamport scheme (not signature) to economize on L1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022208.html&quot;&gt;Kerckhoffian protocol for coercion-resistance in non-shared custody&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022215.html&quot;&gt;Swift Activation - CTV&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022275.html&quot;&gt;Introducing a version field to BIP39 mnemonic phrases&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022285.html&quot;&gt;BitBlend Proposal for 2106&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022289.html&quot;&gt;BIP process friction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022298.html&quot;&gt;One-Shot Replace-By-Fee-Rate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022269.html&quot;&gt;Update to Compressed Bitcoin Transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022282.html&quot;&gt;Update to MuSig2 derivation, descriptor, and PSBT field BIPs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h4 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;cpu-usage-of-peers&#x2F;196&quot;&gt;CPU usage of peers&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;games-in-the-head-and-fraud-proofs-for-the-plebs&quot;&gt;Games in the head (and fraud proofs for the plebs)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;op-checksigfromstackverify-ecdsa-useful&quot;&gt;OP_CHECKSIGFROMSTACKVERIFY ECDSA useful?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;stratum-v2-noise-protocol-bip324-nuggets&quot;&gt;Stratum v2 Noise Protocol: BIP324 nuggets?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;deploying-new-taproot-leaf-versions&quot;&gt;Deploying new taproot leaf versions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;64-bit-arithmetic-soft-fork&quot;&gt;64 bit arithmetic soft fork&lt;&#x2F;a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rusty.ozlabs.org&#x2F;2023&#x2F;12&#x2F;30&#x2F;arithmetic-opcodes.html&quot;&gt;Rusty&#x27;s article on arithmetic opcodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;an-overview-of-the-cluster-mempool-proposal&quot;&gt;An overview of the cluster mempool proposal&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;package-aware-fee-estimator-post-cluster-mempool&quot;&gt;Package aware Fee estimator post cluster mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;how-to-linearize-your-cluster&quot;&gt;How to linearize your cluster&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;emulating-curve-point-scalar-multiplication-with-op-cat&quot;&gt;Emulating curve point scalar multiplication with OP_CAT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;on-consensus-changes-in-bitcoin-2024&quot;&gt;On consensus changes in bitcoin 2024&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;unspendable-keys-in-descriptors&quot;&gt;Unspendable keys in descriptors&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;warnet-increase-tx-relay-rate&quot;&gt;Warnet + Increase Tx Relay Rate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
-&lt;h4 id=&quot;research&quot;&gt;Research&lt;&#x2F;h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;025&quot;&gt;Bitcoin Clique: Channel-free Off-chain Payments using Two-Shot Adaptor Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;020&quot;&gt;EROR: Efficient Repliable Onion Routing with Strong Provable Privacy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;024&quot;&gt;FlexHi: A Flexible Hierarchical Threshold&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2401.11868v1&quot;&gt;Self-Balancing Semi-Hierarchical PCNs for CBDCs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ncbi.nlm.nih.gov&#x2F;pmc&#x2F;articles&#x2F;PMC10631630&#x2F;&quot;&gt;Statistical and clustering analysis of attributes of Bitcoin backbone nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h4 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;denial-of-service-bugs-in-lnds-channel-update-gossip-handling&#x2F;314&quot;&gt;Denial-of-service bugs in LND’s channel update gossip handling&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;disclosure-btcd-consensus-bugs-due-to-usage-of-signed-transaction-version&quot;&gt;Disclosure: Btcd consensus bugs due to usage of signed transaction version&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;hacker-spins-up-1-million-virtual-servers-to-illegally-mine-crypto&#x2F;&quot;&gt;Hacker spins up 1 million virtual servers to illegally mine crypto&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;krebsonsecurity.com&#x2F;2024&#x2F;01&#x2F;heres-some-bitcoin-oh-and-youve-been-served&#x2F;&quot;&gt;Here’s Some Bitcoin: Oh, and You’ve Been Served!&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;ex-amazon-engineer-pleads-guilty-to-hacking-crypto-exchanges&#x2F;&quot;&gt;Ex-Amazon engineer pleads guilty to hacking crypto exchanges&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;kroll-reveals-ftx-customer-info-exposed-in-august-data-breach&#x2F;&quot;&gt;Kroll reveals FTX customer info exposed in August data breach&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ledger.com&#x2F;blog&#x2F;a-letter-from-ledger-chairman-ceo-pascal-gauthier-regarding-ledger-connect-kit-exploit&quot;&gt;Ledger Connect Kit Exploit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;BtcpayServer&#x2F;status&#x2F;1739669361223172448&quot;&gt;LNBank Vulnerability&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;stacker.news&#x2F;items&#x2F;347361&quot;&gt;prior hack&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;johnstawinski.com&#x2F;2024&#x2F;01&#x2F;11&#x2F;playing-with-fire-how-we-executed-a-critical-supply-chain-attack-on-pytorch&#x2F;&quot;&gt;Playing with Fire – How We Executed a Critical Supply Chain Attack on PyTorch&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2023-December&#x2F;022220.html&quot;&gt;libsecp256k1 v0.4.1 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2024-January&#x2F;022301.html&quot;&gt;Full-RBF Peering Bitcoin Core v26.0 Released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;releases&#x2F;tag&#x2F;v0.0.120&quot;&gt;LDK v0.0.120&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bsst-bitcoin-like-script-symbolic-tracer-v0-1-2-released&quot;&gt;B&#x27;SST: Bitcoin-like Script Symbolic Tracer v0.1.2 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;vincenzopalazzo&#x2F;lampo.rs&quot;&gt;lampo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;mercury-layer-a-massive-improvement-on-statechains&quot;&gt;MercuryLayer initial release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;fedimint&#x2F;fedimint&#x2F;releases&#x2F;tag&#x2F;v0.2.1&quot;&gt;Fedimint v0.2.1 stable MVP released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nostr.com&#x2F;note1xkz6gtymgx76rqd3h2ffyaagym3q3mk4dmrpwn95vac26mkdl37q2nf4y7&quot;&gt;Mutiny v0.5.7 adds Payjoin support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
