@@ -5,7 +5,7 @@
 These are good places to start when compiling the reading List:
 
 - Bitcoin Optech - https://bitcoinops.org/en/publications/
-- bitcoin-dev - https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
+- bitcoin-dev - https://groups.google.com/g/bitcoindev
 - lightning-dev - https://lists.linuxfoundation.org/pipermail/lightning-dev/
 - Murch's Twitter - https://twitter.com/murchandamus
 - Bitcoin PR Review Club - https://bitcoincore.reviews/
