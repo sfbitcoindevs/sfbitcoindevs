@@ -51,7 +51,6 @@ Mailing list & Delving Bitcoin
 CVEs and Research
 -----------------
 #### Research
-- []()
 
 #### InfoSec
 - [Public disclosure of block-stalling bug in Core prior to v22.0](https://delvingbitcoin.org/t/block-stalling-issue-in-core-prior-to-v22-0/499)
