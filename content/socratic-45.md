@@ -1,7 +1,6 @@
 +++
 title = "Socratic Seminar 44"
 date = 2024-02-29
-draft = true
 +++
 
 Housekeeping
@@ -25,10 +24,14 @@ Chain Weather Report
 News & Announcements
 --------------------
 
+- [GiveCrypto donates $3.6MM to Brink](https://twitter.com/bitcoinbrink/status/1758544229721120870)
 - [Braiins adds Lightning payouts](https://twitter.com/BraiinsMining/status/1760319741560856983)
+- [Marathon launches Slipstream](https://ir.mara.com/news-events/press-releases/detail/1343/marathon-digital-holdings-launches-slipstream)
+- [Sharing the code behind Bitkey](https://bitkey.build/sharing-the-code-behind-bitkey/)
 - [Magic Eden uses Coinbase to pay for consolidation fees](https://twitter.com/mononautical/status/1758262223456162279)
-- [Valid same word mnemonics](https://twitter.com/raw_avocado/status/1753041127215604066)
+- [Sirius releases emails with Satoshi as part of COPA trial](https://mmalmi.github.io/satoshi/)
 - [Citrea claims to have a ZK proof verifier using BitVM](https://www.blog.citrea.xyz/introducing-citrea/)
+  - [They also raised a $2.7MM seed round](https://www.blog.citrea.xyz/announcing-our-seed-round/)
 
 Mailing list & Delving Bitcoin
 ------------------------------
@@ -49,18 +52,11 @@ CVEs and Research
 -----------------
 #### Research
 - []()
-- []()
-- []()
 
 #### InfoSec
 - [Public disclosure of block-stalling bug in Core prior to v22.0](https://delvingbitcoin.org/t/block-stalling-issue-in-core-prior-to-v22-0/499)
-- []()
-- []()
 
 Releases
 --------
 
-- []()
-- []()
-- []()
-- []()
+- [Phoenix 2.2.0 with Swaproot](https://acinq.co/blog/phoenix-swaproot)
