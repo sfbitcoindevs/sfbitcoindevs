@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Bitcoin Devs | Socratic Seminar 44
+    </title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Bitcoin Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+        
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Bitcoin Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/sfbitcoindevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sfbitcoindevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sflightningdevs.org" target="_blank">SF LitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 44</h1>
+<p><strong>2024-02-29</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a href="https://dg717.com/">Digital Garage</a>, <a href="https://bitrefill.com/">Bitrefill</a>, and <a href="https://cardcoins.co">CardCoins</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers November 25th to January 25th.</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a href="https://dashboard.clarkmoody.com/">Clark Moody Dashboard v2.0</a></li>
+<li><a href="https://www.bitcoin-mempool.info/#BTC,30d,weight">Mempool</a></li>
+<li><a href="https://transactionfee.info/charts/fees-package-feerates/">Fees</a></li>
+<li><a href="https://bitcoinvisuals.com/ln-capacity">Lightning Network Capacity</a></li>
+</ul>
+<h2 id="news-announcements">News &amp; Announcements</h2>
+<ul>
+<li><a href="https://twitter.com/bitcoinbrink/status/1758544229721120870">GiveCrypto donates $3.6MM to Brink</a></li>
+<li><a href="https://twitter.com/BraiinsMining/status/1760319741560856983">Braiins adds Lightning payouts</a></li>
+<li><a href="https://ir.mara.com/news-events/press-releases/detail/1343/marathon-digital-holdings-launches-slipstream">Marathon launches Slipstream</a></li>
+<li><a href="https://bitkey.build/sharing-the-code-behind-bitkey/">Sharing the code behind Bitkey</a></li>
+<li><a href="https://twitter.com/mononautical/status/1758262223456162279">Magic Eden uses Coinbase to pay for consolidation fees</a></li>
+<li><a href="https://mmalmi.github.io/satoshi/">Sirius releases emails with Satoshi as part of COPA trial</a></li>
+<li><a href="https://www.blog.citrea.xyz/introducing-citrea/">Citrea claims to have a ZK proof verifier using BitVM</a>
+<ul>
+<li><a href="https://www.blog.citrea.xyz/announcing-our-seed-round/">They also raised a $2.7MM seed round</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="mailing-list-delving-bitcoin">Mailing list &amp; Delving Bitcoin</h2>
+<h4 id="bitcoin-dev"><a href="https://groups.google.com/g/bitcoindev">bitcoin-dev</a></h4>
+<ul>
+<li><a href="https://groups.google.com/g/bitcoindev">Bitcoin Dev mailing list is now on Google Groups</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/uATaflkYglQ">Mapping Human-Readable Names to Payment Instructions</a></li>
+<li><a href="https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-October/022042.html">OP_Expire and Coinbase-Like Behavior</a></li>
+</ul>
+<h4 id="delving-bitcoin"><a href="https://delvingbitcoin.org/">Delving Bitcoin</a></h4>
+<ul>
+<li><a href="https://delvingbitcoin.org/t/mempool-incentive-compatibility/553">Mempool incentive compatibility</a></li>
+<li><a href="https://delvingbitcoin.org/t/analysis-of-attempting-to-imbue-ln-commitment-transaction-spends-with-v3-semantics/527">Analysis of attempting to imbue LN commitment transaction spends with v3 semantics</a></li>
+<li><a href="https://delvingbitcoin.org/t/building-intuition-for-the-cashu-blind-signature-scheme/506">Building intuition for the cashu blind signature scheme</a></li>
+<li><a href="https://delvingbitcoin.org/t/v3-and-some-possible-futures/523">Ideas for relay enhancements after cluster mempool is deployed</a></li>
+<li><a href="https://delvingbitcoin.org/t/basic-vault-prototype-using-op-cat/576">Basic vault prototype using OP_CAT</a></li>
+<li><a href="https://delvingbitcoin.org/t/an-onchain-implementation-of-mining-feerate-futures/547">An onchain implementation of mining feerate futures</a></li>
+</ul>
+<h2 id="cves-and-research">CVEs and Research</h2>
+<h4 id="research">Research</h4>
+<h4 id="infosec">InfoSec</h4>
+<ul>
+<li><a href="https://delvingbitcoin.org/t/block-stalling-issue-in-core-prior-to-v22-0/499">Public disclosure of block-stalling bug in Core prior to v22.0</a></li>
+</ul>
+<h2 id="releases">Releases</h2>
+<ul>
+<li><a href="https://acinq.co/blog/phoenix-swaproot">Phoenix 2.2.0 with Swaproot</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+        Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a>,
+        <a href="https://www.bitrefill.com/">Bitrefill</a>, 
+        and <a href="https://cardcoins.co">CardCoins</a>.
+      </span>
+    </footer>
+  </body>
+</html>
