@@ -1,6 +1,6 @@
 +++
-title = "Socratic Seminar 44"
-date = 2024-02-29
+title = "Socratic Seminar 45"
+date = 2024-02-26
 +++
 
 Housekeeping
@@ -32,6 +32,8 @@ News & Announcements
 - [Sirius releases emails with Satoshi as part of COPA trial](https://mmalmi.github.io/satoshi/)
 - [Citrea claims to have a ZK proof verifier using BitVM](https://www.blog.citrea.xyz/introducing-citrea/)
   - [They also raised a $2.7MM seed round](https://www.blog.citrea.xyz/announcing-our-seed-round/)
+- [BIP Land](https://www.quantumcats.xyz/bip-land)
+- [Mercury Layer](https://mercurylayer.com/)
 
 Mailing list & Delving Bitcoin
 ------------------------------
