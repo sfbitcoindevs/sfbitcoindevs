@@ -4,12 +4,12 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2024-02-29T00:00:00+00:00</updated>
+	<updated>2024-02-26T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
 	<entry xml:lang="en">
-		<title>Socratic Seminar 44</title>
-		<published>2024-02-29T00:00:00+00:00</published>
-		<updated>2024-02-29T00:00:00+00:00</updated>
+		<title>Socratic Seminar 45</title>
+		<published>2024-02-26T00:00:00+00:00</published>
+		<updated>2024-02-26T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-45/" type="text/html"/>
 		<id>https://www.sfbitcoindevs.org/socratic-45/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
@@ -41,6 +41,8 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.blog.citrea.xyz&#x2F;announcing-our-seed-round&#x2F;&quot;&gt;They also raised a $2.7MM seed round&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.quantumcats.xyz&#x2F;bip-land&quot;&gt;BIP Land&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mercurylayer.com&#x2F;&quot;&gt;Mercury Layer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;mailing-list-delving-bitcoin&quot;&gt;Mailing list &amp;amp; Delving Bitcoin&lt;&#x2F;h2&gt;
 &lt;h4 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
