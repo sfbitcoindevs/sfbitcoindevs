@@ -26,6 +26,7 @@ News & Announcements
 
 - [Craight Wright is not Satoshi](https://bitcoinmagazine.com/legal/craig-wright-is-not-the-inventor-of-bitcoin-judge-rules)
 - [MicroStrategy now holds more than 210,000 BTC](https://twitter.com/saylor/status/1770061111146033385)
+- [Braiins Pool adds Lightning payouts](https://twitter.com/BraiinsMining/status/1760319741560856983)
 - [Mathematical limit on bitcoin fees](https://twitter.com/MrHodl/status/1761755745580716287)
 - [Introducing SRI 1.0.0](https://stratumprotocol.org/blog/sri-1-0-0/)
 - [Mercury Layer's Lightning Latch Swap Protocol](https://bitcoinmagazine.com/technical/mercury-layers-lightning-latch-swap-protocol)
