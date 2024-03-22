@@ -1,7 +1,6 @@
 +++
 title = "Socratic Seminar 46"
 date = 2024-03-25
-draft = true
 +++
 
 Housekeeping
@@ -26,7 +25,9 @@ News & Announcements
 --------------------
 
 - [Craight Wright is not Satoshi](https://bitcoinmagazine.com/legal/craig-wright-is-not-the-inventor-of-bitcoin-judge-rules)
+- [MicroStrategy now holds more than 210,000 BTC](https://twitter.com/saylor/status/1770061111146033385)
 - [Mathematical limit on bitcoin fees](https://twitter.com/MrHodl/status/1761755745580716287)
+- [Introducing SRI 1.0.0](https://stratumprotocol.org/blog/sri-1-0-0/)
 - [Mercury Layer's Lightning Latch Swap Protocol](https://bitcoinmagazine.com/technical/mercury-layers-lightning-latch-swap-protocol)
 - [HRF offers grants to 14 projects ](https://hrf.org/devfund2024q1)
 - [Marathon introduces Anduro layer-two](https://ir.mara.com/news-events/press-releases/detail/1344/marathon-digital-holdings-introduces-anduro-a-new)
@@ -41,6 +42,7 @@ Mailing list & Delving Bitcoin
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
 - [Perpetually KYC'd Coins Using Evil Covenants](https://delvingbitcoin.org/t/perpetually-kycd-coins-using-evil-covenants)
 - [Chia Lisp For Beginners](https://delvingbitcoin.org/t/chia-lisp-for-bitcoiners/636) & [BTC Lisp as an alternative to Script](https://delvingbitcoin.org/t/btc-lisp-as-an-alternative-to-script/682)
+- [BIP324 Proxy](https://delvingbitcoin.org/t/bip324-proxy-easy-integration-of-v2-transport-protocol-for-light-clients-poc/678)
 - [Trustless onchain betting on potential softforks](https://delvingbitcoin.org/t/economic-majority-signaling-for-op-ctv-activation/635)
 - [Updating BIP21 `bitcoin:` URIs](https://delvingbitcoin.org/t/revisiting-bip21/630)
 - [State minimization in MuSig2 signing sessions](https://delvingbitcoin.org/t/state-minimization-in-musig2-signing-sessions/626)
@@ -49,8 +51,10 @@ Mailing list & Delving Bitcoin
 CVEs and Research
 -----------------
 #### Research
+- [Re-Randomized FROST](https://eprint.iacr.org/2024/436)
 
 #### InfoSec
+- [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
 
 Releases
 --------
