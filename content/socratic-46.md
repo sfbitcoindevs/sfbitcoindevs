@@ -13,6 +13,11 @@ Housekeeping
 - Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.
 - The reading list covers February 25th to March 22nd.
 
+Mini-presentation
+-----------------
+
+- secp256k1-jdk: A modern Java API and implementation of secp256k1 for Java, JDK, and JVM languages. 5 minutes + Q & A.
+
 Chain Weather Report
 --------------------
 
