@@ -36,7 +36,7 @@ News & Announcements
 - [Mercury Layer's Lightning Latch Swap Protocol](https://bitcoinmagazine.com/technical/mercury-layers-lightning-latch-swap-protocol)
 - [HRF offers grants to 14 projects ](https://hrf.org/devfund2024q1)
 - [Marathon introduces Anduro layer-two](https://ir.mara.com/news-events/press-releases/detail/1344/marathon-digital-holdings-introduces-anduro-a-new)
-- [Bitkey code open sourced](https://bitkey.build/sharing-the-code-behind-bitkey/)
+- [Anduro layer-two](https://www.anduro.io/)
 - [TwoTwenty signing device](https://twitter.com/afilini/status/1766085500106920268)
 
 Mailing list & Delving Bitcoin
@@ -62,6 +62,8 @@ CVEs and Research
 #### Research
 
 - [Re-Randomized FROST](https://eprint.iacr.org/2024/436)
+- [Feldman's Verifiable Secret Sharing for a Dishonest Majority](https://eprint.iacr.org/2024/031)
+- [Accumulation without Homomorphism](https://eprint.iacr.org/2024/474)
 - [Spaces Protocol](https://spacesprotocol.org/)
 
 #### InfoSec
