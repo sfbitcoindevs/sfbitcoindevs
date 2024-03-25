@@ -38,6 +38,7 @@ News & Announcements
 - [Marathon introduces Anduro layer-two](https://ir.mara.com/news-events/press-releases/detail/1344/marathon-digital-holdings-introduces-anduro-a-new)
 - [Anduro layer-two](https://www.anduro.io/)
 - [TwoTwenty signing device](https://twitter.com/afilini/status/1766085500106920268)
+- [Bitcoin Maximalism is Dead, Long Live Bitcoin](https://medium.com/@mike.brock/bitcoin-maximalism-is-dead-long-live-bitcoin-36df4ba12eff) & [Hyperbitcoinization Won’t Happen Because Political Economy is Important](https://medium.com/@mike.brock/hyperbitcoinization-wont-happen-because-political-economy-is-important-and-nobody-understands-it-a19543b98489)
 
 Mailing list & Delving Bitcoin
 ------------------------------
