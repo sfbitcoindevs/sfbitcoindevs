@@ -31,8 +31,6 @@ News & Announcements
 --------------------
 
 - [Craight Wright is not Satoshi](https://bitcoinmagazine.com/legal/craig-wright-is-not-the-inventor-of-bitcoin-judge-rules)
-- [MicroStrategy now holds more than 210,000 BTC](https://twitter.com/saylor/status/1770061111146033385)
-- [Braiins Pool adds Lightning payouts](https://twitter.com/BraiinsMining/status/1760319741560856983)
 - [Mathematical limit on bitcoin fees](https://twitter.com/MrHodl/status/1761755745580716287)
 - [Introducing SRI 1.0.0](https://stratumprotocol.org/blog/sri-1-0-0/)
 - [Mercury Layer's Lightning Latch Swap Protocol](https://bitcoinmagazine.com/technical/mercury-layers-lightning-latch-swap-protocol)
@@ -43,10 +41,13 @@ News & Announcements
 
 Mailing list & Delving Bitcoin
 ------------------------------
+
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
+
 - [Adding new BIP editors](https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA)
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
+
 - [Perpetually KYC'd Coins Using Evil Covenants](https://delvingbitcoin.org/t/perpetually-kycd-coins-using-evil-covenants)
 - [Chia Lisp For Beginners](https://delvingbitcoin.org/t/chia-lisp-for-bitcoiners/636) & [BTC Lisp as an alternative to Script](https://delvingbitcoin.org/t/btc-lisp-as-an-alternative-to-script/682)
 - [BIP324 Proxy](https://delvingbitcoin.org/t/bip324-proxy-easy-integration-of-v2-transport-protocol-for-light-clients-poc/678)
@@ -57,10 +58,14 @@ Mailing list & Delving Bitcoin
 
 CVEs and Research
 -----------------
+
 #### Research
+
 - [Re-Randomized FROST](https://eprint.iacr.org/2024/436)
+- [Spaces Protocol](https://spacesprotocol.org/)
 
 #### InfoSec
+
 - [Unpatchable vulnerability in Apple chip leaks secret encryption keys](https://arstechnica.com/security/2024/03/hackers-can-extract-secret-encryption-keys-from-apples-mac-chips/)
 
 Releases
