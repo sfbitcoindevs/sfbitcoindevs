@@ -41,7 +41,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;mercury-layers-lightning-latch-swap-protocol&quot;&gt;Mercury Layer&#x27;s Lightning Latch Swap Protocol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hrf.org&#x2F;devfund2024q1&quot;&gt;HRF offers grants to 14 projects &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ir.mara.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1344&#x2F;marathon-digital-holdings-introduces-anduro-a-new&quot;&gt;Marathon introduces Anduro layer-two&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitkey.build&#x2F;sharing-the-code-behind-bitkey&#x2F;&quot;&gt;Bitkey code open sourced&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.anduro.io&#x2F;&quot;&gt;Anduro layer-two&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;afilini&#x2F;status&#x2F;1766085500106920268&quot;&gt;TwoTwenty signing device&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;mailing-list-delving-bitcoin&quot;&gt;Mailing list &amp;amp; Delving Bitcoin&lt;&#x2F;h2&gt;
@@ -63,6 +63,8 @@
 &lt;h4 id=&quot;research&quot;&gt;Research&lt;&#x2F;h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;436&quot;&gt;Re-Randomized FROST&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;031&quot;&gt;Feldman&#x27;s Verifiable Secret Sharing for a Dishonest Majority&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;474&quot;&gt;Accumulation without Homomorphism&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;spacesprotocol.org&#x2F;&quot;&gt;Spaces Protocol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h4 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h4&gt;
