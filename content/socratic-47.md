@@ -38,10 +38,13 @@ Mailing list & Delving Bitcoin
 ------------------------------
 
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
-
+- [The Future of Bitcoin Testnet](https://groups.google.com/g/bitcoindev/c/9bL00vRj7OU/m/t6lm-nKmAQAJ)
+- [Great Consensus Cleanup Revival](https://groups.google.com/g/bitcoindev/c/CAfm7D5ppjo/m/bYJ3BiOuAAAJ)
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
-
+- [Exploding Keys - Covenant construction](https://delvingbitcoin.org/t/exploding-keys-covenant-construction)
+- [Second Look at Weak Blocks](https://delvingbitcoin.org/t/second-look-at-weak-blocks/805)
+- [Research into the effects of a cluster size limited mempool in 2023](https://delvingbitcoin.org/t/research-into-the-effects-of-a-cluster-size-limited-mempool-in-2023)
 
 
 CVEs and Research
@@ -63,4 +66,5 @@ CVEs and Research
  
 Releases
 --------
-
+- [bitcoin-inquisition v25.2](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v25.2-inq)
+- [Bitcoin Core v27.0](https://github.com/bitcoin/bitcoin/releases/tag/v27.0)
