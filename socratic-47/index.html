@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Bitcoin Devs | Socratic Seminar 47
+    </title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Bitcoin Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+        
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Bitcoin Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/sfbitcoindevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sfbitcoindevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sflightningdevs.org" target="_blank">SF LitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 47</h1>
+<p><strong>2024-04-29</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a href="https://dg717.com/">Digital Garage</a>, <a href="https://bitrefill.com/">Bitrefill</a>, and <a href="https://bitnomial.com">Bitnomial</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers March 22nd to April 29th.</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a href="https://dashboard.clarkmoody.com/">Clark Moody Dashboard</a></li>
+<li><a href="https://www.bitcoin-mempool.info/#BTC,30d,weight">Mempool</a></li>
+<li><a href="https://mempool.space/graphs/mempool#1m">Mempool</a></li>
+<li><a href="https://mempool.space/graphs/mining/block-fee-rates#1m">Block Fee Rates</a></li>
+<li><a href="https://mempool.space/graphs/mining/block-rewards#3m">Block Rewards 3m</a></li>
+<li><a href="https://mempool.space/graphs/mining/block-rewards#1m">Block Rewards 1m</a></li>
+<li><a href="https://mempool.space/graphs/lightning/nodes-channels-map">Lightning Network World Map</a></li>
+</ul>
+<h2 id="news-announcements">News &amp; Announcements</h2>
+<ul>
+<li>ViaBTC mines the halving block - <a href="https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5">Block reward 40.71 BTC</a>
+<ul>
+<li><a href="https://twitter.com/0xB10C/status/1781495854496362628">Halving Block Mined Replay</a></li>
+<li><a href="https://twitter.com/mononautical/status/1783528618720727288">Epic sat sold for 33.3 BTC</a></li>
+<li><a href="https://twitter.com/0xB10C/status/1781477794762965193/photo/1">Spiderpool attempts reorg</a></li>
+<li><a href="https://jimmysong.medium.com/halving-fee-chaos-4573b3c8bc9f">Halving Fee Chaos</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/0xB10C/status/1780611768081121700">47% of hashrate block templates often the same</a></li>
+<li><a href="https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering">Founders And CEO Of Cryptocurrency Mixing Service Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses</a>
+<ul>
+<li><a href="https://www.nobsbitcoin.com/zksnacks-is-now-blocking-u-s-residents-and-citizens/">Wasabi Wallet pulls support for US users</a></li>
+<li><a href="https://twitter.com/acinq_co/status/1783878732865740940">Phoneix pulls support for US users</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/TheBlueMatt/status/1780316184400769439">Case against Bitcoin Developers Dropped</a></li>
+<li><a href="https://twitter.com/AutismCapital/status/1784026264984269304">DTCC on Collateral for Bitcoin ETFs</a>
+<ul>
+<li><a href="https://cointelegraph.com/news/dtcc-rules-out-collateral-for-bitcoin-linked-etfs">More on DTCC and ETFs</a></li>
+</ul>
+</li>
+<li><a href="https://ordinals.com/runes">Runes launch</a>
+<ul>
+<li><a href="https://bitcoinmagazine.com/technical/rodarmor-returns-announces-runes-protocol-to-compete-with-brc-20">More on Runes</a></li>
+</ul>
+</li>
+<li><a href="https://www.theblock.co/post/291519/bitcoin-testnet-griefing-attack-generates-three-years-worth-of-blocks-in-one-week-frustrating-developers">Testnet Griefing</a>
+<ul>
+<li><a href="https://gnusha.org/pi/bitcoindev/CADL_X_eXjbRFROuJU0b336vPVy5Q2RJvhcx64NSNPH-3fDCUfw@mail.gmail.com/">The Future of Bitcoin Testnet</a></li>
+</ul>
+</li>
+<li><a href="https://twitter.com/callebtc/status/1777598819355496587">Cashu Live Tests</a></li>
+</ul>
+<h2 id="discussion">Discussion</h2>
+<h4 id="tweets-blogs">Tweets &amp; Blogs</h4>
+<ul>
+<li><a href="https://twitter.com/murchandamus/status/1783867419615744454">How Does Coin Grinder Find the min input weight?</a></li>
+<li><a href="https://twitter.com/murchandamus/status/1736866298242695186">Core Doesn't Store UTXO Set in Memory</a></li>
+<li><a href="https://bluematt.bitcoin.ninja/2024/04/16/stop-calling-it-mev/">Stop Calling It MEV</a></li>
+<li><a href="https://cyber.fund/content/the-spectre-of-mev-on-bitcoin">The Spectre of MEV on Bitcoin</a></li>
+</ul>
+<h4 id="bitcoin-dev"><a href="https://groups.google.com/g/bitcoindev">bitcoin-dev</a></h4>
+<ul>
+<li><a href="https://gnusha.org/pi/bitcoindev/CAMHHROw9mZJRnTbUo76PdqwJU==YJMvd9Qrst+nmyypaedYZgg@mail.gmail.com/T/#m654f52c426bd5696d88668b3bff25197846e14af">Adding new BIP editors</a>
+<ul>
+<li><a href="https://blog.bitmex.com/assigning-bip-numbers/">BitMEX Research - Assigning BIP Numbers</a></li>
+<li>Bryan “Kanzure” Bishop, Jon Atack, Mark “Murch” Erhardt, Olaoluwa “Roasbeef” Osuntokun, and Ruben Somsen</li>
+<li><a href="https://github.com/bitcoin/bips/blob/master/bip-0002.mediawiki">BIP2</a></li>
+</ul>
+</li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/CAfm7D5ppjo/m/bYJ3BiOuAAAJ">Great Consensus Cleanup Revival</a></li>
+</ul>
+<h4 id="delving-bitcoin"><a href="https://delvingbitcoin.org/">Delving Bitcoin</a></h4>
+<ul>
+<li><a href="https://delvingbitcoin.org/t/exploding-keys-covenant-construction">Exploding Keys - Covenant construction</a></li>
+<li><a href="https://delvingbitcoin.org/t/second-look-at-weak-blocks/805">Second Look at Weak Blocks</a></li>
+<li><a href="https://delvingbitcoin.org/t/research-into-the-effects-of-a-cluster-size-limited-mempool-in-2023">Research into the effects of a cluster size limited mempool in 2023</a></li>
+<li><a href="https://delvingbitcoin.org/t/dsl-for-experimenting-with-contracts/748">DSL for Contracts</a>
+<ul>
+<li><a href="https://delvingbitcoin.org/t/dsl-for-experimenting-with-contracts/748/3">Tree++</a></li>
+</ul>
+</li>
+</ul>
+<h2 id="cves-and-research">CVEs and Research</h2>
+<h4 id="research">Research</h4>
+<ul>
+<li><a href="https://eprint.iacr.org/2024/466">Arctic: Lightweight and Stateless Threshold Schnorr Signatures</a></li>
+<li><a href="https://bitvm.org/bitvm2">BitVM 2: Permissionless Verification on Bitcoin</a></li>
+<li><a href="https://eprint.iacr.org/2024/437">Insecurity of MuSig and BN Multi-Signatures with Delayed Message Selection</a></li>
+</ul>
+<h4 id="infosec">InfoSec</h4>
+<ul>
+<li><a href="https://research.swtch.com/xz-timeline">CVE-2024-3094: Timeline of the xz open source attack</a>
+<ul>
+<li><a href="https://boehs.org/node/everything-i-know-about-the-xz-backdoor">Everything I Know About the XZ Backdoor</a></li>
+<li><a href="https://www.openwall.com/lists/oss-security/2024/03/29/4">OSS-security post</a></li>
+<li><a href="https://gist.github.com/thesamesam/223949d5a074ebc3dce9ee78baad9e27">FAQ on the xz-utils backdoor</a></li>
+<li><a href="https://infosec.exchange/@fr0gger/112189232773640259">Infographic</a></li>
+<li><a href="https://twitter.com/amlweems/status/1774819428208689241">XZ Backdoor Reverse Engineering</a></li>
+<li><a href="https://twitter.com/robmen/status/1774067844785086775">Maintainer Burnout</a></li>
+</ul>
+</li>
+<li><a href="https://b10c.me/blog/012-viabtc-spv-vulnerability-disclosure/">Vuln Disclosure: ViaBTC SPV client</a></li>
+</ul>
+<h2 id="releases">Releases</h2>
+<ul>
+<li><a href="https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-27.0.md">Bitcoin Core 27.0</a></li>
+<li><a href="https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v25.2-inq">bitcoin-inquisition v25.2</a></li>
+<li><a href="https://github.com/bitcoin-core/HWI/releases/tag/3.0.0">HWI 3.0</a></li>
+<li><a href="https://github.com/ACINQ/phoenixd">phoenixd</a>
+<ul>
+<li><a href="https://twitter.com/PhoenixWallet/status/1771236080680841668">phoenixd announcement</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/bithyve/bitcoin-keeper/releases/tag/v1.2.1">Bitcoin Keeper v1.2.1</a></li>
+<li><a href="https://github.com/bitcoinj/bitcoinj/releases/tag/v0.17-alpha4">bitcoinj 0.17-alpha4</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+        Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a>,
+        <a href="https://www.bitrefill.com/">Bitrefill</a>, 
+        and <a href="https://cardcoins.co">CardCoins</a>.
+      </span>
+    </footer>
+  </body>
+</html>

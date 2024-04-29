@@ -4,8 +4,134 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2024-03-25T00:00:00+00:00</updated>
+	<updated>2024-04-29T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 47</title>
+		<published>2024-04-29T00:00:00+00:00</published>
+		<updated>2024-04-29T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-47/" type="text/html"/>
+		<id>https://www.sfbitcoindevs.org/socratic-47/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers March 22nd to April 29th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#3m&quot;&gt;Block Rewards 3m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;lightning&#x2F;nodes-channels-map&quot;&gt;Lightning Network World Map&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;ViaBTC mines the halving block - &lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;block&#x2F;0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5&quot;&gt;Block reward 40.71 BTC&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;0xB10C&#x2F;status&#x2F;1781495854496362628&quot;&gt;Halving Block Mined Replay&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;mononautical&#x2F;status&#x2F;1783528618720727288&quot;&gt;Epic sat sold for 33.3 BTC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;0xB10C&#x2F;status&#x2F;1781477794762965193&#x2F;photo&#x2F;1&quot;&gt;Spiderpool attempts reorg&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jimmysong.medium.com&#x2F;halving-fee-chaos-4573b3c8bc9f&quot;&gt;Halving Fee Chaos&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;0xB10C&#x2F;status&#x2F;1780611768081121700&quot;&gt;47% of hashrate block templates often the same&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.justice.gov&#x2F;usao-sdny&#x2F;pr&#x2F;founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering&quot;&gt;Founders And CEO Of Cryptocurrency Mixing Service Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;zksnacks-is-now-blocking-u-s-residents-and-citizens&#x2F;&quot;&gt;Wasabi Wallet pulls support for US users&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;acinq_co&#x2F;status&#x2F;1783878732865740940&quot;&gt;Phoneix pulls support for US users&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;TheBlueMatt&#x2F;status&#x2F;1780316184400769439&quot;&gt;Case against Bitcoin Developers Dropped&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;AutismCapital&#x2F;status&#x2F;1784026264984269304&quot;&gt;DTCC on Collateral for Bitcoin ETFs&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;cointelegraph.com&#x2F;news&#x2F;dtcc-rules-out-collateral-for-bitcoin-linked-etfs&quot;&gt;More on DTCC and ETFs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ordinals.com&#x2F;runes&quot;&gt;Runes launch&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;technical&#x2F;rodarmor-returns-announces-runes-protocol-to-compete-with-brc-20&quot;&gt;More on Runes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.theblock.co&#x2F;post&#x2F;291519&#x2F;bitcoin-testnet-griefing-attack-generates-three-years-worth-of-blocks-in-one-week-frustrating-developers&quot;&gt;Testnet Griefing&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gnusha.org&#x2F;pi&#x2F;bitcoindev&#x2F;CADL_X_eXjbRFROuJU0b336vPVy5Q2RJvhcx64NSNPH-3fDCUfw@mail.gmail.com&#x2F;&quot;&gt;The Future of Bitcoin Testnet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;callebtc&#x2F;status&#x2F;1777598819355496587&quot;&gt;Cashu Live Tests&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;tweets-blogs&quot;&gt;Tweets &amp;amp; Blogs&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;murchandamus&#x2F;status&#x2F;1783867419615744454&quot;&gt;How Does Coin Grinder Find the min input weight?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;murchandamus&#x2F;status&#x2F;1736866298242695186&quot;&gt;Core Doesn&#x27;t Store UTXO Set in Memory&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bluematt.bitcoin.ninja&#x2F;2024&#x2F;04&#x2F;16&#x2F;stop-calling-it-mev&#x2F;&quot;&gt;Stop Calling It MEV&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;cyber.fund&#x2F;content&#x2F;the-spectre-of-mev-on-bitcoin&quot;&gt;The Spectre of MEV on Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gnusha.org&#x2F;pi&#x2F;bitcoindev&#x2F;CAMHHROw9mZJRnTbUo76PdqwJU==YJMvd9Qrst+nmyypaedYZgg@mail.gmail.com&#x2F;T&#x2F;#m654f52c426bd5696d88668b3bff25197846e14af&quot;&gt;Adding new BIP editors&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;assigning-bip-numbers&#x2F;&quot;&gt;BitMEX Research - Assigning BIP Numbers&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Bryan “Kanzure” Bishop, Jon Atack, Mark “Murch” Erhardt, Olaoluwa “Roasbeef” Osuntokun, and Ruben Somsen&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0002.mediawiki&quot;&gt;BIP2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;CAfm7D5ppjo&#x2F;m&#x2F;bYJ3BiOuAAAJ&quot;&gt;Great Consensus Cleanup Revival&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;exploding-keys-covenant-construction&quot;&gt;Exploding Keys - Covenant construction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;second-look-at-weak-blocks&#x2F;805&quot;&gt;Second Look at Weak Blocks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;research-into-the-effects-of-a-cluster-size-limited-mempool-in-2023&quot;&gt;Research into the effects of a cluster size limited mempool in 2023&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;dsl-for-experimenting-with-contracts&#x2F;748&quot;&gt;DSL for Contracts&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;dsl-for-experimenting-with-contracts&#x2F;748&#x2F;3&quot;&gt;Tree++&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
+&lt;h4 id=&quot;research&quot;&gt;Research&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;466&quot;&gt;Arctic: Lightweight and Stateless Threshold Schnorr Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitvm.org&#x2F;bitvm2&quot;&gt;BitVM 2: Permissionless Verification on Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;437&quot;&gt;Insecurity of MuSig and BN Multi-Signatures with Delayed Message Selection&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;research.swtch.com&#x2F;xz-timeline&quot;&gt;CVE-2024-3094: Timeline of the xz open source attack&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;boehs.org&#x2F;node&#x2F;everything-i-know-about-the-xz-backdoor&quot;&gt;Everything I Know About the XZ Backdoor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.openwall.com&#x2F;lists&#x2F;oss-security&#x2F;2024&#x2F;03&#x2F;29&#x2F;4&quot;&gt;OSS-security post&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;thesamesam&#x2F;223949d5a074ebc3dce9ee78baad9e27&quot;&gt;FAQ on the xz-utils backdoor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;infosec.exchange&#x2F;@fr0gger&#x2F;112189232773640259&quot;&gt;Infographic&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;amlweems&#x2F;status&#x2F;1774819428208689241&quot;&gt;XZ Backdoor Reverse Engineering&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;robmen&#x2F;status&#x2F;1774067844785086775&quot;&gt;Maintainer Burnout&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;blog&#x2F;012-viabtc-spv-vulnerability-disclosure&#x2F;&quot;&gt;Vuln Disclosure: ViaBTC SPV client&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;blob&#x2F;master&#x2F;doc&#x2F;release-notes&#x2F;release-notes-27.0.md&quot;&gt;Bitcoin Core 27.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;releases&#x2F;tag&#x2F;v25.2-inq&quot;&gt;bitcoin-inquisition v25.2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;HWI&#x2F;releases&#x2F;tag&#x2F;3.0.0&quot;&gt;HWI 3.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;phoenixd&quot;&gt;phoenixd&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;PhoenixWallet&#x2F;status&#x2F;1771236080680841668&quot;&gt;phoenixd announcement&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bithyve&#x2F;bitcoin-keeper&#x2F;releases&#x2F;tag&#x2F;v1.2.1&quot;&gt;Bitcoin Keeper v1.2.1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinj&#x2F;bitcoinj&#x2F;releases&#x2F;tag&#x2F;v0.17-alpha4&quot;&gt;bitcoinj 0.17-alpha4&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 46</title>
 		<published>2024-03-25T00:00:00+00:00</published>
