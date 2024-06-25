@@ -30,12 +30,20 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#3m&quot;&gt;Block Rewards 3m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;lightning&#x2F;nodes-channels-map&quot;&gt;Lightning Network World Map&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;research.mempool.space&#x2F;empty-block-report&#x2F;&quot;&gt;Empty Block Report&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;mempool&#x2F;mempool&#x2F;pull&#x2F;5087&quot;&gt;empty block explainer discussion&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1799209814146297899&quot;&gt;OKX massive fee overpayment during consolidation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Odd Stale Block&#x2F;Spy Mining Behaviors - &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;0xB10C&#x2F;status&#x2F;1796518471511237065&quot;&gt;845869&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;0xB10C&#x2F;status&#x2F;1804143652962185531&quot;&gt;848860&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;0xB10C&#x2F;status&#x2F;1803082081385246738&quot;&gt;848477&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitstamp.net&#x2F;post&#x2F;robinhood-to-acquire-bitstamp&#x2F;&quot;&gt;Robinhood to acquire Bitstamp&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;finance&#x2F;bitfarms-adopt-poison-pill-amid-riot-takeover-attempt-2024-06-10&#x2F;&quot;&gt;Bitfarms adopts &#x27;poison pill&#x27; to fend off Riot takeover attempt&lt;&#x2F;a&gt; after &lt;a href=&quot;https:&#x2F;&#x2F;www.tftc.io&#x2F;riot-platforms-proposal-acquire-bitfarms&#x2F;&quot;&gt;rejecting $950MM acquisition offer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;braiins.com&#x2F;hardware&#x2F;bmm-100-mini-miner&quot;&gt;Braiins announces BMM 100 mini miner&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;wasabiwallet&#x2F;status&#x2F;1796988769523867735&quot;&gt;Choose-your-own coordinator with new Wasabi release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
 &lt;h4 id=&quot;silent-payments&quot;&gt;Silent Payments&lt;&#x2F;h4&gt;
@@ -49,11 +57,7 @@
 &lt;&#x2F;ul&gt;
 &lt;h4 id=&quot;tweets-blogs&quot;&gt;Tweets &amp;amp; Blogs&lt;&#x2F;h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;darosior&#x2F;eb71638f20968f0dc896c4261a127be6&quot;&gt;Bitcoin Core vulnerability disclosure policy discussion&lt;&#x2F;a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin-irc.chaincode.com&#x2F;bitcoin-core-dev&#x2F;2024-06-06#1031717;&quot;&gt;IRC discussion&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nostr.com&#x2F;note1qckcs4y67eyaawad96j7mxevucgygsfwxg42cvlrs22mxptrg05qtv0jz3&quot;&gt;Many large pools using the same templates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.mutinywallet.com&#x2F;harbor&#x2F;&quot;&gt;Mutiny announces Harbor ecash wallet&lt;&#x2F;a&gt; (&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;MutinyWallet&#x2F;harbor&quot;&gt;Github repo&lt;&#x2F;a&gt;)&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;conduition.io&#x2F;cryptography&#x2F;ecash-dlc&#x2F;&quot;&gt;DLCs with ecash notes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;brqgoo.medium.com&#x2F;introducing-ark-v2-2e7ab378e87b&quot;&gt;Ark v2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -61,7 +65,6 @@
 &lt;&#x2F;ul&gt;
 &lt;h4 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;Aee8xKuIC2s&quot;&gt;Proposing a P2QRH BIP towards a quantum resistant fork&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;5GyV9af9lv4&quot;&gt;Utreexod beta release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;mR53go5gHIk&quot;&gt;Signing a Bitcoin Transaction with Lamport Signatures&lt;&#x2F;a&gt;
 &lt;ul&gt;
@@ -69,13 +72,11 @@
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;AdQ1LDJBE4s&quot;&gt;BIP-119.2: Extensions for Lightning Symmetry&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;8IJS0WK_Cp4&quot;&gt;BitVMX: A Virtual CPU to optimistically execute arbitrary programs on Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h4 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h4&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;anonymous-usage-tokens-from-curve-trees-or-autct&#x2F;862&quot;&gt;Anonymous usage tokens from curve trees or autct&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;ecash-tides-using-cashu-and-stratum-v2&#x2F;870&quot;&gt;Ecash TIDES using Cashu and Stratum v2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;second-look-at-weak-blocks&#x2F;805&quot;&gt;Second look at weak blocks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bip324-proxy-easy-integration-of-v2-transport-protocol-for-light-clients-poc&#x2F;678&quot;&gt;BIP-324 Proxy for light clients PoC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;proof-of-work-based-signet-faucet&#x2F;937&quot;&gt;Proof-of-work based signet faucet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;fed-up-covenants&#x2F;929&quot;&gt;FE&#x27;d Up Covenants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -87,7 +88,11 @@
 &lt;&#x2F;ul&gt;
 &lt;h4 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h4&gt;
 &lt;ul&gt;
-&lt;li&gt;N&#x2F;A&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;darosior&#x2F;eb71638f20968f0dc896c4261a127be6&quot;&gt;Bitcoin Core vulnerability disclosure policy discussion&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoin-irc.chaincode.com&#x2F;bitcoin-core-dev&#x2F;2024-06-06#1031717;&quot;&gt;IRC discussion&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -95,6 +100,12 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;n2GNmnz0btw&quot;&gt;Libre Relay v27.1 released with lower 1.25x replacement threshold&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;secp256k1&#x2F;releases&#x2F;tag&#x2F;v0.5.0&quot;&gt;libsdcp256k1 v0.5.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;StratumV2&#x2F;status&#x2F;1795503981516496919&quot;&gt;SRI v1.0.1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h4 id=&quot;pull-requests&quot;&gt;Pull Requests&lt;&#x2F;h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29575&quot;&gt;net_processing: make any misbehavior trigger immediate discouragement&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29496&quot;&gt;policy: bump TX_MAX_STANDARD_VERSION to 3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;28984&quot;&gt;Cluster size 2 package rbf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
