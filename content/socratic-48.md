@@ -90,6 +90,7 @@ Releases
 - [Libre Relay v27.1 released with lower 1.25x replacement threshold](https://groups.google.com/g/bitcoindev/c/n2GNmnz0btw)
 - [libsdcp256k1 v0.5.0](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.5.0)
 - [SRI v1.0.1](https://x.com/StratumV2/status/1795503981516496919)
+- [bitcoinj v0.16.3](https://github.com/bitcoinj/bitcoinj/releases/tag/v0.16.3)
 
 #### Pull Requests
 - [net_processing: make any misbehavior trigger immediate discouragement](https://github.com/bitcoin/bitcoin/pull/29575)
