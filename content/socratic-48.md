@@ -1,6 +1,6 @@
 +++
 title = "Socratic Seminar 48"
-date = 2024-06-24
+date = 2024-06-25
 +++
 
 Housekeeping
@@ -57,12 +57,14 @@ Discussion
 - [Introducing Brollups](https://brqgoo.medium.com/introducing-brollups-18ec4081f6e7)
 
 #### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
+
 - [Utreexod beta release](https://groups.google.com/g/bitcoindev/c/5GyV9af9lv4)
 - [Signing a Bitcoin Transaction with Lamport Signatures](https://groups.google.com/g/bitcoindev/c/mR53go5gHIk)
   - [Optech explainer](https://bitcoinops.org/en/newsletters/2024/05/08/)
 - [BIP-119.2: Extensions for Lightning Symmetry](https://groups.google.com/g/bitcoindev/c/AdQ1LDJBE4s)
 
 #### [Delving Bitcoin](https://delvingbitcoin.org/)
+
 - [Anonymous usage tokens from curve trees or autct](https://delvingbitcoin.org/t/anonymous-usage-tokens-from-curve-trees-or-autct/862)
 - [Ecash TIDES using Cashu and Stratum v2](https://delvingbitcoin.org/t/ecash-tides-using-cashu-and-stratum-v2/870)
 - [BIP-324 Proxy for light clients PoC](https://delvingbitcoin.org/t/bip324-proxy-easy-integration-of-v2-transport-protocol-for-light-clients-poc/678)
@@ -80,7 +82,6 @@ CVEs and Research
 
 - [Bitcoin Core vulnerability disclosure policy discussion](https://gist.github.com/darosior/eb71638f20968f0dc896c4261a127be6)
   - [IRC discussion](https://bitcoin-irc.chaincode.com/bitcoin-core-dev/2024-06-06#1031717;)
-
 
 Releases
 --------
