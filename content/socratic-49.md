@@ -29,8 +29,10 @@ News & Announcements
 --------------------
 
 - [Mt. Gox starts repayments](https://www.mtgox.com/img/pdf/20240705_01_announcement_en.pdf)
+- [Charting the Course to Mt. Gox Repayments](https://coinmetrics.substack.com/p/state-of-the-network-issue-268)
 - [Proton launches Bitcoin wallet](https://proton.me/blog/proton-wallet-launch)
 - [Mempool Accelerator is now live](https://mempool.space/accelerator)
+- [Nunchuk releases wallet rollover feature](https://nunchuk.io/blog/wallet-rollover)
 
 Discussion
 ----------
@@ -38,13 +40,11 @@ Discussion
 ## Tweets & Blogs
 
 - [BitAxe mines a block](https://x.com/ckpooldev/status/1816216325108175245)
-- [Nunchuk releases wallet rollover feature](https://nunchuk.io/blog/wallet-rollover)
 - [FROST Federation](https://blog.opdup.com/development-updates/2024/07/04/frost-federation.html)
 - [FROST Threshold Signatures for Multiple Channel Updates](https://blog.opdup.com/development-updates/2024/07/09/frost-signing-for-channel-updates.html)
 - [OP_CAT: THE PURR-FECT SOLUTION FOR COVENANTS?](https://blog.blockstream.com/op_cat-the-purr-fect-solution-for-covenants/)
 - [Script state from Lamport signatures](https://blog.blockstream.com/script-state-from-lamport-signatures/)
 - [Can AMMs Be Built on Brollup?](https://brqgoo.medium.com/can-amms-be-built-on-brollup-8d296c2ec7a3)
-- [Charting the Course to Mt. Gox Repayments](https://coinmetrics.substack.com/p/state-of-the-network-issue-268)
 - [Bitcoin Dollar](https://blog.nicolas-dorier.com/posts/bitcoin-dollar/)
 - [StatechainJS](https://github.com/supertestnet/statechainjs?tab=readme-ov-file)
 
