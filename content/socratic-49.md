@@ -40,6 +40,7 @@ Discussion
 ## Tweets & Blogs
 
 - [BitAxe mines a block](https://x.com/ckpooldev/status/1816216325108175245)
+- [Report on bitcoin ownership](https://x.com/thetrocro/status/1815491534550417525)
 - [FROST Federation](https://blog.opdup.com/development-updates/2024/07/04/frost-federation.html)
 - [FROST Threshold Signatures for Multiple Channel Updates](https://blog.opdup.com/development-updates/2024/07/09/frost-signing-for-channel-updates.html)
 - [OP_CAT: THE PURR-FECT SOLUTION FOR COVENANTS?](https://blog.blockstream.com/op_cat-the-purr-fect-solution-for-covenants/)
