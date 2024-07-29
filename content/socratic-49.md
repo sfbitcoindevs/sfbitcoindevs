@@ -52,7 +52,6 @@ Discussion
 - [A "Free" Relay Attack Taking Advantage of The Lack of Full-RBF In Core](https://groups.google.com/g/bitcoindev/c/vfbF7QyVwPE)
 - [Octojoin: Payjoin with no interaction between sender and recipient](https://groups.google.com/g/bitcoindev/c/aAJrGBf_oS4)
 - [BIP Authors: These BIPs could be Final](https://groups.google.com/g/bitcoindev/c/Kn0z4Oq-6Wo)
-- [Unlocking Blockchain UTXO Transactional Patterns and Their Effect on Storage and Throughput Trade-Offs](https://groups.google.com/g/bitcoindev/c/8WTQ_QmKh-k)
 
 ## [Delving Bitcoin](https://delvingbitcoin.org/)
 
