@@ -80,19 +80,20 @@ CVEs and Research
     - [Simple Logarithmic-size LSAG signature pre-print](https://eprint.iacr.org/2024/921)
 - [Shared-Custodial Password-Authenticated Deterministic Wallets](https://eprint.iacr.org/2024/1118)
 - [Unforgeability of Blind Schnorr in the Limited Concurrency Setting](https://eprint.iacr.org/2024/1100)
-- [Unlocking Blockchain UTXO Transactional Patterns and Their Effect on Storage and Throughput Trade-Offs ](https://www.mdpi.com/2073-431X/13/6/146)
 
-## InfoSec
+## Disclosures & Advisories
 
 - [Public disclosure of 10 vulnerabilities affecting Bitcoin Core < 0.21.0](https://groups.google.com/g/bitcoindev/c/_ys3Eu8-ORA)
 - [Optech on Disclosure of Vulnerabilities](https://bitcoinops.org/en/newsletters/2024/07/05/#disclosure-of-vulnerabilities-affecting-bitcoin-core-versions-before-0-21-0)
 - [Security Advisories](https://bitcoincore.org/en/security-advisories/)
+- [Wasabi Wallet Security Incident Disclosure: July 9th-10th 2024](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
+
+## InfoSec
 
 - [Cloudflare blames recent outage on BGP hijacking incident](https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/)
 - [DNS hijacks target crypto platforms registered with Squarespace](https://github.com/security-alliance/advisories/blob/main/2024-07-squarespace.pdf)
 - [Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor](https://indirector.cpusec.org/index_files/Indirector_USENIX_Security_2024.pdf)
 - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
-- [Wasabi Wallet Security Incident Disclosure: July 9th-10th 2024](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
 
 ## Pull Requests
 
