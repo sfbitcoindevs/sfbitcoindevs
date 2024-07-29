@@ -4,8 +4,159 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2024-06-25T00:00:00+00:00</updated>
+	<updated>2024-07-28T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 49</title>
+		<published>2024-07-28T00:00:00+00:00</published>
+		<updated>2024-07-28T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-49/" type="text/html"/>
+		<id>https://www.sfbitcoindevs.org/socratic-49/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers June 23rd to July 27th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#3m&quot;&gt;Block Rewards 3m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;lightning&#x2F;nodes-channels-map&quot;&gt;Lightning Network World Map&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;research.mempool.space&#x2F;empty-block-report&#x2F;&quot;&gt;Empty Block Report&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mtgox.com&#x2F;img&#x2F;pdf&#x2F;20240705_01_announcement_en.pdf&quot;&gt;Mt. Gox starts repayments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;coinmetrics.substack.com&#x2F;p&#x2F;state-of-the-network-issue-268&quot;&gt;Charting the Course to Mt. Gox Repayments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;proton.me&#x2F;blog&#x2F;proton-wallet-launch&quot;&gt;Proton launches Bitcoin wallet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;accelerator&quot;&gt;Mempool Accelerator is now live&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nunchuk.io&#x2F;blog&#x2F;wallet-rollover&quot;&gt;Nunchuk releases wallet rollover feature&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;tweets-blogs&quot;&gt;Tweets &amp;amp; Blogs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;ckpooldev&#x2F;status&#x2F;1816216325108175245&quot;&gt;BitAxe mines a block&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;thetrocro&#x2F;status&#x2F;1815491534550417525&quot;&gt;Report on bitcoin ownership&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.opdup.com&#x2F;development-updates&#x2F;2024&#x2F;07&#x2F;04&#x2F;frost-federation.html&quot;&gt;FROST Federation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.opdup.com&#x2F;development-updates&#x2F;2024&#x2F;07&#x2F;09&#x2F;frost-signing-for-channel-updates.html&quot;&gt;FROST Threshold Signatures for Multiple Channel Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;op_cat-the-purr-fect-solution-for-covenants&#x2F;&quot;&gt;OP_CAT: THE PURR-FECT SOLUTION FOR COVENANTS?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;script-state-from-lamport-signatures&#x2F;&quot;&gt;Script state from Lamport signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;brqgoo.medium.com&#x2F;can-amms-be-built-on-brollup-8d296c2ec7a3&quot;&gt;Can AMMs Be Built on Brollup?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.nicolas-dorier.com&#x2F;posts&#x2F;bitcoin-dollar&#x2F;&quot;&gt;Bitcoin Dollar&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;statechainjs?tab=readme-ov-file&quot;&gt;StatechainJS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;vfbF7QyVwPE&quot;&gt;A &quot;Free&quot; Relay Attack Taking Advantage of The Lack of Full-RBF In Core&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;HE3HSnGTpoQ&quot;&gt;BIP Draft: &quot;ChillDKG: Distributed Key Generation for FROST&quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;aAJrGBf_oS4&quot;&gt;Octojoin: Payjoin with no interaction between sender and recipient&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;Kn0z4Oq-6Wo&quot;&gt;BIP Authors: These BIPs could be Final&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;_ys3Eu8-ORA&quot;&gt;Public disclosure of 10 vulnerabilities affecting Bitcoin Core &amp;lt; 0.21.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;8WTQ_QmKh-k&quot;&gt;Unlocking Blockchain UTXO Transactional Patterns and Their Effect on Storage and Throughput Trade-Offs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;vo_L1pDZblM&quot;&gt;BIP-85 Champion Unreachable? Please weigh in.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;introduction-to-cluster-linearization&quot;&gt;Introduction to cluster linearization&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Bitcoin OP_CAT Use Cases &lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-op-cat-use-cases-series-1-covenants&#x2F;990&quot;&gt;#1: Covenants&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;op-cat-use-cases-series-2-merkle-trees&#x2F;988&quot;&gt;#2: Merkle Trees&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;op-cat-use-cases-series-3-vaults&quot;&gt;#3: Vaults&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-op-cat-use-cases-series-4-recursive-covenants&quot;&gt;#4: Recursive Covenants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;empirical-data-analysis-of-fee-rate-forecasters-for-asap-next-block-fee-estimation&quot;&gt;Empirical Data Analysis of Fee Rate Forecasters for ASAP (next-block) Fee Estimation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;b-sst-bitcoin-like-script-symbolic-tracer-v0-1-3-released&quot;&gt;B’SST: Bitcoin-like Script Symbolic Tracer v0.1.3 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
+&lt;h2 id=&quot;research&quot;&gt;Research&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2022&#x2F;1676.pdf&quot;&gt;Concurrently secure blind Schnorr signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;1051&quot;&gt;Adaptor Signatures: New Security Definition and A Generic Construction for NP Relations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2407.07916v1&quot;&gt;Benchmarking GNNs Using Lightning Network Data&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;1154&quot;&gt;Blockchain Space Tokenization&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2402.01363v2&quot;&gt;Bribe &amp;amp; Fork: Cheap Bribing Attacks via Forking Threat&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;par.nsf.gov&#x2F;biblio&#x2F;10509863&quot;&gt;From Slow Propagation to Partition: Analyzing Bitcoin Over Anonymous Routing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.rfc-editor.org&#x2F;rfc&#x2F;rfc9591.html&quot;&gt;RFC 9591 The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two‑Round Schnorr Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;So2qDvkp5-E&quot;&gt;Simple Logarithmic-size LSAG signature&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;1118&quot;&gt;Shared-Custodial Password-Authenticated Deterministic Wallets&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2406.16219v1&quot;&gt;Towards a Formal Foundation for Blockchain Rollups&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;1100&quot;&gt;Unforgeability of Blind Schnorr in the Limited Concurrency Setting&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mdpi.com&#x2F;2073-431X&#x2F;13&#x2F;6&#x2F;146&quot;&gt;Unlocking Blockchain UTXO Transactional Patterns and Their Effect on Storage and Throughput Trade-Offs &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;cloudflare-blames-recent-outage-on-bgp-hijacking-incident&#x2F;&quot;&gt;Cloudflare blames recent outage on BGP hijacking incident&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;security-alliance&#x2F;advisories&#x2F;blob&#x2F;main&#x2F;2024-07-squarespace.pdf&quot;&gt;DNS hijacks target crypto platforms registered with Squarespace&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;crowdstrike-update-crashes-windows-systems-causes-outages-worldwide&#x2F;&quot;&gt;CrowdStrike update crashes Windows systems, causes outages worldwide&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;0xB10C&#x2F;status&#x2F;1814261328317452572&quot;&gt;No drop in Bitcoin nodes following incident&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;about.gitlab.com&#x2F;releases&#x2F;2024&#x2F;07&#x2F;10&#x2F;patch-release-gitlab-17-1-2-released&#x2F;#an-attacker-can-run-pipeline-jobs-as-an-arbitrary-user&quot;&gt;Gitlab attacker can run pipeline jobs as an arbitrary user&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;indirector.cpusec.org&#x2F;index_files&#x2F;Indirector_USENIX_Security_2024.pdf&quot;&gt;Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;li.fi&#x2F;knowledge-hub&#x2F;incident-report-16th-july&#x2F;&quot;&gt;Infinite approval attack triggers $9.7m lost in LiFi protocol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rekt.news&#x2F;bittensor-rekt&#x2F;&quot;&gt;Malicious PyPi Package triggers $8m hack on Bittensor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rekt.news&#x2F;rho-market-rekt&#x2F;&quot;&gt;Oracle misconfiguration leads to $7.5m hack of Rho Market&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sansec.io&#x2F;research&#x2F;polyfill-supply-chain-attack&quot;&gt;Polyfill supply chain attack hits 100K+ sites&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;unit42.paloaltonetworks.com&#x2F;threat-brief-cve-2024-6387-openssh&#x2F;&quot;&gt;Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rekt.news&#x2F;wazirx-rekt&#x2F;&quot;&gt;WazirX exchange hacked for $235m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;WalletWasabi&#x2F;WalletWasabi&#x2F;discussions&#x2F;13249&quot;&gt;Wasabi Wallet Security Incident Disclosure: July 9th-10th 2024&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;pull-requests&quot;&gt;Pull Requests&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30245&quot;&gt;net: Allow -proxy=(::1) on nodes with IPV6 lo only&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30320&quot;&gt;assumeutxo: Don&#x27;t load a snapshot if it&#x27;s not in the best header chain&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30444&quot;&gt;rest: Reject negative outpoint index early in getutxos parsing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30356&quot;&gt;refactor: add coinbase constraints to BlockAssembler::Options&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29523&quot;&gt;Wallet:  Add &lt;code&gt;max_tx_weight&lt;&#x2F;code&gt; to transaction funding options (take 2)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30357&quot;&gt;Fix cases of calls to &lt;code&gt;FillPSBT&lt;&#x2F;code&gt; errantly returning &lt;code&gt;complete=true&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;22729&quot;&gt;Make it possible to disable Tor binds and abort startup on bind failure&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;28923&quot;&gt;script&#x2F;sign: avoid duplicated signature verification after signing (+introduce signing benchmarks)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30425&quot;&gt;kernel: De-globalize static validation variables&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30394&quot;&gt;net: fix race condition in self-connect detection&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30412&quot;&gt;MiniMiner: use FeeFrac in AncestorFeerateComparator&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29431&quot;&gt;test&#x2F;BIP324: disconnection scenarios during v2 handshake&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29855&quot;&gt;psbt: Check non witness utxo outpoint early&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30295&quot;&gt;#28984 package rbf followups&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;26596&quot;&gt;wallet: Migrate legacy wallets to descriptor wallets without requiring BDB&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29668&quot;&gt;prune, rpc: Check undo data when finding pruneheight&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29996&quot;&gt;Assumeutxo: bugfix on loadtxoutset with a divergent chain + test&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30141&quot;&gt;kernel: De-globalize validation caches&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30388&quot;&gt;validation: Check if mempool exists before size check in ActivateSnapshot&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29625&quot;&gt;Several randomness improvements&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29720&quot;&gt;rpc: Avoid getchaintxstats invalid results&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30267&quot;&gt;assumeutxo: Check snapshot base block is not in invalid chain&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30344&quot;&gt;kernel: remove mempool_persist&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;28167&quot;&gt;init: Add option for rpccookie permissions (replace 26088)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30352&quot;&gt;policy: Add PayToAnchor(P2A), OP_1 &amp;lt;0x4e73&amp;gt; as a standard output script for spending&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bdk&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoindevkit&#x2F;bdk&quot;&gt;BDK&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoindevkit&#x2F;bdk&#x2F;pull&#x2F;1489&quot;&gt;feat(electrum)!: Update &lt;code&gt;bdk_electrum&lt;&#x2F;code&gt; to use merkle proofs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoindevkit&#x2F;bdk&#x2F;pull&#x2F;1487&quot;&gt;refactor(wallet)!: Add support for custom sorting and deprecate BIP69&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;rust-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&quot;&gt;rust-bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;2991&quot;&gt;Move locktimes and &lt;code&gt;Sequence&lt;&#x2F;code&gt; to &lt;code&gt;primitives&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;3026&quot;&gt;Specify required_height in variable name when comparing to other height&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;3002&quot;&gt;Optimize base58 on small inputs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;2987&quot;&gt;Add &lt;code&gt;TxIdentifier&lt;&#x2F;code&gt; trait&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;2989&quot;&gt;Move opcodes to &lt;code&gt;primitives&lt;&#x2F;code&gt;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;2970&quot;&gt;bip152: check if indexes do not overflow&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;2961&quot;&gt;bip158: Hash data instead of copying first&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;2949&quot;&gt;OP_RETURN standardness check&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;cardcoins&#x2F;additive-rbf-batcher&quot;&gt;Additive RBF Batcher&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;lw_687AVNjw&quot;&gt;Bitcoin Core 26.2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 48</title>
 		<published>2024-06-25T00:00:00+00:00</published>
@@ -1263,7 +1414,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2022&#x2F;12&#x2F;14&#x2F;#local-jamming-to-prevent-remote-jamming&quot;&gt;Optech&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-January&#x2F;003810.html&quot;&gt;Swap-in-Potentiam: Moving Onchain Funds &amp;quot;Instantly&amp;quot; To Lightning&lt;&#x2F;a&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2023-January&#x2F;003810.html&quot;&gt;Swap-in-Potentiam: Moving Onchain Funds &quot;Instantly&quot; To Lightning&lt;&#x2F;a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2023&#x2F;01&#x2F;11&#x2F;#non-interactive-ln-channel-open-commitments&quot;&gt;Optech&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -1453,8 +1604,8 @@
 &lt;h2 id=&quot;rbf&quot;&gt;RBF&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-September&#x2F;020937.html&quot;&gt;New transaction policies (nVersion=3) for contracting protocols&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-October&#x2F;020980.html&quot;&gt;Muun developers object to full RBF rollout timeline&lt;&#x2F;a&gt; &amp;quot;Even though many of the biggest miners offer off-band transaction broadcasting services, they currently won&#x27;t process conflicting transactions.&amp;quot;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;glozow&#x2F;bitcoin-notes&#x2F;blob&#x2F;full-rbf&#x2F;full-rbf.md&quot;&gt;Full RBF Summary by Gloria Zhao&lt;&#x2F;a&gt; &amp;quot;Does Core control whether full RBF happens or not?&amp;quot;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-October&#x2F;020980.html&quot;&gt;Muun developers object to full RBF rollout timeline&lt;&#x2F;a&gt; &quot;Even though many of the biggest miners offer off-band transaction broadcasting services, they currently won&#x27;t process conflicting transactions.&quot;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;glozow&#x2F;bitcoin-notes&#x2F;blob&#x2F;full-rbf&#x2F;full-rbf.md&quot;&gt;Full RBF Summary by Gloria Zhao&lt;&#x2F;a&gt; &quot;Does Core control whether full RBF happens or not?&quot;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;research-and-development&quot;&gt;Research and Development&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -1553,7 +1704,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.cryptoactionnetwork.org&#x2F;scorecard&quot;&gt;Coinbase Launches Crypto Action Network&lt;&#x2F;a&gt;
 &lt;ul&gt;
-&lt;li&gt;In-app scorecards for current representatives and candidates for federal government. &lt;&#x2F;li&gt;
+&lt;li&gt;In-app scorecards for current representatives and candidates for federal government.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.coinbase.com&#x2F;defending-privacy-in-crypto-e09db33dece8?gi=248cf3e6ee23&quot;&gt;Coinbase funding lawsuit against Treasury dept&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -1572,7 +1723,7 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;lightning-network&quot;&gt;Lightning Network&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;core-lightning-v0-12-0&quot;&gt;Core Lightning v12&lt;&#x2F;a&gt; 
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;core-lightning-v0-12-0&quot;&gt;Core Lightning v12&lt;&#x2F;a&gt;
 &lt;ul&gt;
 &lt;li&gt;Bookkeeper plugin for lightning accounting: see profitability, flows, and routing information down to the satoshi&lt;&#x2F;li&gt;
 &lt;li&gt;Commando plugin: remotely connect directly to your core lightning node with runes to send RPC calls&lt;&#x2F;li&gt;
@@ -1612,7 +1763,7 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;theory-research-and-abstract-concepts&quot;&gt;Theory, Research, and Abstract Concepts&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2208.01908.pdf&quot;&gt;Cosimo &amp;quot;Lightning Rod&amp;quot; Sguanci and Anastasios &amp;quot;The Channel Butcher&amp;quot; Sidiropoulos&#x27;s Paper on Mass Exit Attacks on the Lightning Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2208.01908.pdf&quot;&gt;Cosimo &quot;Lightning Rod&quot; Sguanci and Anastasios &quot;The Channel Butcher&quot; Sidiropoulos&#x27;s Paper on Mass Exit Attacks on the Lightning Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;jamming-dev.github.io&#x2F;book&#x2F;&quot;&gt;Antoine Riard and Gleb Naumenko publish a book on channel jamming the Lightning Network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2022-July&#x2F;020784.html&quot;&gt;Aaradhya Chauhan wonders if we could and should have a lower minrelaytxfee&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2018-September&#x2F;016352.html&quot;&gt;Ruben Somsen: Guiding transaction fees towards a more censorship resistant outcome&lt;&#x2F;a&gt; cf. Bitcoin Core requiring a transaction be included higher block height than the current, &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;master&#x2F;bip-0115.mediawiki&quot;&gt;Luke Dashjr&#x27;s BIP 115 requiring a transaction to be built on top of a specific block&lt;&#x2F;a&gt;, and coinjoin transaction requiring that a transaction be included with a bunch of other transactions.&lt;&#x2F;li&gt;
@@ -1655,7 +1806,7 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;development&quot;&gt;Development&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;core-lightning-v0-12-0&#x2F;&quot;&gt;Core Lightning 0.12.0 released&lt;&#x2F;a&gt;, Rusty Russell&#x27;s commando plugin is now written in C and ships with Core Lightning. &lt;em&gt;Can someone please explain to me what commando does and how it works?&lt;&#x2F;em&gt; Lisa &amp;quot;Nifty&amp;quot; Neigut adds accounting to see your channel APYs.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;core-lightning-v0-12-0&#x2F;&quot;&gt;Core Lightning 0.12.0 released&lt;&#x2F;a&gt;, Rusty Russell&#x27;s commando plugin is now written in C and ships with Core Lightning. &lt;em&gt;Can someone please explain to me what commando does and how it works?&lt;&#x2F;em&gt; Lisa &quot;Nifty&quot; Neigut adds accounting to see your channel APYs.&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;fedimint-update&#x2F;&quot;&gt;Blockstream Blog: Fedimint development continues unabated&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;issues&#x2F;21194#issuecomment-1189536659&quot;&gt;Bitcoin Core: GUIX reproducible for 7 of 9 target architectures when building cross-architecture&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -1686,7 +1837,7 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;new-work-research&quot;&gt;New Work &amp;amp; Research&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;thelab31.xyz&#x2F;blog&#x2F;txwithhold&quot;&gt;Gleb Naumenko, with contributions from Antoine Riard, discusses bribing miners to censor specific transactions, &amp;quot;TxWithhold smart contracts&amp;quot;&lt;&#x2F;a&gt;. Interestingly, one do so is probably via Ethereum, which already has the equivalent of on-chain Bitcoin SPV clients. Bitcoin developers should probably be at least peripherally aware of such potential interactions with other chains. Additionally, UTXO set inspection is impossible today, but could be accidentally added to the protocol.&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;thelab31.xyz&#x2F;blog&#x2F;txwithhold&quot;&gt;Gleb Naumenko, with contributions from Antoine Riard, discusses bribing miners to censor specific transactions, &quot;TxWithhold smart contracts&quot;&lt;&#x2F;a&gt;. Interestingly, one do so is probably via Ethereum, which already has the equivalent of on-chain Bitcoin SPV clients. Bitcoin developers should probably be at least peripherally aware of such potential interactions with other chains. Additionally, UTXO set inspection is impossible today, but could be accidentally added to the protocol.&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;privacy&quot;&gt;Privacy&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -1728,7 +1879,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-June&#x2F;003623.html&quot;&gt;Bastien Teinturier posted a summary of an idea he attributes to Rusty Russell for rate limiting onion messages.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-July&#x2F;003643.html&quot;&gt;Inbound channel routing fees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-July&#x2F;003649.html&quot;&gt;Using BOLT 8 to Send Wumbo Messages&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-June&#x2F;003617.html&quot;&gt;ZmnSCPxj departs from his &amp;quot;typical crap&amp;quot; with a short missive on three strategies for Lightning forwarding nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;lightning-dev&#x2F;2022-June&#x2F;003617.html&quot;&gt;ZmnSCPxj departs from his &quot;typical crap&quot; with a short missive on three strategies for Lightning forwarding nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;covenants&quot;&gt;Covenants&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -1906,7 +2057,7 @@
 &lt;h2 id=&quot;mining&quot;&gt;Mining&lt;&#x2F;h2&gt;
 &lt;p&gt;Braidpool&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2021-August&#x2F;019371.html&quot;&gt;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2021-August&#x2F;019371.html&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;NYDIG - Net Zero 
+&lt;p&gt;NYDIG - Net Zero
 &lt;a href=&quot;https:&#x2F;&#x2F;nydig.com&#x2F;research&#x2F;report-bitcoin-net-zero&quot;&gt;https:&#x2F;&#x2F;nydig.com&#x2F;research&#x2F;report-bitcoin-net-zero&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;TSMC increases wafer prices&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;www.theblockcrypto.com&#x2F;linked&#x2F;115708&#x2F;bitmain-bitcoin-miner-wafer-price-increase&quot;&gt;https:&#x2F;&#x2F;www.theblockcrypto.com&#x2F;linked&#x2F;115708&#x2F;bitmain-bitcoin-miner-wafer-price-increase&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -2126,12 +2277,12 @@
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BitcoinDesign&#x2F;Meta&#x2F;blob&#x2F;master&#x2F;Collaboration.md&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;BitcoinDesign&#x2F;Meta&#x2F;blob&#x2F;master&#x2F;Collaboration.md&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;₿trust&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;jack&#x2F;status&#x2F;1360114881978982403&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;jack&#x2F;status&#x2F;1360114881978982403&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Weird &amp;quot;double spend&amp;quot; panic&lt;br &#x2F;&gt;
+&lt;p&gt;Weird &quot;double spend&quot; panic&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;BitMEXResearch&#x2F;status&#x2F;1351855414103715842&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;BitMEXResearch&#x2F;status&#x2F;1351855414103715842&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
 &lt;a href=&quot;http:&#x2F;&#x2F;www.globenewswire.com&#x2F;news-release&#x2F;2021&#x2F;01&#x2F;22&#x2F;2162801&#x2F;0&#x2F;en&#x2F;NexTech-Sells-Its-Treasury-Bitcoin-Holdings-and-Books-a-Profit.html&quot;&gt;http:&#x2F;&#x2F;www.globenewswire.com&#x2F;news-release&#x2F;2021&#x2F;01&#x2F;22&#x2F;2162801&#x2F;0&#x2F;en&#x2F;NexTech-Sells-Its-Treasury-Bitcoin-Holdings-and-Books-a-Profit.html&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;New mailing list for Discreet Log Contracts&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2021-January&#x2F;018372.html&quot;&gt;https:&#x2F;&#x2F;lists.linuxfoundation.org&#x2F;pipermail&#x2F;bitcoin-dev&#x2F;2021-January&#x2F;018372.html&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Marathon &amp;quot;clean mining&amp;quot;&lt;br &#x2F;&gt;
+&lt;p&gt;Marathon &quot;clean mining&quot;&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;www.globenewswire.com&#x2F;news-release&#x2F;2021&#x2F;01&#x2F;05&#x2F;2153383&#x2F;0&#x2F;en&#x2F;Marathon-Patent-Group-and-DMG-Blockchain-Solutions-to-Form-the-Digital-Currency-Miners-of-North-America-DCMNA-and-Launch-North-America-s-First-Cooperative-Mining-Pool.html&quot;&gt;https:&#x2F;&#x2F;www.globenewswire.com&#x2F;news-release&#x2F;2021&#x2F;01&#x2F;05&#x2F;2153383&#x2F;0&#x2F;en&#x2F;Marathon-Patent-Group-and-DMG-Blockchain-Solutions-to-Form-the-Digital-Currency-Miners-of-North-America-DCMNA-and-Launch-North-America-s-First-Cooperative-Mining-Pool.html&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;stats&quot;&gt;Stats&lt;&#x2F;h2&gt;
 &lt;p&gt;Increase in node count&lt;br &#x2F;&gt;
@@ -2333,7 +2484,7 @@
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16528&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16528&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Multiprocess Bitcoin (continued...)&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;10102&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;10102&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;ZMQ: Create &amp;quot;sequence&amp;quot; notifier, enabling client-side mempool tracking&lt;br &#x2F;&gt;
+&lt;p&gt;ZMQ: Create &quot;sequence&quot; notifier, enabling client-side mempool tracking&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;19572&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;19572&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;lightning-prs-zap&quot;&gt;Lightning PRs ⚡&lt;&#x2F;h2&gt;
 &lt;p&gt;Wumbo&lt;br &#x2F;&gt;
@@ -2621,7 +2772,7 @@
 &lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;blockstream&#x2F;reducing-bitcoin-transaction-sizes-with-x-only-pubkeys-f86476af05d7&quot;&gt;https:&#x2F;&#x2F;medium.com&#x2F;blockstream&#x2F;reducing-bitcoin-transaction-sizes-with-x-only-pubkeys-f86476af05d7&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BlockchainCommons&#x2F;secp256k1-schnorrsig&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;BlockchainCommons&#x2F;secp256k1-schnorrsig&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Bitcoin Standup&lt;br &#x2F;&gt;
-&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BlockchainCommons&#x2F;Bitcoin-Standup&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;BlockchainCommons&#x2F;Bitcoin-Standup&lt;&#x2F;a&gt; &lt;&#x2F;p&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;BlockchainCommons&#x2F;Bitcoin-Standup&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;BlockchainCommons&#x2F;Bitcoin-Standup&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;bitcoin-prs&quot;&gt;Bitcoin PRs&lt;&#x2F;h2&gt;
 &lt;p&gt;BIP157 Status&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16442&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;16442&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -2654,7 +2805,7 @@
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3499&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3499&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;LND: chanfunding: create new package to abstract over funding workflows&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3659&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3659&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;LND: implement &amp;quot;safe mode&amp;quot; node stand up&lt;br &#x2F;&gt;
+&lt;p&gt;LND: implement &quot;safe mode&quot; node stand up&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3601&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;3601&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
@@ -3078,7 +3229,7 @@ Costs in Blockchains&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;releases&#x2F;tag&#x2F;v0.6.1-beta&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;releases&#x2F;tag&#x2F;v0.6.1-beta&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;c-lightning: use simple inline array for nodes with few channels&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;commit&#x2F;b6494c1994830076a07d8a005313e297ac4faec9&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;commit&#x2F;b6494c1994830076a07d8a005313e297ac4faec9&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;c-lightning: handle more random pre-chatter from peers. 
+&lt;p&gt;c-lightning: handle more random pre-chatter from peers.
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;commit&#x2F;936678701b17af10c8c5364684a1560411a46e42&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;commit&#x2F;936678701b17af10c8c5364684a1560411a46e42&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 </content>
 	</entry>
@@ -3442,7 +3593,7 @@ Full list of potential 1.1 change:&lt;&#x2F;p&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;longhashdata&#x2F;status&#x2F;1061012798292013056&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;longhashdata&#x2F;status&#x2F;1061012798292013056&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Blockstream.info new explorer&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;blockstream.info&quot;&gt;https:&#x2F;&#x2F;blockstream.info&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
-&lt;p&gt;Bulletproofs 1.0 release from Interstellar 
+&lt;p&gt;Bulletproofs 1.0 release from Interstellar
 &lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;interstellar&#x2F;bulletproofs-pre-release-fcb1feb36d4b&quot;&gt;https:&#x2F;&#x2F;medium.com&#x2F;interstellar&#x2F;bulletproofs-pre-release-fcb1feb36d4b&lt;&#x2F;a&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dalek-cryptography&#x2F;bulletproofs&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;dalek-cryptography&#x2F;bulletproofs&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;h2 id=&quot;stats&quot;&gt;Stats&lt;&#x2F;h2&gt;
