@@ -4,12 +4,12 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2024-07-28T00:00:00+00:00</updated>
+	<updated>2024-07-29T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 49</title>
-		<published>2024-07-28T00:00:00+00:00</published>
-		<updated>2024-07-28T00:00:00+00:00</updated>
+		<published>2024-07-29T00:00:00+00:00</published>
+		<updated>2024-07-29T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-49/" type="text/html"/>
 		<id>https://www.sfbitcoindevs.org/socratic-49/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
@@ -24,13 +24,9 @@
 &lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bitcoin-mempool.info&#x2F;#BTC,30d,weight&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#3m&quot;&gt;Block Rewards 3m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;lightning&#x2F;nodes-channels-map&quot;&gt;Lightning Network World Map&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;research.mempool.space&#x2F;empty-block-report&#x2F;&quot;&gt;Empty Block Report&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -45,28 +41,37 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;ckpooldev&#x2F;status&#x2F;1816216325108175245&quot;&gt;BitAxe mines a block&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;thetrocro&#x2F;status&#x2F;1815491534550417525&quot;&gt;Report on bitcoin ownership&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;script-state-from-lamport-signatures&#x2F;&quot;&gt;Script state from Lamport signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;statechainjs?tab=readme-ov-file&quot;&gt;StatechainJS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;frost&quot;&gt;FROST&lt;&#x2F;h2&gt;
+&lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.opdup.com&#x2F;development-updates&#x2F;2024&#x2F;07&#x2F;04&#x2F;frost-federation.html&quot;&gt;FROST Federation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.opdup.com&#x2F;development-updates&#x2F;2024&#x2F;07&#x2F;09&#x2F;frost-signing-for-channel-updates.html&quot;&gt;FROST Threshold Signatures for Multiple Channel Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;op_cat-the-purr-fect-solution-for-covenants&#x2F;&quot;&gt;OP_CAT: THE PURR-FECT SOLUTION FOR COVENANTS?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;script-state-from-lamport-signatures&#x2F;&quot;&gt;Script state from Lamport signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;brqgoo.medium.com&#x2F;can-amms-be-built-on-brollup-8d296c2ec7a3&quot;&gt;Can AMMs Be Built on Brollup?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.nicolas-dorier.com&#x2F;posts&#x2F;bitcoin-dollar&#x2F;&quot;&gt;Bitcoin Dollar&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;supertestnet&#x2F;statechainjs?tab=readme-ov-file&quot;&gt;StatechainJS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;HE3HSnGTpoQ&quot;&gt;BIP Draft: &quot;ChillDKG: Distributed Key Generation for FROST&quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.rfc-editor.org&#x2F;rfc&#x2F;rfc9591.html&quot;&gt;RFC 9591 The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two‑Round Schnorr Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;vfbF7QyVwPE&quot;&gt;A &quot;Free&quot; Relay Attack Taking Advantage of The Lack of Full-RBF In Core&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;HE3HSnGTpoQ&quot;&gt;BIP Draft: &quot;ChillDKG: Distributed Key Generation for FROST&quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;aAJrGBf_oS4&quot;&gt;Octojoin: Payjoin with no interaction between sender and recipient&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;Kn0z4Oq-6Wo&quot;&gt;BIP Authors: These BIPs could be Final&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;_ys3Eu8-ORA&quot;&gt;Public disclosure of 10 vulnerabilities affecting Bitcoin Core &amp;lt; 0.21.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;8WTQ_QmKh-k&quot;&gt;Unlocking Blockchain UTXO Transactional Patterns and Their Effect on Storage and Throughput Trade-Offs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;vo_L1pDZblM&quot;&gt;BIP-85 Champion Unreachable? Please weigh in.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;fed-up-covenants&#x2F;929&quot;&gt;FE&#x27;d Up Covenants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rubin.io&#x2F;public&#x2F;pdfs&#x2F;fedcov.pdf&quot;&gt;FE&#x27;d Up Covenants paper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;introduction-to-cluster-linearization&quot;&gt;Introduction to cluster linearization&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;Bitcoin OP_CAT Use Cases &lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-op-cat-use-cases-series-1-covenants&#x2F;990&quot;&gt;#1: Covenants&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;op-cat-use-cases-series-2-merkle-trees&#x2F;988&quot;&gt;#2: Merkle Trees&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;op-cat-use-cases-series-3-vaults&quot;&gt;#3: Vaults&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-op-cat-use-cases-series-4-recursive-covenants&quot;&gt;#4: Recursive Covenants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Bitcoin OP_CAT Use Cases
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;op_cat-the-purr-fect-solution-for-covenants&#x2F;&quot;&gt;OP_CAT: THE PURR-FECT SOLUTION FOR COVENANTS?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-op-cat-use-cases-series-1-covenants&#x2F;990&quot;&gt;#1: Covenants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;op-cat-use-cases-series-2-merkle-trees&#x2F;988&quot;&gt;#2: Merkle Trees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;op-cat-use-cases-series-3-vaults&quot;&gt;#3: Vaults&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-op-cat-use-cases-series-4-recursive-covenants&quot;&gt;#4: Recursive Covenants&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;empirical-data-analysis-of-fee-rate-forecasters-for-asap-next-block-fee-estimation&quot;&gt;Empirical Data Analysis of Fee Rate Forecasters for ASAP (next-block) Fee Estimation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;b-sst-bitcoin-like-script-symbolic-tracer-v0-1-3-released&quot;&gt;B’SST: Bitcoin-like Script Symbolic Tracer v0.1.3 released&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -75,35 +80,42 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2022&#x2F;1676.pdf&quot;&gt;Concurrently secure blind Schnorr signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;1051&quot;&gt;Adaptor Signatures: New Security Definition and A Generic Construction for NP Relations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2407.07916v1&quot;&gt;Benchmarking GNNs Using Lightning Network Data&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;1154&quot;&gt;Blockchain Space Tokenization&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;http:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2402.01363v2&quot;&gt;Bribe &amp;amp; Fork: Cheap Bribing Attacks via Forking Threat&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;par.nsf.gov&#x2F;biblio&#x2F;10509863&quot;&gt;From Slow Propagation to Partition: Analyzing Bitcoin Over Anonymous Routing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.rfc-editor.org&#x2F;rfc&#x2F;rfc9591.html&quot;&gt;RFC 9591 The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two‑Round Schnorr Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;So2qDvkp5-E&quot;&gt;Simple Logarithmic-size LSAG signature&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;So2qDvkp5-E&quot;&gt;Simple Logarithmic-size LSAG signature&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;921&quot;&gt;Simple Logarithmic-size LSAG signature pre-print&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;1118&quot;&gt;Shared-Custodial Password-Authenticated Deterministic Wallets&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2406.16219v1&quot;&gt;Towards a Formal Foundation for Blockchain Rollups&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;1100&quot;&gt;Unforgeability of Blind Schnorr in the Limited Concurrency Setting&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.mdpi.com&#x2F;2073-431X&#x2F;13&#x2F;6&#x2F;146&quot;&gt;Unlocking Blockchain UTXO Transactional Patterns and Their Effect on Storage and Throughput Trade-Offs &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;cloudflare-blames-recent-outage-on-bgp-hijacking-incident&#x2F;&quot;&gt;Cloudflare blames recent outage on BGP hijacking incident&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;security-alliance&#x2F;advisories&#x2F;blob&#x2F;main&#x2F;2024-07-squarespace.pdf&quot;&gt;DNS hijacks target crypto platforms registered with Squarespace&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;crowdstrike-update-crashes-windows-systems-causes-outages-worldwide&#x2F;&quot;&gt;CrowdStrike update crashes Windows systems, causes outages worldwide&lt;&#x2F;a&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;0xB10C&#x2F;status&#x2F;1814261328317452572&quot;&gt;No drop in Bitcoin nodes following incident&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;_ys3Eu8-ORA&quot;&gt;Public disclosure of 10 vulnerabilities affecting Bitcoin Core &amp;lt; 0.21.0&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;about.gitlab.com&#x2F;releases&#x2F;2024&#x2F;07&#x2F;10&#x2F;patch-release-gitlab-17-1-2-released&#x2F;#an-attacker-can-run-pipeline-jobs-as-an-arbitrary-user&quot;&gt;Gitlab attacker can run pipeline jobs as an arbitrary user&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;indirector.cpusec.org&#x2F;index_files&#x2F;Indirector_USENIX_Security_2024.pdf&quot;&gt;Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;li.fi&#x2F;knowledge-hub&#x2F;incident-report-16th-july&#x2F;&quot;&gt;Infinite approval attack triggers $9.7m lost in LiFi protocol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rekt.news&#x2F;bittensor-rekt&#x2F;&quot;&gt;Malicious PyPi Package triggers $8m hack on Bittensor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rekt.news&#x2F;rho-market-rekt&#x2F;&quot;&gt;Oracle misconfiguration leads to $7.5m hack of Rho Market&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sansec.io&#x2F;research&#x2F;polyfill-supply-chain-attack&quot;&gt;Polyfill supply chain attack hits 100K+ sites&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;unit42.paloaltonetworks.com&#x2F;threat-brief-cve-2024-6387-openssh&#x2F;&quot;&gt;Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rekt.news&#x2F;wazirx-rekt&#x2F;&quot;&gt;WazirX exchange hacked for $235m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;WalletWasabi&#x2F;WalletWasabi&#x2F;discussions&#x2F;13249&quot;&gt;Wasabi Wallet Security Incident Disclosure: July 9th-10th 2024&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2024&#x2F;07&#x2F;05&#x2F;#disclosure-of-vulnerabilities-affecting-bitcoin-core-versions-before-0-21-0&quot;&gt;Optech on Disclosure of Vulnerabilities&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;security-advisories&#x2F;&quot;&gt;Security Advisories&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;cloudflare-blames-recent-outage-on-bgp-hijacking-incident&#x2F;&quot;&gt;Cloudflare blames recent outage on BGP hijacking incident&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;security-alliance&#x2F;advisories&#x2F;blob&#x2F;main&#x2F;2024-07-squarespace.pdf&quot;&gt;DNS hijacks target crypto platforms registered with Squarespace&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;indirector.cpusec.org&#x2F;index_files&#x2F;Indirector_USENIX_Security_2024.pdf&quot;&gt;Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;sansec.io&#x2F;research&#x2F;polyfill-supply-chain-attack&quot;&gt;Polyfill supply chain attack hits 100K+ sites&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;WalletWasabi&#x2F;WalletWasabi&#x2F;discussions&#x2F;13249&quot;&gt;Wasabi Wallet Security Incident Disclosure: July 9th-10th 2024&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;pull-requests&quot;&gt;Pull Requests&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
