@@ -1,6 +1,6 @@
 +++
 title = "Socratic Seminar 49"
-date = 2024-07-28
+date = 2024-07-29
 +++
 
 Housekeeping
@@ -17,13 +17,9 @@ Chain Weather Report
 --------------------
 
 - [Clark Moody Dashboard](https://dashboard.clarkmoody.com/)
-- [Mempool](https://www.bitcoin-mempool.info/#BTC,30d,weight)
 - [Mempool](https://mempool.space/graphs/mempool#1m)
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
-- [Block Rewards 3m](https://mempool.space/graphs/mining/block-rewards#3m)
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
-- [Lightning Network World Map](https://mempool.space/graphs/lightning/nodes-channels-map)
-- [Empty Block Report](https://research.mempool.space/empty-block-report/)
 
 News & Announcements
 --------------------
@@ -41,28 +37,34 @@ Discussion
 
 - [BitAxe mines a block](https://x.com/ckpooldev/status/1816216325108175245)
 - [Report on bitcoin ownership](https://x.com/thetrocro/status/1815491534550417525)
+- [Script state from Lamport signatures](https://blog.blockstream.com/script-state-from-lamport-signatures/)
+- [StatechainJS](https://github.com/supertestnet/statechainjs?tab=readme-ov-file)
+
+## FROST
+
 - [FROST Federation](https://blog.opdup.com/development-updates/2024/07/04/frost-federation.html)
 - [FROST Threshold Signatures for Multiple Channel Updates](https://blog.opdup.com/development-updates/2024/07/09/frost-signing-for-channel-updates.html)
-- [OP_CAT: THE PURR-FECT SOLUTION FOR COVENANTS?](https://blog.blockstream.com/op_cat-the-purr-fect-solution-for-covenants/)
-- [Script state from Lamport signatures](https://blog.blockstream.com/script-state-from-lamport-signatures/)
-- [Can AMMs Be Built on Brollup?](https://brqgoo.medium.com/can-amms-be-built-on-brollup-8d296c2ec7a3)
-- [Bitcoin Dollar](https://blog.nicolas-dorier.com/posts/bitcoin-dollar/)
-- [StatechainJS](https://github.com/supertestnet/statechainjs?tab=readme-ov-file)
+- [BIP Draft: "ChillDKG: Distributed Key Generation for FROST"](https://groups.google.com/g/bitcoindev/c/HE3HSnGTpoQ)
+- [RFC 9591 The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two‑Round Schnorr Signatures](https://www.rfc-editor.org/rfc/rfc9591.html)
 
 ## [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
 - [A "Free" Relay Attack Taking Advantage of The Lack of Full-RBF In Core](https://groups.google.com/g/bitcoindev/c/vfbF7QyVwPE)
-- [BIP Draft: "ChillDKG: Distributed Key Generation for FROST"](https://groups.google.com/g/bitcoindev/c/HE3HSnGTpoQ)
 - [Octojoin: Payjoin with no interaction between sender and recipient](https://groups.google.com/g/bitcoindev/c/aAJrGBf_oS4)
 - [BIP Authors: These BIPs could be Final](https://groups.google.com/g/bitcoindev/c/Kn0z4Oq-6Wo)
-- [Public disclosure of 10 vulnerabilities affecting Bitcoin Core < 0.21.0](https://groups.google.com/g/bitcoindev/c/_ys3Eu8-ORA)
 - [Unlocking Blockchain UTXO Transactional Patterns and Their Effect on Storage and Throughput Trade-Offs](https://groups.google.com/g/bitcoindev/c/8WTQ_QmKh-k)
-- [BIP-85 Champion Unreachable? Please weigh in.](https://groups.google.com/g/bitcoindev/c/vo_L1pDZblM)
 
 ## [Delving Bitcoin](https://delvingbitcoin.org/)
 
+- [FE'd Up Covenants](https://delvingbitcoin.org/t/fed-up-covenants/929)
+- [FE'd Up Covenants paper](https://rubin.io/public/pdfs/fedcov.pdf)
 - [Introduction to cluster linearization](https://delvingbitcoin.org/t/introduction-to-cluster-linearization)
-- Bitcoin OP_CAT Use Cases [#1: Covenants](https://delvingbitcoin.org/t/bitcoin-op-cat-use-cases-series-1-covenants/990), [#2: Merkle Trees](https://delvingbitcoin.org/t/op-cat-use-cases-series-2-merkle-trees/988), [#3: Vaults](https://delvingbitcoin.org/t/op-cat-use-cases-series-3-vaults), [#4: Recursive Covenants](https://delvingbitcoin.org/t/bitcoin-op-cat-use-cases-series-4-recursive-covenants)
+- Bitcoin OP_CAT Use Cases 
+    - [OP_CAT: THE PURR-FECT SOLUTION FOR COVENANTS?](https://blog.blockstream.com/op_cat-the-purr-fect-solution-for-covenants/)
+    - [#1: Covenants](https://delvingbitcoin.org/t/bitcoin-op-cat-use-cases-series-1-covenants/990)
+    - [#2: Merkle Trees](https://delvingbitcoin.org/t/op-cat-use-cases-series-2-merkle-trees/988)
+    - [#3: Vaults](https://delvingbitcoin.org/t/op-cat-use-cases-series-3-vaults)
+    - [#4: Recursive Covenants](https://delvingbitcoin.org/t/bitcoin-op-cat-use-cases-series-4-recursive-covenants)
 - [Empirical Data Analysis of Fee Rate Forecasters for ASAP (next-block) Fee Estimation](https://delvingbitcoin.org/t/empirical-data-analysis-of-fee-rate-forecasters-for-asap-next-block-fee-estimation)
 - [B’SST: Bitcoin-like Script Symbolic Tracer v0.1.3 released](https://delvingbitcoin.org/t/b-sst-bitcoin-like-script-symbolic-tracer-v0-1-3-released)
 
@@ -73,35 +75,29 @@ CVEs and Research
 
 - [Concurrently secure blind Schnorr signatures](https://eprint.iacr.org/2022/1676.pdf)
 - [Adaptor Signatures: New Security Definition and A Generic Construction for NP Relations](https://eprint.iacr.org/2024/1051)
-- [Benchmarking GNNs Using Lightning Network Data](https://arxiv.org/pdf/2407.07916v1)
 - [Blockchain Space Tokenization](https://eprint.iacr.org/2024/1154)
-- [Bribe & Fork: Cheap Bribing Attacks via Forking Threat](http://arxiv.org/abs/2402.01363v2)
-- [From Slow Propagation to Partition: Analyzing Bitcoin Over Anonymous Routing](https://par.nsf.gov/biblio/10509863)
-- [RFC 9591 The Flexible Round-Optimized Schnorr Threshold (FROST) Protocol for Two‑Round Schnorr Signatures](https://www.rfc-editor.org/rfc/rfc9591.html)
 - [Simple Logarithmic-size LSAG signature](https://groups.google.com/g/bitcoindev/c/So2qDvkp5-E)
+    - [Simple Logarithmic-size LSAG signature pre-print](https://eprint.iacr.org/2024/921)
 - [Shared-Custodial Password-Authenticated Deterministic Wallets](https://eprint.iacr.org/2024/1118)
-- [Towards a Formal Foundation for Blockchain Rollups](https://arxiv.org/pdf/2406.16219v1)
 - [Unforgeability of Blind Schnorr in the Limited Concurrency Setting](https://eprint.iacr.org/2024/1100)
 - [Unlocking Blockchain UTXO Transactional Patterns and Their Effect on Storage and Throughput Trade-Offs ](https://www.mdpi.com/2073-431X/13/6/146)
 
 ## InfoSec
 
+- [Public disclosure of 10 vulnerabilities affecting Bitcoin Core < 0.21.0](https://groups.google.com/g/bitcoindev/c/_ys3Eu8-ORA)
+- [Optech on Disclosure of Vulnerabilities](https://bitcoinops.org/en/newsletters/2024/07/05/#disclosure-of-vulnerabilities-affecting-bitcoin-core-versions-before-0-21-0)
+- [Security Advisories](https://bitcoincore.org/en/security-advisories/)
+
 - [Cloudflare blames recent outage on BGP hijacking incident](https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/)
 - [DNS hijacks target crypto platforms registered with Squarespace](https://github.com/security-alliance/advisories/blob/main/2024-07-squarespace.pdf)
-- [CrowdStrike update crashes Windows systems, causes outages worldwide](https://www.bleepingcomputer.com/news/security/crowdstrike-update-crashes-windows-systems-causes-outages-worldwide/)
-	- [No drop in Bitcoin nodes following incident](https://x.com/0xB10C/status/1814261328317452572)
-- [Gitlab attacker can run pipeline jobs as an arbitrary user](https://about.gitlab.com/releases/2024/07/10/patch-release-gitlab-17-1-2-released/#an-attacker-can-run-pipeline-jobs-as-an-arbitrary-user)
 - [Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor](https://indirector.cpusec.org/index_files/Indirector_USENIX_Security_2024.pdf)
-- [Infinite approval attack triggers $9.7m lost in LiFi protocol](https://li.fi/knowledge-hub/incident-report-16th-july/)
-- [Malicious PyPi Package triggers $8m hack on Bittensor](https://rekt.news/bittensor-rekt/)
-- [Oracle misconfiguration leads to $7.5m hack of Rho Market](https://rekt.news/rho-market-rekt/)
 - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
-- [Threat Brief: CVE-2024-6387 OpenSSH RegreSSHion Vulnerability](https://unit42.paloaltonetworks.com/threat-brief-cve-2024-6387-openssh/)
-- [WazirX exchange hacked for $235m](https://rekt.news/wazirx-rekt/)
 - [Wasabi Wallet Security Incident Disclosure: July 9th-10th 2024](https://github.com/WalletWasabi/WalletWasabi/discussions/13249)
 
 ## Pull Requests
+
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+
 - [net: Allow -proxy=(::1) on nodes with IPV6 lo only](https://github.com/bitcoin/bitcoin/pull/30245)
 - [assumeutxo: Don't load a snapshot if it's not in the best header chain](https://github.com/bitcoin/bitcoin/pull/30320)
 - [rest: Reject negative outpoint index early in getutxos parsing](https://github.com/bitcoin/bitcoin/pull/30444)
@@ -129,10 +125,12 @@ CVEs and Research
 - [policy: Add PayToAnchor(P2A), OP_1 <0x4e73> as a standard output script for spending](https://github.com/bitcoin/bitcoin/pull/30352)
 
 ### [BDK](https://github.com/bitcoindevkit/bdk)
+
 - [feat(electrum)!: Update `bdk_electrum` to use merkle proofs](https://github.com/bitcoindevkit/bdk/pull/1489)
 - [refactor(wallet)!: Add support for custom sorting and deprecate BIP69](https://github.com/bitcoindevkit/bdk/pull/1487)
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
 - [Move locktimes and `Sequence` to `primitives`](https://github.com/rust-bitcoin/rust-bitcoin/pull/2991)
 - [Specify required_height in variable name when comparing to other height](https://github.com/rust-bitcoin/rust-bitcoin/pull/3026)
 - [Optimize base58 on small inputs](https://github.com/rust-bitcoin/rust-bitcoin/pull/3002)
