@@ -43,7 +43,6 @@ Discussion
 - [Block withholding attacks and potential solutions](https://mailing-list.bitcoindevs.xyz/bitcoindev/Zp%2FGADXa8J146Qqn@erisian.com.au/)
 - [Proposed BIP for scriptless threshold signatures](https://mailing-list.bitcoindevs.xyz/bitcoindev/740e2584-5b6c-47f6-832e-76928bf613efn@googlegroups.com/)
 - [Bitcoin Core switch to CMake build system](https://mailing-list.bitcoindevs.xyz/bitcoindev/6cfd5a56-84b4-4cbc-a211-dd34b8942f77n@googlegroups.com/)
-- []()
 
 ## [Delving Bitcoin](https://delvingbitcoin.org/)
 
