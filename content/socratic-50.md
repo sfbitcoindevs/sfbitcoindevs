@@ -51,7 +51,7 @@ Discussion
 - [Hyperion: a discrete time network even simulator for Bitcoin Core](https://delvingbitcoin.org/t/hyperion-a-discrete-time-network-event-simulator-for-bitcoin-core/1042)
 - [Stats on compact block reconstructions](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052)
 - [Optimistic ZK verification using MATT](https://delvingbitcoin.org/t/optimistic-zk-verification-using-matt/1050)
-- [ Simple (but imperfect) anti-exfiltration protocol](https://delvingbitcoin.org/t/non-interactive-anti-exfil-airgap-compatible/1081)
+- [Simple (but imperfect) anti-exfiltration protocol](https://delvingbitcoin.org/t/non-interactive-anti-exfil-airgap-compatible/1081)
 
 CVEs and Research
 -----------------
