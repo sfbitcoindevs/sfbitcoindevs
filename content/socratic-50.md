@@ -34,7 +34,9 @@ Discussion
 ### Tweets & Blogs
 
 - [STARK verification PoC on signet (using OP_CAT)](https://x.com/StarkWareLtd/status/1813929304209723700)
-- [GSR Update](https://primal.net/e/note12283gne4a85aetqmkmafaudk5cmu3769rdavrsus6v05epvdvkgsvxw305)
+    - [Circle STARK paper](https://eprint.iacr.org/2024/278.pdf)
+- [Great Script Restoration Update](https://primal.net/e/note12283gne4a85aetqmkmafaudk5cmu3769rdavrsus6v05epvdvkgsvxw305)
+    - [Great Script Restoration background](https://brink.dev/blog/2024/08/22/eng-call-great-script-restoration/)
 - [CPUNet](https://x.com/BobMcElrath/status/1823370268728873411)
 - [Ocean building their own miner-side template construction mechanism rather than using Stratum v2](https://x.com/boerst/status/1821211209510662600)
 
