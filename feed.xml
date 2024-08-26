@@ -37,8 +37,16 @@
 &lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;tweets-blogs&quot;&gt;Tweets &amp;amp; Blogs&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;StarkWareLtd&#x2F;status&#x2F;1813929304209723700&quot;&gt;STARK verification PoC on signet (using OP_CAT)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;primal.net&#x2F;e&#x2F;note12283gne4a85aetqmkmafaudk5cmu3769rdavrsus6v05epvdvkgsvxw305&quot;&gt;GSR Update&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;StarkWareLtd&#x2F;status&#x2F;1813929304209723700&quot;&gt;STARK verification PoC on signet (using OP_CAT)&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;278.pdf&quot;&gt;Circle STARK paper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;primal.net&#x2F;e&#x2F;note12283gne4a85aetqmkmafaudk5cmu3769rdavrsus6v05epvdvkgsvxw305&quot;&gt;Great Script Restoration Update&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;brink.dev&#x2F;blog&#x2F;2024&#x2F;08&#x2F;22&#x2F;eng-call-great-script-restoration&#x2F;&quot;&gt;Great Script Restoration background&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BobMcElrath&#x2F;status&#x2F;1823370268728873411&quot;&gt;CPUNet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;boerst&#x2F;status&#x2F;1821211209510662600&quot;&gt;Ocean building their own miner-side template construction mechanism rather than using Stratum v2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
