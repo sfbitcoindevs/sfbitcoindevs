@@ -4,8 +4,121 @@
 	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://www.sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2024-08-26T00:00:00+00:00</updated>
+	<updated>2024-09-19T00:00:00+00:00</updated>
 	<id>https://www.sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 51</title>
+		<published>2024-09-19T00:00:00+00:00</published>
+		<updated>2024-09-19T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-51/" type="text/html"/>
+		<id>https://www.sfbitcoindevs.org/socratic-51/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers August 27th to September 16th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.fractalbitcoin.io&#x2F;updates&#x2F;fractal-mainnet-launches-press-release&quot;&gt;Fractal Bitcoin launches with partial merge mining with Bitcoin&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fractal-bitcoin.notion.site&#x2F;2024-01-Fractal-Bitcoin-v0-0-9-04c62c379d6846c7b6163fcd1fb9d566&quot;&gt;Fractal Bitcoin litepaper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;dimahledba&#x2F;status&#x2F;1833859058735951937&quot;&gt;Security issues&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.cryptopolitan.com&#x2F;norwegian-town-shuts-bitcoin-mine&#x2F;&quot;&gt;Norwegian Bitcoin mine shuts down, leading to 20% higher electricity costs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;10101.finance&#x2F;blog&#x2F;10101-is-shutting-down&#x2F;&quot;&gt;10101 is shutting down&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;tweets-blogs&quot;&gt;Tweets &amp;amp; Blogs&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;12-template-similarity&#x2F;&quot;&gt;Block template similarities between mining pools&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;petertodd.org&#x2F;2024&#x2F;covenant-dependent-layer-2-review&quot;&gt;Soft-Fork&#x2F;Covenant Dependent Layer 2 Review&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;theinstagibbs&#x2F;status&#x2F;1833122840108728451&quot;&gt;instagibbs shares take on scaling&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;allesvoorbitcoin.substack.com&#x2F;p&#x2F;you-probably-dont-need-a-hardware&quot;&gt;You probably don&#x27;t need a hardware wallet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;rot13maxi&#x2F;status&#x2F;1833667750469804315&quot;&gt;Taproot Wizards share exploration of new fungible token protocol using OP_CAT&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;AlpenLabs&#x2F;status&#x2F;1827004881754034680&quot;&gt;New TMUL promitive unlocks more efficient ZK verification on Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;glozow&#x2F;status&#x2F;1829100551067365608&quot;&gt;Gloria shares a TRUC example transaction on testnet4 using Bitcoin Core 28.0rc1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arkdev.info&#x2F;blog&#x2F;ark-release-v0.2&#x2F;&quot;&gt;Ark v0.2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;lightning&quot;&gt;Lightning&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;MPins&#x2F;lightning-nodenamer&quot;&gt;Lightning NodeNamer&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;pins.grafana.net&#x2F;public-dashboards&#x2F;478199ff803c44138feb1439908e891f&quot;&gt;Grafana dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Lightning Data
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mattahlborg&#x2F;status&#x2F;1828436316930912364&quot;&gt;Bitrefill&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;CoinGatecom&#x2F;status&#x2F;1823290727251505543&quot;&gt;Coingate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;hfangca&#x2F;status&#x2F;1793010752259035306&quot;&gt;OKX&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.therage.co&#x2F;kraken-germany-lightning-support&#x2F;&quot;&gt;Kraken Germany removes Lightning support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;strike.me&#x2F;blog&#x2F;bolt12-offers&#x2F;&quot;&gt;Strike enables paying BOLT12 offers&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;awBtvpXKBcw&quot;&gt;OP_CAT research fund&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;tKETFYnEtng&quot;&gt;Timewarp fix, Mining software and Clocks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;YEXcac4FMGc&quot;&gt;OP_ZKP updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;-NbdxKkaMQU&quot;&gt;BIP 8.5: flag day activation based on nlocktime signaling&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;proving-utxo-set-inclusion-in-zero-knowledge&#x2F;1142&quot;&gt;Proving UTXO set inclusion in zero-knowledge&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;pplns-with-job-declaration&#x2F;1099&quot;&gt;PPLNS with job declaration&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;mutation-core-a-mutation-testing-tool-for-bitcoin-core&#x2F;1119&quot;&gt;Mutation-core: a mutation testing tool for Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;lava-loans-trust-minimized-bitcoin-secured-loans&#x2F;1112&quot;&gt;Lava Loans: trust-minimized, Bitcoin-secured loans&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lava-xyz&#x2F;loans-paper&#x2F;blob&#x2F;960b91af83513f6a17d87904457e7a9e786b21e0&#x2F;loans_v2.pdf&quot;&gt;Lava Loans whitepaper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;1236&quot;&gt;Optimizing Big Integer Multiplication on Bitcoin: Introducing w-windowed Approach&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2024&#x2F;1299.pdf&quot;&gt;Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;disclosures-advisories&quot;&gt;Disclosures &amp;amp; Advisories&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;brunoerg.xyz&#x2F;2024&#x2F;08&#x2F;12&#x2F;rust-miniscript-vuln.html&quot;&gt;rust-miniscript vulnerability disclosure (DoS&#x2F;Stack Overflow)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;oag.ca.gov&#x2F;system&#x2F;files&#x2F;2024-6-25_Gemini%20Notification%20Email.pdf&quot;&gt;Gemini discloses 3rd party databreach&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arstechnica.com&#x2F;security&#x2F;2024&#x2F;09&#x2F;yubikeys-are-vulnerable-to-cloning-attacks-thanks-to-newly-discovered-side-channel&#x2F;&quot;&gt;YubiKey 5 vulnerability&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bleepingcomputer.com&#x2F;news&#x2F;security&#x2F;new-amd-sinkclose-flaw-helps-install-nearly-undetectable-malware&#x2F;&quot;&gt;New AMD SinkClose flaw helps install nearly undetectable malware&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;_markel___&#x2F;status&#x2F;1828112469010596347&quot;&gt;Intel SGX Fuse Key0 compromised&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;pull-requests&quot;&gt;Pull Requests&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;28280&quot;&gt;Don&#x27;t empty dbcache on prune flushes: &amp;gt;30% faster IBD&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30454&quot;&gt;build: Introduce CMake-based build system&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30664&quot;&gt;build: Remove Autotools-based build system&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;29605&quot;&gt;net: Favor peers from addrman over fetching seednodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;22838&quot;&gt;descriptors: Be able to specify change and receiving in a single descriptor string&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;EmAOO-Nbmzw&quot;&gt;Bitcoin Core 28.0 RC1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;vinteumorg&#x2F;Floresta&#x2F;releases&#x2F;tag&#x2F;0.6.0&quot;&gt;Floresta v0.6.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 50</title>
 		<published>2024-08-26T00:00:00+00:00</published>
