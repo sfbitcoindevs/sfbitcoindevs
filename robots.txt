@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://www.sfbitcoindevs.org/sitemap.xml
+Sitemap: https://sfbitcoindevs.org/sitemap.xml

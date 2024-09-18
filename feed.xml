@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 	<title></title>
-	<link href="https://www.sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
-  <link href="https://www.sfbitcoindevs.org"/>
+	<link href="https://sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
 	<updated>2024-09-19T00:00:00+00:00</updated>
-	<id>https://www.sfbitcoindevs.org/feed.xml</id>
+	<id>https://sfbitcoindevs.org/feed.xml</id>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 51</title>
 		<published>2024-09-19T00:00:00+00:00</published>
 		<updated>2024-09-19T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-51/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-51/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-51/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-51/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -123,8 +123,8 @@
 		<title>Socratic Seminar 50</title>
 		<published>2024-08-26T00:00:00+00:00</published>
 		<updated>2024-08-26T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-50/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-50/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-50/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-50/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -224,8 +224,8 @@
 		<title>Socratic Seminar 49</title>
 		<published>2024-07-29T00:00:00+00:00</published>
 		<updated>2024-07-29T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-49/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-49/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-49/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-49/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -372,8 +372,8 @@
 		<title>Socratic Seminar 48</title>
 		<published>2024-06-25T00:00:00+00:00</published>
 		<updated>2024-06-25T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-48/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-48/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-48/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-48/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -476,8 +476,8 @@
 		<title>Socratic Seminar 47</title>
 		<published>2024-04-29T00:00:00+00:00</published>
 		<updated>2024-04-29T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-47/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-47/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-47/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-47/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -602,8 +602,8 @@
 		<title>Socratic Seminar 46</title>
 		<published>2024-03-25T00:00:00+00:00</published>
 		<updated>2024-03-25T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-46/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-46/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-46/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-46/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -673,8 +673,8 @@
 		<title>Socratic Seminar 45</title>
 		<published>2024-02-26T00:00:00+00:00</published>
 		<updated>2024-02-26T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-45/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-45/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-45/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-45/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -739,8 +739,8 @@
 		<title>Socratic Seminar 44</title>
 		<published>2024-01-29T00:00:00+00:00</published>
 		<updated>2024-01-29T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-44/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-44/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-44/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-44/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -855,8 +855,8 @@
 		<title>Socratic Seminar 43</title>
 		<published>2023-11-27T00:00:00+00:00</published>
 		<updated>2023-11-27T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-43/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-43/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-43/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-43/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -932,8 +932,8 @@
 		<title>Socratic Seminar 42</title>
 		<published>2023-10-26T00:00:00+00:00</published>
 		<updated>2023-10-26T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-42/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-42/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-42/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-42/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -1002,8 +1002,8 @@
 		<title>Socratic Seminar 41</title>
 		<published>2023-09-25T00:00:00+00:00</published>
 		<updated>2023-09-25T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-41/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-41/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-41/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-41/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;cardcoins.co&quot;&gt;CardCoins&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -1080,8 +1080,8 @@
 		<title>Socratic Seminar 40</title>
 		<published>2023-08-28T00:00:00+00:00</published>
 		<updated>2023-08-28T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-40/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-40/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-40/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-40/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -1145,8 +1145,8 @@
 		<title>Socratic Seminar 39</title>
 		<published>2023-07-31T00:00:00+00:00</published>
 		<updated>2023-07-31T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-39/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-39/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-39/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-39/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -1216,8 +1216,8 @@
 		<title>Socratic Seminar 38</title>
 		<published>2023-06-27T00:00:00+00:00</published>
 		<updated>2023-06-27T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-38/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-38/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-38/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-38/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -1280,8 +1280,8 @@
 		<title>Socratic Seminar 37</title>
 		<published>2023-05-29T00:00:00+00:00</published>
 		<updated>2023-05-29T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-37/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-37/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-37/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-37/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -1346,8 +1346,8 @@
 		<title>Socratic Seminar 36</title>
 		<published>2023-04-24T00:00:00+00:00</published>
 		<updated>2023-04-24T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-36/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-36/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-36/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-36/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -1412,8 +1412,8 @@
 		<title>Socratic Seminar 34</title>
 		<published>2023-02-27T00:00:00+00:00</published>
 		<updated>2023-02-27T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-34/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-34/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-34/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-34/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -1534,8 +1534,8 @@
 		<title>Socratic Seminar 33</title>
 		<published>2023-01-30T00:00:00+00:00</published>
 		<updated>2023-01-30T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-33/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-33/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-33/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-33/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -1683,8 +1683,8 @@
 		<title>Socratic Seminar 32</title>
 		<published>2022-11-28T00:00:00+00:00</published>
 		<updated>2022-11-28T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-32/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-32/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-32/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-32/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;dg717.com&#x2F;&quot;&gt;Digital Garage&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Bitrefill&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
@@ -1790,8 +1790,8 @@
 		<title>Socratic Seminar 31</title>
 		<published>2022-10-31T00:00:00+00:00</published>
 		<updated>2022-10-31T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-31/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-31/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-31/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-31/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
@@ -1866,8 +1866,8 @@
 		<title>Socratic Seminar 30</title>
 		<published>2022-09-26T00:00:00+00:00</published>
 		<updated>2022-09-26T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-30/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-30/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-30/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-30/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
@@ -1957,8 +1957,8 @@
 		<title>Socratic Seminar 29</title>
 		<published>2022-08-29T00:00:00+00:00</published>
 		<updated>2022-08-29T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-29/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-29/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-29/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-29/</id>
 		<content type="html">&lt;h2 id=&quot;preamble&quot;&gt;Preamble&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
@@ -2031,8 +2031,8 @@
 		<title>Socratic Seminar 28</title>
 		<published>2022-07-25T00:00:00+00:00</published>
 		<updated>2022-07-25T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-28/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-28/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-28/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-28/</id>
 		<content type="html">&lt;h2 id=&quot;preamble&quot;&gt;Preamble&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
@@ -2111,8 +2111,8 @@
 		<title>Socratic Seminar 27</title>
 		<published>2022-06-27T00:00:00+00:00</published>
 		<updated>2022-06-27T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-27/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-27/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-27/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-27/</id>
 		<content type="html">&lt;h2 id=&quot;preamble&quot;&gt;Preamble&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Asking questions is encouraged, even if you think they&#x27;re dumb!&lt;&#x2F;li&gt;
@@ -2178,8 +2178,8 @@
 		<title>Socratic Seminar 26</title>
 		<published>2022-05-23T00:00:00+00:00</published>
 		<updated>2022-05-23T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-26/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-26/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-26/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-26/</id>
 		<content type="html">&lt;h2 id=&quot;events&quot;&gt;Events&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitdevsla.org&#x2F;pleb-fi-1&#x2F;&quot;&gt;Pleb.fi Los Angeles: Building on Taproot, June 18-19&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -2250,8 +2250,8 @@
 		<title>Socratic Seminar 25</title>
 		<published>2021-10-25T00:00:00+00:00</published>
 		<updated>2021-10-25T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-25/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-25/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-25/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-25/</id>
 		<content type="html">&lt;h2 id=&quot;general-news&quot;&gt;General News&lt;&#x2F;h2&gt;
 &lt;h2 id=&quot;stats&quot;&gt;Stats&lt;&#x2F;h2&gt;
 &lt;p&gt;Fee Rates&lt;br &#x2F;&gt;
@@ -2313,8 +2313,8 @@
 		<title>Socratic Seminar 24</title>
 		<published>2021-07-19T00:00:00+00:00</published>
 		<updated>2021-07-19T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-24/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-24/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-24/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-24/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Taproot locked in&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;pwuille&#x2F;status&#x2F;1403725170993336322&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;pwuille&#x2F;status&#x2F;1403725170993336322&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -2389,8 +2389,8 @@
 		<title>Socratic Seminar 23</title>
 		<published>2021-04-12T00:00:00+00:00</published>
 		<updated>2021-04-12T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-23/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-23/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-23/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-23/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;COPA vs Scammer&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;CoinDesk&#x2F;status&#x2F;1381644434077540352&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;CoinDesk&#x2F;status&#x2F;1381644434077540352&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -2475,8 +2475,8 @@
 		<title>Socratic Seminar 22</title>
 		<published>2021-02-22T00:00:00+00:00</published>
 		<updated>2021-02-22T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-22/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-22/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-22/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-22/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Bitcoin Core 0.21.0&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;0.21.0&#x2F;&quot;&gt;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;0.21.0&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -2554,8 +2554,8 @@
 		<title>Socratic Seminar 21</title>
 		<published>2021-01-04T00:00:00+00:00</published>
 		<updated>2021-01-04T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-21/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-21/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-21/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-21/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Treasury Department Regulations&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;www.coincenter.org&#x2F;congress-warns-treasury-on-unusually-short-cryptocurrency-short-rulemaking&#x2F;&quot;&gt;https:&#x2F;&#x2F;www.coincenter.org&#x2F;congress-warns-treasury-on-unusually-short-cryptocurrency-short-rulemaking&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -2637,8 +2637,8 @@
 		<title>Socratic Seminar 20</title>
 		<published>2020-11-30T00:00:00+00:00</published>
 		<updated>2020-11-30T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-20/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-20/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-20/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-20/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;GLV patent expired&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;pwuille&#x2F;status&#x2F;1309707188575694849&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;pwuille&#x2F;status&#x2F;1309707188575694849&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -2718,8 +2718,8 @@
 		<title>Socratic Seminar 19</title>
 		<published>2020-02-24T00:00:00+00:00</published>
 		<updated>2020-02-24T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-19/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-19/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-19/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-19/</id>
 		<content type="html">&lt;h2 id=&quot;news-blog-posts&quot;&gt;News &amp;amp; Blog Posts&lt;&#x2F;h2&gt;
 &lt;p&gt;Onboarding Bitcoin Core&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@amitiu&#x2F;onboarding-to-bitcoin-core-7c1a83b20365&quot;&gt;https:&#x2F;&#x2F;medium.com&#x2F;@amitiu&#x2F;onboarding-to-bitcoin-core-7c1a83b20365&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -2794,8 +2794,8 @@
 		<title>Socratic Seminar 18</title>
 		<published>2020-01-27T00:00:00+00:00</published>
 		<updated>2020-01-27T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-18/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-18/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-18/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-18/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Remembering Tamás Blummer&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;remembering-tamas-blummer-pioneering-bitcoin-developer&quot;&gt;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;remembering-tamas-blummer-pioneering-bitcoin-developer&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
@@ -2879,8 +2879,8 @@
 		<title>Socratic Seminar 17</title>
 		<published>2019-12-09T00:00:00+00:00</published>
 		<updated>2019-12-09T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-17/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-17/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-17/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-17/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Ransom Attack on Coldcard&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;shiftcrypto&#x2F;a-ransom-attack-on-coldcards-change-and-keypath-verification-f3c71461624a&quot;&gt;https:&#x2F;&#x2F;medium.com&#x2F;shiftcrypto&#x2F;a-ransom-attack-on-coldcards-change-and-keypath-verification-f3c71461624a&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -2948,8 +2948,8 @@
 		<title>Socratic Seminar 16</title>
 		<published>2019-11-11T00:00:00+00:00</published>
 		<updated>2019-11-11T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-16/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-16/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-16/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-16/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Bitcoin Core 0.19 Released&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;blob&#x2F;master&#x2F;doc&#x2F;release-notes&#x2F;release-notes-0.19.0.md&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;blob&#x2F;master&#x2F;doc&#x2F;release-notes&#x2F;release-notes-0.19.0.md&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3024,8 +3024,8 @@
 		<title>Socratic Seminar 15</title>
 		<published>2019-10-21T00:00:00+00:00</published>
 		<updated>2019-10-21T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-15/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-15/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-15/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-15/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Block 600,000&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;pwuille&#x2F;status&#x2F;1185346625897517056&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;pwuille&#x2F;status&#x2F;1185346625897517056&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3093,8 +3093,8 @@
 		<title>Socratic Seminar 14</title>
 		<published>2019-09-16T00:00:00+00:00</published>
 		<updated>2019-09-16T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-14/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-14/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-14/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-14/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Trezor OLED Side-channel attack&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;blog.trezor.io&#x2F;details-of-the-oled-vulnerability-and-its-mitigation-d331c4e2001a&quot;&gt;https:&#x2F;&#x2F;blog.trezor.io&#x2F;details-of-the-oled-vulnerability-and-its-mitigation-d331c4e2001a&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3163,8 +3163,8 @@
 		<title>Socratic Seminar 13</title>
 		<published>2019-08-26T00:00:00+00:00</published>
 		<updated>2019-08-26T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-13/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-13/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-13/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-13/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Bitcoin Core 0.18.1&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;0.18.1&#x2F;&quot;&gt;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;0.18.1&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3235,8 +3235,8 @@
 		<title>Socratic Seminar 12</title>
 		<published>2019-07-22T00:00:00+00:00</published>
 		<updated>2019-07-22T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-12/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-12/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-12/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-12/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;LND 0.7&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;blog.lightning.engineering&#x2F;announcement&#x2F;2019&#x2F;07&#x2F;01&#x2F;lnd-v0.7.html&quot;&gt;https:&#x2F;&#x2F;blog.lightning.engineering&#x2F;announcement&#x2F;2019&#x2F;07&#x2F;01&#x2F;lnd-v0.7.html&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3321,8 +3321,8 @@ Costs in Blockchains&lt;br &#x2F;&gt;
 		<title>Socratic Seminar 11</title>
 		<published>2019-06-24T00:00:00+00:00</published>
 		<updated>2019-06-24T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-11/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-11/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-11/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-11/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Largest Coinjoin Tx&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;blockstream.info&#x2F;tx&#x2F;ebc9b72bbba2e0ac322eb53e617ab5c3cd7076cfed35813ef7f74021d06266d0&quot;&gt;https:&#x2F;&#x2F;blockstream.info&#x2F;tx&#x2F;ebc9b72bbba2e0ac322eb53e617ab5c3cd7076cfed35813ef7f74021d06266d0&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3383,14 +3383,14 @@ Costs in Blockchains&lt;br &#x2F;&gt;
 		<title>Socratic Seminar 10</title>
 		<published>2019-05-20T00:00:00+00:00</published>
 		<updated>2019-05-20T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-10/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-10/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-10/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-10/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Bitcoin Core 0.18 release&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;bitcoin-core-0180-release-heres-whats-new&#x2F;&quot;&gt;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;articles&#x2F;bitcoin-core-0180-release-heres-whats-new&#x2F;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;releases&#x2F;tag&#x2F;v0.18.0&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;releases&#x2F;tag&#x2F;v0.18.0&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Binance Hack &amp;amp; reorg debate&lt;br &#x2F;&gt;
-&lt;a href=&quot;https:&#x2F;&#x2F;www.sfbitcoindevs.org&#x2F;socratic-10&#x2F;binance_hack.pdf&quot;&gt;Binance Hack Analysis&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
+&lt;a href=&quot;https:&#x2F;&#x2F;sfbitcoindevs.org&#x2F;socratic-10&#x2F;binance_hack.pdf&quot;&gt;Binance Hack Analysis&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;cz_binance&#x2F;status&#x2F;1125996194734399488&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;cz_binance&#x2F;status&#x2F;1125996194734399488&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
 &lt;p&gt;Gotenna w&#x2F; Blockstream Satellite&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;blockstream.com&#x2F;2019&#x2F;05&#x2F;11&#x2F;gotenna-satellite-api-integration&#x2F;&quot;&gt;https:&#x2F;&#x2F;blockstream.com&#x2F;2019&#x2F;05&#x2F;11&#x2F;gotenna-satellite-api-integration&#x2F;&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
@@ -3448,8 +3448,8 @@ Costs in Blockchains&lt;br &#x2F;&gt;
 		<title>Socratic Seminar 9</title>
 		<published>2019-04-22T00:00:00+00:00</published>
 		<updated>2019-04-22T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-9/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-9/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-9/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-9/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Native Segwit at Bitgo and Gemini&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;blog.bitgo.com&#x2F;native-segwit-addresses-via-bitgos-api-4946f2007be9&quot;&gt;https:&#x2F;&#x2F;blog.bitgo.com&#x2F;native-segwit-addresses-via-bitgos-api-4946f2007be9&lt;&#x2F;a&gt;&lt;br &#x2F;&gt;
@@ -3511,8 +3511,8 @@ Costs in Blockchains&lt;br &#x2F;&gt;
 		<title>Socratic Seminar 8</title>
 		<published>2019-03-25T00:00:00+00:00</published>
 		<updated>2019-03-25T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-8/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-8/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-8/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-8/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;Pieter Quiz&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;pwuille&#x2F;status&#x2F;1108097835365339136&quot;&gt;https:&#x2F;&#x2F;twitter.com&#x2F;pwuille&#x2F;status&#x2F;1108097835365339136&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3568,8 +3568,8 @@ Costs in Blockchains&lt;br &#x2F;&gt;
 		<title>Socratic Seminar 7</title>
 		<published>2019-02-25T00:00:00+00:00</published>
 		<updated>2019-02-25T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-7/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-7/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-7/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-7/</id>
 		<content type="html">&lt;h2 id=&quot;news&quot;&gt;News&lt;&#x2F;h2&gt;
 &lt;p&gt;CVE-2018–20587&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;@lukedashjr&#x2F;cve-2018-20587-advisory-and-full-disclosure-a3105551e78b&quot;&gt;https:&#x2F;&#x2F;medium.com&#x2F;@lukedashjr&#x2F;cve-2018-20587-advisory-and-full-disclosure-a3105551e78b&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3628,8 +3628,8 @@ Costs in Blockchains&lt;br &#x2F;&gt;
 		<title>Socratic Seminar 6</title>
 		<published>2019-01-21T00:00:00+00:00</published>
 		<updated>2019-01-21T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-6/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-6/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-6/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-6/</id>
 		<content type="html">&lt;h2 id=&quot;bitcoin-prs&quot;&gt;Bitcoin PRs&lt;&#x2F;h2&gt;
 &lt;p&gt;Disable nlocktime-based anti-fee sniping&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2019&#x2F;01&#x2F;15&#x2F;&quot;&gt;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;newsletters&#x2F;2019&#x2F;01&#x2F;15&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3674,8 +3674,8 @@ Costs in Blockchains&lt;br &#x2F;&gt;
 		<title>Socratic Seminar 5</title>
 		<published>2018-12-10T00:00:00+00:00</published>
 		<updated>2018-12-10T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-5/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-5/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-5/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-5/</id>
 		<content type="html">&lt;h2 id=&quot;bitcoin-core-prs&quot;&gt;Bitcoin Core PRs&lt;&#x2F;h2&gt;
 &lt;p&gt;Add ability to convert solvability info to descriptor&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;14477&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;14477&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3729,8 +3729,8 @@ Costs in Blockchains&lt;br &#x2F;&gt;
 		<title>Socratic Seminar 4</title>
 		<published>2018-11-12T00:00:00+00:00</published>
 		<updated>2018-11-12T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-4/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-4/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-4/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-4/</id>
 		<content type="html">&lt;h2 id=&quot;bitcoin-core-prs&quot;&gt;Bitcoin Core PRs&lt;&#x2F;h2&gt;
 &lt;p&gt;First step in multiprocess bitcoin-core merged&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;14437&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;14437&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3825,8 +3825,8 @@ Full list of potential 1.1 change:&lt;&#x2F;p&gt;
 		<title>Socratic Seminar 3</title>
 		<published>2018-10-17T00:00:00+00:00</published>
 		<updated>2018-10-17T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-3/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-3/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-3/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-3/</id>
 		<content type="html">&lt;h2 id=&quot;bitcoin-core-prs&quot;&gt;Bitcoin Core PRs&lt;&#x2F;h2&gt;
 &lt;p&gt;Inflation Bug&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;14247&quot;&gt;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;14247&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3890,8 +3890,8 @@ http:&#x2F;&#x2F;diyhpl.us&#x2F;wiki&#x2F;transcripts&#x2F;scalingbitcoin&#x2F;t
 		<title>Socratic Seminar 2</title>
 		<published>2018-08-27T00:00:00+00:00</published>
 		<updated>2018-08-27T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-2/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-2/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-2/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-2/</id>
 		<content type="html">&lt;h2 id=&quot;security&quot;&gt;Security&lt;&#x2F;h2&gt;
 &lt;p&gt;Breaking the Virtual Memory Abstraction with Transient Out-of-Order Execution&lt;br &#x2F;&gt;
 &lt;a href=&quot;https:&#x2F;&#x2F;foreshadowattack.eu&#x2F;&quot;&gt;https:&#x2F;&#x2F;foreshadowattack.eu&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
@@ -3953,8 +3953,8 @@ http:&#x2F;&#x2F;diyhpl.us&#x2F;wiki&#x2F;transcripts&#x2F;scalingbitcoin&#x2F;t
 		<title>Socratic Seminar 1</title>
 		<published>2018-07-23T00:00:00+00:00</published>
 		<updated>2018-07-23T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://www.sfbitcoindevs.org/socratic-1/" type="text/html"/>
-		<id>https://www.sfbitcoindevs.org/socratic-1/</id>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-1/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-1/</id>
 		<content type="html">&lt;h1 id=&quot;coming-soon&quot;&gt;Coming Soon&lt;&#x2F;h1&gt;
 </content>
 	</entry>
