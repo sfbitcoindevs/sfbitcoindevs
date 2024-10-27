@@ -24,8 +24,9 @@ Chain Weather Report
 News & Announcements
 --------------------
 
-- [River introduces BTC yield on USD deposits](https://blog.river.com/bitcoin-interest-on-cash/)
+- [Bitnomial announces US perpetual futures trading platform, Botanical, closes $25 Million funding round](https://finance.yahoo.com/news/bitnomial-announces-us-perpetual-futures-130000845.html)
 - [Blockstream closed a $210M convertible note financing round led by Fulgur Ventures](https://primal.net/e/note13fz3zghacjpja222prsuhgyyzuealpf8e8wftgh5hj8a7r2dy56sj8dsl0)
+- [River introduces BTC yield on USD deposits](https://blog.river.com/bitcoin-interest-on-cash/)
 - [Ocean launches DATUM](https://ocean.xyz/docs/datum)
     - [DATUM Gateway repository](https://github.com/OCEAN-xyz/datum_gateway)
 - [Bitmain launches Antminer S21+](https://www.bitmain.com/news-detail/bitmain-launches-the-antminer-s21-series-358)
@@ -40,6 +41,7 @@ Discussion
 - [Coinbase supports S2TR](https://x.com/CoinbaseAssets/status/1843712761391399318)
 - [DLC Markets launches on mainnet](https://blog.dlcmarkets.com/dlc-markets-reshaping-bitcoin-trading/)
 - [Spark from Lightspark](https://spark.info/)
+- [Simplicity arrives on Liquid testnet](https://blog.blockstream.com/simplicity-arrives-on-liquid-testnet/)
 - [SeedSigner "firmware" isn't want you think it is](https://gist.github.com/kdmukai/e270dd1c7b53b8daea4a9fc1ac89847c)
 - [Broadcast Pool](https://github.com/bitcoin/bitcoin/issues/30471)
 
