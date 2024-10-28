@@ -38,7 +38,7 @@ Discussion
 
 ### Tweets & Blogs
 
-- [Coinbase supports S2TR](https://x.com/CoinbaseAssets/status/1843712761391399318)
+- [Coinbase supports P2TR](https://x.com/CoinbaseAssets/status/1843712761391399318)
 - [DLC Markets launches on mainnet](https://blog.dlcmarkets.com/dlc-markets-reshaping-bitcoin-trading/)
 - [Spark from Lightspark](https://spark.info/)
 - [Simplicity arrives on Liquid testnet](https://blog.blockstream.com/simplicity-arrives-on-liquid-testnet/)
