@@ -24,6 +24,7 @@ Chain Weather Report
 News & Announcements
 --------------------
 
+- D++ presents the [Bitcorn Chat](https://bitcorn.io/sf) and [Bitcorn Hole](https://github.com/dplusplus1024/bitcorn-hole)
 - [Bitnomial announces US perpetual futures trading platform, Botanical, closes $25 Million funding round](https://finance.yahoo.com/news/bitnomial-announces-us-perpetual-futures-130000845.html)
 - [Blockstream closed a $210M convertible note financing round led by Fulgur Ventures](https://primal.net/e/note13fz3zghacjpja222prsuhgyyzuealpf8e8wftgh5hj8a7r2dy56sj8dsl0)
 - [River introduces BTC yield on USD deposits](https://blog.river.com/bitcoin-interest-on-cash/)
