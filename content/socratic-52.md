@@ -97,3 +97,4 @@ Releases
 
 - [Bitcoin Core 28.0](https://bitcoincore.org/bin/bitcoin-core-28.0/)
 - [Bitcoin Inquisition 28.0](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v28.0-inq)
+- [bitcoinj v0.17-beta1](https://github.com/bitcoinj/bitcoinj/releases/tag/v0.17-beta1)
