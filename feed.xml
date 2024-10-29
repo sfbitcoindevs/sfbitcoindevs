@@ -32,7 +32,7 @@
 &lt;ul&gt;
 &lt;li&gt;D++ presents the &lt;a href=&quot;https:&#x2F;&#x2F;bitcorn.io&#x2F;sf&quot;&gt;Bitcorn Chat&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;dplusplus1024&#x2F;bitcorn-hole&quot;&gt;Bitcorn Hole&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;twitter.com&#x2F;lclhostresearch&#x2F;status&#x2F;1850978751452233788&quot;&gt;Localhost Research launches in the Bay Area&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;finance.yahoo.com&#x2F;news&#x2F;bitnomial-announces-us-perpetual-futures-130000845.html&quot;&gt;Bitnomial announces US perpetual futures trading platform, Botanical, closes $25 Million funding round&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;botanical.finance&quot;&gt;Bitnomial announces US perpetual futures trading platform, Botanical&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;primal.net&#x2F;e&#x2F;note13fz3zghacjpja222prsuhgyyzuealpf8e8wftgh5hj8a7r2dy56sj8dsl0&quot;&gt;Blockstream closed a $210M convertible note financing round led by Fulgur Ventures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.river.com&#x2F;bitcoin-interest-on-cash&#x2F;&quot;&gt;River introduces BTC yield on USD deposits&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;ocean.xyz&#x2F;docs&#x2F;datum&quot;&gt;Ocean launches DATUM&lt;&#x2F;a&gt;
@@ -58,8 +58,16 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;tAyfaE4lZso&quot;&gt;Shielded CSV: Private and Efficient Client-Side Validation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;cuMZ77KEQAA&#x2F;m&#x2F;wM4JzvmaAQAJ&quot;&gt;Draft of updated BIP process&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;5G5wzqUXyk4&quot;&gt;BIP: Sending Silent Payments in PSBTs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;MezoKV5md7s&quot;&gt;BIP: DLEQ&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;5G5wzqUXyk4&quot;&gt;BIP: Sending Silent Payments in PSBTs&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;e2adb50e77562b513d98b730a36168f32ce3ec3e&#x2F;bip-PSBT-SP.mediawiki&quot;&gt;PSBT Silent Payments Rendered BIP&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;MezoKV5md7s&quot;&gt;BIP: DLEQ&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;blob&#x2F;2aab0766e309604e927b888ec42b948f14a2ba8f&#x2F;bip-DLEQ.mediawiki&quot;&gt;DLEQ Proof Rendered BIP&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
@@ -80,9 +88,9 @@
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.torproject.org&#x2F;tor-is-still-safe&#x2F;&quot;&gt;Is Tor still safe to use?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2409.04930&quot;&gt;PIXHELL Attack: Leaking Sensitive Information from Air-Gap Computers via ‘Singing Pixels’&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2409.02292&quot;&gt;RAMBO: Leaking Secrets from Air-Gap Computers by Spelling Covert Radio Signals from Computer RAM&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.covertchannels.com&#x2F;&quot;&gt;Covert Channels&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;pull-requests&quot;&gt;Pull Requests&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
@@ -97,7 +105,7 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;bin&#x2F;bitcoin-core-28.0&#x2F;&quot;&gt;Bitcoin Core 28.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;28.0&#x2F;&quot;&gt;Bitcoin Core 28.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;releases&#x2F;tag&#x2F;v28.0-inq&quot;&gt;Bitcoin Inquisition 28.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinj&#x2F;bitcoinj&#x2F;releases&#x2F;tag&#x2F;v0.17-beta1&quot;&gt;bitcoinj v0.17-beta1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
