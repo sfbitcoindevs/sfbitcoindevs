@@ -26,7 +26,7 @@ News & Announcements
 
 - D++ presents the [Bitcorn Chat](https://bitcorn.io/sf) and [Bitcorn Hole](https://github.com/dplusplus1024/bitcorn-hole)
 - [Localhost Research launches in the Bay Area](https://twitter.com/lclhostresearch/status/1850978751452233788)
-- [Bitnomial announces US perpetual futures trading platform, Botanical, closes $25 Million funding round](https://finance.yahoo.com/news/bitnomial-announces-us-perpetual-futures-130000845.html)
+- [Bitnomial announces US perpetual futures trading platform, Botanical](https://botanical.finance)
 - [Blockstream closed a $210M convertible note financing round led by Fulgur Ventures](https://primal.net/e/note13fz3zghacjpja222prsuhgyyzuealpf8e8wftgh5hj8a7r2dy56sj8dsl0)
 - [River introduces BTC yield on USD deposits](https://blog.river.com/bitcoin-interest-on-cash/)
 - [Ocean launches DATUM](https://ocean.xyz/docs/datum)
@@ -52,7 +52,9 @@ Discussion
 - [Shielded CSV: Private and Efficient Client-Side Validation](https://groups.google.com/g/bitcoindev/c/tAyfaE4lZso)
 - [Draft of updated BIP process](https://groups.google.com/g/bitcoindev/c/cuMZ77KEQAA/m/wM4JzvmaAQAJ)
 - [BIP: Sending Silent Payments in PSBTs](https://groups.google.com/g/bitcoindev/c/5G5wzqUXyk4)
+    - [PSBT Silent Payments Rendered BIP](https://github.com/bitcoin/bips/blob/e2adb50e77562b513d98b730a36168f32ce3ec3e/bip-PSBT-SP.mediawiki)
 - [BIP: DLEQ](https://groups.google.com/g/bitcoindev/c/MezoKV5md7s)
+    - [DLEQ Proof Rendered BIP](https://github.com/bitcoin/bips/blob/2aab0766e309604e927b888ec42b948f14a2ba8f/bip-DLEQ.mediawiki)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
@@ -75,9 +77,9 @@ CVEs and Research
 
 ### InfoSec
 
-- [Is Tor still safe to use?](https://blog.torproject.org/tor-is-still-safe/)
 - [PIXHELL Attack: Leaking Sensitive Information from Air-Gap Computers via ‘Singing Pixels’](https://arxiv.org/pdf/2409.04930)
 - [RAMBO: Leaking Secrets from Air-Gap Computers by Spelling Covert Radio Signals from Computer RAM](https://arxiv.org/pdf/2409.02292)
+- [Covert Channels](https://www.covertchannels.com/)
 
 Pull Requests
 -------------
@@ -95,6 +97,6 @@ Pull Requests
 Releases
 --------
 
-- [Bitcoin Core 28.0](https://bitcoincore.org/bin/bitcoin-core-28.0/)
+- [Bitcoin Core 28.0](https://bitcoincore.org/en/releases/28.0/)
 - [Bitcoin Inquisition 28.0](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v28.0-inq)
 - [bitcoinj v0.17-beta1](https://github.com/bitcoinj/bitcoinj/releases/tag/v0.17-beta1)
