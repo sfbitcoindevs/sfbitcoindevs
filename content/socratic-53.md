@@ -21,6 +21,8 @@ Chain Weather Report
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
     - [Timelapse of Memento Mori runes mint](https://x.com/mononautical/status/1851830349208363379)
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
+- [Magic Eden "Mempool Protection" Scheme](https://x.com/mononautical/status/1856176570831921255)
+- [Attack on Tor NEtwork](https://x.com/Andrew___Morris/status/1854289771197329517)
 
 News & Announcements
 --------------------
@@ -33,12 +35,13 @@ Discussion
 ### Tweets & Blogs
 
 - [Free money](https://x.com/sanket1729/status/1851824134680170792)
-- [Analyzing Bitcoin Consensus: Risks in Protocol Upgrades](https://x.com/moneyball/status/1854585339119341796)
 - [Post-quantum Bitcoin Script and signatures](https://x.com/n1ckler/status/1854552545084977320)
 - [A novel design for smartphone-based bitcoin wallets](https://bitkey.build/building-in-the-open/)
     - [Unlocking mass market self custody](https://assets.ctfassets.net/mtmp6hzjjvnd/6Qjcs8zgMiyffC0Uk8cx4V/f4be3237365ab7302915ec96d80f74d2/Unlocking_Mass_Market_Self_Custody.pdf)
 - [Intro to dlcdevkit](https://bennyb.dev/blog/dlcdevkit)
 - [Unlocking liquidity before shared output expiration](https://arkdev.info/blog/unlock-liquidity-before-shared-output-expiration/)
+- [Stratum v2 Project Roadmap](https://stratumprotocol.org/blog/sri-roadmap-2025/)
+- [bitcoin-dev Linux Foundation links dead](https://x.com/kanzure/status/1853588622017990667)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
@@ -76,6 +79,7 @@ Noteworthy PRs
 - [Ephemeral dust](https://github.com/bitcoin/bitcoin/pull/30239)
 - [Remove mempoolfullrbf](https://github.com/bitcoin/bitcoin/pull/30592)
 - [netinfo: add peer services column and outbound-only option](https://github.com/bitcoin/bitcoin/pull/30930)
+- [multiprocess: Add IPC wrapper for Mining interface](https://github.com/bitcoin/bitcoin/pull/30510)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 
