@@ -31,6 +31,8 @@
 &lt;&#x2F;ul&gt;
 &lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1856176570831921255&quot;&gt;Magic Eden &quot;Mempool Protection&quot; Scheme&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;Andrew___Morris&#x2F;status&#x2F;1854289771197329517&quot;&gt;Attack on Tor NEtwork&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -40,7 +42,6 @@
 &lt;h3 id=&quot;tweets-blogs&quot;&gt;Tweets &amp;amp; Blogs&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;sanket1729&#x2F;status&#x2F;1851824134680170792&quot;&gt;Free money&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;moneyball&#x2F;status&#x2F;1854585339119341796&quot;&gt;Analyzing Bitcoin Consensus: Risks in Protocol Upgrades&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;n1ckler&#x2F;status&#x2F;1854552545084977320&quot;&gt;Post-quantum Bitcoin Script and signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitkey.build&#x2F;building-in-the-open&#x2F;&quot;&gt;A novel design for smartphone-based bitcoin wallets&lt;&#x2F;a&gt;
 &lt;ul&gt;
@@ -49,6 +50,8 @@
 &lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bennyb.dev&#x2F;blog&#x2F;dlcdevkit&quot;&gt;Intro to dlcdevkit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arkdev.info&#x2F;blog&#x2F;unlock-liquidity-before-shared-output-expiration&#x2F;&quot;&gt;Unlocking liquidity before shared output expiration&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;stratumprotocol.org&#x2F;blog&#x2F;sri-roadmap-2025&#x2F;&quot;&gt;Stratum v2 Project Roadmap&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;kanzure&#x2F;status&#x2F;1853588622017990667&quot;&gt;bitcoin-dev Linux Foundation links dead&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
@@ -82,6 +85,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30239&quot;&gt;Ephemeral dust&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30592&quot;&gt;Remove mempoolfullrbf&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30930&quot;&gt;netinfo: add peer services column and outbound-only option&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30510&quot;&gt;multiprocess: Add IPC wrapper for Mining interface&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;ldk&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&quot;&gt;LDK&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
