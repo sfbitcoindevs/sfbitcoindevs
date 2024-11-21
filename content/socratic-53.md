@@ -27,6 +27,7 @@ Chain Weather Report
 News & Announcements
 --------------------
 
+- [Bitcoin hits $100k?](https://bitbo.io/)
 - [Joltz and Eulen Unveil First Stablecoin On Lightning Network Via Taproot Assets](https://bitcoinnews.com/press-release/joltz-eulen-stablecoin-on-lightning-depix/)
 
 Discussion
