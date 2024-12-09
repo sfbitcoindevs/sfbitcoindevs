@@ -19,7 +19,6 @@ Chain Weather Report
 - [Clark Moody Dashboard](https://dashboard.clarkmoody.com/)
 - [Mempool](https://mempool.space/graphs/mempool#1m)
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
-    - [Timelapse of Memento Mori runes mint](https://x.com/mononautical/status/1851830349208363379)
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
 
 News & Announcements
