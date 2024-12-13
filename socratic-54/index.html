@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Bitcoin Devs | Socratic Seminar 54
+    </title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Bitcoin Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+        
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Bitcoin Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/sfbitcoindevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sfbitcoindevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sflightningdevs.org" target="_blank">LitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 54</h1>
+<p><strong>2024-12-14</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a href="https://dg717.com/">Digital Garage</a>, <a href="https://bitrefill.com/">Bitrefill</a>, and <a href="https://bitnomial.com">Bitnomial</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers November 17th to December 12th.</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a href="https://dashboard.clarkmoody.com/">Clark Moody Dashboard</a></li>
+<li><a href="https://mempool.space/graphs/mempool#1m">Mempool</a></li>
+<li><a href="https://mempool.space/graphs/mining/block-fee-rates#1m">Block Fee Rates</a></li>
+<li><a href="https://mempool.space/graphs/mining/block-rewards#1m">Block Rewards 1m</a></li>
+</ul>
+<h2 id="news-announcements">News &amp; Announcements</h2>
+<ul>
+<li><a href="https://www.sec.gov/newsroom/press-releases/2024-182">SEC Chair Gensler to depart agency on January 20th</a></li>
+<li><a href="https://www.reuters.com/world/us/trump-picks-former-sec-commissioner-paul-atkins-run-agency-2024-12-04/">Trump picks former SEC commissioner Paul Atkins to run agency</a></li>
+<li><a href="https://x.com/iampaulgrewal/status/1861549058797772874">U.S. appeals court overturns sanctions against Tornado Cash</a></li>
+<li><a href="https://x.com/davidmarcus/status/1862867849988944361">David Marcus and others share details regarding Operation Chokepoint 2.0</a></li>
+<li><a href="https://www.justice.gov/opa/pr/bitcoin-fog-operator-sentenced-money-laundering-conspiracy">Bitcoin Fog operator sentenced for money laundering conspiracy</a></li>
+<li><a href="https://x.com/lava_xyz/status/1866116381256696128">Lava announces series A co-led by Khosla Ventures and Founders Fund</a></li>
+<li>Casa launches <a href="https://blog.casa.io/introducing-casa-enterprise/">Casa Enterprise</a> for business and <a href="https://blog.casa.io/praetorian-by-casa-for-sovereign-bitcoin-reserves/">Praetorian</a> for nation states</li>
+<li><a href="https://www.mining.build/blog/introducing-proto-building-the-future-of-bitcoin-mining-hardware-2/">Introducing Proto: building the future of bitcoin mining hardware</a></li>
+<li><a href="https://learning.chaincode.com">Chaincode 2025 BOSS program accepting applicants through 12/31/2024</a></li>
+</ul>
+<h2 id="discussion">Discussion</h2>
+<h3 id="tweets-blogs">Tweets &amp; Blogs</h3>
+<ul>
+<li><a href="https://x.com/jamesob/status/1860340932706730261">Bitcoin Core's loss of focus</a></li>
+<li><a href="https://blog.lopp.net/on-ossification/">Lopp: On ossification</a></li>
+<li><a href="https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/">Boost your node sync with UTXO snapshots</a></li>
+<li><a href="https://njump.me/nevent1qqstc6h4kdtk4t3d0jun3ck4lnvmdlmrwqfmfpjm6l5cs4lzxfd340spp4mhxue69uhkummn9ekx7mqzyzl85553k5ew3wgc7twfs9yffz3n60sd5pmc346pdaemf363fuywvk9y2kc">Introducing Lark</a></li>
+<li><a href="https://en.bitcoin.it/wiki/Covenants_support">Bitcoin wiki - covenants support</a></li>
+<li><a href="https://x.com/t4t5/status/1861066474623782959">A magical neovim plugin for Bitcoin Script</a></li>
+<li><a href="https://github.com/jonasnick/GreatRSI">Great Restored Script Interpreter</a></li>
+</ul>
+<h3 id="bitcoin-dev"><a href="https://groups.google.com/g/bitcoindev">bitcoin-dev</a></h3>
+<ul>
+<li><a href="https://groups.google.com/g/bitcoindev/c/GuS36ldye7s">Transaction-relay throughput overflow attacks against off-chain protocols</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/nrgqIXL2Cyk">Slashing covenants</a></li>
+</ul>
+<h3 id="delving-bitcoin"><a href="https://delvingbitcoin.org/">Delving Bitcoin</a></h3>
+<ul>
+<li><a href="https://delvingbitcoin.org/t/pluggable-channel-factories/1252">Pluggable channel factories</a></li>
+<li><a href="https://delvingbitcoin.org/t/debuggable-lisp-scripts/1224">Debuggable Lisp scripts</a></li>
+<li><a href="https://delvingbitcoin.org/t/winternitz-one-time-signatures-contrasting-between-lisp-and-script/1255">Winternitz one time signatures, constrasting between Lisp and Script</a></li>
+<li><a href="https://delvingbitcoin.org/t/flexible-coin-earmarks/1275">Flexible coin earmarks</a></li>
+<li><a href="https://delvingbitcoin.org/t/great-consensus-cleanup-revival/710/53">Continued great consensus cleanup revival discussion</a></li>
+</ul>
+<h2 id="cves-and-research">CVEs and Research</h2>
+<h3 id="research">Research</h3>
+<ul>
+<li><a href="https://github.com/bitcoin-cap/bcap/blob/main/bcap_v1.0.pdf">Analyzing Bitcoin consensus: risks in protocol upgrades</a></li>
+<li><a href="https://rubin.io/public/pdfs/unfedcovenants.pdf">Un-FE'd covenants: char-ting a new path to emulated covenants via BitVM integrity checks</a></li>
+<li><a href="https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8547.ipd.pdf">Draft US NIST guidance is deprecating ECDSA for Federal systems from 2030 and disallowing it from 2035 onward</a></li>
+<li><a href="https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/">New Elliptic Curve Breaks 18-Year-Old Record</a></li>
+</ul>
+<h3 id="infosec">InfoSec</h3>
+<ul>
+<li><a href="https://www.pcmag.com/news/chinese-man-uses-sms-blaster-to-send-1-million-scam-text-messages-from">Chinese man uses 'SMS Blaster' to send 1 million scam text messages from van</a></li>
+<li><a href="https://blog.oversecured.com/Disclosure-of-7-Android-and-Google-Pixel-Vulnerabilities/">Disclosure of 7 Android and Google Pixel vulnerabilities</a></li>
+<li><a href="https://www.bleepingcomputer.com/news/security/new-ghost-tap-attack-abuses-nfc-mobile-payments-to-steal-money/">New Ghost Tap attack abuses NFC mobile payments to steal money</a></li>
+<li><a href="https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/">The nearest neighbor attack: how a Russian APT weaponized nearby Wi-Fi networks for covert access</a></li>
+</ul>
+<h2 id="bips-blips-bolts">BIPs, bLIPs &amp; BOLTs</h2>
+<ul>
+<li><a href="https://github.com/bitcoin/bips/blob/master/bip-0349.md">BIP349: OP_INTERNALKEY</a></li>
+</ul>
+<h2 id="noteworthy-prs">Noteworthy PRs</h2>
+<h3 id="bitcoin-core"><a href="https://github.com/bitcoin/bitcoin">Bitcoin Core</a></h3>
+<ul>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/31122">cluster mempool: Implement changeset interface for mempool</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/30666">validation: fix m_best_header tracking and BLOCK_FAILED_CHILD assignment</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/30708">rpc: add getdescriptoractivity</a></li>
+</ul>
+<h3 id="core-lightning"><a href="https://github.com/ElementsProject/lightning">Core Lightning</a></h3>
+<ul>
+<li><a href="https://github.com/ElementsProject/lightning/pull/7833">Offers: Not just for breakfast anymore!</a></li>
+</ul>
+<h3 id="eclair"><a href="https://github.com/ACINQ/eclair">Eclair</a></h3>
+<ul>
+<li><a href="https://github.com/ACINQ/eclair/pull/2935">Add force-close notification</a></li>
+</ul>
+<h3 id="ldk"><a href="https://github.com/lightningdevkit/rust-lightning">LDK</a></h3>
+<ul>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/pull/3137">Implement accepting dual-funded channels without contributing</a></li>
+</ul>
+<h3 id="lnd"><a href="https://github.com/lightningnetwork/lnd">lnd</a></h3>
+<ul>
+<li><a href="https://github.com/lightningnetwork/lnd/pull/8337">[1/4] - protofsm: add new package for driving generic protocol FSMs</a></li>
+</ul>
+<h2 id="releases">Releases</h2>
+<ul>
+<li><a href="https://arkdev.info/blog/ark-release-v0.4/">Ark v0.4</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/blob/v28.1rc1/doc/release-notes.md">Bitcoin Core v28.1 rc1</a></li>
+<li><a href="https://github.com/ACINQ/eclair/releases/tag/v0.11.0">Eclair v0.11.0</a></li>
+<li><a href="https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.125">LDK v0.0.125</a></li>
+<li><a href="https://wizardsardine.com/blog/liana-8.0-release/">Liana v8.0</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+        Sponsored by <a href="https://www.garage.co.jp/en/">Digital Garage</a>,
+        <a href="https://www.bitrefill.com/">Bitrefill</a>, 
+        and <a href="https://bitnomial.com/">Bitnomial</a>.
+      </span>
+    </footer>
+  </body>
+</html>
