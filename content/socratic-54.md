@@ -18,8 +18,10 @@ Chain Weather Report
 
 - [Clark Moody Dashboard](https://dashboard.clarkmoody.com/)
 - [Mempool](https://mempool.space/graphs/mempool#1m)
+  - [Analysis of transactions in mempool below 2 sats / byte](https://x.com/mononautical/status/1841595148544745652)
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
+- [Foundry has a block race against itself](https://x.com/0xB10C/status/1841863284636442882)
 
 News & Announcements
 --------------------
@@ -39,7 +41,6 @@ Discussion
 
 ### Tweets & Blogs
 
-- [Bitcoin Core's loss of focus](https://x.com/jamesob/status/1860340932706730261)
 - [Lopp: On ossification](https://blog.lopp.net/on-ossification/)
 - [Boost your node sync with UTXO snapshots](https://blog.lopp.net/bitcoin-node-sync-with-utxo-snapshots/)
 - [Introducing Lark](https://njump.me/nevent1qqstc6h4kdtk4t3d0jun3ck4lnvmdlmrwqfmfpjm6l5cs4lzxfd340spp4mhxue69uhkummn9ekx7mqzyzl85553k5ew3wgc7twfs9yffz3n60sd5pmc346pdaemf363fuywvk9y2kc)
@@ -86,16 +87,13 @@ Noteworthy PRs
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 
 - [cluster mempool: Implement changeset interface for mempool](https://github.com/bitcoin/bitcoin/pull/31122)
-- [validation: fix m_best_header tracking and BLOCK_FAILED_CHILD assignment](https://github.com/bitcoin/bitcoin/pull/30666)
-- [rpc: add getdescriptoractivity](https://github.com/bitcoin/bitcoin/pull/30708)
+- [Ephemeral Dust]([https://github.com/bitcoin/bitcoin/pull/30666](https://github.com/bitcoin/bitcoin/pull/30239)
 
 ### [Core Lightning](https://github.com/ElementsProject/lightning)
 
 - [Offers: Not just for breakfast anymore!](https://github.com/ElementsProject/lightning/pull/7833)
+- [Splice Interop](https://github.com/ElementsProject/lightning/pull/7719)
 
-### [Eclair](https://github.com/ACINQ/eclair)
-
-- [Add force-close notification](https://github.com/ACINQ/eclair/pull/2935)
 
 ### [LDK](https://github.com/lightningdevkit/rust-lightning)
 
@@ -103,7 +101,7 @@ Noteworthy PRs
 
 ### [lnd](https://github.com/lightningnetwork/lnd)
 
-- [[1/4] - protofsm: add new package for driving generic protocol FSMs](https://github.com/lightningnetwork/lnd/pull/8337)
+- [Add Experimental Endorsement Signalling]([https://github.com/lightningnetwork/lnd/pull/8337](https://github.com/lightningnetwork/lnd/pull/8390))
 
 Releases
 --------
