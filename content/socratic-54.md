@@ -65,7 +65,6 @@ CVEs and Research
 
 ### Research
 
-- [Analyzing Bitcoin consensus: risks in protocol upgrades](https://github.com/bitcoin-cap/bcap/blob/main/bcap_v1.0.pdf)
 - [Un-FE'd covenants: char-ting a new path to emulated covenants via BitVM integrity checks](https://rubin.io/public/pdfs/unfedcovenants.pdf)
 - [Draft US NIST guidance is deprecating ECDSA for Federal systems from 2030 and disallowing it from 2035 onward](https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8547.ipd.pdf)
 - [New Elliptic Curve Breaks 18-Year-Old Record](https://www.quantamagazine.org/new-elliptic-curve-breaks-18-year-old-record-20241111/)
@@ -114,3 +113,9 @@ Releases
 - [Eclair v0.11.0](https://github.com/ACINQ/eclair/releases/tag/v0.11.0)
 - [LDK v0.0.125](https://github.com/lightningdevkit/rust-lightning/releases/tag/v0.0.125)
 - [Liana v8.0](https://wizardsardine.com/blog/liana-8.0-release/)
+
+
+Presenatation
+-------------
+
+- Steve Lee: [Analyzing Bitcoin consensus: risks in protocol upgrades](https://github.com/bitcoin-cap/bcap/blob/main/bcap_v1.0.pdf)
