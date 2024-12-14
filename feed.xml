@@ -67,7 +67,6 @@
 &lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-cap&#x2F;bcap&#x2F;blob&#x2F;main&#x2F;bcap_v1.0.pdf&quot;&gt;Analyzing Bitcoin consensus: risks in protocol upgrades&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;rubin.io&#x2F;public&#x2F;pdfs&#x2F;unfedcovenants.pdf&quot;&gt;Un-FE&#x27;d covenants: char-ting a new path to emulated covenants via BitVM integrity checks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;nvlpubs.nist.gov&#x2F;nistpubs&#x2F;ir&#x2F;2024&#x2F;NIST.IR.8547.ipd.pdf&quot;&gt;Draft US NIST guidance is deprecating ECDSA for Federal systems from 2030 and disallowing it from 2035 onward&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.quantamagazine.org&#x2F;new-elliptic-curve-breaks-18-year-old-record-20241111&#x2F;&quot;&gt;New Elliptic Curve Breaks 18-Year-Old Record&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -113,6 +112,10 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ACINQ&#x2F;eclair&#x2F;releases&#x2F;tag&#x2F;v0.11.0&quot;&gt;Eclair v0.11.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;releases&#x2F;tag&#x2F;v0.0.125&quot;&gt;LDK v0.0.125&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;wizardsardine.com&#x2F;blog&#x2F;liana-8.0-release&#x2F;&quot;&gt;Liana v8.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;presenatation&quot;&gt;Presenatation&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Steve Lee: &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-cap&#x2F;bcap&#x2F;blob&#x2F;main&#x2F;bcap_v1.0.pdf&quot;&gt;Analyzing Bitcoin consensus: risks in protocol upgrades&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
