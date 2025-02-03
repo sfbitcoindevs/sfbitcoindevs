@@ -109,7 +109,7 @@ Releases
 - [Liana v8.0](https://wizardsardine.com/blog/liana-8.0-release/)
 
 
-Presenatation
+Presentation
 -------------
 
 - Steve Lee: [Analyzing Bitcoin consensus: risks in protocol upgrades](https://github.com/bitcoin-cap/bcap/blob/main/bcap_v1.0.pdf)
