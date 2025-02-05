@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Bitcoin Devs | Socratic Seminar 55
+    </title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Bitcoin Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+        
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Bitcoin Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/sfbitcoindevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sfbitcoindevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sflightningdevs.org" target="_blank">LitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 55</h1>
+<p><strong>2024-02-06</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by Presidio Bitcoin, <a href="https://bitrefill.com/">Pubkey</a>, and <a href="https://bitnomial.com">Bitnomial</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers December 12th to February 3rd.</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a href="https://dashboard.clarkmoody.com/">Clark Moody Dashboard</a></li>
+<li><a href="https://mempool.space/graphs/mempool#1m">Mempool</a></li>
+<li><a href="https://mempool.space/graphs/mining/block-fee-rates#1m">Block Fee Rates</a></li>
+<li><a href="https://mempool.space/graphs/mining/block-rewards#1m">Block Rewards 1m</a></li>
+</ul>
+<h2 id="news-announcements">News &amp; Announcements</h2>
+<ul>
+<li><a href="https://freeross.org/">Ross Ulbricht granted full and unconditional pardon</a></li>
+<li><a href="https://x.com/coinbase/status/1879902780564951530">Coinbase launches Bitcoin-backed loans</a></li>
+<li><a href="https://theminermag.com/news/2025-01-05/mara-lend-bitcoin-btc/">Bitcoin Miner MARA Lends 16% of Its 44,893 BTC Reserves</a></li>
+<li><a href="https://fortune.com/2024/12/09/bitcoin-lending-lava-khosla-keith-rabois-founders-fund-venture/">Lava raises $10 million in a Series A funding round led by Khosla Ventures and Founders Fund</a></li>
+<li><a href="https://www.theblock.co/post/330146/bitcoin-investment-app-relai-funding-valuation">Relai secures $12 million in a Series A funding round led by Ego Death Capital</a></li>
+<li><a href="https://x.com/AnchorWatch/status/1876297172204888193">AnchorWatch launches in the US</a></li>
+<li><a href="https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin">Bull Bitcoin adds payjoin support</a></li>
+<li><a href="https://blog.blockstream.com/introducing-the-all-new-blockstream-jade-plus-simple-enough-for-beginners-advanced-enough-for-cypherpunks/">Blockstream releases Jade Plus</a></li>
+</ul>
+<h2 id="discussion">Discussion</h2>
+<h3 id="tweets-blogs">Tweets &amp; Blogs</h3>
+<ul>
+<li><a href="https://nunchuk.io/blog/taproot-multisig">Nunchuk adds support for taproot MuSig2</a></li>
+<li><a href="https://stacker.news/items/805544">Zero fee playground: a new toy by Super Testnet</a></li>
+<li><a href="https://stacker.news/items/814742">P2PK playground: Super Testnet's Latest Invention for Paying Raw Public Keys</a></li>
+</ul>
+<h3 id="bitcoin-dev"><a href="https://groups.google.com/g/bitcoindev">bitcoin-dev</a></h3>
+<ul>
+<li><a href="https://groups.google.com/g/bitcoindev/c/CbfbEGozG7c/m/w2B-RRdUCQAJ">Reiterating centralized coinjoin (Wasabi &amp; Samourai) deanonymization attacks</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/JhEyfW7YKhY/m/qR4ucBeMCAAJ">Double Exponential Hash Rate Growth and Difficulty Adjustment</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/8O857bRSVV8/m/4cM-7pf4AgAJ">Trivial QC signatures with clean upgrade path</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/3CRqKviJY_M">Call for reconfiguration of nodes to relay transactions with fee-rates below 1 sat/vbyte</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/ZspZzO4sBys">[FULL DISCLOSURE]: Replacement Cycling Attacks on Attacks on Bitcoin Miners Block Templates</a></li>
+</ul>
+<h3 id="dlc-dev"><a href="https://mailmanlists.org/pipermail/dlc-dev/">dlc-dev</a></h3>
+<ul>
+<li><a href="https://mailmanlists.org/pipermail/dlc-dev/2025-January/000186.html">DLC Factories</a></li>
+</ul>
+<h3 id="delving-bitcoin"><a href="https://delvingbitcoin.org/">Delving Bitcoin</a></h3>
+<ul>
+<li><a href="https://delvingbitcoin.org/t/transitory-soft-forks-for-consensus-cleanup-forks/1333">Transitory soft forks for consensus cleanup forks</a></li>
+<li><a href="https://delvingbitcoin.org/t/timewarp-attack-600-second-grace-period/1326">Timewarp attack 600 second grace period</a></li>
+<li><a href="https://delvingbitcoin.org/t/analyzing-mining-pool-behavior-to-address-bitcoin-cores-double-coinbase-reservation-issue/1351">Analyzing Mining Pool Behavior to Address Bitcoin Core’s Double Coinbase Reservation Issue</a></li>
+<li><a href="https://delvingbitcoin.org/t/contract-level-relative-timelocks-or-lets-talk-about-ancestry-proofs-and-singletons/1353">Contract-level Relative Timelocks (or, let’s talk about ancestry proofs and singletons)</a></li>
+<li><a href="https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/5">Updated stats on compact block reconstructions</a></li>
+</ul>
+<h2 id="cves-and-research">CVEs and Research</h2>
+<h3 id="research">Research</h3>
+<ul>
+<li></li>
+</ul>
+<h3 id="infosec">InfoSec</h3>
+<ul>
+<li><a href="https://www.reuters.com/world/europe/co-founder-french-crypto-firm-ledger-freed-after-kidnapping-paris-prosecutors-2025-01-23/">Co-founder of French crypto firm Ledger freed after kidnapping, Paris prosecutors say</a></li>
+</ul>
+<h2 id="bips">BIPs</h2>
+<ul>
+<li><a href="https://github.com/bitcoin/bips/pull/1689">BIP374: DLEQ merged</a></li>
+<li><a href="https://github.com/bitcoin/bips/pull/1687">BIP375: Sending Silent Payments in PSBTs</a></li>
+<li><a href="https://github.com/bitcoin/bips/pull/1697">BIP388 update: add support for musig in descriptor templates</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/HE3HSnGTpoQ/m/Y2VhaMCrCAAJ">ChillDKG draft BIP updates</a></li>
+<li><a href="https://github.com/bitcoin/bips/pull/1746">unspendable() Descriptor Key Expression draft BIP</a></li>
+</ul>
+<h2 id="noteworthy-prs">Noteworthy PRs</h2>
+<h3 id="bitcoin-core"><a href="https://github.com/bitcoin/bitcoin">Bitcoin Core</a></h3>
+<ul>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/31223">net, init: derive default onion port if a user specified a -port</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/31397">p2p: track and use all potential peers for orphan resolution</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/31583">rpc: add target to getmininginfo field and show next block info </a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/31590">descriptors: Try pubkeys of both parities when retrieving the private keys for an xonly pubkey in a descriptor</a></li>
+</ul>
+<h2 id="releases">Releases</h2>
+<ul>
+<li><a href="https://github.com/bitcoin/bitcoin/releases/tag/v28.1">Bitcoin Core 28.1</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+      </span>
+    </footer>
+  </body>
+</html>
