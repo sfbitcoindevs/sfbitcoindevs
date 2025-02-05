@@ -1,6 +1,6 @@
 +++
 title = "Socratic Seminar 55"
-date = 2024-02-06
+date = 2025-02-06
 +++
 
 Housekeeping
@@ -67,7 +67,7 @@ CVEs and Research
 
 ### Research
 
-- 
+- N/A
 
 ### InfoSec
 
