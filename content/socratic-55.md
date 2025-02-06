@@ -20,11 +20,15 @@ Chain Weather Report
 - [Mempool](https://mempool.space/graphs/mempool#1m)
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
+- [Fifteen OFAC-sanctioned transactions missing from blocks](https://b10c.me/observations/13-missing-sanctioned-transactions-2024-12/)
+- [DATUM revives use of "Coin Age Priority"](https://x.com/mononautical/status/1878280799369494626)
+- [What's going on with testnet4](https://blog.dlsouza.lol/bitcoin/testnet/2024/12/02/testnet4.html)
 
 News & Announcements
 --------------------
 
 - [Ross Ulbricht granted full and unconditional pardon](https://freeross.org/)
+- [Tornado Cash OFAC sanctions overturned](https://storage.courtlistener.com/recap/gov.uscourts.txwd.1211705/gov.uscourts.txwd.1211705.99.0.pdf)
 - [Coinbase launches Bitcoin-backed loans](https://x.com/coinbase/status/1879902780564951530)
 - [Bitcoin Miner MARA Lends 16% of Its 44,893 BTC Reserves](https://theminermag.com/news/2025-01-05/mara-lend-bitcoin-btc/)
 - [Lava raises $10 million in a Series A funding round led by Khosla Ventures and Founders Fund](https://fortune.com/2024/12/09/bitcoin-lending-lava-khosla-keith-rabois-founders-fund-venture/)
@@ -32,6 +36,7 @@ News & Announcements
 - [AnchorWatch launches in the US](https://x.com/AnchorWatch/status/1876297172204888193)
 - [Bull Bitcoin adds payjoin support](https://www.bullbitcoin.com/blog/bull-bitcoin-wallet-payjoin)
 - [Blockstream releases Jade Plus](https://blog.blockstream.com/introducing-the-all-new-blockstream-jade-plus-simple-enough-for-beginners-advanced-enough-for-cypherpunks/)
+- [BitAxe CSRF Vulnerability](https://github.com/skot/ESP-Miner/releases/tag/v2.5.0)
 
 Discussion
 ----------
@@ -72,6 +77,8 @@ CVEs and Research
 ### InfoSec
 
 - [Co-founder of French crypto firm Ledger freed after kidnapping, Paris prosecutors say](https://www.reuters.com/world/europe/co-founder-french-crypto-firm-ledger-freed-after-kidnapping-paris-prosecutors-2025-01-23/)
+- [Vulnerability Report: Privacy Issue in WabiSabi Protocol ](https://github.com/GingerPrivacy/GingerWallet/discussions/116)
+- [Geolocation vulnerability found in Signal, Discord and others](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 
 BIPs
 ----
@@ -91,6 +98,7 @@ Noteworthy PRs
 - [p2p: track and use all potential peers for orphan resolution](https://github.com/bitcoin/bitcoin/pull/31397)
 - [rpc: add target to getmininginfo field and show next block info ](https://github.com/bitcoin/bitcoin/pull/31583)
 - [descriptors: Try pubkeys of both parities when retrieving the private keys for an xonly pubkey in a descriptor](https://github.com/bitcoin/bitcoin/pull/31590)
+- [kernel: Move kernel-related cache constants to kernel cache](https://github.com/bitcoin/bitcoin/pull/31483)
 
 Releases
 --------
