@@ -27,10 +27,14 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;13-missing-sanctioned-transactions-2024-12&#x2F;&quot;&gt;Fifteen OFAC-sanctioned transactions missing from blocks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1878280799369494626&quot;&gt;DATUM revives use of &quot;Coin Age Priority&quot;&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.dlsouza.lol&#x2F;bitcoin&#x2F;testnet&#x2F;2024&#x2F;12&#x2F;02&#x2F;testnet4.html&quot;&gt;What&#x27;s going on with testnet4&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;freeross.org&#x2F;&quot;&gt;Ross Ulbricht granted full and unconditional pardon&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;storage.courtlistener.com&#x2F;recap&#x2F;gov.uscourts.txwd.1211705&#x2F;gov.uscourts.txwd.1211705.99.0.pdf&quot;&gt;Tornado Cash OFAC sanctions overturned&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;coinbase&#x2F;status&#x2F;1879902780564951530&quot;&gt;Coinbase launches Bitcoin-backed loans&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;theminermag.com&#x2F;news&#x2F;2025-01-05&#x2F;mara-lend-bitcoin-btc&#x2F;&quot;&gt;Bitcoin Miner MARA Lends 16% of Its 44,893 BTC Reserves&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;fortune.com&#x2F;2024&#x2F;12&#x2F;09&#x2F;bitcoin-lending-lava-khosla-keith-rabois-founders-fund-venture&#x2F;&quot;&gt;Lava raises $10 million in a Series A funding round led by Khosla Ventures and Founders Fund&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -38,6 +42,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;AnchorWatch&#x2F;status&#x2F;1876297172204888193&quot;&gt;AnchorWatch launches in the US&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bullbitcoin.com&#x2F;blog&#x2F;bull-bitcoin-wallet-payjoin&quot;&gt;Bull Bitcoin adds payjoin support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;introducing-the-all-new-blockstream-jade-plus-simple-enough-for-beginners-advanced-enough-for-cypherpunks&#x2F;&quot;&gt;Blockstream releases Jade Plus&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;skot&#x2F;ESP-Miner&#x2F;releases&#x2F;tag&#x2F;v2.5.0&quot;&gt;BitAxe CSRF Vulnerability&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;tweets-blogs&quot;&gt;Tweets &amp;amp; Blogs&lt;&#x2F;h3&gt;
@@ -74,6 +79,8 @@
 &lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reuters.com&#x2F;world&#x2F;europe&#x2F;co-founder-french-crypto-firm-ledger-freed-after-kidnapping-paris-prosecutors-2025-01-23&#x2F;&quot;&gt;Co-founder of French crypto firm Ledger freed after kidnapping, Paris prosecutors say&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;GingerPrivacy&#x2F;GingerWallet&#x2F;discussions&#x2F;116&quot;&gt;Vulnerability Report: Privacy Issue in WabiSabi Protocol &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;hackermondev&#x2F;45a3cdfa52246f1d1201c1e8cdef6117&quot;&gt;Geolocation vulnerability found in Signal, Discord and others&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;bips&quot;&gt;BIPs&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -90,6 +97,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31397&quot;&gt;p2p: track and use all potential peers for orphan resolution&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31583&quot;&gt;rpc: add target to getmininginfo field and show next block info &lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31590&quot;&gt;descriptors: Try pubkeys of both parities when retrieving the private keys for an xonly pubkey in a descriptor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31483&quot;&gt;kernel: Move kernel-related cache constants to kernel cache&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
 &lt;ul&gt;
