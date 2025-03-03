@@ -55,6 +55,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;how-to-linearize-your-cluster&#x2F;303&#x2F;9&quot;&gt;Discovery of previous research for finding optimal cluster linearization&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;erlay-overview-and-current-approach&#x2F;1415&quot;&gt;Erlay: Overview and current approach&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;emulating-op-rand&#x2F;1409&quot;&gt;Emulating OP_RAND&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;multisigbackup-com-backup-and-recover-a-k-of-n-descriptor-using-only-n-seeds&#x2F;1430&quot;&gt;MultisigBackup.com: Backup and recover a k-of-n descriptor using only n seeds&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
@@ -63,6 +64,8 @@
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.kaspersky.com&#x2F;about&#x2F;press-releases&#x2F;kaspersky-exposes-hidden-malware-on-github-stealing-personal-data-and-485000-in-bitcoin&quot;&gt;Kaspersky exposes hidden malware on GitHub stealing personal data and $485,000 in Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;indutny&#x2F;elliptic&#x2F;security&#x2F;advisories&#x2F;GHSA-vjh7-7g9h-fjfh&quot;&gt;Private key extraction in ECDSA upon signing a malformed input (e.g. a string)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.reuters.com&#x2F;technology&#x2F;apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21&#x2F;&quot;&gt;Apple pulls data protection feature in UK amid government demands&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;bips&quot;&gt;BIPs&lt;&#x2F;h2&gt;
@@ -77,6 +80,22 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;27432&quot;&gt;contrib: add tool to convert compact-serialized UTXO set to SQLite database&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;30529&quot;&gt;Fix -norpcwhitelist, -norpcallowip, and similar corner case behavior&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31384&quot;&gt;mining: bugfix: Fix duplicate coinbase tx weight reservation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31600&quot;&gt;rpc: have getblocktemplate mintime account for timewarp&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;rust-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&quot;&gt;rust-bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;4061&quot;&gt;Make Debug representation of Witness to be slice of hex-encoded bytes strings to improve readability&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;4043&quot;&gt;Implement Default for Script&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;4037&quot;&gt;primitives: Add tests to LockTime&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;4050&quot;&gt;Validate compressed WIF keys&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;4040&quot;&gt;primitives: store transaction::Version as u32 instead of i32&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;4010&quot;&gt;Add a tagged hash engine&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;3983&quot;&gt;Add symmetrical fee calculation method to Weight&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;libsecp&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;secp256k1&quot;&gt;libsecp&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;secp256k1&#x2F;pull&#x2F;1646&quot;&gt;README: add instructions for verifying GPG signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;secp256k1&#x2F;pull&#x2F;1650&quot;&gt;schnorrsig: clear out masked secret key in BIP-340 nonce function&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
