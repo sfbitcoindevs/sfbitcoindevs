@@ -51,6 +51,7 @@ Discussion
 - [Discovery of previous research for finding optimal cluster linearization](https://delvingbitcoin.org/t/how-to-linearize-your-cluster/303/9)
 - [Erlay: Overview and current approach](https://delvingbitcoin.org/t/erlay-overview-and-current-approach/1415)
 - [Emulating OP_RAND](https://delvingbitcoin.org/t/emulating-op-rand/1409)
+- [MultisigBackup.com: Backup and recover a k-of-n descriptor using only n seeds](https://delvingbitcoin.org/t/multisigbackup-com-backup-and-recover-a-k-of-n-descriptor-using-only-n-seeds/1430)
 
 CVEs and Research
 -----------------
@@ -61,6 +62,8 @@ CVEs and Research
 
 ### InfoSec
 
+- [Kaspersky exposes hidden malware on GitHub stealing personal data and $485,000 in Bitcoin](https://www.kaspersky.com/about/press-releases/kaspersky-exposes-hidden-malware-on-github-stealing-personal-data-and-485000-in-bitcoin)
+- [Private key extraction in ECDSA upon signing a malformed input (e.g. a string)](https://github.com/indutny/elliptic/security/advisories/GHSA-vjh7-7g9h-fjfh)
 - [Apple pulls data protection feature in UK amid government demands](https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21/)
 
 BIPs
@@ -78,3 +81,17 @@ Noteworthy PRs
 - [contrib: add tool to convert compact-serialized UTXO set to SQLite database](https://github.com/bitcoin/bitcoin/pull/27432)
 - [Fix -norpcwhitelist, -norpcallowip, and similar corner case behavior](https://github.com/bitcoin/bitcoin/pull/30529)
 - [mining: bugfix: Fix duplicate coinbase tx weight reservation](https://github.com/bitcoin/bitcoin/pull/31384)
+- [rpc: have getblocktemplate mintime account for timewarp](https://github.com/bitcoin/bitcoin/pull/31600)
+
+### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+- [Make Debug representation of Witness to be slice of hex-encoded bytes strings to improve readability](https://github.com/rust-bitcoin/rust-bitcoin/pull/4061)
+- [Implement Default for Script](https://github.com/rust-bitcoin/rust-bitcoin/pull/4043)
+- [primitives: Add tests to LockTime](https://github.com/rust-bitcoin/rust-bitcoin/pull/4037)
+- [Validate compressed WIF keys](https://github.com/rust-bitcoin/rust-bitcoin/pull/4050)
+- [primitives: store transaction::Version as u32 instead of i32](https://github.com/rust-bitcoin/rust-bitcoin/pull/4040)
+- [Add a tagged hash engine](https://github.com/rust-bitcoin/rust-bitcoin/pull/4010)
+- [Add symmetrical fee calculation method to Weight](https://github.com/rust-bitcoin/rust-bitcoin/pull/3983)
+
+### [libsecp](https://github.com/bitcoin-core/secp256k1)
+- [README: add instructions for verifying GPG signatures](https://github.com/bitcoin-core/secp256k1/pull/1646)
+- [schnorrsig: clear out masked secret key in BIP-340 nonce function](https://github.com/bitcoin-core/secp256k1/pull/1650)
