@@ -61,6 +61,7 @@ CVEs and Research
 
 ### InfoSec
 
+- [Kaspersky exposes hidden malware on GitHub stealing personal data and $485,000 in Bitcoin](https://www.kaspersky.com/about/press-releases/kaspersky-exposes-hidden-malware-on-github-stealing-personal-data-and-485000-in-bitcoin)
 - [Apple pulls data protection feature in UK amid government demands](https://www.reuters.com/technology/apple-removing-end-to-end-cloud-encryption-feature-uk-bloomberg-news-reports-2025-02-21/)
 
 BIPs
