@@ -39,6 +39,7 @@
 &lt;h3 id=&quot;tweets-blogs&quot;&gt;Tweets &amp;amp; Blogs&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lopp.net&#x2F;treatise-bitcoin-block-space-economics&#x2F;&quot;&gt;A Treatise on Bitcoin Block Space Economics&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;adamjonas.com&#x2F;bitcoin&#x2F;coredev&#x2F;retro&#x2F;coredev-2024-retro&#x2F;&quot;&gt;Jonas&#x27; Bitcoin Core retro&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitkey.build&#x2F;inheritance-is-live-heres-how-it-works&#x2F;&quot;&gt;Bitkey inheritance feature launches&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;the-risks-of-expressive-smart-contracts-lessons-from-the-latest-ethereum-hack&#x2F;&quot;&gt;The Risks of Expressive Smart Contracts: Lessons from the Latest Ethereum Hack&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;njump.me&#x2F;naddr1qvzqqqr4gupzqgvra9r4sjqapufyl0vnc4kv4fz70e29em4c655y37vz206f0wt4qq2kxm2gwajrxe3n2fshwn6lvs6xgmnvxykh5g60zzr&quot;&gt;Super Testnet: How Coinpools Improve Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -52,6 +53,7 @@
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-forking-guide&#x2F;1451&quot;&gt;AJ&#x27;s Bitcoin Forking Guide&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;how-to-linearize-your-cluster&#x2F;303&#x2F;9&quot;&gt;Discovery of previous research for finding optimal cluster linearization&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;erlay-overview-and-current-approach&#x2F;1415&quot;&gt;Erlay: Overview and current approach&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;emulating-op-rand&#x2F;1409&quot;&gt;Emulating OP_RAND&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
