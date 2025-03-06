@@ -35,6 +35,7 @@ Discussion
 ### Tweets & Blogs
 
 - [A Treatise on Bitcoin Block Space Economics](https://blog.lopp.net/treatise-bitcoin-block-space-economics/)
+- [Jonas' Bitcoin Core retro](https://adamjonas.com/bitcoin/coredev/retro/coredev-2024-retro/)
 - [Bitkey inheritance feature launches](https://bitkey.build/inheritance-is-live-heres-how-it-works/)
 - [The Risks of Expressive Smart Contracts: Lessons from the Latest Ethereum Hack](https://blog.blockstream.com/the-risks-of-expressive-smart-contracts-lessons-from-the-latest-ethereum-hack/)
 - [Super Testnet: How Coinpools Improve Bitcoin](https://njump.me/naddr1qvzqqqr4gupzqgvra9r4sjqapufyl0vnc4kv4fz70e29em4c655y37vz206f0wt4qq2kxm2gwajrxe3n2fshwn6lvs6xgmnvxykh5g60zzr)
@@ -48,6 +49,7 @@ Discussion
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
+-  [AJ's Bitcoin Forking Guide](https://delvingbitcoin.org/t/bitcoin-forking-guide/1451)
 - [Discovery of previous research for finding optimal cluster linearization](https://delvingbitcoin.org/t/how-to-linearize-your-cluster/303/9)
 - [Erlay: Overview and current approach](https://delvingbitcoin.org/t/erlay-overview-and-current-approach/1415)
 - [Emulating OP_RAND](https://delvingbitcoin.org/t/emulating-op-rand/1409)
