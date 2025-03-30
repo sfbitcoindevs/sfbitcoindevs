@@ -4,8 +4,108 @@
 	<link href="https://sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2025-03-06T00:00:00+00:00</updated>
+	<updated>2025-04-03T00:00:00+00:00</updated>
 	<id>https://sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 57</title>
+		<published>2025-04-03T00:00:00+00:00</published>
+		<updated>2025-04-03T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-57/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-57/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by Presidio Bitcoin, &lt;a href=&quot;https:&#x2F;&#x2F;bitrefill.com&#x2F;&quot;&gt;Pubkey&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers March 3rd to March 31st.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dmnd.work&#x2F;&quot;&gt;DMND is launching Stratum v2 pooled mining&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.canaan.io&#x2F;minerq&quot;&gt;Canaan announces the Avalon Q, a home mining device with a hash rate of 90 TH&#x2F;s&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;block&#x2F;000000000000000000006414aea39be567cf1d5ff6cbf2d77254fe7c714b0d81&quot;&gt;Bitaxe miner with 3.3Th of hashrate successfully mines a Bitcoin block, defying odds of 1 in 250,000,000&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;tweets-blogs&quot;&gt;Tweets &amp;amp; Blogs&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;ProtonWallet&#x2F;status&#x2F;1888971248652235009&quot;&gt;Proton Wallet officially launches&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BraiinsMining&#x2F;status&#x2F;1895463159894302837&quot;&gt;Braiins reveals plans to open-source its BCB 100 control board&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1895639824197206352&quot;&gt;Brain Wallet vulnerability?: A user withdraws 0.024 and 0.06 bitcoin from an exchange to a low-entropy or compromised address&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.lopp.net&#x2F;against-quantum-recovery-of-bitcoin&#x2F;&quot;&gt;Against Allowing Quantum Recovery of Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;14-antpool-and-friends-invalid-mining-jobs&#x2F;&quot;&gt;Invalid mining jobs by AntPool &amp;amp; friends during forks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;crypt-iq.github.io&#x2F;coinscope-post.html&quot;&gt;Mempool Partitioning and Identifying Mining Nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gridlabs-science&#x2F;boot-protocol&quot;&gt;Boot Protocol: A decentralized protocol for bitcoin hashing nodes to share block rewards and reduce variance&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;coinflip.casino&#x2F;how-it-works&quot;&gt;Coinflip: A PoC exploring multiparty contracts on Ark&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;tools&quot;&gt;Tools&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinops.org&#x2F;en&#x2F;tools&#x2F;reorg-calculator&#x2F;&quot;&gt;Optech Reorg Calculator&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;jurraca&#x2F;core-config-tui&quot;&gt;Bitcoin Core Config Generator&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;jYBlh24OB-Y&quot;&gt;Does anyone still need testnet3?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;iVLHJ1HWhoU&quot;&gt;Unbreaking testnet4&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;Tu7mr419jWQ&quot;&gt;&quot;Recursive covenant&quot; with CTV and CSFS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;0tSvml90Qcw&quot;&gt;Consensus Cleanup BIP draft&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;Q5j2Kb6XeHI&quot;&gt;Standard Unstructured Annex&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-node-p2p-traffic-analysis&#x2F;1490&quot;&gt;Bitcoin node P2P traffic analysis&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;emulating-op-rand&#x2F;1409&#x2F;10&quot;&gt;Probabilistic payments using different hash functions as an xor function&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;N&#x2F;A&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;indutny&#x2F;elliptic&#x2F;security&#x2F;advisories&#x2F;GHSA-vjh7-7g9h-fjfh&quot;&gt;ECDSA private key extraction upon signing a malformed input in Elliptic library&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.tarlogic.com&#x2F;news&#x2F;hidden-feature-esp32-chip-infect-ot-devices&#x2F;&quot;&gt;Tarlogic detects a hidden feature in the mass-market ESP32 chip that could infect millions of IoT devices&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;safe&#x2F;article&#x2F;1897663514975649938&quot;&gt;JavaScript injection attack: Safe{Wallet} confirms targeted TraderTraitor attack on Bybit resulting in $1.4 billion stolen&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bips&quot;&gt;BIPs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1758&quot;&gt;BIP374: Add message to rand computation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1750&quot;&gt;BIP329: add optional data fields, fix a JSON type&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1792&quot;&gt;BIP119: language overhaul &amp;amp; cleanup&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1782&quot;&gt;BIP94: reformat specification section for clarity and readability&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31407&quot;&gt;guix: Notarize MacOS app bundle and codesign all MacOS and Windows binaries&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31649&quot;&gt;consensus: Remove checkpoints (take 2)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31283&quot;&gt;Add waitNext() to BlockTemplate interface&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31603&quot;&gt;descriptor: check whitespace in keys within fragments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;rust-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&quot;&gt;rust-bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;4114&quot;&gt;Policy: Relax MIN_STANDARD_TX_NONWITNESS_SIZE to 65&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;4111&quot;&gt;Add support for pay to anchor outputs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;libsecp&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;secp256k1&quot;&gt;libsecp&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;N&#x2F;A&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;bitcoin-devwiki&#x2F;wiki&#x2F;29.0-Release-Notes-draft&quot;&gt;Bitcoin Core 29.0 release candidate is available&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;vnprc&#x2F;hashpool&quot;&gt;Hashpool v0.1 tagged&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 56</title>
 		<published>2025-03-06T00:00:00+00:00</published>
