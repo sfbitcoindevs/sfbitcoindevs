@@ -93,7 +93,6 @@ Noteworthy PRs
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [Policy: Relax MIN_STANDARD_TX_NONWITNESS_SIZE to 65](https://github.com/rust-bitcoin/rust-bitcoin/pull/4114)
 - [Add support for pay to anchor outputs](https://github.com/rust-bitcoin/rust-bitcoin/pull/4111)
-- []()
 
 ### [libsecp](https://github.com/bitcoin-core/secp256k1)
 - N/A
