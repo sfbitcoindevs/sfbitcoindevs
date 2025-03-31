@@ -33,6 +33,9 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.dmnd.work&#x2F;&quot;&gt;DMND is launching Stratum v2 pooled mining&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.canaan.io&#x2F;minerq&quot;&gt;Canaan announces the Avalon Q, a home mining device with a hash rate of 90 TH&#x2F;s&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;block&#x2F;000000000000000000006414aea39be567cf1d5ff6cbf2d77254fe7c714b0d81&quot;&gt;Bitaxe miner with 3.3Th of hashrate successfully mines a Bitcoin block, defying odds of 1 in 250,000,000&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;home.treasury.gov&#x2F;news&#x2F;press-releases&#x2F;sb0057&quot;&gt;Tornado Cash Delisting&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nobsbitcoin.com&#x2F;key-dates-set-for-samourai-wallet-developers-pre-trial-motion-schedule&quot;&gt;Key Dates Set for Samourai Wallet Developers Pre-trial Motion Schedule&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoinmagazine.com&#x2F;news&#x2F;the-united-states-must-embrace-bitcoin-now-a-recap-of-bitcoin-for-america&quot;&gt;Bitcoin Policy Institute Hosts Bitcoin For America Event&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;tweets-blogs&quot;&gt;Tweets &amp;amp; Blogs&lt;&#x2F;h3&gt;
@@ -45,6 +48,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;crypt-iq.github.io&#x2F;coinscope-post.html&quot;&gt;Mempool Partitioning and Identifying Mining Nodes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;gridlabs-science&#x2F;boot-protocol&quot;&gt;Boot Protocol: A decentralized protocol for bitcoin hashing nodes to share block rewards and reduce variance&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;coinflip.casino&#x2F;how-it-works&quot;&gt;Coinflip: A PoC exploring multiparty contracts on Ark&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;payjoindevkit.org&#x2F;2025&#x2F;03&#x2F;18&#x2F;the-evolution-of-payjoin&quot;&gt;The Evolution of Payjoin: From Two-Party Protocol to Multiparty Framework&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;tools&quot;&gt;Tools&lt;&#x2F;h3&gt;
 &lt;ul&gt;
@@ -67,7 +71,7 @@
 &lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;N&#x2F;A&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hrf.org&#x2F;latest&#x2F;cisa-research-paper&quot;&gt;CISA Research Paper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
 &lt;ul&gt;
