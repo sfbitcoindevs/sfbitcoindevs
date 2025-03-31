@@ -27,6 +27,9 @@ News & Announcements
 - [DMND is launching Stratum v2 pooled mining](https://www.dmnd.work/)
 - [Canaan announces the Avalon Q, a home mining device with a hash rate of 90 TH/s](https://www.canaan.io/minerq)
 - [Bitaxe miner with 3.3Th of hashrate successfully mines a Bitcoin block, defying odds of 1 in 250,000,000](https://mempool.space/block/000000000000000000006414aea39be567cf1d5ff6cbf2d77254fe7c714b0d81)
+- [Tornado Cash Delisting](https://home.treasury.gov/news/press-releases/sb0057)
+- [Key Dates Set for Samourai Wallet Developers Pre-trial Motion Schedule](https://www.nobsbitcoin.com/key-dates-set-for-samourai-wallet-developers-pre-trial-motion-schedule)
+- [Bitcoin Policy Institute Hosts Bitcoin For America Event](https://bitcoinmagazine.com/news/the-united-states-must-embrace-bitcoin-now-a-recap-of-bitcoin-for-america)
 
 Discussion
 ----------
@@ -41,6 +44,7 @@ Discussion
 - [Mempool Partitioning and Identifying Mining Nodes](https://crypt-iq.github.io/coinscope-post.html)
 - [Boot Protocol: A decentralized protocol for bitcoin hashing nodes to share block rewards and reduce variance](https://github.com/gridlabs-science/boot-protocol)
 - [Coinflip: A PoC exploring multiparty contracts on Ark](https://coinflip.casino/how-it-works)
+- [The Evolution of Payjoin: From Two-Party Protocol to Multiparty Framework](https://payjoindevkit.org/2025/03/18/the-evolution-of-payjoin)
 
 ### Tools
 - [Optech Reorg Calculator](https://bitcoinops.org/en/tools/reorg-calculator/)
@@ -64,7 +68,7 @@ CVEs and Research
 
 ### Research
 
-- N/A
+- [CISA Research Paper](https://hrf.org/latest/cisa-research-paper)
 
 ### InfoSec
 
