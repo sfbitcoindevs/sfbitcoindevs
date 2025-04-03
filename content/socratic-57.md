@@ -52,11 +52,11 @@ Discussion
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
-- [Does anyone still need testnet3?](https://groups.google.com/g/bitcoindev/c/jYBlh24OB-Y)
-- [Unbreaking testnet4](https://groups.google.com/g/bitcoindev/c/iVLHJ1HWhoU)
-- ["Recursive covenant" with CTV and CSFS](https://groups.google.com/g/bitcoindev/c/Tu7mr419jWQ)
-- [Consensus Cleanup BIP draft](https://groups.google.com/g/bitcoindev/c/0tSvml90Qcw)
-- [Standard Unstructured Annex](https://groups.google.com/g/bitcoindev/c/Q5j2Kb6XeHI)
+- [Does anyone still need testnet3?](https://mailing-list.bitcoindevs.xyz/bitcoindev/9FAA7EEC-BD22-491E-B21B-732AEA15F556@sprovoost.nl/#t)
+- [Unbreaking testnet4](https://mailing-list.bitcoindevs.xyz/bitcoindev/hU75DurC5XToqizyA-vOKmVtmzd3uZGDKOyXuE_ogE6eQ8tPCrvX__S08fG_nrW5CjH6IUx7EPrq8KwM5KFy9ltbFBJZQCHR2ThoimRbMqU=@protonmail.com/)
+- ["Recursive covenant" with CTV and CSFS](https://mailing-list.bitcoindevs.xyz/bitcoindev/Z8eUQCfCWjdivIzn@erisian.com.au/)
+- [Consensus Cleanup BIP draft](https://mailing-list.bitcoindevs.xyz/bitcoindev/uDAujRxk4oWnEGYX9lBD3e0V7a4V4Pd-c4-2QVybSZNcfJj5a6IbO6fCM_xEQEpBvQeOT8eIi1r91iKFIveeLIxfNMzDys77HUcbl7Zne4g=@protonmail.com/)
+- [Standard Unstructured Annex](https://mailing-list.bitcoindevs.xyz/bitcoindev/Z9tg-NbTNnYciSOh@petertodd.org/)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
