@@ -34,7 +34,7 @@ News & Announcements
 Discussion
 ----------
 
-### Tweets & Blogs
+### Tweets, Blogs & Podcasts
 
 - [Proton Wallet officially launches](https://x.com/ProtonWallet/status/1888971248652235009)
 - [Braiins reveals plans to open-source its BCB 100 control board](https://x.com/BraiinsMining/status/1895463159894302837)
@@ -45,6 +45,7 @@ Discussion
 - [Boot Protocol: A decentralized protocol for bitcoin hashing nodes to share block rewards and reduce variance](https://github.com/gridlabs-science/boot-protocol)
 - [Coinflip: A PoC exploring multiparty contracts on Ark](https://coinflip.casino/how-it-works)
 - [The Evolution of Payjoin: From Two-Party Protocol to Multiparty Framework](https://payjoindevkit.org/2025/03/18/the-evolution-of-payjoin)
+- [Hell Money Podcast: Bitcoin Meets Wall Street: How Futures & Derivatives Drive Global Adoption with Matt Wraith](https://www.youtube.com/watch?v=KtDTDjPmmjw)
 
 ### Tools
 - [Optech Reorg Calculator](https://bitcoinops.org/en/tools/reorg-calculator/)
