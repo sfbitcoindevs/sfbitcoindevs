@@ -30,6 +30,7 @@ News & Announcements
 - [Tornado Cash Delisting](https://home.treasury.gov/news/press-releases/sb0057)
 - [Key Dates Set for Samourai Wallet Developers Pre-trial Motion Schedule](https://www.nobsbitcoin.com/key-dates-set-for-samourai-wallet-developers-pre-trial-motion-schedule)
 - [Bitcoin Policy Institute Hosts Bitcoin For America Event](https://bitcoinmagazine.com/news/the-united-states-must-embrace-bitcoin-now-a-recap-of-bitcoin-for-america)
+- [Satoshi's 50th Birthday Party](https://www.meetup.com/bay-area-bitcoiners/events/306741751/) at Presidio Bitcoin this Saturday
 
 Discussion
 ----------
