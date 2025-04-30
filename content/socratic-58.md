@@ -41,6 +41,7 @@ Discussion
 - [Introducing Coinbase's Open Source MPC Cryptography Library](https://www.coinbase.com/en-fr/blog/introducing-coinbases-open-source-mpc-cryptography-library)
 - [Bitcoin Address Poisoning Attacks](https://blog.lopp.net/bitcoin-address-poisoning-attacks/)
 - [Taplocks - Verifiable but unspendable tapleafs (with an application to emulating new opcodes)](https://github.com/taproot-wizards/taplocks/blob/main/README.md)
+- [The 68-bit #Bitcoin puzzle has been cracked](https://x.com/lianabitcoin/status/1909573460910649832)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
