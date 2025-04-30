@@ -51,6 +51,7 @@ Discussion
 - [The Tragic Tale of BIP30](https://groups.google.com/g/bitcoindev/c/aqHRfa0UWFo)
 - [DahLIAS: Discrete Logarithm-Based Interactive Aggregate Signatures](https://groups.google.com/g/bitcoindev/c/eothFkxAvK0)
 - [Relax OP_RETURN standardness restrictions](https://groups.google.com/g/bitcoindev/c/d6ZO7gXGYbQ)
+    - [Peter's PR to remove arbitrary limits on OP_Return (datacarrier) outputs in Core](https://github.com/bitcoin/bitcoin/pull/32359)
 - [UTXO probing attack using payjoin](https://groups.google.com/g/bitcoindev/c/Xo3HOJlVfp0)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
