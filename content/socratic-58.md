@@ -30,6 +30,7 @@ News & Announcements
 - [Tether, SoftBank Group, and Jack Mallers Launch Twenty One with Cantor Equity Partners](https://www.cantor.com/tether-softbank-group-and-jack-mallers-launch-twenty-one-a-bitcoin-native-company-through-a-business-combination-with-cantor-equity-partners/)
 - [US chip designer Auradine raises $153MM in Series C funding](https://www.theminermag.com/news/2025-04-17/auradine-mara-bitcoin)
 - [Bakkt investors file class-action lawsuit after loss of Webull, BoA contracts](https://cointelegraph.com/news/bakkt-class-action-lawsuit-webull)
+- [Presidio Bitcoin hosts its first-ever hackathon](https://www.pbhackathon.com/)
 
 Discussion
 ----------
