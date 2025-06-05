@@ -20,6 +20,7 @@ Chain Weather Report
 - [Mempool](https://mempool.space/graphs/mempool#1m)
   - [UTXO Set Report](https://research.mempool.space/utxo-set-report/)
 - [UTXO Set Consolidation](https://mainnet.observer/charts/utxoset-size/)
+- [Mining Centralization Index (with proxy pools)](https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/?c)
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
 - [First use of taproot annex](https://x.com/mononautical/status/1921180666831499737)
