@@ -62,12 +62,15 @@ Discussion
 - [Why CTV+CSFS and not TXHASH](https://delvingbitcoin.org/t/why-ctv-csfs-and-not-txhash)
 - [CTV vault output descriptor](https://delvingbitcoin.org/t/ctv-vault-output-descriptor)
 - [Scaling Noncustodial Mining Payouts with CTV](https://delvingbitcoin.org/t/scaling-noncustodial-mining-payouts-with-ctv)
+- [Understanding and Mitigating a OP_CTV Footgun: The Unsatisfiable UTXO](https://delvingbitcoin.org/t/understanding-and-mitigating-a-op-ctv-footgun-the-unsatisfiable-utxo/1809)
 - [JIT fees with TXHASH: comparing options for sponsorring and stacking](https://delvingbitcoin.org/t/jit-fees-with-txhash-comparing-options-for-sponsorring-and-stacking)
 - [Garbled circuits and BitVM3](https://delvingbitcoin.org/t/garbled-circuits-and-bitvm3)
 - [Where does the 33.33% threshold for selfish mining come from?](https://delvingbitcoin.org/t/where-does-the-33-33-threshold-for-selfish-mining-come-from)
 - [(Rust) descriptor-encrypt: Encrypt any descriptor such that only authorized spenders can decrypt](https://delvingbitcoin.org/t/rust-descriptor-encrypt-encrypt-any-descriptor-such-that-only-authorized-spenders-can-decrypt)
 - [Correcting the error in getnetworkhashrateps](https://delvingbitcoin.org/t/correcting-the-error-in-getnetworkhashrateps)
 - [Witnessless Sync for Pruned Nodes](https://delvingbitcoin.org/t/witnessless-sync-for-pruned-nodes)
+- [Fingerprinting nodes via addr requests](https://delvingbitcoin.org/t/fingerprinting-nodes-via-addr-requests/1786)
+- [A rust library to encode descriptors with a 30-40% size reduction](https://delvingbitcoin.org/t/a-rust-library-to-encode-descriptors-with-a-30-40-size-reduction/1804)
 
 CVEs and Research
 -----------------
