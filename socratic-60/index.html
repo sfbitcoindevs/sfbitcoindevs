@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Bitcoin Devs | Socratic Seminar 60
+    </title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Bitcoin Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+        
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Bitcoin Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/sfbitcoindevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sfbitcoindevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sflightningdevs.org" target="_blank">LitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 60</h1>
+<p><strong>2025-07-10</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a href="https://dg717.com/">Digital Garage</a>, <a href="https://pubkey.bar/">Pubkey</a>, and <a href="https://bitnomial.com">Bitnomial</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers June 2nd to July 7th.</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a href="https://dashboard.clarkmoody.com/">Clark Moody Dashboard</a></li>
+<li><a href="https://mempool.space/graphs/mempool#1m">Mempool</a></li>
+<li><a href="https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/?c">Mining Centralization Index (with proxy pools)</a></li>
+<li><a href="https://mempool.space/graphs/mining/block-fee-rates#1m">Block Fee Rates</a></li>
+<li><a href="https://mempool.space/graphs/mining/block-rewards#1m">Block Rewards 1m</a></li>
+<li><a href="https://x.com/peterktodd/status/1935709056695775583">&lt;1s/vB fee transactions getting mined</a></li>
+</ul>
+<h2 id="news-announcements">News &amp; Announcements</h2>
+<ul>
+<li><a href="https://www.lummis.senate.gov/press-releases/lummis-unveils-digital-asset-tax-legislation/">Senator Lummis Unveils Digital Asset Tax Legislation</a></li>
+<li><a href="https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410793">House Announces Week of July 14th as “Crypto Week”</a></li>
+<li><a href="https://news.bloomberglaw.com/litigation/appeal-dropped-over-crypto-transactions-on-foreign-software-law">US government drops appeal in Tornado Cash lawsuit</a>
+Discussion</li>
+</ul>
+<hr />
+<h3 id="tweets-blogs-podcasts">Tweets, Blogs &amp; Podcasts</h3>
+<ul>
+<li><a href="https://x.com/bitcoinbrink/status/1934925113599656377">Performance comparisons between libbitcoin and Bitcoin Core</a></li>
+<li><a href="https://x.com/bitmaintech/status/1927581481674670492">BitMain announces a decentralized mining pool solution</a></li>
+<li><a href="https://x.com/dimahledba/status/1935354385795592491">Stratum v2 STARK proof demo</a></li>
+<li><a href="https://x.com/BitlayerLabs/status/1927187546448036216">Bitlayer Labs announcement</a></li>
+<li><a href="https://arkadeos.com/vision">Arkade: A Virtual Execution Layer for Bitcoin-Native Applications</a></li>
+<li><a href="https://b10c.me/observations/15-inv-to-send-queue/">Notes on 'DoS due to inv-to-send sets growing too large' from May 2023</a></li>
+</ul>
+<h3 id="bitcoin-dev"><a href="https://groups.google.com/g/bitcoindev">bitcoin-dev</a></h3>
+<ul>
+<li><a href="https://groups.google.com/g/bitcoindev/c/43yjt8MXMvo">The case for privatizing Bitcoin Core</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/KJF6A55DPJ8">CTV + CSFS: a letter</a>
+<ul>
+<li><a href="https://ctv-csfs.com/">CTV+CSFS letter</a></li>
+</ul>
+</li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/-qJc1EWQzY0">What's a good stopping point? Making the case for the capabilities enabled by CTV+CSFS</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/oa4nDmlLzN4">Pre-emptive commit/reveal for quantum-safe migration (poison-pill)</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/Zx_NMqZH65Y">OP_CAT Enables Winternitz Signatures</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/xKlbd2tDfxs">Sybil resistance in different coinjoin implementations</a></li>
+<li><a href="https://groups.google.com/g/bitcoindev/c/u2Bz1Ms8_lA">Make pathological transactions with more than 2500 legacy signature operations non-standard</a></li>
+</ul>
+<h3 id="delving-bitcoin"><a href="https://delvingbitcoin.org/">Delving Bitcoin</a></h3>
+<ul>
+<li><a href="https://delvingbitcoin.org/t/why-ctv-csfs-and-not-txhash">Why CTV+CSFS and not TXHASH</a></li>
+<li><a href="https://delvingbitcoin.org/t/ctv-vault-output-descriptor">CTV vault output descriptor</a></li>
+<li><a href="https://delvingbitcoin.org/t/scaling-noncustodial-mining-payouts-with-ctv">Scaling Noncustodial Mining Payouts with CTV</a></li>
+<li><a href="https://delvingbitcoin.org/t/understanding-and-mitigating-a-op-ctv-footgun-the-unsatisfiable-utxo/1809">Understanding and Mitigating a OP_CTV Footgun: The Unsatisfiable UTXO</a></li>
+<li><a href="https://delvingbitcoin.org/t/jit-fees-with-txhash-comparing-options-for-sponsorring-and-stacking">JIT fees with TXHASH: comparing options for sponsorring and stacking</a></li>
+<li><a href="https://delvingbitcoin.org/t/garbled-circuits-and-bitvm3">Garbled circuits and BitVM3</a></li>
+<li><a href="https://delvingbitcoin.org/t/where-does-the-33-33-threshold-for-selfish-mining-come-from">Where does the 33.33% threshold for selfish mining come from?</a></li>
+<li><a href="https://delvingbitcoin.org/t/rust-descriptor-encrypt-encrypt-any-descriptor-such-that-only-authorized-spenders-can-decrypt">(Rust) descriptor-encrypt: Encrypt any descriptor such that only authorized spenders can decrypt</a></li>
+<li><a href="https://delvingbitcoin.org/t/correcting-the-error-in-getnetworkhashrateps">Correcting the error in getnetworkhashrateps</a></li>
+<li><a href="https://delvingbitcoin.org/t/witnessless-sync-for-pruned-nodes">Witnessless Sync for Pruned Nodes</a></li>
+<li><a href="https://delvingbitcoin.org/t/fingerprinting-nodes-via-addr-requests/1786">Fingerprinting nodes via addr requests</a></li>
+</ul>
+<h2 id="cves-and-research">CVEs and Research</h2>
+<h3 id="research">Research</h3>
+<ul>
+<li><a href="https://bitvm.org/bitvm3.pdf">BitVM3: Efficient Computation on Bitcoin</a></li>
+</ul>
+<h2 id="bips">BIPs</h2>
+<ul>
+<li><a href="https://github.com/bitcoin/bips/pull/1803">BIP380: make specs consistent about hardened indicators</a></li>
+<li><a href="https://github.com/bitcoin/bips/pull/1867">BIP390: Allow repeated participant pubkeys</a></li>
+<li><a href="https://github.com/bitcoin/bips/pull/1866">BIP390: mention about multipath key expression in musig descriptors</a></li>
+</ul>
+<h2 id="noteworthy-prs">Noteworthy PRs</h2>
+<h3 id="bitcoin-core"><a href="https://github.com/bitcoin/bitcoin">Bitcoin Core</a></h3>
+<ul>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/31981">Add checkBlock() to Mining interface</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/32594">wallet, rpc: Return normalized descriptor in parent_descs</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/32620">wallet: Fix wallet interface detection of encrypted wallets</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/31405">validation: stricter internal handling of invalid blocks</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/32425">config: allow setting -proxy per network</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/32406">policy: uncap datacarrier by default</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/32539">init: Configure reachable networks before we start the RPC server</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/32602">fuzz: Add target for coins database</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/32676">test: apply microsecond precision to test framework logging</a></li>
+<li><a href="https://github.com/bitcoin/bitcoin/pull/29032">signet: omit commitment for some trivial challenges</a></li>
+</ul>
+<h3 id="rust-bitcoin"><a href="https://github.com/rust-bitcoin/rust-bitcoin">rust-bitcoin</a></h3>
+<ul>
+<li><a href="https://github.com/rust-bitcoin/rust-bitcoin/pull/4614">Add fee rate constructors that take <code>Amount</code> as arg</a></li>
+<li><a href="https://github.com/rust-bitcoin/rust-bitcoin/pull/4569">bitcoin: secp256k1 global-context feature re-export</a></li>
+<li><a href="https://github.com/rust-bitcoin/rust-bitcoin/pull/4511">Modify <code>locktime</code> <code>serde</code> implementations</a></li>
+<li><a href="https://github.com/rust-bitcoin/rust-bitcoin/pull/4534">Make <code>FeeRate</code> use MvB internally</a></li>
+<li><a href="https://github.com/rust-bitcoin/rust-bitcoin/pull/4565">Remove all <code>p2p</code> dependency from <code>network</code></a></li>
+<li><a href="https://github.com/rust-bitcoin/rust-bitcoin/pull/4572">Introduce empty p2p messages crate</a></li>
+<li><a href="https://github.com/rust-bitcoin/rust-bitcoin/pull/4571">Move <code>p2p</code> encodings from <code>encode</code> and into <code>p2p</code></a></li>
+<li><a href="https://github.com/rust-bitcoin/rust-bitcoin/pull/4468">Improve lock times - fix off-by-one bug</a></li>
+</ul>
+<h3 id="infosec">InfoSec</h3>
+<ul>
+<li><a href="https://x.com/dergoegge/status/1936093236226871794">fuzzamoto finds its first bug in a Bitcoin Core PR</a></li>
+</ul>
+<h2 id="releases">Releases</h2>
+<ul>
+<li><a href="https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-28.2.md">Bitcoin Core 28.2</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+      </span>
+    </footer>
+  </body>
+</html>
