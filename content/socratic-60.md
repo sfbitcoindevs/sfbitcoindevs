@@ -31,7 +31,7 @@ News & Announcements
 - [Senator Lummis Unveils Digital Asset Tax Legislation](https://www.lummis.senate.gov/press-releases/lummis-unveils-digital-asset-tax-legislation/)
 - [House Announces Week of July 14th as “Crypto Week”](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410793)
 - [Texas to Allocate $10 Million to Buy Bitcoin in Strategic Reserve](https://www.coinspeaker.com/texas-to-allocate-10-million-to-buy-bitcoin-in-strategic-reserve/)
-
+- [US government drops appeal in Tornado Cash lawsuit](https://news.bloomberglaw.com/litigation/appeal-dropped-over-crypto-transactions-on-foreign-software-law)
 Discussion
 ----------
 
