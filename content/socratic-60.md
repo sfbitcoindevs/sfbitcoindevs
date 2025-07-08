@@ -29,6 +29,8 @@ News & Announcements
 - [Senator Lummis Unveils Digital Asset Tax Legislation](https://www.lummis.senate.gov/press-releases/lummis-unveils-digital-asset-tax-legislation/)
 - [House Announces Week of July 14th as “Crypto Week”](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410793)
 - [US government drops appeal in Tornado Cash lawsuit](https://news.bloomberglaw.com/litigation/appeal-dropped-over-crypto-transactions-on-foreign-software-law)
+- [Ego Death Capital closes $100M fund for bitcoin companies](https://www.axios.com/2025/07/08/ego-death-100-million-bitcoin-companies)
+
 Discussion
 ----------
 
