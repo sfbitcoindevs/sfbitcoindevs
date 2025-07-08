@@ -18,8 +18,6 @@ Chain Weather Report
 
 - [Clark Moody Dashboard](https://dashboard.clarkmoody.com/)
 - [Mempool](https://mempool.space/graphs/mempool#1m)
-  - [UTXO Set Report](https://research.mempool.space/utxo-set-report/)
-- [UTXO Set Consolidation](https://mainnet.observer/charts/utxoset-size/)
 - [Mining Centralization Index (with proxy pools)](https://mainnet.observer/charts/mining-pools-centralization-index-with-proxy-pools/?c)
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
@@ -30,13 +28,13 @@ News & Announcements
 
 - [Senator Lummis Unveils Digital Asset Tax Legislation](https://www.lummis.senate.gov/press-releases/lummis-unveils-digital-asset-tax-legislation/)
 - [House Announces Week of July 14th as “Crypto Week”](https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=410793)
-- [Texas to Allocate $10 Million to Buy Bitcoin in Strategic Reserve](https://www.coinspeaker.com/texas-to-allocate-10-million-to-buy-bitcoin-in-strategic-reserve/)
 - [US government drops appeal in Tornado Cash lawsuit](https://news.bloomberglaw.com/litigation/appeal-dropped-over-crypto-transactions-on-foreign-software-law)
 Discussion
 ----------
 
 ### Tweets, Blogs & Podcasts
 
+- [Performance comparisons between libbitcoin and Bitcoin Core](https://x.com/bitcoinbrink/status/1934925113599656377)
 - [BitMain announces a decentralized mining pool solution](https://x.com/bitmaintech/status/1927581481674670492)
 - [Stratum v2 STARK proof demo](https://x.com/dimahledba/status/1935354385795592491)
 - [Bitlayer Labs announcement](https://x.com/BitlayerLabs/status/1927187546448036216)
@@ -52,9 +50,6 @@ Discussion
 - [Pre-emptive commit/reveal for quantum-safe migration (poison-pill)](https://groups.google.com/g/bitcoindev/c/oa4nDmlLzN4)
 - [OP_CAT Enables Winternitz Signatures](https://groups.google.com/g/bitcoindev/c/Zx_NMqZH65Y)
 - [Sybil resistance in different coinjoin implementations](https://groups.google.com/g/bitcoindev/c/xKlbd2tDfxs)
-- [Allowing Duplicate Keys in BIP 390 musig() Expressions](https://groups.google.com/g/bitcoindev/c/SSpyvbD9CMg)
-- [Draft BIP: Well-Known Bitcoin Identity Endpoint](https://groups.google.com/g/bitcoindev/c/lfMIFPcOz7M)
-- [Descriptors using H as a hardened indicator](https://groups.google.com/g/bitcoindev/c/IAYEx4zUhHA)
 - [Make pathological transactions with more than 2500 legacy signature operations non-standard](https://groups.google.com/g/bitcoindev/c/u2Bz1Ms8_lA)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
@@ -70,7 +65,6 @@ Discussion
 - [Correcting the error in getnetworkhashrateps](https://delvingbitcoin.org/t/correcting-the-error-in-getnetworkhashrateps)
 - [Witnessless Sync for Pruned Nodes](https://delvingbitcoin.org/t/witnessless-sync-for-pruned-nodes)
 - [Fingerprinting nodes via addr requests](https://delvingbitcoin.org/t/fingerprinting-nodes-via-addr-requests/1786)
-- [A rust library to encode descriptors with a 30-40% size reduction](https://delvingbitcoin.org/t/a-rust-library-to-encode-descriptors-with-a-30-40-size-reduction/1804)
 
 CVEs and Research
 -----------------
@@ -79,15 +73,10 @@ CVEs and Research
 
 - [BitVM3: Efficient Computation on Bitcoin](https://bitvm.org/bitvm3.pdf)
 
-### InfoSec
-
-- [Full-Disclosure: CVE-2025-27586 "No Santa Claus under the Lightning Sun"](https://groups.google.com/g/bitcoindev/c/-UCeC6Ulvls)
-
 BIPs
 ----
 
 - [BIP380: make specs consistent about hardened indicators](https://github.com/bitcoin/bips/pull/1803)
-- [BIP390: clarifications on KEY expression restrictions](https://github.com/bitcoin/bips/pull/1871)
 - [BIP390: Allow repeated participant pubkeys](https://github.com/bitcoin/bips/pull/1867)
 - [BIP390: mention about multipath key expression in musig descriptors](https://github.com/bitcoin/bips/pull/1866)
 
@@ -96,13 +85,8 @@ Noteworthy PRs
 
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 - [Add checkBlock() to Mining interface](https://github.com/bitcoin/bitcoin/pull/31981)
-- [thread-safety: fix annotations with REVERSE_LOCK](https://github.com/bitcoin/bitcoin/pull/32465)
-- [wallet: have external signer use PSBT error code EXTERNAL_SIGNER_NOT_FOUND](https://github.com/bitcoin/bitcoin/pull/32682)
-- [wallet, refactor: Remove Legacy wallet unused warnings and errors](https://github.com/bitcoin/bitcoin/pull/32481)
 - [wallet, rpc: Return normalized descriptor in parent_descs](https://github.com/bitcoin/bitcoin/pull/32594)
 - [wallet: Fix wallet interface detection of encrypted wallets](https://github.com/bitcoin/bitcoin/pull/32620)
-- [wallet: init, don't error out when loading legacy wallets](https://github.com/bitcoin/bitcoin/pull/32449)
-- [wallet, rpc, gui: List legacy wallets with a message about migration](https://github.com/bitcoin/bitcoin/pull/32619)
 - [validation: stricter internal handling of invalid blocks](https://github.com/bitcoin/bitcoin/pull/31405)
 - [config: allow setting -proxy per network](https://github.com/bitcoin/bitcoin/pull/32425)
 - [policy: uncap datacarrier by default](https://github.com/bitcoin/bitcoin/pull/32406)
@@ -120,6 +104,9 @@ Noteworthy PRs
 - [Introduce empty p2p messages crate](https://github.com/rust-bitcoin/rust-bitcoin/pull/4572)
 - [Move `p2p` encodings from `encode` and into `p2p`](https://github.com/rust-bitcoin/rust-bitcoin/pull/4571)
 - [Improve lock times - fix off-by-one bug](https://github.com/rust-bitcoin/rust-bitcoin/pull/4468)
+
+### InfoSec
+- [fuzzamoto finds its first bug in a Bitcoin Core PR](https://x.com/dergoegge/status/1936093236226871794)
 
 Releases
 --------
