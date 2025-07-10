@@ -44,7 +44,6 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bitmaintech&#x2F;status&#x2F;1927581481674670492&quot;&gt;BitMain announces a decentralized mining pool solution&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;dimahledba&#x2F;status&#x2F;1935354385795592491&quot;&gt;Stratum v2 STARK proof demo&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BitlayerLabs&#x2F;status&#x2F;1927187546448036216&quot;&gt;Bitlayer Labs announcement&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arkadeos.com&#x2F;vision&quot;&gt;Arkade: A Virtual Execution Layer for Bitcoin-Native Applications&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;15-inv-to-send-queue&#x2F;&quot;&gt;Notes on &#x27;DoS due to inv-to-send sets growing too large&#x27; from May 2023&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;P3b7_&#x2F;status&#x2F;1942191296136835569&quot;&gt;Did OP_RETURN notice trigger the 80K BTC move?&lt;&#x2F;a&gt;
 &lt;ul&gt;
@@ -63,7 +62,6 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;-qJc1EWQzY0&quot;&gt;What&#x27;s a good stopping point? Making the case for the capabilities enabled by CTV+CSFS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;oa4nDmlLzN4&quot;&gt;Pre-emptive commit&#x2F;reveal for quantum-safe migration (poison-pill)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;Zx_NMqZH65Y&quot;&gt;OP_CAT Enables Winternitz Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;xKlbd2tDfxs&quot;&gt;Sybil resistance in different coinjoin implementations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;u2Bz1Ms8_lA&quot;&gt;Make pathological transactions with more than 2500 legacy signature operations non-standard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
