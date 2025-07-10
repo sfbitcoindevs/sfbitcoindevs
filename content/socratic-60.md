@@ -40,7 +40,6 @@ Discussion
 - [BitMain announces a decentralized mining pool solution](https://x.com/bitmaintech/status/1927581481674670492)
 - [Stratum v2 STARK proof demo](https://x.com/dimahledba/status/1935354385795592491)
 - [Bitlayer Labs announcement](https://x.com/BitlayerLabs/status/1927187546448036216)
-- [Arkade: A Virtual Execution Layer for Bitcoin-Native Applications](https://arkadeos.com/vision)
 - [Notes on 'DoS due to inv-to-send sets growing too large' from May 2023](https://b10c.me/observations/15-inv-to-send-queue/)
 - [Did OP_RETURN notice trigger the 80K BTC move?](https://x.com/P3b7_/status/1942191296136835569)
     - [Wallet address](https://mempool.space/address/12tLs9c9RsALt4ockxa1hB4iTCTSmxj2me)
@@ -53,7 +52,6 @@ Discussion
 - [What's a good stopping point? Making the case for the capabilities enabled by CTV+CSFS](https://groups.google.com/g/bitcoindev/c/-qJc1EWQzY0)
 - [Pre-emptive commit/reveal for quantum-safe migration (poison-pill)](https://groups.google.com/g/bitcoindev/c/oa4nDmlLzN4)
 - [OP_CAT Enables Winternitz Signatures](https://groups.google.com/g/bitcoindev/c/Zx_NMqZH65Y)
-- [Sybil resistance in different coinjoin implementations](https://groups.google.com/g/bitcoindev/c/xKlbd2tDfxs)
 - [Make pathological transactions with more than 2500 legacy signature operations non-standard](https://groups.google.com/g/bitcoindev/c/u2Bz1Ms8_lA)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
