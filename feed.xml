@@ -46,6 +46,11 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BitlayerLabs&#x2F;status&#x2F;1927187546448036216&quot;&gt;Bitlayer Labs announcement&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;arkadeos.com&#x2F;vision&quot;&gt;Arkade: A Virtual Execution Layer for Bitcoin-Native Applications&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;15-inv-to-send-queue&#x2F;&quot;&gt;Notes on &#x27;DoS due to inv-to-send sets growing too large&#x27; from May 2023&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;P3b7_&#x2F;status&#x2F;1942191296136835569&quot;&gt;Did OP_RETURN notice trigger the 80K BTC move?&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;address&#x2F;12tLs9c9RsALt4ockxa1hB4iTCTSmxj2me&quot;&gt;Wallet address&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
