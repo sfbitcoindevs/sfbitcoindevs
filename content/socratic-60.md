@@ -42,6 +42,8 @@ Discussion
 - [Bitlayer Labs announcement](https://x.com/BitlayerLabs/status/1927187546448036216)
 - [Arkade: A Virtual Execution Layer for Bitcoin-Native Applications](https://arkadeos.com/vision)
 - [Notes on 'DoS due to inv-to-send sets growing too large' from May 2023](https://b10c.me/observations/15-inv-to-send-queue/)
+- [Did OP_RETURN notice trigger the 80K BTC move?](https://x.com/P3b7_/status/1942191296136835569)
+    - [Wallet address](https://mempool.space/address/12tLs9c9RsALt4ockxa1hB4iTCTSmxj2me)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
