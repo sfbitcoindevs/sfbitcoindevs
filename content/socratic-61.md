@@ -28,12 +28,14 @@ News & Announcements
 - [Galaxy Executes One of the Largest Notional Bitcoin Transactions Ever](https://investor.galaxy.com/news/news-details/2025/Galaxy-Executes-One-of-the-Largest-Notional-Bitcoin-Transactions-Ever/default.aspx)
 - [Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business](https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty)
 - [Roman Storm Jury Set to Begin Deliberations as Money Laundering Trial Draws to Close](https://www.coindesk.com/policy/2025/07/30/jury-set-to-begin-deliberations-as-roman-storm-s-money-laundering-trial-draws-to-close)
+- [Frostnap available for pre-order](https://frostsnap.com)
 
 Discussion
 ----------
 
 ### Tweets, Blogs & Podcasts
 
+- [Labitbus in taproot control blocks](https://x.com/mononautical/status/1951683985957851367)
 - [BIP353 Bounty](https://x.com/TheBlueMatt/status/1945603864666743240)
 - [Simplicity launches on Liquid mainnet](https://blog.blockstream.com/simplicity-launches-on-liquid-mainnet/)
 - [Augur: An Open Source Bitcoin Fee Estimation Library](https://engineering.block.xyz/blog/augur-an-open-source-bitcoin-fee-estimation-library)
@@ -61,10 +63,10 @@ CVEs and Research
 -----------------
 
 ### Research
-- To be added
+- N/A
 
 ### InfoSec
-- To be added
+- N/A
 
 BIPs
 ----
@@ -75,10 +77,16 @@ Noteworthy PRs
 --------------
 
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
-- To be added
+- [log: Mitigate disk filling attacks by rate limiting LogPrintf, LogInfo, LogWarning, LogError](https://github.com/bitcoin/bitcoin/pull/32604)
+- [wallet: Remove ISMINE_WATCHONLY and watchonly from RPCs](https://github.com/bitcoin/bitcoin/pull/32618)
+- [cluster mempool: add TxGraph reorg functionality](https://github.com/bitcoin/bitcoin/pull/31553)
+- [policy: make pathological transactions packed with legacy sigops non-standard](https://github.com/bitcoin/bitcoin/pull/32521)
+- [p2p: improve TxOrphanage denial of service bounds](https://github.com/bitcoin/bitcoin/pull/31829)
+- [RPC: Return permitbaremultisig and maxdatacarriersize in getmempoolinfo](https://github.com/bitcoin/bitcoin/pull/29954)
+- [Enable -natpmp by default](https://github.com/bitcoin/bitcoin/pull/33004)
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
-- To be added
+- N/A
 
 
 Releases
