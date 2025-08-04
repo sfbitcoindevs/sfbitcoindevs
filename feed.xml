@@ -28,6 +28,7 @@
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mainnet.observer&#x2F;charts&#x2F;mining-pools-centralization-index-with-proxy-pools&#x2F;?c&quot;&gt;Mining Centralization Index (with proxy pools)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1951856672038662524&quot;&gt;Version 3 transaction adoption is starting to take off, just 10 months after being standardized in Bitcoin Core v28.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
 &lt;ul&gt;
@@ -39,9 +40,11 @@
 &lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;tweets-blogs-podcasts&quot;&gt;Tweets, Blogs &amp;amp; Podcasts&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1951683985957851367&quot;&gt;Labitbus in taproot control blocks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;TheBlueMatt&#x2F;status&#x2F;1945603864666743240&quot;&gt;BIP353 Bounty&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;simplicity-launches-on-liquid-mainnet&#x2F;&quot;&gt;Simplicity launches on Liquid mainnet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;starkware.co&#x2F;blog&#x2F;building-starks-in-simplicity&#x2F;&quot;&gt;Building STARKs in Simplicity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1951683985957851367&quot;&gt;Labitbus in taproot control blocks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.nydig.com&#x2F;research&#x2F;what-network-activity-says-about-changing-face-of-bitcoin-users&quot;&gt;What Network Activity Says About Changing Face of Bitcoin Users&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;TheBlueMatt&#x2F;status&#x2F;1945603864666743240&quot;&gt;BIP353 Bounty&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;engineering.block.xyz&#x2F;blog&#x2F;augur-an-open-source-bitcoin-fee-estimation-library&quot;&gt;Augur: An Open Source Bitcoin Fee Estimation Library&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.bitmex.com&#x2F;quantum-safe-lamport-signatures&#x2F;&quot;&gt;Quantum Safe Lamport Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
