@@ -39,6 +39,7 @@ Discussion
 - [Simplicity launches on Liquid mainnet](https://blog.blockstream.com/simplicity-launches-on-liquid-mainnet/)
 - [Building STARKs in Simplicity](https://starkware.co/blog/building-starks-in-simplicity/)
 - [Labitbus in taproot control blocks](https://x.com/mononautical/status/1951683985957851367)
+- [What Network Activity Says About Changing Face of Bitcoin Users](https://www.nydig.com/research/what-network-activity-says-about-changing-face-of-bitcoin-users)
 - [BIP353 Bounty](https://x.com/TheBlueMatt/status/1945603864666743240)
 - [Augur: An Open Source Bitcoin Fee Estimation Library](https://engineering.block.xyz/blog/augur-an-open-source-bitcoin-fee-estimation-library)
 - [Quantum Safe Lamport Signatures](https://blog.bitmex.com/quantum-safe-lamport-signatures/)
