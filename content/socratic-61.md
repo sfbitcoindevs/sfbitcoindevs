@@ -29,10 +29,9 @@ Chain Weather Report
 News & Announcements
 --------------------
 
-- [Verdict in Roman Storm Tornado Cash Case](https://b10c.me/projects/024-peer-observer/)
+- [Verdict in Roman Storm Tornado Cash Case](https://x.com/valkenburgh/status/1953133350421495904)
 - [Samourai Wallet Developers Plead Guilty to Conspiring to Operate an Unlicensed Money Transmitting Business](https://bitcoinmagazine.com/news/samourai-wallet-developers-plead-guilty)
-- [Galaxy Executes One of the Largest Notional Bitcoin Transactions Ever](https://investor.galaxy.com/news/news-details/2025/Galaxy-Executes-One-of-the-Largest-Notional-Bitcoin-Transactions-Ever/default.aspx)
-- [Frostnap available for pre-order](https://frostsnap.com)
+- [Frostsnap available for pre-order](https://frostsnap.com)
 
 Discussion
 ----------
@@ -52,8 +51,8 @@ Discussion
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
-- [compact block prefilling data collection](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/34)
 - [Post-Quantum HD-Wallets, Silent Payments, Key Aggregation, and Threshold Signatures](https://delvingbitcoin.org/t/post-quantum-hd-wallets-silent-payments-key-aggregation-and-threshold-signatures)
+- [compact block prefilling data collection](https://delvingbitcoin.org/t/stats-on-compact-block-reconstructions/1052/34)
 - [Chain Code Delegation: Private Access Control for Bitcoin Keys](https://delvingbitcoin.org/t/chain-code-delegation-private-access-control-for-bitcoin-keys)
 - [A rust library to encode descriptors with a 30-40% size reduction](https://delvingbitcoin.org/t/a-rust-library-to-encode-descriptors-with-a-30-40-size-reduction)
 
@@ -80,7 +79,6 @@ Noteworthy PRs
 - [wallet: Remove ISMINE_WATCHONLY and watchonly from RPCs](https://github.com/bitcoin/bitcoin/pull/32618)
 - [cluster mempool: add TxGraph reorg functionality](https://github.com/bitcoin/bitcoin/pull/31553)
 - [p2p: improve TxOrphanage denial of service bounds](https://github.com/bitcoin/bitcoin/pull/31829)
-- [RPC: Return permitbaremultisig and maxdatacarriersize in getmempoolinfo](https://github.com/bitcoin/bitcoin/pull/29954)
 - [Enable -natpmp by default](https://github.com/bitcoin/bitcoin/pull/33004)
 
 ### Releases
