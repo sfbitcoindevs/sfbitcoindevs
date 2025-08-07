@@ -54,7 +54,6 @@
 &lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;5wLThgegha4&quot;&gt;A Taproot-native (re-)bindable transaction bundle proposal&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;LzMGclBdaUc&quot;&gt;RGB consensus layer released for production deployments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;ydE5u5C0xVc&quot;&gt;Taproot is post-quantum secure when restricted to script-path spends&lt;&#x2F;a&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;changes-to-bip-360-pay-to-quantum-resistant-hash-p2qrh&quot;&gt;Changes to BIP-360 - Pay to Quantum Resistant Hash (P2QRH)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -95,6 +94,7 @@
 &lt;h3 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;blob&#x2F;v29.1rc1&#x2F;doc&#x2F;release-notes.md&quot;&gt;Bitcoin Core version 29.1 RC1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;secp256k1&#x2F;releases&#x2F;tag&#x2F;v0.7.0&quot;&gt;libsecp256k1 v0.7.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
