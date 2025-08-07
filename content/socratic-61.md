@@ -47,9 +47,8 @@ Discussion
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
 - [A Taproot-native (re-)bindable transaction bundle proposal](https://groups.google.com/g/bitcoindev/c/5wLThgegha4)
-- [RGB consensus layer released for production deployments](https://groups.google.com/g/bitcoindev/c/LzMGclBdaUc)
 - [Taproot is post-quantum secure when restricted to script-path spends](https://groups.google.com/g/bitcoindev/c/ydE5u5C0xVc)
-  - [Changes to BIP-360 - Pay to Quantum Resistant Hash (P2QRH)](https://delvingbitcoin.org/t/changes-to-bip-360-pay-to-quantum-resistant-hash-p2qrh)  
+  - [Changes to BIP-360 - Pay to Quantum Resistant Hash (P2QRH)](https://delvingbitcoin.org/t/changes-to-bip-360-pay-to-quantum-resistant-hash-p2qrh)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
@@ -62,6 +61,7 @@ CVEs and Research
 -----------------
 
 ### InfoSec
+
 - [Disclosure: LND gossip_timestamp_filter DoS](https://delvingbitcoin.org/t/disclosure-lnd-gossip-timestamp-filter-dos/1859)
 
 BIPs
@@ -73,6 +73,7 @@ Noteworthy PRs
 --------------
 
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
+
 - [log: Mitigate disk filling attacks by rate limiting LogPrintf, LogInfo, LogWarning, LogError](https://github.com/bitcoin/bitcoin/pull/32604)
 - [IBD: multi-byte block obfuscation](https://github.com/bitcoin/bitcoin/pull/31144)
   - [batch block reads/writes during AutoFile serialization](https://github.com/bitcoin/bitcoin/pull/31551)
@@ -82,5 +83,7 @@ Noteworthy PRs
 - [RPC: Return permitbaremultisig and maxdatacarriersize in getmempoolinfo](https://github.com/bitcoin/bitcoin/pull/29954)
 - [Enable -natpmp by default](https://github.com/bitcoin/bitcoin/pull/33004)
 
-### Releases 
+### Releases
+
 - [Bitcoin Core version 29.1 RC1](https://github.com/bitcoin/bitcoin/blob/v29.1rc1/doc/release-notes.md)
+- [libsecp256k1 v0.7.0](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.7.0)
