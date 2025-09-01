@@ -18,7 +18,6 @@ These are good places to start when compiling the reading List:
 - Austin BitDevs - https://austinbitdevs.com/
 - Bitcoin Review - https://bitcoin.review
 - No BS Bitcoin - https://nobsbitcoin.com
-- Bitcoin Review - https://bitcoin.review/
 - b10c's blog - https://b10c.me/
 - Lopp's blog - https://www.lopp.net/articles.html
 
