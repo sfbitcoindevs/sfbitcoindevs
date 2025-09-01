@@ -4,8 +4,94 @@
 	<link href="https://sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2025-08-07T00:00:00+00:00</updated>
+	<updated>2025-09-04T00:00:00+00:00</updated>
 	<id>https://sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 62</title>
+		<published>2025-09-04T00:00:00+00:00</published>
+		<updated>2025-09-04T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-62/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-62/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a href=&quot;https:&#x2F;&#x2F;www.presidiobitcoin.org&#x2F;&quot;&gt;Presidio Bitcoin&lt;&#x2F;a&gt;, &lt;a href=&quot;https:&#x2F;&#x2F;pubkey.bar&#x2F;&quot;&gt;Pubkey&lt;&#x2F;a&gt;, and &lt;a href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers August 5th to September 1st.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;mononautical&#x2F;status&#x2F;1953716038883061851&quot;&gt;MARA&lt;&#x2F;a&gt; and &lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;ckpooldev&#x2F;status&#x2F;1957235824451559746&quot;&gt;ck-pool&lt;&#x2F;a&gt; raise their minrelay back to 1 sat &#x2F; vbyte&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;news-announcements&quot;&gt;News &amp;amp; Announcements&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.businesswire.com&#x2F;news&#x2F;home&#x2F;20250814809089&#x2F;en&#x2F;Block-Unveils-Proto-Rig-and-Proto-Fleet-Marking-a-New-Era-in-Bitcoin-Mining&quot;&gt;Block Unveils Proto Rig and Proto Fleet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2025-07-29&#x2F;chinese-crypto-giant-plans-first-us-factory-in-trump-era-gambit&quot;&gt;Bitmain Plans U.S. HQ and assembly line&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;valkenburgh&#x2F;status&#x2F;1953133350421495904&quot;&gt;Roman Storm found guilty of unlicensed money transmission&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;tweets-blogs-podcasts&quot;&gt;Tweets, Blogs &amp;amp; Podcasts&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;NewsFromGoogle&#x2F;status&#x2F;1955741506440192463&quot;&gt;Google removes and re-adds non-custodial wallets from Play Store EU policy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;dimahledba&#x2F;status&#x2F;1951213485104181669&quot;&gt;Rustreexo resources&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;blog.second.tech&#x2F;survey-of-bitcoin-yield&#x2F;&quot;&gt;A survey of bitcoin yield: What&#x27;s the opportunity cost of Ark liquidity?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.zkm.io&#x2F;blog&#x2F;ziren-the-hidden-engine&quot;&gt;Ziren: GPU-accelerated zero-knowledge infrastructure compiling conventional code into a verifiable MIPS-based execution environment&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;g_-Tfmjz0pw&quot;&gt;Glock: Garbled Locks for Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;dPxh5G-LrBU&quot;&gt;Feedbacks on libbitcoinkernel &amp;amp; bitcoin backbone&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;delving-simplicity-part-three-fundamental-ways-of-combining-computations&quot;&gt;Delving Simplicity Part Ⅰ: Three Fundamental Ways of Combining Computations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;delving-simplicity-part-combinator-completeness-of-simplicity&#x2F;1935&quot;&gt;Delving Simplicity Part II: Combinator Completeness of Simplicity&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;writing-simplicity-programs-with-simplicityhl&quot;&gt;Writing Simplicity Programs with SimplicityHL&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;confidential-script-emulate-soft-forks-using-stateless-tees&quot;&gt;Confidential Script: Emulate soft forks using stateless TEEs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;krux-kef-encryption-format&quot;&gt;Krux: KEF Encryption Format&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;the-state-of-bitcoinfuzz&#x2F;1946&quot;&gt;The state of bitcoinfuzz&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;qubic.org&#x2F;pr&#x2F;qubic-overtakes-monero-s-hash-rate-in-live-51-takeover-demo&quot;&gt;Qubic reorgs Monero Blockchain&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bips&quot;&gt;BIPs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1945&quot;&gt;BIP Proposal: Elliptic Curve Operations for Bitcoin Script&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1944&quot;&gt;BIP Proposal: OP_TWEAKADD&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;sharing-block-templates&#x2F;1906&quot;&gt;BIP Proposal: Block template sharing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31244&quot;&gt;descriptors: MuSig2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;28944&quot;&gt;wallet, rpc: add anti-fee-sniping to send and sendall&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33050&quot;&gt;net, validation: don&#x27;t punish peers for consensus-invalid txs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;32473&quot;&gt;Introduce per-txin sighash midstate cache for legacy&#x2F;p2sh&#x2F;segwitv0 scripts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33077&quot;&gt;kernel: create monolithic kernel static library&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;32896&quot;&gt;wallet, rpc: add v3 transaction creation and wallet support&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33106&quot;&gt;policy: lower the default blockmintxfee, incrementalrelayfee, minrelaytxfee&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;31802&quot;&gt;Add bitcoin-{node,gui} to release binaries for IPC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;rust-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&quot;&gt;rust-bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;4730&quot;&gt;p2p: Add formal Alert type&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;4907&quot;&gt;Introduce script tagging&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;blob&#x2F;v29.1rc2&#x2F;doc&#x2F;release-notes.md&quot;&gt;Bitcoin Core 29.1 RC2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;harbor.cash&#x2F;&quot;&gt;Harbor desktop ecash wallet v1.0 release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 61</title>
 		<published>2025-08-07T00:00:00+00:00</published>
