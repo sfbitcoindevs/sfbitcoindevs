@@ -27,7 +27,6 @@ News & Announcements
 
 - [Block Unveils Proto Rig and Proto Fleet](https://www.businesswire.com/news/home/20250814809089/en/Block-Unveils-Proto-Rig-and-Proto-Fleet-Marking-a-New-Era-in-Bitcoin-Mining)
 - [Bitmain Plans U.S. HQ and assembly line](https://www.bloomberg.com/news/articles/2025-07-29/chinese-crypto-giant-plans-first-us-factory-in-trump-era-gambit)
-- [Roman Storm found guilty of unlicensed money transmission](https://x.com/valkenburgh/status/1953133350421495904)
 
 Discussion
 ----------
@@ -36,7 +35,6 @@ Discussion
 
 - [Google removes and re-adds non-custodial wallets from Play Store EU policy](https://x.com/NewsFromGoogle/status/1955741506440192463)
 - [Rustreexo resources](https://x.com/dimahledba/status/1951213485104181669)
-- [A survey of bitcoin yield: What's the opportunity cost of Ark liquidity?](https://blog.second.tech/survey-of-bitcoin-yield/)
 - [Ziren: GPU-accelerated zero-knowledge infrastructure compiling conventional code into a verifiable MIPS-based execution environment](https://www.zkm.io/blog/ziren-the-hidden-engine)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
@@ -46,7 +44,7 @@ Discussion
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
-- [Delving Simplicity Part Ⅰ: Three Fundamental Ways of Combining Computations](https://delvingbitcoin.org/t/delving-simplicity-part-three-fundamental-ways-of-combining-computations)
+- [Delving Simplicity Part I: Three Fundamental Ways of Combining Computations](https://delvingbitcoin.org/t/delving-simplicity-part-three-fundamental-ways-of-combining-computations)
 - [Delving Simplicity Part II: Combinator Completeness of Simplicity](https://delvingbitcoin.org/t/delving-simplicity-part-combinator-completeness-of-simplicity/1935)
 - [Writing Simplicity Programs with SimplicityHL](https://delvingbitcoin.org/t/writing-simplicity-programs-with-simplicityhl)
 - [Confidential Script: Emulate soft forks using stateless TEEs](https://delvingbitcoin.org/t/confidential-script-emulate-soft-forks-using-stateless-tees)
