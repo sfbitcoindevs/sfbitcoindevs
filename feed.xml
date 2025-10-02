@@ -40,9 +40,9 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;L0RINC&#x2F;status&#x2F;1964396017853616588&quot;&gt;Fresh rpi 5 IBD data&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;murchandamus&#x2F;status&#x2F;1971647746299121773&quot;&gt;Probability of peer tx acceptance based on peer count &amp;amp; policy adoption&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;benthecarman&#x2F;status&#x2F;1968794533291794509&quot;&gt;Mutinynet not running bitcoin-inquisition&lt;&#x2F;a&gt;\&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;rodarmor&#x2F;status&#x2F;1971346206447342042&quot;&gt;Casey announced ord 0.23.3 &amp;amp; ordinals satscards&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;LaurentMT&#x2F;status&#x2F;1973416866212180089&quot;&gt;Transaction propagation simulation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;benthecarman&#x2F;status&#x2F;1968794533291794509&quot;&gt;Mutinynet now running bitcoin-inquisition&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;x.com&#x2F;rodarmor&#x2F;status&#x2F;1971346206447342042&quot;&gt;Casey announced ord 0.23.3 &amp;amp; ordinals satscards&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;blogs&quot;&gt;Blogs&lt;&#x2F;h3&gt;
 &lt;ul&gt;
@@ -58,7 +58,6 @@
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;sharing-block-templates&#x2F;1906&quot;&gt;BIP Proposal: Block template sharing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;measuring-minrelaytxfee-across-the-bitcoin-network&#x2F;1989&quot;&gt;Measuring minrelaytxfee across the network&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;eclipsing-bitcoin-nodes-with-bgp-interception-attacks&#x2F;1965&quot;&gt;Eclipsing Bitcoin Nodes with BGP Interception Attacks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;provable-cryptography-for-bitcoin-an-introduction-workbook&#x2F;1974&quot;&gt;Provable Cryptography for Bitcoin: An Introduction (Workbook)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -70,6 +69,7 @@
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;bips&quot;&gt;BIPs&lt;&#x2F;h2&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;sharing-block-templates&#x2F;1906&quot;&gt;BIP Proposal: Block template sharing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rustyrussell&#x2F;bips&#x2F;pull&#x2F;1&#x2F;files&quot;&gt;BIP: Script Restoration First Draft&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;KeysSoze&#x2F;7109a7f0455897b1930f851bde6337e3&quot;&gt;BIP: Standard Encrypted Wallet Payload&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;gist.github.com&#x2F;KeysSoze&#x2F;866d009ccd082edf6802df240154b20d&quot;&gt;BIP: Standard Encryption Envelope (Password-Protected)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -85,7 +85,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;sparrowwallet&#x2F;frigate&quot;&gt;Frigate Electrum Server&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;AbdelStark&#x2F;zkpoor&quot;&gt;zkpoor (Zero Knowledge Proof Of Outstanding Reserves)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;bin&#x2F;bitcoin-core-30.0&#x2F;test.rc2&#x2F;&quot;&gt;Bitcoin Core 30.0rc2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;bitcoin-devwiki&#x2F;wiki&#x2F;v30.0-Release-Notes-Draft&quot;&gt;Bitcoin Core 30.0rc2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinknots&#x2F;bitcoin&#x2F;releases&#x2F;tag&#x2F;v29.1.knots20250903&quot;&gt;Bitcoin Knots 29.1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
