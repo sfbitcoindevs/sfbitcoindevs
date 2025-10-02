@@ -36,9 +36,9 @@ Discussion
 
 - [Fresh rpi 5 IBD data](https://x.com/L0RINC/status/1964396017853616588)
 - [Probability of peer tx acceptance based on peer count & policy adoption](https://x.com/murchandamus/status/1971647746299121773)
-- [Mutinynet not running bitcoin-inquisition](https://x.com/benthecarman/status/1968794533291794509)\
-- [Casey announced ord 0.23.3 & ordinals satscards](https://x.com/rodarmor/status/1971346206447342042)
 - [Transaction propagation simulation](https://x.com/LaurentMT/status/1973416866212180089)
+- [Mutinynet now running bitcoin-inquisition](https://x.com/benthecarman/status/1968794533291794509)
+- [Casey announced ord 0.23.3 & ordinals satscards](https://x.com/rodarmor/status/1971346206447342042)
 
 ### Blogs
 
@@ -54,7 +54,6 @@ Discussion
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
-- [BIP Proposal: Block template sharing](https://delvingbitcoin.org/t/sharing-block-templates/1906)
 - [Measuring minrelaytxfee across the network](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network/1989)
 - [Eclipsing Bitcoin Nodes with BGP Interception Attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
 - [Provable Cryptography for Bitcoin: An Introduction (Workbook)](https://delvingbitcoin.org/t/provable-cryptography-for-bitcoin-an-introduction-workbook/1974)
@@ -69,6 +68,7 @@ CVEs and Research
 BIPs
 ----
 
+- [BIP Proposal: Block template sharing](https://delvingbitcoin.org/t/sharing-block-templates/1906)
 - [BIP: Script Restoration First Draft](https://github.com/rustyrussell/bips/pull/1/files)
 - [BIP: Standard Encrypted Wallet Payload](https://gist.github.com/KeysSoze/7109a7f0455897b1930f851bde6337e3)
 - [BIP: Standard Encryption Envelope (Password-Protected)](https://gist.github.com/KeysSoze/866d009ccd082edf6802df240154b20d)
@@ -86,5 +86,5 @@ Noteworthy PRs
 
 - [Frigate Electrum Server](https://github.com/sparrowwallet/frigate)
 - [zkpoor (Zero Knowledge Proof Of Outstanding Reserves)](https://github.com/AbdelStark/zkpoor)
-- [Bitcoin Core 30.0rc2](https://bitcoincore.org/bin/bitcoin-core-30.0/test.rc2/)
+- [Bitcoin Core 30.0rc2](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/v30.0-Release-Notes-Draft)
 - [Bitcoin Knots 29.1](https://github.com/bitcoinknots/bitcoin/releases/tag/v29.1.knots20250903)
