@@ -38,9 +38,10 @@ Discussion
 - [Probability of peer tx acceptance based on peer count & policy adoption](https://x.com/murchandamus/status/1971647746299121773)
 - [Mutinynet not running bitcoin-inquisition](https://x.com/benthecarman/status/1968794533291794509)\
 - [Casey announced ord 0.23.3 & ordinals satscards](https://x.com/rodarmor/status/1971346206447342042)
-- [Canadian police seize funds, announce via OP_RETURN](https://mempool.space/tx/e8a6c482503387d7215ce553c2b6157a2f6af574da2904c9bfba887f6ce9e646)
+- [Transaction propagation simulation](https://x.com/LaurentMT/status/1973416866212180089)
 
 ### Blogs
+
 - [Nunchuk supports generalized miniscript](https://nunchuk.io/blog/miniscript-programmable-bitcoin)
 - [Ordinals – Impact On Node Runners](https://blog.bitmex.com/ordinals-impact-on-node-runners/)
 - [Misbehaving Nodes](https://antoinep.com/posts/misbehaving_nodes/)
@@ -49,10 +50,11 @@ Discussion
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
-- [FROST CLI + BDK CLI Demo]https://groups.google.com/g/bitcoindev/c/IwOY6IanJyY()
+- [FROST CLI + BDK CLI Demo](https://groups.google.com/g/bitcoindev/c/IwOY6IanJyY)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
+- [BIP Proposal: Block template sharing](https://delvingbitcoin.org/t/sharing-block-templates/1906)
 - [Measuring minrelaytxfee across the network](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network/1989)
 - [Eclipsing Bitcoin Nodes with BGP Interception Attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
 - [Provable Cryptography for Bitcoin: An Introduction (Workbook)](https://delvingbitcoin.org/t/provable-cryptography-for-bitcoin-an-introduction-workbook/1974)
@@ -62,9 +64,7 @@ CVEs and Research
 
 ### InfoSec
 
-- [npm packages with 2 billion weekly downloads in supply chain attack](https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/)
 - [signet: disk-space-DoS due to low mining difficulty](https://github.com/bitcoin/bitcoin/issues/33266)
-- [Not in The Prophecies: Practical Attacks on Nostr](https://crypto-sec-n.github.io/)
 
 BIPs
 ----

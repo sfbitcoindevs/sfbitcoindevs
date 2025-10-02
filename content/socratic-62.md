@@ -80,6 +80,7 @@ Noteworthy PRs
 - [Add bitcoin-{node,gui} to release binaries for IPC](https://github.com/bitcoin/bitcoin/pull/31802)
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
+
 - [p2p: Add formal Alert type](https://github.com/rust-bitcoin/rust-bitcoin/pull/4730)
 - [Introduce script tagging](https://github.com/rust-bitcoin/rust-bitcoin/pull/4907)
 
