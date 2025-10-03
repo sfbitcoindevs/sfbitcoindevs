@@ -56,6 +56,7 @@ Discussion
 
 - [Measuring minrelaytxfee across the network](https://delvingbitcoin.org/t/measuring-minrelaytxfee-across-the-bitcoin-network/1989)
 - [Eclipsing Bitcoin Nodes with BGP Interception Attacks](https://delvingbitcoin.org/t/eclipsing-bitcoin-nodes-with-bgp-interception-attacks/1965)
+- [BGP hardening countermeasures with ASPA](https://datatracker.ietf.org/doc/html/draft-ietf-sidrops-aspa-verification)
 - [Provable Cryptography for Bitcoin: An Introduction (Workbook)](https://delvingbitcoin.org/t/provable-cryptography-for-bitcoin-an-introduction-workbook/1974)
 
 CVEs and Research
