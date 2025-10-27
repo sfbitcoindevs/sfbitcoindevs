@@ -26,6 +26,7 @@ News & Announcements
 
 - [Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire](https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/)
 - [$15 billion seized by US originates from Iran/China bitcoin miner "theft"](https://www.elliptic.co/blog/15-billion-us-seizure-reveals-prince-groups-connection-to-iran-china-bitcoin-mining-theft)
+- [Square Brings Bitcoin to Main Street with First Integrated Payments and Wallet Solution for Local Businesses](https://squareup.com/us/en/press/square-bitcoin)
 
 Discussion
 ----------
