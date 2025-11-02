@@ -33,7 +33,7 @@ Discussion
 
 ### Tweets & misc
 
-- [Reardon outlines differences between OP_TEMPLATEHASH & OP_CTV](https://bitcoin.stackexchange.com/questions/128097/i-read-that-op-templatehash-is-a-variant-of-op-ctv-how-do-they-differ)
+- [Rearden outlines differences between OP_TEMPLATEHASH & OP_CTV](https://bitcoin.stackexchange.com/questions/128097/i-read-that-op-templatehash-is-a-variant-of-op-ctv-how-do-they-differ)
 - [Optimizing On-Chain Costs for Publishing Proofs in BitVM-Style Bridges](https://gist.github.com/RobinLinus/0fc7405ad7485c35465efb7996a7b014)
 - [A short note on the (in)ability to embed data in Schnorr](https://github.com/AdamISZ/schnorr-unembeddability/blob/master/unembed.pdf)
 
