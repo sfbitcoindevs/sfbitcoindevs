@@ -20,6 +20,10 @@ Chain Weather Report
 - [Mempool](https://mempool.space/graphs/mempool#1m)
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
+- Amusing Data On Chain:
+    - [196kB jpg in OP_RETURN](https://x.com/stutxo/status/1974193438724682227)
+    - [ASCII Mario in OP_RETURN](https://x.com/mononautical/status/1981931710963909081)
+    - [Anti-Spam BIP encoded in Legacy P2SH ScriptSigs](https://x.com/mononautical/status/1982601377923891530)
 
 News & Announcements
 --------------------
@@ -27,12 +31,14 @@ News & Announcements
 - [Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire](https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/)
 - [$15 billion seized by US originates from Iran/China bitcoin miner "theft"](https://www.elliptic.co/blog/15-billion-us-seizure-reveals-prince-groups-connection-to-iran-china-bitcoin-mining-theft)
 - [Square Brings Bitcoin to Main Street with First Integrated Payments and Wallet Solution for Local Businesses](https://squareup.com/us/en/press/square-bitcoin)
+- [Bitcoin’s First Major Layer-2 in Nearly a Decade Goes Live With Arkade](https://bitcoinmagazine.com/news/arkade-launches-as-bitcoin-layer-2)
 
 Discussion
 ----------
 
 ### Tweets & misc
 
+- [Trader nets $192M Bitcoin profit in suspicious pre-Trump tariff announcement trade](https://finbold.com/trader-nets-192m-bitcoin-profit-in-suspicious-pre-trump-tariff-announcement-trade/)
 - [Rearden outlines differences between OP_TEMPLATEHASH & OP_CTV](https://bitcoin.stackexchange.com/questions/128097/i-read-that-op-templatehash-is-a-variant-of-op-ctv-how-do-they-differ)
 - [Optimizing On-Chain Costs for Publishing Proofs in BitVM-Style Bridges](https://gist.github.com/RobinLinus/0fc7405ad7485c35465efb7996a7b014)
 - [A short note on the (in)ability to embed data in Schnorr](https://github.com/AdamISZ/schnorr-unembeddability/blob/master/unembed.pdf)
@@ -43,8 +49,8 @@ Discussion
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
-- [Public disclosure of 4 Bitcoin Core security advisories](https://groups.google.com/g/bitcoindev/c/sBpCgS_yGws)
 - [BIP54 implementation and test vectors](https://groups.google.com/g/bitcoindev/c/1XEtmIS_XRc)
+- [OP_CIV - Post-Quantum Signature Aggregation](https://groups.google.com/g/bitcoindev/c/oFbEQb_DB3I)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
@@ -58,13 +64,15 @@ CVEs and Research
 
 ### InfoSec
 
-- N/A
+- [Public disclosure of 4 Bitcoin Core security advisories](https://groups.google.com/g/bitcoindev/c/sBpCgS_yGws)
 
 BIPs
 ----
 
 - [BIP Proposal: Chain Code Delegation for Private Collaborative Custody](https://github.com/bitcoin/bips/pull/2004)
 - [BIP Proposal: Reduced Data Temporary Softfork](https://github.com/bitcoin/bips/pull/2017)
+- [BIP3: add guidance on originality, quality, LLMs](https://github.com/bitcoin/bips/pull/2006)
+- [BIP155: mark torv2 as no longer in use](https://github.com/bitcoin/bips/pull/1975)
 
 Noteworthy PRs
 --------------
@@ -78,6 +86,7 @@ Noteworthy PRs
 - [cluster mempool: control/optimize TxGraph memory usage](https://github.com/bitcoin/bitcoin/pull/33157)
 - [wallet: Be able to receive and spend inputs involving MuSig2 aggregate keys](https://github.com/bitcoin/bitcoin/pull/29675)
 - [multiprocess: Fix high overhead from message logging](https://github.com/bitcoin/bitcoin/pull/33517) & [Update libmultiprocess subtree to support reduced logging](https://github.com/bitcoin/bitcoin/pull/33518)
+- [Fix tiebreak when loading blocks from disk (and add tests for comparing chain ties)](https://github.com/bitcoin/bitcoin/pull/29640)
 
 ### Releases
 
