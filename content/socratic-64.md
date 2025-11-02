@@ -69,10 +69,11 @@ CVEs and Research
 BIPs
 ----
 
+- [BIP Proposal: Limit ScriptPubkey Size >= 520 Bytes Consensus.](https://groups.google.com/g/bitcoindev/c/YO8ZwnG_ISs)
 - [BIP Proposal: Chain Code Delegation for Private Collaborative Custody](https://github.com/bitcoin/bips/pull/2004)
 - [BIP Proposal: Reduced Data Temporary Softfork](https://github.com/bitcoin/bips/pull/2017)
 - [BIP3: add guidance on originality, quality, LLMs](https://github.com/bitcoin/bips/pull/2006)
-- [BIP155: mark torv2 as no longer in use](https://github.com/bitcoin/bips/pull/1975)
+- [BIP155: mark torv2 as no longer in use](https://github.com/bitcoin/bips/pull/1975)–
 
 Noteworthy PRs
 --------------
