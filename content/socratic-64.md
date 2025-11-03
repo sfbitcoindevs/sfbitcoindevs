@@ -52,7 +52,6 @@ Discussion
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
 - [BIP54 implementation and test vectors](https://groups.google.com/g/bitcoindev/c/1XEtmIS_XRc)
-- [OP_CIV - Post-Quantum Signature Aggregation](https://groups.google.com/g/bitcoindev/c/oFbEQb_DB3I)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
@@ -67,6 +66,7 @@ CVEs and Research
 ### InfoSec
 
 - [Public disclosure of 4 Bitcoin Core security advisories](https://groups.google.com/g/bitcoindev/c/sBpCgS_yGws)
+- [TEE.fail](https://tee.fail/)
 
 BIPs
 ----
