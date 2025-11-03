@@ -31,17 +31,19 @@ News & Announcements
 - [Feds Seize Record-Breaking $15 Billion in Bitcoin From Alleged Scam Empire](https://www.wired.com/story/feds-seize-record-breaking-15-billion-in-bitcoin-from-alleged-scam-empire/)
 - [$15 billion seized by US originates from Iran/China bitcoin miner "theft"](https://www.elliptic.co/blog/15-billion-us-seizure-reveals-prince-groups-connection-to-iran-china-bitcoin-mining-theft)
 - [Square Brings Bitcoin to Main Street with First Integrated Payments and Wallet Solution for Local Businesses](https://squareup.com/us/en/press/square-bitcoin)
-- [Bitcoin’s First Major Layer-2 in Nearly a Decade Goes Live With Arkade](https://bitcoinmagazine.com/news/arkade-launches-as-bitcoin-layer-2)
+- [Arkade Launch](https://bitcoinmagazine.com/news/arkade-launches-as-bitcoin-layer-2)
 
 Discussion
 ----------
 
 ### Tweets & misc
 
+- [Steak n' Shake launches strategic bitcoin reserve & commits to OpenSats donations](https://x.com/SteaknShake/status/1984298263508324442)
 - [Trader nets $192M Bitcoin profit in suspicious pre-Trump tariff announcement trade](https://finbold.com/trader-nets-192m-bitcoin-profit-in-suspicious-pre-trump-tariff-announcement-trade/)
 - [Rearden outlines differences between OP_TEMPLATEHASH & OP_CTV](https://bitcoin.stackexchange.com/questions/128097/i-read-that-op-templatehash-is-a-variant-of-op-ctv-how-do-they-differ)
 - [Optimizing On-Chain Costs for Publishing Proofs in BitVM-Style Bridges](https://gist.github.com/RobinLinus/0fc7405ad7485c35465efb7996a7b014)
 - [A short note on the (in)ability to embed data in Schnorr](https://github.com/AdamISZ/schnorr-unembeddability/blob/master/unembed.pdf)
+- [Bitcoin Core dev in-person meeting notes](https://x.com/bitschmidty/status/1984292590825386068)
 
 ### Blogs
 
