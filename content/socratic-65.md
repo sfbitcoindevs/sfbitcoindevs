@@ -11,7 +11,7 @@ Housekeeping
 - Socratic Seminars are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): share the information you receive, but do not reveal the identity of who said it.
 - For the privacy of other attendees, please refrain from taking photographs of other people without their permission.
 - Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.
-- The reading list covers Nov 3rd to Dec 7th.
+- The reading list covers Bitcoin topics from Nov 3rd to Dec 7th & Lightning topics from Nov 20th to Dec 7th.
 
 Chain Weather Report
 --------------------
@@ -34,7 +34,6 @@ Discussion
 - [Nunchuk 2.0: Autonomous inheritance](https://nunchuk.io/blog/autonomous-inheritance)
 - [Bitkey: Not our keys, not our business](https://bitkey.build/not-our-keys-not-our-business/)
 - [Brink: An Independent Security Audit of Bitcoin Core](https://brink.dev/blog/2025/11/19/bitcoin-core-security-audit/)
-- [Boltz: Introducing Taproot Swaps](https://blog.boltz.exchange/p/introducing-taproot-swaps-putting)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
