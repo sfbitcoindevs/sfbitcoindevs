@@ -21,27 +21,22 @@ Chain Weather Report
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
 
-News & Announcements
---------------------
-
-- []()
-- []()
-- []()
-
 Discussion
 ----------
 
 ### Tweets & misc
 
 - [Auradine announces Stratum v2 support](https://x.com/Auradine_Inc/status/1991159535864803665?s=20)
-- []()
-- []()
+- [Coldcard miniscript updates](https://x.com/COLDCARDwallet/status/1991572009025675628)
+- [Bitcoin Core versions run by mining pools](https://bnoc.xyz/t/bitcoin-core-versions-run-by-mining-pools/57)
+- [Distributed Charge - EV Now Available For Public Testing](http://andyschroder.com/DistributedCharge/news/2025-12-19-PublicTesting/)
+- [A New Approach to Universal Bitcoin Wallet Backup with Passkeys and PRF](https://praveenperera.com/blog/passkey-prf-bitcoin-wallet-backup)
+- [jamesob quantum skeptic resources](https://x.com/jamesob/status/2002595134970425457)
 
 ### Blogs
 
 - [BitMEX research: 64 byte transactions](https://www.bitmex.com/blog/64-Byte-Transactions)
-- []()
-- []()
+- [Fedi goes open source](https://www.fedi.xyz/blog/fedi-goes-open-source)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
@@ -63,15 +58,18 @@ CVEs and Research
 ### InfoSec
 
 - [Blockstream Jade Security Disclosure](https://blog.blockstream.com/jade-security-disclosure/)
-- []()
-- []()
 
 BIPs
 ----
 
 - [BIP-390: update to allow musig() key expressions inside of a rawtr()](https://github.com/bitcoin/bips/pull/2050)
 - [BIP-3: Address feedback prompted by Motion to Activate](https://github.com/bitcoin/bips/pull/2051)
+- [BIP-54: Addressing remaining points](https://groups.google.com/g/bitcoindev/c/6TTlDwP2OQg)
+- [BIP-360: Updates](https://github.com/bitcoin/bips/pull/1670#issuecomment-3676106100)
 - [BIP Proposal: Peer Feature Negotiation](https://groups.google.com/g/bitcoindev/c/DFXtbUdCNZE)
+- [BIP Proposal: Add PSBT_IN_SP_TWEAK field](https://groups.google.com/g/bitcoindev/c/Kap7NMwzl2k)
+- [Draft BIP: DustSweep - policy-only UTXO dust compaction](https://groups.google.com/g/bitcoindev/c/pqxZuRxuIBc)
+- [BIP Idea: Timelock-Recovery storage format](https://groups.google.com/g/bitcoindev/c/K1NpJp9_BYk)
 
 Noteworthy PRs
 --------------
@@ -92,6 +90,5 @@ Noteworthy PRs
 
 ### Releases
 
+- [Bitcoin Core v30.1](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-30.1.md)
 - [Stratum v2 v1.6.0](https://github.com/stratum-mining/stratum/releases/tag/v1.6.0)
-- []()
-- []()
