@@ -5,6 +5,5 @@ generate_feeds = true
 feed_filenames = ["feed.xml"]
 
 [markdown]
-highlight_code = false
 
 [extra]
