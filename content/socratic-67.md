@@ -6,7 +6,7 @@ date = 2026-02-05
 Housekeeping
 ------------
 
-- This meetup is generously sponsored by Stanford University, [Pubkey](https://pubkey.bar/), and [Bitnomial](https://bitnomial.com).
+- This meetup is generously sponsored by [Pubkey](https://pubkey.bar/) and [Bitnomial](https://bitnomial.com).
 - Questions are encouraged, including basic ones!
 - Socratic Seminars are held under the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule): share the information you receive, but do not reveal the identity of who said it.
 - For the privacy of other attendees, please refrain from taking photographs of other people without their permission.
