@@ -27,6 +27,7 @@ Discussion
 
 ### Tweets & misc
 
+- [Bay Area Bitcoin conference interest survey from Pamela - open through 2/28](https://docs.google.com/forms/d/e/1FAIpQLSdXP7HQuxwwDJe6RtQxSxlBAziO3dUQQHIVCp8-emEHHIRR1Q/viewform)
 - [Hash-lock Ark](https://x.com/2ndbtc/status/2015401100355002626)
 - [Magnolia launches DLC oracle for Bitcoin-backed loans](https://docs.magnolia.financial/guides/dlc-loans)
 - [Nifty shares 2026 bitcoin++ plans](https://stacker.news/items/1411249)
