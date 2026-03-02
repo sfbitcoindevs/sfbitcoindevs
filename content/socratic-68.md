@@ -101,10 +101,11 @@ Noteworthy PRs
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
 - [https://github.com/rust-bitcoin/rust-bitcoin/pull/5493](hashes: add SHA256 ARM hardware acceleration)
+- [https://github.com/rust-bitcoin/rust-bitcoin/discussions/5714](Moving all the rust-bitcoin crates off of Github)
 
 ### Releases
 
 - [Bitcoin Core 29.3](https://github.com/bitcoin/bitcoin/releases/tag/v29.3)
-- [Bitcoin Inquisition 29.2](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v29.2-inq)\
+- [Bitcoin Inquisition 29.2](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v29.2-inq)
 - [Rust Bitcoin 0.33.0-beta](https://github.com/rust-bitcoin/rust-bitcoin/releases/tag/bitcoin-0.33.0-beta)
 - [libsecp256k1 0.7.1](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.7.1)
