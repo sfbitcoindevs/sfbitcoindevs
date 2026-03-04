@@ -25,34 +25,27 @@ Chain Weather Report
 Discussion
 ----------
 
-### Tweets & misc
+### News, Tweets & Misc
 
-- [Nunchuk adds support for sending to silent payment addresses](https://x.com/nunchuk_io/status/2021588854969414119)
-- [Sigbash v2 announced](https://x.com/arbedout/status/2020885323778044259)
-- [Parasite pool mines their first block](https://x.com/ord_io/status/2027873140282380792)
-- [Whitebit produces the first BIP54 compatible block](https://x.com/Chris_Stewart_5/status/2026749907684499529)
-- [Casey proposed P2Q address type](https://x.com/rodarmor/status/2027813909550584109)
-- [Block announces 40% RIF](https://x.com/jack/status/2027129697092731343)
-- [Onchain wallet backups](https://x.com/landabaso/status/2014300690131083675)
+- [Allow recovery of MtGox stolen funds (79,956 BTC)](https://github.com/bitcoin/bitcoin/pull/34695) — Mark Karpelès (MagicalTux) opens a PR to Bitcoin Core to get his coins back
+- [Sigbash v2 announced](https://nitter.net/arbedout/status/2020885323778044259)
+- [Parasite pool mines their first block](https://nitter.net/ord_io/status/2027873140282380792)
+- [Whitebit produces the first BIP54 compatible block](https://nitter.net/Chris_Stewart_5/status/2026749907684499529)
+- [Block announces 40% RIF](https://nitter.net/jack/status/2027129697092731343)
+- [Casey proposed P2Q address type](https://nitter.net/rodarmor/status/2027813909550584109)
 - [Increased b-msghand thread utilization due to runestone transactions on 2026-02-17](https://bnoc.xyz/t/increased-b-msghand-thread-utilization-due-to-runestone-transactions-on-2026-02-17/81)
-- [Boomerang: Bitcoin Cold Storage with Enforced Non-Deterministic Withdrawal and Silent Duress Signaling](https://github.com/bitryonix/boomerang_design)
 
 ### Blogs
 
 - [FIBRE, Resurrected](https://lclhost.org/blog/fibre-resurrected/)
-- [Blockstream Explorer API Launches Electrum RPC](https://blog.blockstream.com/real-time-bitcoin-data-at-scale-blockstream-explorer-api-launches-electrum-rpc/)
 - [localprobe: detect Bitcoin nodes running on the same machine as your (Firefox) browser](https://b10c.me/projects/025-localprobe/)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
-- [Hourglass V2 Update](https://groups.google.com/g/bitcoindev/c/0E1UyyQIUA0)
-- [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A)
-
+- [The limitations of cryptographic agility in Bitcoin](https://mirror.b10c.me/lists/bitcoindev/THqOJuI_s5C8B9jkklN73BB_Hzb9SsiLM6BFp4zFP3zWQoRevKoLVspdwjwh8NxxYbXwv4v6ikpStguW-QEvef4WgBZ7AQDz00P0st91FMA=@wuille.net/)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
-- [Recent OP_RETURN output statistics](https://delvingbitcoin.org/t/recent-op-return-output-statistics/2248)
-    - [Related: Murch's OP_RETURN dashboard](https://dune.com/murchandamus/opreturn-counts)
 - [Bitcoin PIPEs v2](https://delvingbitcoin.org/t/bitcoin-pipes-v2/2249)
 - [Introducing UltrafastSecp256k1: A Multi-Architecture Exploration of Secp256k1 Optimizations](https://delvingbitcoin.org/t/introducing-ultrafastsecp256k1-a-multi-architecture-exploration-of-secp256k1-optimizations/2280)
 - [The future of the Bitcoin Core GUI](https://delvingbitcoin.org/t/the-future-of-the-bitcoin-core-gui/2253)
@@ -100,8 +93,8 @@ Noteworthy PRs
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 
-- [https://github.com/rust-bitcoin/rust-bitcoin/pull/5493](hashes: add SHA256 ARM hardware acceleration)
-- [https://github.com/rust-bitcoin/rust-bitcoin/discussions/5714](Moving all the rust-bitcoin crates off of Github)
+- [hashes: add SHA256 ARM hardware acceleration](https://github.com/rust-bitcoin/rust-bitcoin/pull/5493)
+- [Moving all the rust-bitcoin crates off of Github](https://github.com/rust-bitcoin/rust-bitcoin/discussions/5714)
 
 ### Releases
 
