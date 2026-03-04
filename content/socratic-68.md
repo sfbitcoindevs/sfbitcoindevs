@@ -42,7 +42,7 @@ Discussion
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
-- [The limitations of cryptographic agility in Bitcoin](https://groups.google.com/g/bitcoindev/c/O6l3GUvyO7A)
+- [The limitations of cryptographic agility in Bitcoin](https://mirror.b10c.me/lists/bitcoindev/THqOJuI_s5C8B9jkklN73BB_Hzb9SsiLM6BFp4zFP3zWQoRevKoLVspdwjwh8NxxYbXwv4v6ikpStguW-QEvef4WgBZ7AQDz00P0st91FMA=@wuille.net/)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
