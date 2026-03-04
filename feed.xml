@@ -4,8 +4,116 @@
 	<link href="https://sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2026-02-05T00:00:00+00:00</updated>
+	<updated>2026-03-05T00:00:00+00:00</updated>
 	<id>https://sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 68</title>
+		<published>2026-03-05T00:00:00+00:00</published>
+		<updated>2026-03-05T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-68/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-68/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.presidiobitcoin.org&#x2F;&quot;&gt;Presidio Bitcoin&lt;&#x2F;a&gt;, &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;pubkey.bar&#x2F;&quot;&gt;Pubkey&lt;&#x2F;a&gt;, and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers Feb 2nd to March 2nd.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;hashrate-difficulty#1y&quot;&gt;Hashrate &amp;amp; Difficulty&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;tweets-misc&quot;&gt;Tweets &amp;amp; misc&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;nunchuk_io&#x2F;status&#x2F;2021588854969414119&quot;&gt;Nunchuk adds support for sending to silent payment addresses&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;arbedout&#x2F;status&#x2F;2020885323778044259&quot;&gt;Sigbash v2 announced&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;ord_io&#x2F;status&#x2F;2027873140282380792&quot;&gt;Parasite pool mines their first block&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;Chris_Stewart_5&#x2F;status&#x2F;2026749907684499529&quot;&gt;Whitebit produces the first BIP54 compatible block&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;rodarmor&#x2F;status&#x2F;2027813909550584109&quot;&gt;Casey proposed P2Q address type&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;jack&#x2F;status&#x2F;2027129697092731343&quot;&gt;Block announces 40% RIF&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;landabaso&#x2F;status&#x2F;2014300690131083675&quot;&gt;Onchain wallet backups&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;t&#x2F;increased-b-msghand-thread-utilization-due-to-runestone-transactions-on-2026-02-17&#x2F;81&quot;&gt;Increased b-msghand thread utilization due to runestone transactions on 2026-02-17&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitryonix&#x2F;boomerang_design&quot;&gt;Boomerang: Bitcoin Cold Storage with Enforced Non-Deterministic Withdrawal and Silent Duress Signaling&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;blogs&quot;&gt;Blogs&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;lclhost.org&#x2F;blog&#x2F;fibre-resurrected&#x2F;&quot;&gt;FIBRE, Resurrected&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;real-time-bitcoin-data-at-scale-blockstream-explorer-api-launches-electrum-rpc&#x2F;&quot;&gt;Blockstream Explorer API Launches Electrum RPC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;projects&#x2F;025-localprobe&#x2F;&quot;&gt;localprobe: detect Bitcoin nodes running on the same machine as your (Firefox) browser&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;0E1UyyQIUA0&quot;&gt;Hourglass V2 Update&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;O6l3GUvyO7A&quot;&gt;The limitations of cryptographic agility in Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;recent-op-return-output-statistics&#x2F;2248&quot;&gt;Recent OP_RETURN output statistics&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;dune.com&#x2F;murchandamus&#x2F;opreturn-counts&quot;&gt;Related: Murch&#x27;s OP_RETURN dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bitcoin-pipes-v2&#x2F;2249&quot;&gt;Bitcoin PIPEs v2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;introducing-ultrafastsecp256k1-a-multi-architecture-exploration-of-secp256k1-optimizations&#x2F;2280&quot;&gt;Introducing UltrafastSecp256k1: A Multi-Architecture Exploration of Secp256k1 Optimizations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;the-future-of-the-bitcoin-core-gui&#x2F;2253&quot;&gt;The future of the Bitcoin Core GUI&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;robinlinus.com&#x2F;binohash.pdf&quot;&gt;Binohash: Transaction Introspection Without Softforks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2026&#x2F;223.pdf&quot;&gt;Nested MuSig2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bips&quot;&gt;BIPs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;tgcAQVqvzVg&quot;&gt;BIP 352: Limiting the number of per-group recipients (K_max)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2092&quot;&gt;BIP 324, 434: Specify p2p v2 one-byte identifier for FEATURE message&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1974&quot;&gt;BIP 446: OP_TEMPLATEHASH and BIP Draft: TH+CSFS+IK Bundle&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;craigraw&#x2F;bips&#x2F;blob&#x2F;descriptorannotations&#x2F;bip-descriptorannotations.mediawiki&quot;&gt;BIP Proposal: Output Script Descriptor Annotations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;DFXtbUdCNZE&quot;&gt;BIP Proposal: Peer Feature Negotation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;fCfbi8hy-AE&quot;&gt;BIP Draft: 24 bits for nVersion nonce space instead of 16&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33604&quot;&gt;p2p: Allow block downloads from peers without snapshot block after assumeutxo validation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34358&quot;&gt;wallet: fix removeprunedfunds bug with conflicting transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;32420&quot;&gt;mining, ipc: omit dummy extraNonce from coinbase&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34568&quot;&gt;mining: Break compatibility with existing IPC mining clients&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34184&quot;&gt;mining: add cooldown to createNewBlock() immediately after IBD&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;24539&quot;&gt;Add a &quot;tx output spender&quot; index&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34329&quot;&gt;rpc,net: Add private broadcast RPC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34512&quot;&gt;rpc: add coinbase_tx field to getblock&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;28792&quot;&gt;build: Embedded ASMap [3&#x2F;3]: Build binary dump header file&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-inquisition&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;&quot;&gt;Bitcoin Inquisition&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;pull&#x2F;99&quot;&gt;BIP54 &quot;Consensus Cleanup&quot; implementation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;btcd&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;btcsuite&#x2F;btcd&#x2F;&quot;&gt;btcd&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;btcsuite&#x2F;btcd&#x2F;pull&#x2F;2481&quot;&gt;btcec&#x2F;schnorr&#x2F;musig2: add nested MuSig2 support for recursive cosigner trees&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;rust-bitcoin&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&quot;&gt;rust-bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;pull&#x2F;5493](hashes: add SHA256 ARM hardware acceleration)&lt;&#x2F;li&gt;
+&lt;li&gt;[https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;discussions&#x2F;5714](Moving all the rust-bitcoin crates off of Github)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;releases&#x2F;tag&#x2F;v29.3&quot;&gt;Bitcoin Core 29.3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;releases&#x2F;tag&#x2F;v29.2-inq&quot;&gt;Bitcoin Inquisition 29.2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;rust-bitcoin&#x2F;rust-bitcoin&#x2F;releases&#x2F;tag&#x2F;bitcoin-0.33.0-beta&quot;&gt;Rust Bitcoin 0.33.0-beta&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;secp256k1&#x2F;releases&#x2F;tag&#x2F;v0.7.1&quot;&gt;libsecp256k1 0.7.1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 67</title>
 		<published>2026-02-05T00:00:00+00:00</published>
