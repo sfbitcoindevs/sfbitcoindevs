@@ -67,6 +67,7 @@ BIPs
 - [BIP Proposal: Output Script Descriptor Annotations](https://github.com/craigraw/bips/blob/descriptorannotations/bip-descriptorannotations.mediawiki)
 - [BIP Proposal: Peer Feature Negotation](https://groups.google.com/g/bitcoindev/c/DFXtbUdCNZE)
 - [BIP Draft: 24 bits for nVersion nonce space instead of 16](https://groups.google.com/g/bitcoindev/c/fCfbi8hy-AE)
+- [BIP Proposal: Ordinals (closed)](https://github.com/bitcoin/bips/pull/1408)
 
 Noteworthy PRs
 --------------
