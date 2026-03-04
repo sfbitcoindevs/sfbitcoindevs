@@ -69,6 +69,7 @@
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;craigraw&#x2F;bips&#x2F;blob&#x2F;descriptorannotations&#x2F;bip-descriptorannotations.mediawiki&quot;&gt;BIP Proposal: Output Script Descriptor Annotations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;DFXtbUdCNZE&quot;&gt;BIP Proposal: Peer Feature Negotation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;fCfbi8hy-AE&quot;&gt;BIP Draft: 24 bits for nVersion nonce space instead of 16&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;1408&quot;&gt;BIP Proposal: Ordinals (closed)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
