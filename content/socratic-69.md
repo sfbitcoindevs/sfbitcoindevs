@@ -32,6 +32,7 @@ Discussion
 - [River Bitcoin Adoption Report 2026](https://river.com/learn/files/river-bitcoin-adoption-report-2026.pdf)
 - [Square Bitcoin terms of service update auto-enrolls eligable sellers](https://x.com/nickslaney/status/2033956369439609211)
 - [BPI & industry participants advocate for De Minimus exemption for Bitcoin](https://x.com/BitcoinConner/status/2037232127457046999)
+- [Coinbase Powers the First Crypto-Backed, Conforming Mortgages by Better](https://www.coinbase.com/blog/coinbase-powers-the-first-crypto-backed-conforming-mortgages-by-better)
 - [Mara mines their first BIP54 compatible block](https://x.com/Chris_Stewart_5/status/2032538591038177653)
 - [Tether launches MiningOS](https://mos.tether.io/)
 - [Bitcoin TUI](https://x.com/_jan__b/status/2031741548098896272)
