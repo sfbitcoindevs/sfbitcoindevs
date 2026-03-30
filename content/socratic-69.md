@@ -23,6 +23,8 @@ Chain Weather Report
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
 - [UTXO Spend Age](https://mainnet.observer/charts/utxoset-spend-age/)
 - [Bitcoin Stale Block Dataset](https://bitcoin-data.github.io/stale-blocks/)
+    - [Two block reorg at heigh 941880](https://bnoc.xyz/t/two-block-reorg-at-height-941880/97)
+- [Slowish blocks on signet](https://bnoc.xyz/t/slowish-blocks-on-signet/100)      
 
 Discussion
 ----------
@@ -56,10 +58,6 @@ Discussion
 - [Introducing UltrafastSecp256k1: A Multi-Architecture Exploration of Secp256k1 Optimizations](https://delvingbitcoin.org/t/introducing-ultrafastsecp256k1-a-multi-architecture-exploration-of-secp256k1-optimizations/2280)
 - [How wallet fingerprints damage Payjoin privacy](https://delvingbitcoin.org/t/how-wallet-fingerprints-damage-payjoin-privacy/2354)
 - [Compact Isogeny PQC can replace HD wallets, key-tweaking, silent payments](https://delvingbitcoin.org/t/compact-isogeny-pqc-can-replace-hd-wallets-key-tweaking-silent-payments/2324)
-
-### [BNOC](https://bnoc.xyz)
-
-- [Two blog reorg at height 941880](https://bnoc.xyz/t/two-block-reorg-at-height-941880/97)
 
 CVEs and Research
 -----------------
