@@ -23,6 +23,8 @@ Chain Weather Report
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
 - [UTXO Spend Age](https://mainnet.observer/charts/utxoset-spend-age/)
 - [Bitcoin Stale Block Dataset](https://bitcoin-data.github.io/stale-blocks/)
+    - [Two block reorg at heigh 941880](https://bnoc.xyz/t/two-block-reorg-at-height-941880/97)
+- [Slowish blocks on signet](https://bnoc.xyz/t/slowish-blocks-on-signet/100)      
 
 Discussion
 ----------
@@ -32,6 +34,7 @@ Discussion
 - [River Bitcoin Adoption Report 2026](https://river.com/learn/files/river-bitcoin-adoption-report-2026.pdf)
 - [Square Bitcoin terms of service update auto-enrolls eligable sellers](https://x.com/nickslaney/status/2033956369439609211)
 - [BPI & industry participants advocate for De Minimus exemption for Bitcoin](https://x.com/BitcoinConner/status/2037232127457046999)
+- [Coinbase Powers the First Crypto-Backed, Conforming Mortgages by Better](https://www.coinbase.com/blog/coinbase-powers-the-first-crypto-backed-conforming-mortgages-by-better)
 - [Mara mines their first BIP54 compatible block](https://x.com/Chris_Stewart_5/status/2032538591038177653)
 - [Tether launches MiningOS](https://mos.tether.io/)
 - [Bitcoin TUI](https://x.com/_jan__b/status/2031741548098896272)
@@ -56,15 +59,14 @@ Discussion
 - [How wallet fingerprints damage Payjoin privacy](https://delvingbitcoin.org/t/how-wallet-fingerprints-damage-payjoin-privacy/2354)
 - [Compact Isogeny PQC can replace HD wallets, key-tweaking, silent payments](https://delvingbitcoin.org/t/compact-isogeny-pqc-can-replace-hd-wallets-key-tweaking-silent-payments/2324)
 
-### [BNOC](https://bnoc.xyz)
-
-- [Two blog reorg at height 941880](https://bnoc.xyz/t/two-block-reorg-at-height-941880/97)
-
 CVEs and Research
 -----------------
 
 ### Research
 
+- [Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities:
+Resource Estimates and Mitigations](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf)
+- [Shor’s algorithm is possible with as few as 10,000 reconfigurable atomic qubits](https://arxiv.org/html/2603.28627v1)
 - [SHRIMPS: 2.5 KB post-quantum signatures across multiple stateful devices](https://delvingbitcoin.org/t/shrimps-2-5-kb-post-quantum-signatures-across-multiple-stateful-devices/2355)
 - [Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions](https://eprint.iacr.org/2026/380.pdf)
     - [Blog Post](https://blog.projecteleven.com/posts/lattice-hd-wallets-post-quantum-bip32-hierarchical-deterministic-wallets-from-lattice-assumptions)
