@@ -64,6 +64,9 @@ CVEs and Research
 
 ### Research
 
+- [Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities:
+Resource Estimates and Mitigations](https://quantumai.google/static/site-assets/downloads/cryptocurrency-whitepaper.pdf)
+- [Shor’s algorithm is possible with as few as 10,000 reconfigurable atomic qubits](https://arxiv.org/html/2603.28627v1)
 - [SHRIMPS: 2.5 KB post-quantum signatures across multiple stateful devices](https://delvingbitcoin.org/t/shrimps-2-5-kb-post-quantum-signatures-across-multiple-stateful-devices/2355)
 - [Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions](https://eprint.iacr.org/2026/380.pdf)
     - [Blog Post](https://blog.projecteleven.com/posts/lattice-hd-wallets-post-quantum-bip32-hierarchical-deterministic-wallets-from-lattice-assumptions)
