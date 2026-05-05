@@ -104,3 +104,4 @@ Noteworthy PRs
 ### Releases
 
 - [Bitcoin Core 31.0](https://bitcoincore.org/en/releases/31.0/)
+- [bitcoinj v0.17.1](https://github.com/bitcoinj/bitcoinj/releases/tag/v0.17.1)
