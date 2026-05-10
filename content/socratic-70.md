@@ -29,6 +29,7 @@ Discussion
 ### News, Tweets & Misc
 
 - [Kraken parent company Payward is acquiring Bitnomial](https://blog.kraken.com/news/payward-acquires-bitnomial)
+- [Stratum V2 Working Group Expansion](https://x.com/StratumV2/status/2052395730694795274)
 - [Lightspark <-> Visa Partnership](https://x.com/lightspark/status/2049888918599065885?s=20)
 - [Tether Investments Proposes Merger Plans at Twenty-One Capital to Accelerate its Strategic Direction](https://tether.io/news/tether-investments-proposes-merger-plans-at-twenty-one-capital-to-accelerate-its-strategic-direction/)
 - [CLARITY Act moves forward to markup](https://x.com/faryarshirzad/status/2050325150747484421)
@@ -36,8 +37,9 @@ Discussion
 ### Blogs
 
 - [BIP-54: Block propagation and validation duration during slow-to-validate blocks on Signet](https://b10c.me/observations/16-slow-block-propagation-validation-signet/)
-    - [](https://delvingbitcoin.org/t/consensus-cleanup-demo-of-slow-blocks-on-signet/2367)
+    - [Delving Bitcoin Discussion](https://delvingbitcoin.org/t/consensus-cleanup-demo-of-slow-blocks-on-signet/2367)
 - [Localhost Post-Quantum Cryptography Group](https://lclhost.org/blog/post-quantum-cryptography-group/)
+- [Introducing LDK Server](https://spiral.xyz/ldkserver.pdf)
 - [Post Quantum Bitcoin: Concepts of a Plan - A zk-STARK Escape Hatch for BIP-32 Wallets](https://x.com/roasbeef/status/2041940571720487192)
 - [PACTs: Protecting Your Bitcoin From a Quantum Sunset](https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset)
 - [Estimated transactions per second with different hash-based signature schemes](https://x.com/n1ckler/status/2039338319603999036)
@@ -66,13 +68,17 @@ CVEs and Research
 
 ### Research
 
+- [Mosaic: Practical Malicious Security for Garbled Circuits on Bitcoin](https://eprint.iacr.org/2026/812.pdf)
 - [BABE: Verifying Proofs on Bitcoin Made 1000x Cheaper](https://eprint.iacr.org/2026/065.pdf)
 - [Bitcoin PIPEs v2](https://eprint.iacr.org/2026/186.pdf)
 - [Quantum frontiers may be closer than they appear](https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/)
 - [Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly](https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/)
+- [Practical Post-Quantum Secure Publicly Verifiable Secret Sharing and Applications](https://eprint.iacr.org/2026/813.pdf)
+- [Zinc+: SNARKs for Polynomial Rings](https://eprint.iacr.org/2026/855.pdf)
 
 ### InfoSec
 
+- [CVE-2024-52911 - Script Interpreter Remote Crash](https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/)
 - [Litecoin MWEB Security Incident Postmortem](https://litecoin.com/news/litecoin-mweb-security-incident-postmortem)
 
 BIPs
@@ -105,3 +111,4 @@ Noteworthy PRs
 
 - [Bitcoin Core 31.0](https://bitcoincore.org/en/releases/31.0/)
 - [bitcoinj v0.17.1](https://github.com/bitcoinj/bitcoinj/releases/tag/v0.17.1)
+- [secp256k1-jdk v0.2.1](https://github.com/bitcoinj/secp256k1-jdk/blob/master/CHANGELOG.adoc#v021)
