@@ -4,8 +4,120 @@
 	<link href="https://sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2026-04-02T00:00:00+00:00</updated>
+	<updated>2026-05-14T00:00:00+00:00</updated>
 	<id>https://sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 70</title>
+		<published>2026-05-14T00:00:00+00:00</published>
+		<updated>2026-05-14T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-70/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-70/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.presidiobitcoin.org&#x2F;&quot;&gt;Presidio Bitcoin&lt;&#x2F;a&gt;, &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;pubkey.bar&#x2F;&quot;&gt;Pubkey&lt;&#x2F;a&gt;, and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers April 2nd to May 10th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;hashrate-difficulty#1y&quot;&gt;Hashrate &amp;amp; Difficulty&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mainnet.observer&#x2F;charts&#x2F;utxoset-spend-age&#x2F;&quot;&gt;UTXO Spend Age&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;news-tweets-misc&quot;&gt;News, Tweets &amp;amp; Misc&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.kraken.com&#x2F;news&#x2F;payward-acquires-bitnomial&quot;&gt;Kraken parent company Payward is acquiring Bitnomial&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;StratumV2&#x2F;status&#x2F;2052395730694795274&quot;&gt;Stratum V2 Working Group Expansion&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;lightspark&#x2F;status&#x2F;2049888918599065885?s=20&quot;&gt;Lightspark &amp;lt;-&amp;gt; Visa Partnership&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;tether.io&#x2F;news&#x2F;tether-investments-proposes-merger-plans-at-twenty-one-capital-to-accelerate-its-strategic-direction&#x2F;&quot;&gt;Tether Investments Proposes Merger Plans at Twenty-One Capital to Accelerate its Strategic Direction&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;faryarshirzad&#x2F;status&#x2F;2050325150747484421&quot;&gt;CLARITY Act moves forward to markup&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;blogs&quot;&gt;Blogs&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;observations&#x2F;16-slow-block-propagation-validation-signet&#x2F;&quot;&gt;BIP-54: Block propagation and validation duration during slow-to-validate blocks on Signet&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;consensus-cleanup-demo-of-slow-blocks-on-signet&#x2F;2367&quot;&gt;Delving Bitcoin Discussion&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;lclhost.org&#x2F;blog&#x2F;post-quantum-cryptography-group&#x2F;&quot;&gt;Localhost Post-Quantum Cryptography Group&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;spiral.xyz&#x2F;ldkserver.pdf&quot;&gt;Introducing LDK Server&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;roasbeef&#x2F;status&#x2F;2041940571720487192&quot;&gt;Post Quantum Bitcoin: Concepts of a Plan - A zk-STARK Escape Hatch for BIP-32 Wallets&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.paradigm.xyz&#x2F;2026&#x2F;05&#x2F;pacts-protecting-your-bitcoin-from-a-quantum-sunset&quot;&gt;PACTs: Protecting Your Bitcoin From a Quantum Sunset&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;n1ckler&#x2F;status&#x2F;2039338319603999036&quot;&gt;Estimated transactions per second with different hash-based signature schemes&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;l7AdGAKd1Oo&quot;&gt;Formal verification of secp256k1 modular scalar multiplication&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;Q06piCEJhkI&quot;&gt;Post-Quantum BIP-86 Recovery via zk-STARK Proof of BIP-32 Seed Knowledge&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;JA3kDl8AmQg&quot;&gt;In defense of a PQ output type&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;hornet-update-a-declarative-executable-specification-of-consensus-rules&#x2F;2420&quot;&gt;Hornet Update: A declarative executable specification of consensus rules&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;binary-fuse-filters-as-an-alternative-to-bip-158-gcs&#x2F;2428&quot;&gt;Binary Fuse filters as an alternative to BIP 158 GCS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;optimistic-payout-in-bitvm-implementations-like-citrea&#x2F;2465&quot;&gt;Optimistic payout in BitVM implementations like Citrea?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;qr-based-signing-flow-payloads-in-miniscript-context&#x2F;2464&quot;&gt;QR-based signing flow payloads in Miniscript context&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;protocol-for-zero-conf-transactions&#x2F;2475&quot;&gt;Protocol for zero-conf transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bnoc&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;&quot;&gt;BNOC&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;t&#x2F;did-the-number-of-reachable-nodes-in-residential-isps-increase-since-bitcoin-core-v30-0&#x2F;122&quot;&gt;Did the number of reachable nodes in residential ISPs increase since Bitcoin Core v30.0?&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;t&#x2F;small-getaddr-responses-from-897-nodes-satoshi-27-0-0-on-as63949&#x2F;121&quot;&gt;Small getaddr responses from 897 nodes (&#x2F;Satoshi:27.0.0&#x2F; on AS63949)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2026&#x2F;812.pdf&quot;&gt;Mosaic: Practical Malicious Security for Garbled Circuits on Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2026&#x2F;065.pdf&quot;&gt;BABE: Verifying Proofs on Bitcoin Made 1000x Cheaper&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2026&#x2F;186.pdf&quot;&gt;Bitcoin PIPEs v2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.google&#x2F;innovation-and-ai&#x2F;technology&#x2F;safety-security&#x2F;cryptography-migration-timeline&#x2F;&quot;&gt;Quantum frontiers may be closer than they appear&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;research.google&#x2F;blog&#x2F;safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly&#x2F;&quot;&gt;Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2026&#x2F;813.pdf&quot;&gt;Practical Post-Quantum Secure Publicly Verifiable Secret Sharing and Applications&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2026&#x2F;855.pdf&quot;&gt;Zinc+: SNARKs for Polynomial Rings&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;2026&#x2F;05&#x2F;05&#x2F;disclose-cve-2024-52911&#x2F;&quot;&gt;CVE-2024-52911 - Script Interpreter Remote Crash&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;litecoin.com&#x2F;news&#x2F;litecoin-mweb-security-incident-postmortem&quot;&gt;Litecoin MWEB Security Incident Postmortem&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;bips&quot;&gt;BIPs&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;iCuq6bFKt5Y&quot;&gt;BIP 054: 64-Byte Transactions and Potential Legitimate Uses&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2134&#x2F;changes&quot;&gt;BIP 352 Update: warn against stopping scan due to wallet policy filtering&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2142&#x2F;changes&quot;&gt;BIP 352 Update: add test vector for edge case - input key intermediate sum zero&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;pythcoiner&#x2F;bips&#x2F;blob&#x2F;1fc70c44f930ec64e008be9159d5739b4cd68934&#x2F;bip-wallet-backup.md&quot;&gt;BIP Draft: Wallet Backup Metadata Format&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;csuwildcat&#x2F;pqc-precommitment-migration&quot;&gt;BIP Draft: PQC Precommitment for Post-Quantum Migration&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;32297&quot;&gt;bitcoin-cli: Add -ipcconnect option&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;35006&quot;&gt;cli, rpc: add -rpcid option for custom request IDs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34911&quot;&gt;rpc, mempool: -deprecatedrpc fullrbf and bip125-replaceable from mempool RPCs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33920&quot;&gt;Export embedded ASMap RPC&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33908&quot;&gt;kernel: add context‑free block validation API (btck_check_block_context_free) with POW&#x2F;Merkle flags&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34401&quot;&gt;kernel: add serialization method for btck_BlockHeader API&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34885&quot;&gt;kernel: expose btck_block_tree_entry_get_ancestor&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;35032&quot;&gt;net_processing: don&#x27;t modify addrman for private broadcast connections&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33477&quot;&gt;Rollback for dumptxoutset without invalidating blocks&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34379&quot;&gt;wallet: fix gethdkeys RPC for descriptors with partial xprvs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;33671&quot;&gt;wallet: Add separate balance info for non-mempool wallet txs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;31.0&#x2F;&quot;&gt;Bitcoin Core 31.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinj&#x2F;bitcoinj&#x2F;releases&#x2F;tag&#x2F;v0.17.1&quot;&gt;bitcoinj v0.17.1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinj&#x2F;secp256k1-jdk&#x2F;blob&#x2F;master&#x2F;CHANGELOG.adoc#v021&quot;&gt;secp256k1-jdk v0.2.1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 69</title>
 		<published>2026-04-02T00:00:00+00:00</published>
@@ -29,7 +141,12 @@
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mainnet.observer&#x2F;charts&#x2F;utxoset-spend-age&#x2F;&quot;&gt;UTXO Spend Age&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoin-data.github.io&#x2F;stale-blocks&#x2F;&quot;&gt;Bitcoin Stale Block Dataset&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoin-data.github.io&#x2F;stale-blocks&#x2F;&quot;&gt;Bitcoin Stale Block Dataset&lt;&#x2F;a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;t&#x2F;two-block-reorg-at-height-941880&#x2F;97&quot;&gt;Two block reorg at heigh 941880&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;t&#x2F;slowish-blocks-on-signet&#x2F;100&quot;&gt;Slowish blocks on signet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;news-tweets-misc&quot;&gt;News, Tweets &amp;amp; Misc&lt;&#x2F;h3&gt;
@@ -37,6 +154,7 @@
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;river.com&#x2F;learn&#x2F;files&#x2F;river-bitcoin-adoption-report-2026.pdf&quot;&gt;River Bitcoin Adoption Report 2026&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;nickslaney&#x2F;status&#x2F;2033956369439609211&quot;&gt;Square Bitcoin terms of service update auto-enrolls eligable sellers&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;BitcoinConner&#x2F;status&#x2F;2037232127457046999&quot;&gt;BPI &amp;amp; industry participants advocate for De Minimus exemption for Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.coinbase.com&#x2F;blog&#x2F;coinbase-powers-the-first-crypto-backed-conforming-mortgages-by-better&quot;&gt;Coinbase Powers the First Crypto-Backed, Conforming Mortgages by Better&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;Chris_Stewart_5&#x2F;status&#x2F;2032538591038177653&quot;&gt;Mara mines their first BIP54 compatible block&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mos.tether.io&#x2F;&quot;&gt;Tether launches MiningOS&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;_jan__b&#x2F;status&#x2F;2031741548098896272&quot;&gt;Bitcoin TUI&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -61,13 +179,12 @@
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;how-wallet-fingerprints-damage-payjoin-privacy&#x2F;2354&quot;&gt;How wallet fingerprints damage Payjoin privacy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;compact-isogeny-pqc-can-replace-hd-wallets-key-tweaking-silent-payments&#x2F;2324&quot;&gt;Compact Isogeny PQC can replace HD wallets, key-tweaking, silent payments&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;bnoc&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&quot;&gt;BNOC&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;t&#x2F;two-block-reorg-at-height-941880&#x2F;97&quot;&gt;Two blog reorg at height 941880&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
 &lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;quantumai.google&#x2F;static&#x2F;site-assets&#x2F;downloads&#x2F;cryptocurrency-whitepaper.pdf&quot;&gt;Securing Elliptic Curve Cryptocurrencies against Quantum Vulnerabilities:
+Resource Estimates and Mitigations&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;html&#x2F;2603.28627v1&quot;&gt;Shor’s algorithm is possible with as few as 10,000 reconfigurable atomic qubits&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;shrimps-2-5-kb-post-quantum-signatures-across-multiple-stateful-devices&#x2F;2355&quot;&gt;SHRIMPS: 2.5 KB post-quantum signatures across multiple stateful devices&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;eprint.iacr.org&#x2F;2026&#x2F;380.pdf&quot;&gt;Lattice HD Wallets: Post-Quantum BIP32 Hierarchical Deterministic Wallets from Lattice Assumptions&lt;&#x2F;a&gt;
 &lt;ul&gt;

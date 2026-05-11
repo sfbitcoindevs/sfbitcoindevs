@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Bitcoin Devs | Socratic Seminar 70
+    </title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Bitcoin Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+        
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Bitcoin Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/sfbitcoindevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sfbitcoindevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sflightningdevs.org" target="_blank">LitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 70</h1>
+<p><strong>2026-05-14</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a rel="external" href="https://www.presidiobitcoin.org/">Presidio Bitcoin</a>, <a rel="external" href="https://pubkey.bar/">Pubkey</a>, and <a rel="external" href="https://bitnomial.com">Bitnomial</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a rel="external" href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers April 2nd to May 10th.</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a rel="external" href="https://dashboard.clarkmoody.com/">Clark Moody Dashboard</a></li>
+<li><a rel="external" href="https://mempool.space/graphs/mempool#1m">Mempool</a></li>
+<li><a rel="external" href="https://mempool.space/graphs/mining/hashrate-difficulty#1y">Hashrate &amp; Difficulty</a></li>
+<li><a rel="external" href="https://mempool.space/graphs/mining/block-fee-rates#1m">Block Fee Rates</a></li>
+<li><a rel="external" href="https://mempool.space/graphs/mining/block-rewards#1m">Block Rewards 1m</a></li>
+<li><a rel="external" href="https://mainnet.observer/charts/utxoset-spend-age/">UTXO Spend Age</a></li>
+</ul>
+<h2 id="discussion">Discussion</h2>
+<h3 id="news-tweets-misc">News, Tweets &amp; Misc</h3>
+<ul>
+<li><a rel="external" href="https://blog.kraken.com/news/payward-acquires-bitnomial">Kraken parent company Payward is acquiring Bitnomial</a></li>
+<li><a rel="external" href="https://x.com/StratumV2/status/2052395730694795274">Stratum V2 Working Group Expansion</a></li>
+<li><a rel="external" href="https://x.com/lightspark/status/2049888918599065885?s=20">Lightspark &lt;-&gt; Visa Partnership</a></li>
+<li><a rel="external" href="https://tether.io/news/tether-investments-proposes-merger-plans-at-twenty-one-capital-to-accelerate-its-strategic-direction/">Tether Investments Proposes Merger Plans at Twenty-One Capital to Accelerate its Strategic Direction</a></li>
+<li><a rel="external" href="https://x.com/faryarshirzad/status/2050325150747484421">CLARITY Act moves forward to markup</a></li>
+</ul>
+<h3 id="blogs">Blogs</h3>
+<ul>
+<li><a rel="external" href="https://b10c.me/observations/16-slow-block-propagation-validation-signet/">BIP-54: Block propagation and validation duration during slow-to-validate blocks on Signet</a>
+<ul>
+<li><a rel="external" href="https://delvingbitcoin.org/t/consensus-cleanup-demo-of-slow-blocks-on-signet/2367">Delving Bitcoin Discussion</a></li>
+</ul>
+</li>
+<li><a rel="external" href="https://lclhost.org/blog/post-quantum-cryptography-group/">Localhost Post-Quantum Cryptography Group</a></li>
+<li><a rel="external" href="https://spiral.xyz/ldkserver.pdf">Introducing LDK Server</a></li>
+<li><a rel="external" href="https://x.com/roasbeef/status/2041940571720487192">Post Quantum Bitcoin: Concepts of a Plan - A zk-STARK Escape Hatch for BIP-32 Wallets</a></li>
+<li><a rel="external" href="https://www.paradigm.xyz/2026/05/pacts-protecting-your-bitcoin-from-a-quantum-sunset">PACTs: Protecting Your Bitcoin From a Quantum Sunset</a></li>
+<li><a rel="external" href="https://x.com/n1ckler/status/2039338319603999036">Estimated transactions per second with different hash-based signature schemes</a></li>
+</ul>
+<h3 id="bitcoin-dev"><a rel="external" href="https://groups.google.com/g/bitcoindev">bitcoin-dev</a></h3>
+<ul>
+<li><a rel="external" href="https://groups.google.com/g/bitcoindev/c/l7AdGAKd1Oo">Formal verification of secp256k1 modular scalar multiplication</a></li>
+<li><a rel="external" href="https://groups.google.com/g/bitcoindev/c/Q06piCEJhkI">Post-Quantum BIP-86 Recovery via zk-STARK Proof of BIP-32 Seed Knowledge</a></li>
+<li><a rel="external" href="https://groups.google.com/g/bitcoindev/c/JA3kDl8AmQg">In defense of a PQ output type</a></li>
+</ul>
+<h3 id="delving-bitcoin"><a rel="external" href="https://delvingbitcoin.org/">Delving Bitcoin</a></h3>
+<ul>
+<li><a rel="external" href="https://delvingbitcoin.org/t/hornet-update-a-declarative-executable-specification-of-consensus-rules/2420">Hornet Update: A declarative executable specification of consensus rules</a></li>
+<li><a rel="external" href="https://delvingbitcoin.org/t/binary-fuse-filters-as-an-alternative-to-bip-158-gcs/2428">Binary Fuse filters as an alternative to BIP 158 GCS</a></li>
+<li><a rel="external" href="https://delvingbitcoin.org/t/optimistic-payout-in-bitvm-implementations-like-citrea/2465">Optimistic payout in BitVM implementations like Citrea?</a></li>
+<li><a rel="external" href="https://delvingbitcoin.org/t/qr-based-signing-flow-payloads-in-miniscript-context/2464">QR-based signing flow payloads in Miniscript context</a></li>
+<li><a rel="external" href="https://delvingbitcoin.org/t/protocol-for-zero-conf-transactions/2475">Protocol for zero-conf transactions</a></li>
+</ul>
+<h3 id="bnoc"><a rel="external" href="https://bnoc.xyz/">BNOC</a></h3>
+<ul>
+<li><a rel="external" href="https://bnoc.xyz/t/did-the-number-of-reachable-nodes-in-residential-isps-increase-since-bitcoin-core-v30-0/122">Did the number of reachable nodes in residential ISPs increase since Bitcoin Core v30.0?</a></li>
+<li><a rel="external" href="https://bnoc.xyz/t/small-getaddr-responses-from-897-nodes-satoshi-27-0-0-on-as63949/121">Small getaddr responses from 897 nodes (/Satoshi:27.0.0/ on AS63949)</a></li>
+</ul>
+<h2 id="cves-and-research">CVEs and Research</h2>
+<h3 id="research">Research</h3>
+<ul>
+<li><a rel="external" href="https://eprint.iacr.org/2026/812.pdf">Mosaic: Practical Malicious Security for Garbled Circuits on Bitcoin</a></li>
+<li><a rel="external" href="https://eprint.iacr.org/2026/065.pdf">BABE: Verifying Proofs on Bitcoin Made 1000x Cheaper</a></li>
+<li><a rel="external" href="https://eprint.iacr.org/2026/186.pdf">Bitcoin PIPEs v2</a></li>
+<li><a rel="external" href="https://blog.google/innovation-and-ai/technology/safety-security/cryptography-migration-timeline/">Quantum frontiers may be closer than they appear</a></li>
+<li><a rel="external" href="https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly/">Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly</a></li>
+<li><a rel="external" href="https://eprint.iacr.org/2026/813.pdf">Practical Post-Quantum Secure Publicly Verifiable Secret Sharing and Applications</a></li>
+<li><a rel="external" href="https://eprint.iacr.org/2026/855.pdf">Zinc+: SNARKs for Polynomial Rings</a></li>
+</ul>
+<h3 id="infosec">InfoSec</h3>
+<ul>
+<li><a rel="external" href="https://bitcoincore.org/en/2026/05/05/disclose-cve-2024-52911/">CVE-2024-52911 - Script Interpreter Remote Crash</a></li>
+<li><a rel="external" href="https://litecoin.com/news/litecoin-mweb-security-incident-postmortem">Litecoin MWEB Security Incident Postmortem</a></li>
+</ul>
+<h2 id="bips">BIPs</h2>
+<ul>
+<li><a rel="external" href="https://groups.google.com/g/bitcoindev/c/iCuq6bFKt5Y">BIP 054: 64-Byte Transactions and Potential Legitimate Uses</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bips/pull/2134/changes">BIP 352 Update: warn against stopping scan due to wallet policy filtering</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bips/pull/2142/changes">BIP 352 Update: add test vector for edge case - input key intermediate sum zero</a></li>
+<li><a rel="external" href="https://github.com/pythcoiner/bips/blob/1fc70c44f930ec64e008be9159d5739b4cd68934/bip-wallet-backup.md">BIP Draft: Wallet Backup Metadata Format</a></li>
+<li><a rel="external" href="https://github.com/csuwildcat/pqc-precommitment-migration">BIP Draft: PQC Precommitment for Post-Quantum Migration</a></li>
+</ul>
+<h2 id="noteworthy-prs">Noteworthy PRs</h2>
+<h3 id="bitcoin-core"><a rel="external" href="https://github.com/bitcoin/bitcoin">Bitcoin Core</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/32297">bitcoin-cli: Add -ipcconnect option</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/35006">cli, rpc: add -rpcid option for custom request IDs</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/34911">rpc, mempool: -deprecatedrpc fullrbf and bip125-replaceable from mempool RPCs</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/33920">Export embedded ASMap RPC</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/33908">kernel: add context‑free block validation API (btck_check_block_context_free) with POW/Merkle flags</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/34401">kernel: add serialization method for btck_BlockHeader API</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/34885">kernel: expose btck_block_tree_entry_get_ancestor</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/35032">net_processing: don't modify addrman for private broadcast connections</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/33477">Rollback for dumptxoutset without invalidating blocks</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/34379">wallet: fix gethdkeys RPC for descriptors with partial xprvs</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/33671">wallet: Add separate balance info for non-mempool wallet txs</a></li>
+</ul>
+<h3 id="releases">Releases</h3>
+<ul>
+<li><a rel="external" href="https://bitcoincore.org/en/releases/31.0/">Bitcoin Core 31.0</a></li>
+<li><a rel="external" href="https://github.com/bitcoinj/bitcoinj/releases/tag/v0.17.1">bitcoinj v0.17.1</a></li>
+<li><a rel="external" href="https://github.com/bitcoinj/secp256k1-jdk/blob/master/CHANGELOG.adoc#v021">secp256k1-jdk v0.2.1</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+      </span>
+    </footer>
+  </body>
+</html>
