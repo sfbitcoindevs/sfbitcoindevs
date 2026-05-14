@@ -28,7 +28,6 @@ Discussion
 
 ### News, Tweets & Misc
 
-- [Kraken parent company Payward is acquiring Bitnomial](https://blog.kraken.com/news/payward-acquires-bitnomial)
 - [Stratum V2 Working Group Expansion](https://x.com/StratumV2/status/2052395730694795274)
 - [Lightspark <-> Visa Partnership](https://x.com/lightspark/status/2049888918599065885?s=20)
 - [Tether Investments Proposes Merger Plans at Twenty-One Capital to Accelerate its Strategic Direction](https://tether.io/news/tether-investments-proposes-merger-plans-at-twenty-one-capital-to-accelerate-its-strategic-direction/)
