@@ -38,6 +38,7 @@ Discussion
 
 - [Bram shares thoughts on bringing gaming functionality to Bitcoin](https://x.com/bramcohen/status/2063316914282410251)
 - [The BRCA survived Clarity’s markup. Do not give it up now.](https://coincenter.org/the-brca-survived-claritys-markup-do-not-give-it-up-now/)
+- [Key Signing Party: Proof of Human at Presidio Bitcoin](https://luma.com/hszmz0dc)
 
 ### Blogs
 
