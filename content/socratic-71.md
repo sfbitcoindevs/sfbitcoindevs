@@ -18,7 +18,7 @@ Presentations
 -------------
 
 - Bram Cohen: [chia-gaming](https://github.com/Chia-Network/chia-gaming)
-- Kyle:
+- Kyle: The Coming Era of Nation State Hash Wars
 
 
 Chain Weather Report
@@ -49,6 +49,7 @@ Discussion
 - [Schnorr, But with Vectors – Lattice-based Signatures Explained](https://blog.blockstream.com/schnorr-but-with-vectors-lattice-based-signatures-explained/)
 - [Bitcoin Core developer meeting transcripts](https://btctranscripts.com/bitcoin-core-dev-tech/2026-05)
 - [Matching Hashes: Reproducing the Guix-built Bitcoin Core release binary with Nix](https://b10c.me/projects/027-bitcoind-gunix-match/)
+- [Bark now on bitcoin mainnet](https://blog.second.tech/bark-now-on-bitcoin-mainnet/)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
@@ -56,7 +57,6 @@ Discussion
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
-- [TCP hole punching for Bitcoin nodes behind home NATs?](https://delvingbitcoin.org/t/tcp-hole-punching-for-bitcoin-nodes-behind-home-nats/2497)
 - [CTV-only Vault Concept v0.1.0 release](https://delvingbitcoin.org/t/ctv-only-vault-concept-v0-1-0-release/2539)
 - [Post Quantum Lightning: Layer by Layer](https://delvingbitcoin.org/t/post-quantum-lightning-layer-by-layer/2479)
 - [Regular signet reorgs](https://delvingbitcoin.org/t/regular-signet-reorgs/2549)
@@ -77,16 +77,19 @@ CVEs and Research
 
 - [Zcash Orchard Counterfitting Vulnerability](https://x.com/zooko/status/2062644925590900980)
 - [Vulnerability Disclosure: Assertion DoS in Core Lightning](https://delvingbitcoin.org/t/vulnerability-disclosure-assertion-dos-in-core-lightning/2507)
+- [We found a stable Firefox identifier linking all your private Tor identities](https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/)
 
 Improvement Proposals
 ---------------------
 
 ### [BIPs](https://github.com/bitcoin/bips/)
 - [BIP Proposal: Prohibit Merkle Internal Node Preimages That Encode Minimal 64-Byte Transactions](https://groups.google.com/g/bitcoindev/c/ZVDEzxG6Sq8)
-- [BIP 322 Updates: Add type prefix, change PoF serialization, PSBT-based signing](https://groups.google.com/g/bitcoindev/c/qd6BNz9gxCk/m/k1fHq4RKAQAJ)
 - [BIP 452: P2P UTXO Set Sharing](https://github.com/bitcoin/bips/pull/2137)
 
-### [BLIPs]((https://github.com/lightning/blips/))
+### [BOLT](https://github.com/lightning/bolts)
+- [extension-bolt: simple taproot channels (feature 80/81)](https://github.com/lightning/bolts/pull/995)
+
+### [BLIPs](https://github.com/lightning/blips/)
 - [BLIP 0042: Bolt 12 Contacts](https://github.com/lightning/blips/pull/42)
 
 Noteworthy PRs
@@ -95,14 +98,19 @@ Noteworthy PRs
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 
 - [coinselection: Optimize BnB exploration](https://github.com/bitcoin/bitcoin/pull/32150)
-- [refactor: disentangle miner startup defaults from runtime options](https://github.com/bitcoin/bitcoin/pull/33966)
+- [Implement BIP 370 PSBTv2](https://github.com/bitcoin/bitcoin/pull/21283)
 - [mining: add submitBlock to IPC Mining interface](https://github.com/bitcoin/bitcoin/pull/34644)
-- [musig: Include pubnonce in session id](https://github.com/bitcoin/bitcoin/pull/35269)
-- [validation: correct lifetime of precomputed tx data](https://github.com/bitcoin/bitcoin/pull/35209)
-- [wallet: fix ancient wallets migration](https://github.com/bitcoin/bitcoin/pull/34198)
+- [net: use the proxy if overriden when doing v2->v1 reconnections][https://github.com/bitcoin/bitcoin/pull/35209](https://github.com/bitcoin/bitcoin/pull/35410)
 
 ### [Bitcoin Inquisition](https://github.com/bitcoin-inquisition/bitcoin/)
 - [BIP446 "OP_TEMPLATEHASH" implementation](https://github.com/bitcoin-inquisition/bitcoin/pull/100)
+
+### [lnd](https://github.com/lightningnetwork/lnd/)
+- [onionmessage+peer: rate-limit incoming onion messages per-peer and globally
+](https://github.com/lightningnetwork/lnd/pull/10713)
+
+### [ldk](https://github.com/lightningdevkit/rust-lightning)
+- [Stop using an introduction node in blinded message paths](https://github.com/lightningdevkit/rust-lightning/pull/4647)
 
 ### Releases
 
