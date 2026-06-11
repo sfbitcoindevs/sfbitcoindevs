@@ -55,7 +55,7 @@
 <h2 id="presentations">Presentations</h2>
 <ul>
 <li>Bram Cohen: <a rel="external" href="https://github.com/Chia-Network/chia-gaming">chia-gaming</a></li>
-<li>Kyle:</li>
+<li>Kyle: The Coming Era of Nation State Hash Wars</li>
 </ul>
 <h2 id="chain-weather-report">Chain Weather Report</h2>
 <ul>
@@ -82,6 +82,7 @@
 <li><a rel="external" href="https://blog.blockstream.com/schnorr-but-with-vectors-lattice-based-signatures-explained/">Schnorr, But with Vectors – Lattice-based Signatures Explained</a></li>
 <li><a rel="external" href="https://btctranscripts.com/bitcoin-core-dev-tech/2026-05">Bitcoin Core developer meeting transcripts</a></li>
 <li><a rel="external" href="https://b10c.me/projects/027-bitcoind-gunix-match/">Matching Hashes: Reproducing the Guix-built Bitcoin Core release binary with Nix</a></li>
+<li><a rel="external" href="https://blog.second.tech/bark-now-on-bitcoin-mainnet/">Bark now on bitcoin mainnet</a></li>
 </ul>
 <h3 id="bitcoin-dev"><a rel="external" href="https://groups.google.com/g/bitcoindev">bitcoin-dev</a></h3>
 <ul>
@@ -89,7 +90,6 @@
 </ul>
 <h3 id="delving-bitcoin"><a rel="external" href="https://delvingbitcoin.org/">Delving Bitcoin</a></h3>
 <ul>
-<li><a rel="external" href="https://delvingbitcoin.org/t/tcp-hole-punching-for-bitcoin-nodes-behind-home-nats/2497">TCP hole punching for Bitcoin nodes behind home NATs?</a></li>
 <li><a rel="external" href="https://delvingbitcoin.org/t/ctv-only-vault-concept-v0-1-0-release/2539">CTV-only Vault Concept v0.1.0 release</a></li>
 <li><a rel="external" href="https://delvingbitcoin.org/t/post-quantum-lightning-layer-by-layer/2479">Post Quantum Lightning: Layer by Layer</a></li>
 <li><a rel="external" href="https://delvingbitcoin.org/t/regular-signet-reorgs/2549">Regular signet reorgs</a></li>
@@ -108,15 +108,19 @@
 <ul>
 <li><a rel="external" href="https://x.com/zooko/status/2062644925590900980">Zcash Orchard Counterfitting Vulnerability</a></li>
 <li><a rel="external" href="https://delvingbitcoin.org/t/vulnerability-disclosure-assertion-dos-in-core-lightning/2507">Vulnerability Disclosure: Assertion DoS in Core Lightning</a></li>
+<li><a rel="external" href="https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/">We found a stable Firefox identifier linking all your private Tor identities</a></li>
 </ul>
 <h2 id="improvement-proposals">Improvement Proposals</h2>
 <h3 id="bips"><a rel="external" href="https://github.com/bitcoin/bips/">BIPs</a></h3>
 <ul>
 <li><a rel="external" href="https://groups.google.com/g/bitcoindev/c/ZVDEzxG6Sq8">BIP Proposal: Prohibit Merkle Internal Node Preimages That Encode Minimal 64-Byte Transactions</a></li>
-<li><a rel="external" href="https://groups.google.com/g/bitcoindev/c/qd6BNz9gxCk/m/k1fHq4RKAQAJ">BIP 322 Updates: Add type prefix, change PoF serialization, PSBT-based signing</a></li>
 <li><a rel="external" href="https://github.com/bitcoin/bips/pull/2137">BIP 452: P2P UTXO Set Sharing</a></li>
 </ul>
-<h3 id="blips"><a href="https://sfbitcoindevs.org/socratic-71/(https://github.com/lightning/blips/)">BLIPs</a></h3>
+<h3 id="bolt"><a rel="external" href="https://github.com/lightning/bolts">BOLT</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/lightning/bolts/pull/995">extension-bolt: simple taproot channels (feature 80/81)</a></li>
+</ul>
+<h3 id="blips"><a rel="external" href="https://github.com/lightning/blips/">BLIPs</a></h3>
 <ul>
 <li><a rel="external" href="https://github.com/lightning/blips/pull/42">BLIP 0042: Bolt 12 Contacts</a></li>
 </ul>
@@ -124,15 +128,22 @@
 <h3 id="bitcoin-core"><a rel="external" href="https://github.com/bitcoin/bitcoin">Bitcoin Core</a></h3>
 <ul>
 <li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/32150">coinselection: Optimize BnB exploration</a></li>
-<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/33966">refactor: disentangle miner startup defaults from runtime options</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/21283">Implement BIP 370 PSBTv2</a></li>
 <li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/34644">mining: add submitBlock to IPC Mining interface</a></li>
-<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/35269">musig: Include pubnonce in session id</a></li>
-<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/35209">validation: correct lifetime of precomputed tx data</a></li>
-<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/34198">wallet: fix ancient wallets migration</a></li>
+<li>[net: use the proxy if overriden when doing v2-&gt;v1 reconnections]<a rel="external" href="https://github.com/bitcoin/bitcoin/pull/35410">https://github.com/bitcoin/bitcoin/pull/35209</a></li>
 </ul>
 <h3 id="bitcoin-inquisition"><a rel="external" href="https://github.com/bitcoin-inquisition/bitcoin/">Bitcoin Inquisition</a></h3>
 <ul>
 <li><a rel="external" href="https://github.com/bitcoin-inquisition/bitcoin/pull/100">BIP446 "OP_TEMPLATEHASH" implementation</a></li>
+</ul>
+<h3 id="lnd"><a rel="external" href="https://github.com/lightningnetwork/lnd/">lnd</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10713">onionmessage+peer: rate-limit incoming onion messages per-peer and globally
+</a></li>
+</ul>
+<h3 id="ldk"><a rel="external" href="https://github.com/lightningdevkit/rust-lightning">ldk</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/lightningdevkit/rust-lightning/pull/4647">Stop using an introduction node in blinded message paths</a></li>
 </ul>
 <h3 id="releases">Releases</h3>
 <ul>
