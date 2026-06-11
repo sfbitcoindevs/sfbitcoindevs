@@ -100,7 +100,7 @@ Noteworthy PRs
 - [coinselection: Optimize BnB exploration](https://github.com/bitcoin/bitcoin/pull/32150)
 - [Implement BIP 370 PSBTv2](https://github.com/bitcoin/bitcoin/pull/21283)
 - [mining: add submitBlock to IPC Mining interface](https://github.com/bitcoin/bitcoin/pull/34644)
-- [net: use the proxy if overriden when doing v2->v1 reconnections][https://github.com/bitcoin/bitcoin/pull/35209](https://github.com/bitcoin/bitcoin/pull/35410)
+- [net: use the proxy if overriden when doing v2->v1 reconnections](https://github.com/bitcoin/bitcoin/pull/35410)
 
 ### [Bitcoin Inquisition](https://github.com/bitcoin-inquisition/bitcoin/)
 - [BIP446 "OP_TEMPLATEHASH" implementation](https://github.com/bitcoin-inquisition/bitcoin/pull/100)
