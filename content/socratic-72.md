@@ -17,6 +17,7 @@ Chain Weather Report
 --------------------
 
 - [Clark Moody Dashboard](https://dashboard.clarkmoody.com/)
+  - [2 new dashboard modules](https://x.com/clarkmoody/status/2073211701999054958)
 - [Mempool](https://mempool.space/graphs/mempool#1m)
 - [Hashrate & Difficulty](https://mempool.space/graphs/mining/hashrate-difficulty#1y)
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
