@@ -4,126 +4,12 @@
 	<link href="https://sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2026-06-11T00:00:00+00:00</updated>
+	<updated>2026-07-09T00:00:00+00:00</updated>
 	<id>https://sfbitcoindevs.org/feed.xml</id>
 	<entry xml:lang="en">
-		<title>Socratic Seminar 71</title>
-		<published>2026-06-11T00:00:00+00:00</published>
-		<updated>2026-06-11T00:00:00+00:00</updated>
-		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-71/" type="text/html"/>
-		<id>https://sfbitcoindevs.org/socratic-71/</id>
-		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;This meetup is generously sponsored by &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;pubkey.bar&#x2F;&quot;&gt;Pubkey&lt;&#x2F;a&gt; and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
-&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
-&lt;li&gt;Socratic Seminars are held under the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
-&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
-&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
-&lt;li&gt;The reading list covers May 11th to June 7th.&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;presentations&quot;&gt;Presentations&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Bram Cohen: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Chia-Network&#x2F;chia-gaming&quot;&gt;chia-gaming&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;Kyle: The Coming Era of Nation State Hash Wars&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;hashrate-difficulty#1y&quot;&gt;Hashrate &amp;amp; Difficulty&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mainnet.observer&#x2F;charts&#x2F;utxoset-spend-age&#x2F;&quot;&gt;UTXO Spend Age&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;news-tweets-misc&quot;&gt;News, Tweets &amp;amp; Misc&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bramcohen&#x2F;status&#x2F;2063316914282410251&quot;&gt;Bram shares thoughts on bringing gaming functionality to Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;coincenter.org&#x2F;the-brca-survived-claritys-markup-do-not-give-it-up-now&#x2F;&quot;&gt;The BRCA survived Clarity’s markup. Do not give it up now.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;luma.com&#x2F;hszmz0dc&quot;&gt;Key Signing Party: Proof of Human at Presidio Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;blogs&quot;&gt;Blogs&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;2140blog.substack.com&#x2F;p&#x2F;our-first-annual-report&quot;&gt;2140: 1st annual report&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;lclhost.org&#x2F;blog&#x2F;mining-unit&#x2F;&quot;&gt;Localhost Mining Unit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;conduition.io&#x2F;bitcoin&#x2F;my-first-grant&#x2F;&quot;&gt;Conduition receives grant from Brink&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;cube-bitcoin&#x2F;introducing-cube-8b3702e470a5&quot;&gt;Introducing Cube&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;schnorr-but-with-vectors-lattice-based-signatures-explained&#x2F;&quot;&gt;Schnorr, But with Vectors – Lattice-based Signatures Explained&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;btctranscripts.com&#x2F;bitcoin-core-dev-tech&#x2F;2026-05&quot;&gt;Bitcoin Core developer meeting transcripts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;projects&#x2F;027-bitcoind-gunix-match&#x2F;&quot;&gt;Matching Hashes: Reproducing the Guix-built Bitcoin Core release binary with Nix&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.second.tech&#x2F;bark-now-on-bitcoin-mainnet&#x2F;&quot;&gt;Bark now on bitcoin mainnet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;n_5WuKVYqwI&#x2F;m&#x2F;lBooLis3AQAJ&quot;&gt;A Post-Quantum Path for BIP 324&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;ctv-only-vault-concept-v0-1-0-release&#x2F;2539&quot;&gt;CTV-only Vault Concept v0.1.0 release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;post-quantum-lightning-layer-by-layer&#x2F;2479&quot;&gt;Post Quantum Lightning: Layer by Layer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;regular-signet-reorgs&#x2F;2549&quot;&gt;Regular signet reorgs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;bnoc&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;&quot;&gt;BNOC&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;t&#x2F;high-cpu-usage-on-knots-node-causing-connections-to-drop&#x2F;137&quot;&gt;High CPU usage on Knots node causing connections to drop&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2606.02235&quot;&gt;Optimized Point Addition Circuits for Elliptic Curve Discrete Logarithms&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;security.apple.com&#x2F;blog&#x2F;formal-verification-corecrypto&#x2F;&quot;&gt;Formally verified post-quantum ML-KEM and ML-DSA in corecrypto&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;zooko&#x2F;status&#x2F;2062644925590900980&quot;&gt;Zcash Orchard Counterfitting Vulnerability&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;vulnerability-disclosure-assertion-dos-in-core-lightning&#x2F;2507&quot;&gt;Vulnerability Disclosure: Assertion DoS in Core Lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;fingerprint.com&#x2F;blog&#x2F;firefox-tor-indexeddb-privacy-vulnerability&#x2F;&quot;&gt;We found a stable Firefox identifier linking all your private Tor identities&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;improvement-proposals&quot;&gt;Improvement Proposals&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;bips&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;&quot;&gt;BIPs&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;ZVDEzxG6Sq8&quot;&gt;BIP Proposal: Prohibit Merkle Internal Node Preimages That Encode Minimal 64-Byte Transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2137&quot;&gt;BIP 452: P2P UTXO Set Sharing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;bolt&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&quot;&gt;BOLT&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;995&quot;&gt;extension-bolt: simple taproot channels (feature 80&#x2F;81)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;blips&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;blips&#x2F;&quot;&gt;BLIPs&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;blips&#x2F;pull&#x2F;42&quot;&gt;BLIP 0042: Bolt 12 Contacts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
-&lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;32150&quot;&gt;coinselection: Optimize BnB exploration&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;21283&quot;&gt;Implement BIP 370 PSBTv2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34644&quot;&gt;mining: add submitBlock to IPC Mining interface&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;35410&quot;&gt;net: use the proxy if overriden when doing v2-&amp;gt;v1 reconnections&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;bitcoin-inquisition&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;&quot;&gt;Bitcoin Inquisition&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;pull&#x2F;100&quot;&gt;BIP446 &quot;OP_TEMPLATEHASH&quot; implementation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;lnd&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;&quot;&gt;lnd&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;10713&quot;&gt;onionmessage+peer: rate-limit incoming onion messages per-peer and globally
-&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;ldk&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&quot;&gt;ldk&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;4647&quot;&gt;Stop using an introduction node in blinded message paths&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-&lt;h3 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;releases&#x2F;tag&#x2F;v26.06&quot;&gt;Core Lightning v26.06&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;&#x2F;ul&gt;
-</content>
-	</entry>
-	<entry xml:lang="en">
-		<title>Socratic Seminar 71</title>
-		<published>2026-06-11T00:00:00+00:00</published>
-		<updated>2026-06-11T00:00:00+00:00</updated>
+		<title>Socratic Seminar 72</title>
+		<published>2026-07-09T00:00:00+00:00</published>
+		<updated>2026-07-09T00:00:00+00:00</updated>
 		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-72/" type="text/html"/>
 		<id>https://sfbitcoindevs.org/socratic-72/</id>
 		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
@@ -242,6 +128,120 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;blob&#x2F;efde623463cf194dda8407271f4dd136d054bc9f&#x2F;doc&#x2F;release-notes.md&quot;&gt;Bitcoin Core v31.1rc1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;WalletWasabi&#x2F;WalletWasabi&#x2F;releases&#x2F;tag&#x2F;v2.8.0&quot;&gt;Wasabi Wallet v2.8.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 71</title>
+		<published>2026-06-11T00:00:00+00:00</published>
+		<updated>2026-06-11T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-71/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-71/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;pubkey.bar&#x2F;&quot;&gt;Pubkey&lt;&#x2F;a&gt; and &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitnomial.com&quot;&gt;Bitnomial&lt;&#x2F;a&gt;.&lt;&#x2F;li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;www.chathamhouse.org&#x2F;about-us&#x2F;chatham-house-rule&quot;&gt;Chatham House Rule&lt;&#x2F;a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;&#x2F;li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;&#x2F;li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;&#x2F;li&gt;
+&lt;li&gt;The reading list covers May 11th to June 7th.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;presentations&quot;&gt;Presentations&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Bram Cohen: &lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Chia-Network&#x2F;chia-gaming&quot;&gt;chia-gaming&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;Kyle: The Coming Era of Nation State Hash Wars&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;dashboard.clarkmoody.com&#x2F;&quot;&gt;Clark Moody Dashboard&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mempool#1m&quot;&gt;Mempool&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;hashrate-difficulty#1y&quot;&gt;Hashrate &amp;amp; Difficulty&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mempool.space&#x2F;graphs&#x2F;mining&#x2F;block-rewards#1m&quot;&gt;Block Rewards 1m&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;mainnet.observer&#x2F;charts&#x2F;utxoset-spend-age&#x2F;&quot;&gt;UTXO Spend Age&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;news-tweets-misc&quot;&gt;News, Tweets &amp;amp; Misc&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;bramcohen&#x2F;status&#x2F;2063316914282410251&quot;&gt;Bram shares thoughts on bringing gaming functionality to Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;coincenter.org&#x2F;the-brca-survived-claritys-markup-do-not-give-it-up-now&#x2F;&quot;&gt;The BRCA survived Clarity’s markup. Do not give it up now.&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;luma.com&#x2F;hszmz0dc&quot;&gt;Key Signing Party: Proof of Human at Presidio Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;blogs&quot;&gt;Blogs&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;2140blog.substack.com&#x2F;p&#x2F;our-first-annual-report&quot;&gt;2140: 1st annual report&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;lclhost.org&#x2F;blog&#x2F;mining-unit&#x2F;&quot;&gt;Localhost Mining Unit&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;conduition.io&#x2F;bitcoin&#x2F;my-first-grant&#x2F;&quot;&gt;Conduition receives grant from Brink&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;medium.com&#x2F;cube-bitcoin&#x2F;introducing-cube-8b3702e470a5&quot;&gt;Introducing Cube&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.blockstream.com&#x2F;schnorr-but-with-vectors-lattice-based-signatures-explained&#x2F;&quot;&gt;Schnorr, But with Vectors – Lattice-based Signatures Explained&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;btctranscripts.com&#x2F;bitcoin-core-dev-tech&#x2F;2026-05&quot;&gt;Bitcoin Core developer meeting transcripts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;b10c.me&#x2F;projects&#x2F;027-bitcoind-gunix-match&#x2F;&quot;&gt;Matching Hashes: Reproducing the Guix-built Bitcoin Core release binary with Nix&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.second.tech&#x2F;bark-now-on-bitcoin-mainnet&#x2F;&quot;&gt;Bark now on bitcoin mainnet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;n_5WuKVYqwI&#x2F;m&#x2F;lBooLis3AQAJ&quot;&gt;A Post-Quantum Path for BIP 324&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;ctv-only-vault-concept-v0-1-0-release&#x2F;2539&quot;&gt;CTV-only Vault Concept v0.1.0 release&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;post-quantum-lightning-layer-by-layer&#x2F;2479&quot;&gt;Post Quantum Lightning: Layer by Layer&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;regular-signet-reorgs&#x2F;2549&quot;&gt;Regular signet reorgs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bnoc&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;&quot;&gt;BNOC&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bnoc.xyz&#x2F;t&#x2F;high-cpu-usage-on-knots-node-causing-connections-to-drop&#x2F;137&quot;&gt;High CPU usage on Knots node causing connections to drop&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2606.02235&quot;&gt;Optimized Point Addition Circuits for Elliptic Curve Discrete Logarithms&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;security.apple.com&#x2F;blog&#x2F;formal-verification-corecrypto&#x2F;&quot;&gt;Formally verified post-quantum ML-KEM and ML-DSA in corecrypto&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;zooko&#x2F;status&#x2F;2062644925590900980&quot;&gt;Zcash Orchard Counterfitting Vulnerability&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;vulnerability-disclosure-assertion-dos-in-core-lightning&#x2F;2507&quot;&gt;Vulnerability Disclosure: Assertion DoS in Core Lightning&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;fingerprint.com&#x2F;blog&#x2F;firefox-tor-indexeddb-privacy-vulnerability&#x2F;&quot;&gt;We found a stable Firefox identifier linking all your private Tor identities&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;improvement-proposals&quot;&gt;Improvement Proposals&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bips&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;&quot;&gt;BIPs&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;ZVDEzxG6Sq8&quot;&gt;BIP Proposal: Prohibit Merkle Internal Node Preimages That Encode Minimal 64-Byte Transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2137&quot;&gt;BIP 452: P2P UTXO Set Sharing&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bolt&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&quot;&gt;BOLT&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;bolts&#x2F;pull&#x2F;995&quot;&gt;extension-bolt: simple taproot channels (feature 80&#x2F;81)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;blips&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;blips&#x2F;&quot;&gt;BLIPs&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightning&#x2F;blips&#x2F;pull&#x2F;42&quot;&gt;BLIP 0042: Bolt 12 Contacts&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;32150&quot;&gt;coinselection: Optimize BnB exploration&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;21283&quot;&gt;Implement BIP 370 PSBTv2&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;34644&quot;&gt;mining: add submitBlock to IPC Mining interface&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&#x2F;pull&#x2F;35410&quot;&gt;net: use the proxy if overriden when doing v2-&amp;gt;v1 reconnections&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;bitcoin-inquisition&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;&quot;&gt;Bitcoin Inquisition&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;pull&#x2F;100&quot;&gt;BIP446 &quot;OP_TEMPLATEHASH&quot; implementation&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;lnd&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;&quot;&gt;lnd&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;10713&quot;&gt;onionmessage+peer: rate-limit incoming onion messages per-peer and globally
+&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;ldk&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&quot;&gt;ldk&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&#x2F;pull&#x2F;4647&quot;&gt;Stop using an introduction node in blinded message paths&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;releases&quot;&gt;Releases&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;ElementsProject&#x2F;lightning&#x2F;releases&#x2F;tag&#x2F;v26.06&quot;&gt;Core Lightning v26.06&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
