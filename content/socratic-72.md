@@ -1,6 +1,6 @@
 +++
-title = "Socratic Seminar 71"
-date = 2026-06-11
+title = "Socratic Seminar 72"
+date = 2026-07-09
 +++
 
 Housekeeping
