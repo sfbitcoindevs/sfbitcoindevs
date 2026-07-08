@@ -46,24 +46,17 @@
 &lt;h3 id=&quot;blogs&quot;&gt;Blogs&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;remix7531.com&#x2F;post&#x2F;slh-dsa-stark-bench&#x2F;&quot;&gt;Benchmarking SLH-DSA Aggregation with STARKs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;murch.one&#x2F;posts&#x2F;replay-protection&#x2F;&quot;&gt;On the Lack of Replay Protection&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.lopp.net&#x2F;reflections-upon-bitcoins-block-size-debate&#x2F;&quot;&gt;Reflections Upon Bitcoin&#x27;s Block Size Debate&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&quot;&gt;bitcoin-dev&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;aWYtPLVPZ3U&quot;&gt;Giving teeth to expected EC disabling: P2XX(-T)(-ML)&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;OIml9stwbGQ&quot;&gt;btc-verified: formalizing the Bitcoin protocol&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;S4jM2mpMrbU&quot;&gt;Accountable Computing On-Chain Contracts for AI Agents Supervision&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;Rwo7P5pTA0c&quot;&gt;Proposal discussion: BIP39 native-language display wordlists&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;&quot;&gt;Delving Bitcoin&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;bird-of-prey-2-non-malleable-schnorr-pq-signatures&#x2F;2514&quot;&gt;Bird of Prey 2: non-malleable Schnorr + PQ signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;a-faster-go-golang-secp256k1-library&#x2F;2658&quot;&gt;A faster Go (golang) secp256k1 library&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;roast-our-real-time-bitcoin-explorer-built-for-everyday-bitcoin-users&#x2F;2654&quot;&gt;Roast our real-time Bitcoin explorer built for everyday Bitcoin users&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;proof-of-work-based-signet-faucet&#x2F;937&quot;&gt;Proof-of-work based signet faucet&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;a-bitcoin-native-llm-dataset-architecture-and-open-questions&#x2F;2550&quot;&gt;A Bitcoin-native LLM: dataset, architecture and open questions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;addressing-the-diminishing-block-subsidy&#x2F;2640&quot;&gt;Addressing the Diminishing Block Subsidy&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;emulating-op-rand&#x2F;1409&quot;&gt;Emulating OP_RAND&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;empirical-ml-dsa-87-data-from-a-live-sha-256-pow-chain-relevant-to-bip-360-witness-v3-sizing-discussion&#x2F;2682&quot;&gt;Empirical ML-DSA-87 data from a live SHA-256 PoW chain&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;input-triggered-transaction-expiry&#x2F;2667&quot;&gt;Input-triggered transaction expiry&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
@@ -76,7 +69,8 @@
 &lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;research&quot;&gt;Research&lt;&#x2F;h3&gt;
 &lt;ul&gt;
-&lt;li&gt;N&#x2F;A&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2606.21845&quot;&gt;HOWLR: A Client-Driven Approach to BGP Hijack Detection
+&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;&#x2F;h3&gt;
 &lt;ul&gt;
@@ -87,8 +81,6 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2196&quot;&gt;BIP 95: testnet5&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2201&quot;&gt;BIP 110: advance to Complete status&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2198&quot;&gt;BIP 360: depth-zero script trees should be anyone-can-spend&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
-&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;C7zNIk8llew&#x2F;m&#x2F;YAdpwe33AgAJ&quot;&gt;BIP Proposal: Removal of BIP 125 RBF signalling in wallet transactions&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;&#x2F;h2&gt;
 &lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bitcoin&quot;&gt;Bitcoin Core&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
@@ -110,6 +102,7 @@
 &lt;h3 id=&quot;lnd&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;&quot;&gt;lnd&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;10789&quot;&gt;bolt12+lnwire: add codec foundation with Offer message&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningnetwork&#x2F;lnd&#x2F;pull&#x2F;10900&quot;&gt;lnwallet+walletrpc: add WalletKit.SubmitPackage for v3 CPFP package relay&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h3 id=&quot;ldk&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;lightningdevkit&#x2F;rust-lightning&quot;&gt;ldk&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
