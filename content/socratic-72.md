@@ -38,24 +38,17 @@ Discussion
 ### Blogs
 
 - [Benchmarking SLH-DSA Aggregation with STARKs](https://remix7531.com/post/slh-dsa-stark-bench/)
+- [On the Lack of Replay Protection](https://murch.one/posts/replay-protection/)
 - [Reflections Upon Bitcoin's Block Size Debate](https://blog.lopp.net/reflections-upon-bitcoins-block-size-debate/)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
 - [Giving teeth to expected EC disabling: P2XX(-T)(-ML)](https://groups.google.com/g/bitcoindev/c/aWYtPLVPZ3U)
 - [btc-verified: formalizing the Bitcoin protocol](https://groups.google.com/g/bitcoindev/c/OIml9stwbGQ)
-- [Accountable Computing On-Chain Contracts for AI Agents Supervision](https://groups.google.com/g/bitcoindev/c/S4jM2mpMrbU)
-- [Proposal discussion: BIP39 native-language display wordlists](https://groups.google.com/g/bitcoindev/c/Rwo7P5pTA0c)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
 - [Bird of Prey 2: non-malleable Schnorr + PQ signatures](https://delvingbitcoin.org/t/bird-of-prey-2-non-malleable-schnorr-pq-signatures/2514)
-- [A faster Go (golang) secp256k1 library](https://delvingbitcoin.org/t/a-faster-go-golang-secp256k1-library/2658)
-- [Roast our real-time Bitcoin explorer built for everyday Bitcoin users](https://delvingbitcoin.org/t/roast-our-real-time-bitcoin-explorer-built-for-everyday-bitcoin-users/2654)
-- [Proof-of-work based signet faucet](https://delvingbitcoin.org/t/proof-of-work-based-signet-faucet/937)
-- [A Bitcoin-native LLM: dataset, architecture and open questions](https://delvingbitcoin.org/t/a-bitcoin-native-llm-dataset-architecture-and-open-questions/2550)
-- [Addressing the Diminishing Block Subsidy](https://delvingbitcoin.org/t/addressing-the-diminishing-block-subsidy/2640)
-- [Emulating OP_RAND](https://delvingbitcoin.org/t/emulating-op-rand/1409)
 - [Empirical ML-DSA-87 data from a live SHA-256 PoW chain](https://delvingbitcoin.org/t/empirical-ml-dsa-87-data-from-a-live-sha-256-pow-chain-relevant-to-bip-360-witness-v3-sizing-discussion/2682)
 - [Input-triggered transaction expiry](https://delvingbitcoin.org/t/input-triggered-transaction-expiry/2667)
 
@@ -70,7 +63,8 @@ CVEs and Research
 
 ### Research
 
-- N/A
+- [HOWLR: A Client-Driven Approach to BGP Hijack Detection
+](https://arxiv.org/abs/2606.21845)
 
 ### InfoSec
 
@@ -82,8 +76,6 @@ Improvement Proposals
 ### [BIPs](https://github.com/bitcoin/bips/)
 - [BIP 95: testnet5](https://github.com/bitcoin/bips/pull/2196)
 - [BIP 110: advance to Complete status](https://github.com/bitcoin/bips/pull/2201)
-- [BIP 360: depth-zero script trees should be anyone-can-spend](https://github.com/bitcoin/bips/pull/2198)
-- [BIP Proposal: Removal of BIP 125 RBF signalling in wallet transactions](https://groups.google.com/g/bitcoindev/c/C7zNIk8llew/m/YAdpwe33AgAJ)
 
 Noteworthy PRs
 --------------
@@ -105,6 +97,7 @@ Noteworthy PRs
 
 ### [lnd](https://github.com/lightningnetwork/lnd/)
 - [bolt12+lnwire: add codec foundation with Offer message](https://github.com/lightningnetwork/lnd/pull/10789)
+- [lnwallet+walletrpc: add WalletKit.SubmitPackage for v3 CPFP package relay](https://github.com/lightningnetwork/lnd/pull/10900)
 
 ### [ldk](https://github.com/lightningdevkit/rust-lightning)
 - [Stop using an introduction node in blinded message paths](https://github.com/lightningdevkit/rust-lightning/pull/4647)
