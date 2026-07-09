@@ -23,6 +23,8 @@ Chain Weather Report
 - [Block Fee Rates](https://mempool.space/graphs/mining/block-fee-rates#1m)
 - [Block Rewards 1m](https://mempool.space/graphs/mining/block-rewards#1m)
 - [UTXO Spend Age](https://mainnet.observer/charts/utxoset-spend-age/)
+- [DMND SV2 pool finds first block](https://x.com/pavlenex/status/2070132430875267538)
+- [Merge Mining Monitor](https://x.com/ozdeadman/status/2072562715118473253)
 
 Discussion
 ----------
@@ -69,6 +71,7 @@ CVEs and Research
 ### InfoSec
 
 - [LND: Zero-Timestamp Gossip DoS disclosure](https://delvingbitcoin.org/t/lnd-zero-timestamp-gossip-dos-disclosure/2621)
+- [Bisq halts trading on v1](https://x.com/bisq_network/status/2072277882370666957)
 
 Improvement Proposals
 ---------------------
