@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<!-- The Times 03/Jan/2009 Chancellor on brink of second bailout for banks -->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>
+      SF Bitcoin Devs | Socratic Seminar 73
+    </title>
+    <meta name="description" content="Website for the San Francisco Bitcoin Developer Meetup.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="SF Bitcoin Devs">
+    <link rel="alternate" type="application/atom+xml" title="Atom Feed" href="/feed.xml">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+        
+    <style>
+      header {
+        text-align: center;
+      }
+
+      h1 {
+        font-size: 1.75rem; /* Adjust the font size as needed */
+      }
+
+      nav a {
+        display: inline-block; /* Allow links to wrap to the next line as a whole */
+        margin-right: 10px; /* Add some spacing between links */
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1><a href="/">SF Bitcoin Devs</a></h1>
+      <nav>
+        <a href="https://www.meetup.com/SF-Bitcoin-Devs/" target="_blank">Meetup</a>
+        <a href="https://twitter.com/sfbitcoindevs" target="_blank">Twitter</a>
+        <a href="https://github.com/sfbitcoindevs/sfbitcoindevs" target="_blank">GitHub</a>
+        <a href="/feed.xml">RSS</a>
+        <a href="https://sflightningdevs.org" target="_blank">LitDevs</a>
+      </nav>
+    </header>
+    <hr>
+    <article>
+      
+<h1>Socratic Seminar 73</h1>
+<p><strong>2026-08-06</strong></p>
+<h2 id="housekeeping">Housekeeping</h2>
+<ul>
+<li>This meetup is generously sponsored by <a rel="external" href="https://pubkey.bar/">Pubkey</a> and <a rel="external" href="https://bitnomial.com">Bitnomial</a>.</li>
+<li>Questions are encouraged, including basic ones!</li>
+<li>Socratic Seminars are held under the <a rel="external" href="https://www.chathamhouse.org/about-us/chatham-house-rule">Chatham House Rule</a>: share the information you receive, but do not reveal the identity of who said it.</li>
+<li>For the privacy of other attendees, please refrain from taking photographs of other people without their permission.</li>
+<li>Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.</li>
+<li>The reading list covers July 6th to August 2nd.</li>
+</ul>
+<h2 id="chain-weather-report">Chain Weather Report</h2>
+<ul>
+<li><a rel="external" href="https://dashboard.clarkmoody.com/">Clark Moody Dashboard</a></li>
+<li><a rel="external" href="https://mempool.space/graphs/mempool#1m">Mempool</a></li>
+<li><a rel="external" href="https://mempool.space/graphs/mining/hashrate-difficulty#1y">Hashrate &amp; Difficulty</a></li>
+<li><a rel="external" href="https://mempool.space/graphs/mining/block-fee-rates#1m">Block Fee Rates</a></li>
+<li><a rel="external" href="https://mempool.space/graphs/mining/block-rewards#1m">Block Rewards 1m</a></li>
+<li><a rel="external" href="https://mainnet.observer/charts/utxoset-spend-age/">UTXO Spend Age</a></li>
+</ul>
+<h2 id="discussion">Discussion</h2>
+<h3 id="news-tweets-misc">News, Tweets &amp; Misc</h3>
+<ul>
+<li><a rel="external" href="https://x.com/BTCconsortium/status/2080262540047585543">Bitcoin Security Consortium Announced</a></li>
+<li><a rel="external" href="https://lightning.engineering/posts/2026-07-21-wavelength-launch/">Announcing Wavelength: Bitcoin on Easy Mode for Agents and Humans</a></li>
+<li><a rel="external" href="https://x.com/BitMEX/status/2080201602456301580">BitMEX Announces Shutdown</a></li>
+<li><a rel="external" href="https://www.bitmart.com/en-US/support/articles/7922665245339/39162120325403/53544595916059">BitMart Announces Shutdown</a></li>
+<li><a rel="external" href="https://x.com/L0RINC/status/2065914808700936694">OP_RETURN usage before and after Bitcoin Core v30</a></li>
+</ul>
+<h3 id="blogs">Blogs</h3>
+<ul>
+<li>N/A</li>
+</ul>
+<h3 id="bitcoin-dev"><a rel="external" href="https://groups.google.com/g/bitcoindev">bitcoin-dev</a></h3>
+<ul>
+<li><a rel="external" href="https://groups.google.com/g/bitcoindev/c/dhhZjsPHf5A">new backbone code release with bitcoind python test framework integration</a></li>
+<li><a rel="external" href="https://groups.google.com/g/bitcoindev/c/DEfcMWSdQRY">The game-theory problems of PQ sunsetting modes</a></li>
+</ul>
+<h3 id="delving-bitcoin"><a rel="external" href="https://delvingbitcoin.org/">Delving Bitcoin</a></h3>
+<ul>
+<li><a rel="external" href="https://delvingbitcoin.org/t/pqc-output-type-discussion/2749">PQC output type discussion</a></li>
+<li><a rel="external" href="https://delvingbitcoin.org/t/fountain-codes-a-way-to-reduce-blockchain-storage-costs/2624">Fountain Codes: a way to reduce blockchain storage costs</a></li>
+<li><a rel="external" href="https://delvingbitcoin.org/t/transaction-rate-limiting/2744">Transaction rate-limiting</a>
+<ul>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/34628">Core PR #34628</a></li>
+</ul>
+</li>
+<li><a rel="external" href="https://delvingbitcoin.org/t/vulnerability-disclosure-twin-memory-exhaustion-dos-vulnerabilities-in-core-lightning/2731">Vulnerability Disclosure: Twin Memory Exhaustion DoS Vulnerabilities in Core Lightning</a></li>
+<li><a rel="external" href="https://delvingbitcoin.org/t/zkpoh-zero-knowledge-proof-of-hodl/2699">zkPoH: Zero-Knowledge Proof-of-Hodl</a></li>
+</ul>
+<h3 id="bnoc"><a rel="external" href="https://bnoc.xyz/">BNOC</a></h3>
+<ul>
+<li><a rel="external" href="https://bnoc.xyz/t/live-bitcoin-dns-seeders-and-crawler-datasets/153">Live Bitcoin DNS seeders and crawler datasets</a></li>
+<li><a rel="external" href="https://bnoc.xyz/t/unreachable-addresses-in-bitcoin-getaddr-responses/155">Unreachable addresses in Bitcoin GETADDR responses</a></li>
+</ul>
+<h2 id="cves-and-research">CVEs and Research</h2>
+<h3 id="research">Research</h3>
+<ul>
+<li><a rel="external" href="https://x.com/roasbeef/status/2083297071533277501?s=20">PQ Threshold Signatures for Bitcoin</a></li>
+<li><a rel="external" href="https://eprint.iacr.org/2026/065.pdf">BABE: Verifying Proofs on Bitcoin Made 1000x Cheaper</a></li>
+<li><a rel="external" href="https://eprint.iacr.org/2026/476.pdf">Duty-Free Bits: Projectivizing Garbling Schemes</a></li>
+<li><a rel="external" href="https://eprint.iacr.org/2026/175.pdf">Implementable Witness Encryption</a></li>
+<li><a rel="external" href="https://eprint.iacr.org/2026/1329.pdf">Flock: Fast Proving for Batch Boolean Computations</a></li>
+</ul>
+<h3 id="infosec">InfoSec</h3>
+<ul>
+<li><a rel="external" href="https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/">COLDCARD Security Advisory</a></li>
+<li><a rel="external" href="https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware">Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware</a></li>
+<li><a rel="external" href="https://x.com/roasbeef/status/2083265977048059988">Button Mashing Entropy for COLDCARD</a></li>
+</ul>
+<h2 id="improvement-proposals">Improvement Proposals</h2>
+<h3 id="bips"><a rel="external" href="https://github.com/bitcoin/bips/">BIPs</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/pseudoramdom/bips/blob/staletip-bip-draft/bip-staletip.md">BIP proposal: Stale Tip Relay</a></li>
+<li><a rel="external" href="https://groups.google.com/g/bitcoindev/c/TF5mPfy58RQ/m/vAk1Mfg2AwAJ">BIP draft: Full-Aggregation of BIP 340 Signatures</a></li>
+<li><a rel="external" href="https://delvingbitcoin.org/t/changes-to-bip-360-pay-to-quantum-resistant-hash-p2qrh/1811">BIP 360 Updates</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bips/pull/2204">BIP 440 &amp; BIP 441 Updates</a></li>
+</ul>
+<h3 id="bolts"><a rel="external" href="https://github.com/lightning/bolts">BOLTs</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/lightning/bolts/pull/1346">BOLT 12: payer proofs</a></li>
+</ul>
+<h2 id="noteworthy-prs">Noteworthy PRs</h2>
+<h3 id="bitcoin-core"><a rel="external" href="https://github.com/bitcoin/bitcoin">Bitcoin Core</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/35215">coins: use SipHash-1-3-UJ for CCoinsMap keys</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/34020">mining: add getTransactions(ByWitnessID) IPC methods</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/32606">p2p: Drop unsolicited CMPCTBLOCK from non-HB peer and when blocksonly</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/35766">p2p: Assume v2transport for addresses from seeds</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/28463">p2p: Increase inbound capacity for block-relay only connections</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/34683">rpc: support a formal description of our JSON-RPC interface</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/32800">rpc: Distinguish between vsize and sigop adjusted mempool vsize</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/33014">rpc: Fix internal bug in descriptorprocesspsbt when encountering invalid signatures</a></li>
+<li><a rel="external" href="https://github.com/bitcoin/bitcoin/pull/32489">wallet: Add exportwatchonlywallet RPC to export a watchonly version of a wallet</a></li>
+</ul>
+<h3 id="bitcoin-inquisition"><a rel="external" href="https://github.com/bitcoin-inquisition/bitcoin/">Bitcoin Inquisition</a></h3>
+<ul>
+<li>N/A</li>
+</ul>
+<h3 id="lnd"><a rel="external" href="https://github.com/lightningnetwork/lnd/">lnd</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/lightningnetwork/lnd/pull/10832">bolt12: add InvoiceRequest codec and structural validators</a></li>
+</ul>
+<h3 id="ldk"><a rel="external" href="https://git.rust-bitcoin.org/lightningdevkit/rust-lightning">ldk</a></h3>
+<ul>
+<li><a rel="external" href="https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/4812">bolt12-partial-mpp-payment</a></li>
+</ul>
+<h3 id="rust-bitcoin"><a rel="external" href="https://github.com/rust-bitcoin/rust-bitcoin">rust-bitcoin</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/rust-bitcoin/rust-bitcoin/pull/6317">Make sendcmpt idempotent</a></li>
+</ul>
+<h3 id="secp256k1"><a rel="external" href="https://github.com/bitcoin-core/secp256k1/">secp256k1</a></h3>
+<ul>
+<li><a rel="external" href="https://github.com/bitcoin-core/secp256k1/pull/1765">Add "silentpayments" module implementing BIP352 (take 4, limited to full-node scanning)</a></li>
+</ul>
+<h3 id="releases">Releases</h3>
+<ul>
+<li><a rel="external" href="https://bitcoincore.org/en/releases/31.1/">Bitcoin Core 31.1</a></li>
+<li><a rel="external" href="https://bitcoincore.org/en/releases/30.3/">Bitcoin Core 30.3</a></li>
+<li><a rel="external" href="https://bitcoincore.org/en/releases/29.4/">Bitcoin Core 29.4</a></li>
+<li><a rel="external" href="https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v29.4-inq">Bitcoin Inquisition 29.4</a></li>
+</ul>
+
+
+    </article>
+    <hr>
+    <footer>
+      <span>
+      </span>
+    </footer>
+  </body>
+</html>
