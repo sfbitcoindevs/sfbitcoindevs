@@ -86,7 +86,7 @@ Improvement Proposals
 - [BIP Proposal: Prohibit Merkle Internal Node Preimages That Encode Minimal 64-Byte Transactions](https://groups.google.com/g/bitcoindev/c/ZVDEzxG6Sq8)
 - [BIP 452: P2P UTXO Set Sharing](https://github.com/bitcoin/bips/pull/2137)
 
-### [BOLT](https://github.com/lightning/bolts)
+### [BOLTs](https://github.com/lightning/bolts)
 - [extension-bolt: simple taproot channels (feature 80/81)](https://github.com/lightning/bolts/pull/995)
 
 ### [BLIPs](https://github.com/lightning/blips/)

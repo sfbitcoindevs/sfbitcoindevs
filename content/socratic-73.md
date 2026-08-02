@@ -36,39 +36,56 @@ Discussion
 
 ### Blogs
 
-- To do
+- N/A
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
 - [new backbone code release with bitcoind python test framework integration](https://groups.google.com/g/bitcoindev/c/dhhZjsPHf5A)
-- To do
+- [The game-theory problems of PQ sunsetting modes](https://groups.google.com/g/bitcoindev/c/DEfcMWSdQRY)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
+- [PQC output type discussion](https://delvingbitcoin.org/t/pqc-output-type-discussion/2749)
 - [Fountain Codes: a way to reduce blockchain storage costs](https://delvingbitcoin.org/t/fountain-codes-a-way-to-reduce-blockchain-storage-costs/2624)
-- To do
+- [Transaction rate-limiting](https://delvingbitcoin.org/t/transaction-rate-limiting/2744)
+    - [Core PR #34628](https://github.com/bitcoin/bitcoin/pull/34628)
+- [Vulnerability Disclosure: Twin Memory Exhaustion DoS Vulnerabilities in Core Lightning](https://delvingbitcoin.org/t/vulnerability-disclosure-twin-memory-exhaustion-dos-vulnerabilities-in-core-lightning/2731)
+- [zkPoH: Zero-Knowledge Proof-of-Hodl](https://delvingbitcoin.org/t/zkpoh-zero-knowledge-proof-of-hodl/2699)
 
 ### [BNOC](https://bnoc.xyz/)
 
-- To do
+- [Live Bitcoin DNS seeders and crawler datasets](https://bnoc.xyz/t/live-bitcoin-dns-seeders-and-crawler-datasets/153)
+- [Unreachable addresses in Bitcoin GETADDR responses](https://bnoc.xyz/t/unreachable-addresses-in-bitcoin-getaddr-responses/155)
 
 CVEs and Research
 -----------------
 
 ### Research
 
-- To do
+- [PQ Threshold Signatures for Bitcoin](https://x.com/roasbeef/status/2083297071533277501?s=20)
+- [BABE: Verifying Proofs on Bitcoin Made 1000x Cheaper](https://eprint.iacr.org/2026/065.pdf)
+- [Duty-Free Bits: Projectivizing Garbling Schemes](https://eprint.iacr.org/2026/476.pdf)
+- [Implementable Witness Encryption](https://eprint.iacr.org/2026/175.pdf)
+- [Flock: Fast Proving for Batch Boolean Computations](https://eprint.iacr.org/2026/1329.pdf)
 
 ### InfoSec
 
-- To do
+- [COLDCARD Security Advisory](https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/)
+- [Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware)
+- [Button Mashing Entropy for COLDCARD](https://x.com/roasbeef/status/2083265977048059988)
 
 Improvement Proposals
 ---------------------
 
 ### [BIPs](https://github.com/bitcoin/bips/)
+
+- [BIP proposal: Stale Tip Relay](https://github.com/pseudoramdom/bips/blob/staletip-bip-draft/bip-staletip.md)
 - [BIP draft: Full-Aggregation of BIP 340 Signatures](https://groups.google.com/g/bitcoindev/c/TF5mPfy58RQ/m/vAk1Mfg2AwAJ)
+- [BIP 360 Updates](https://delvingbitcoin.org/t/changes-to-bip-360-pay-to-quantum-resistant-hash-p2qrh/1811)
 - [BIP 440 & BIP 441 Updates](https://github.com/bitcoin/bips/pull/2204)
+
+### [BOLTs](https://github.com/lightning/bolts)
+- [BOLT 12: payer proofs](https://github.com/lightning/bolts/pull/1346)
 
 Noteworthy PRs
 --------------
@@ -79,17 +96,21 @@ Noteworthy PRs
 - [mining: add getTransactions(ByWitnessID) IPC methods](https://github.com/bitcoin/bitcoin/pull/34020)
 - [p2p: Drop unsolicited CMPCTBLOCK from non-HB peer and when blocksonly](https://github.com/bitcoin/bitcoin/pull/32606)
 - [p2p: Assume v2transport for addresses from seeds](https://github.com/bitcoin/bitcoin/pull/35766)
+- [p2p: Increase inbound capacity for block-relay only connections](https://github.com/bitcoin/bitcoin/pull/28463)
 - [rpc: support a formal description of our JSON-RPC interface](https://github.com/bitcoin/bitcoin/pull/34683)
+- [rpc: Distinguish between vsize and sigop adjusted mempool vsize](https://github.com/bitcoin/bitcoin/pull/32800)
+- [rpc: Fix internal bug in descriptorprocesspsbt when encountering invalid signatures](https://github.com/bitcoin/bitcoin/pull/33014)
 - [wallet: Add exportwatchonlywallet RPC to export a watchonly version of a wallet](https://github.com/bitcoin/bitcoin/pull/32489)
 
+
 ### [Bitcoin Inquisition](https://github.com/bitcoin-inquisition/bitcoin/)
-- To do
+- N/A
 
 ### [lnd](https://github.com/lightningnetwork/lnd/)
 - [bolt12: add InvoiceRequest codec and structural validators](https://github.com/lightningnetwork/lnd/pull/10832)
 
-### [ldk](https://github.com/lightningdevkit/rust-lightning)
-- To do
+### [ldk](https://git.rust-bitcoin.org/lightningdevkit/rust-lightning)
+- [bolt12-partial-mpp-payment](https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/4812)
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [Make sendcmpt idempotent](https://github.com/rust-bitcoin/rust-bitcoin/pull/6317)
