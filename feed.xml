@@ -84,6 +84,7 @@
 &lt;h3 id=&quot;bips&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;&quot;&gt;BIPs&lt;&#x2F;a&gt;&lt;&#x2F;h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;pseudoramdom&#x2F;bips&#x2F;blob&#x2F;staletip-bip-draft&#x2F;bip-staletip.md&quot;&gt;BIP proposal: Stale Tip Relay&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2224&quot;&gt;BIP draft: Low-R Grinding for ECDSA Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;groups.google.com&#x2F;g&#x2F;bitcoindev&#x2F;c&#x2F;TF5mPfy58RQ&#x2F;m&#x2F;vAk1Mfg2AwAJ&quot;&gt;BIP draft: Full-Aggregation of BIP 340 Signatures&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;delvingbitcoin.org&#x2F;t&#x2F;changes-to-bip-360-pay-to-quantum-resistant-hash-p2qrh&#x2F;1811&quot;&gt;BIP 360 Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin&#x2F;bips&#x2F;pull&#x2F;2204&quot;&gt;BIP 440 &amp;amp; BIP 441 Updates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
@@ -131,6 +132,8 @@
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;30.3&#x2F;&quot;&gt;Bitcoin Core 30.3&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;bitcoincore.org&#x2F;en&#x2F;releases&#x2F;29.4&#x2F;&quot;&gt;Bitcoin Core 29.4&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-inquisition&#x2F;bitcoin&#x2F;releases&#x2F;tag&#x2F;v29.4-inq&quot;&gt;Bitcoin Inquisition 29.4&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoin-core&#x2F;secp256k1&#x2F;releases&#x2F;tag&#x2F;v0.8.0&quot;&gt;libsecp256k1 0.8.0&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;bitcoinj&#x2F;secp256k1-jdk&#x2F;releases&#x2F;tag&#x2F;v0.3.1&quot;&gt;secp256k1-jdk 0.3.1&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 </content>
 	</entry>
