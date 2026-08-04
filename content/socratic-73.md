@@ -80,6 +80,7 @@ Improvement Proposals
 ### [BIPs](https://github.com/bitcoin/bips/)
 
 - [BIP proposal: Stale Tip Relay](https://github.com/pseudoramdom/bips/blob/staletip-bip-draft/bip-staletip.md)
+- [BIP draft: Low-R Grinding for ECDSA Signatures](https://github.com/bitcoin/bips/pull/2224)
 - [BIP draft: Full-Aggregation of BIP 340 Signatures](https://groups.google.com/g/bitcoindev/c/TF5mPfy58RQ/m/vAk1Mfg2AwAJ)
 - [BIP 360 Updates](https://delvingbitcoin.org/t/changes-to-bip-360-pay-to-quantum-resistant-hash-p2qrh/1811)
 - [BIP 440 & BIP 441 Updates](https://github.com/bitcoin/bips/pull/2204)
@@ -124,3 +125,5 @@ Noteworthy PRs
 - [Bitcoin Core 30.3](https://bitcoincore.org/en/releases/30.3/)
 - [Bitcoin Core 29.4](https://bitcoincore.org/en/releases/29.4/)
 - [Bitcoin Inquisition 29.4](https://github.com/bitcoin-inquisition/bitcoin/releases/tag/v29.4-inq)
+- [libsecp256k1 0.8.0](https://github.com/bitcoin-core/secp256k1/releases/tag/v0.8.0)
+- [secp256k1-jdk 0.3.1](https://github.com/bitcoinj/secp256k1-jdk/releases/tag/v0.3.1)
