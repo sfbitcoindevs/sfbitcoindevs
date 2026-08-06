@@ -78,6 +78,7 @@
 &lt;ul&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;blog.coinkite.com&#x2F;coldcard-mk3-seed-generation-warning&#x2F;&quot;&gt;COLDCARD Security Advisory&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;engineering.block.xyz&#x2F;blog&#x2F;predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware&quot;&gt;Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;entropy.site&#x2F;dice&quot;&gt;Offline Seed Phrase Generation With Octal + Hex Dice By D++&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https:&#x2F;&#x2F;x.com&#x2F;roasbeef&#x2F;status&#x2F;2083265977048059988&quot;&gt;Button Mashing Entropy for COLDCARD&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
 &lt;&#x2F;ul&gt;
 &lt;h2 id=&quot;improvement-proposals&quot;&gt;Improvement Proposals&lt;&#x2F;h2&gt;
