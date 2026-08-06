@@ -72,6 +72,7 @@ CVEs and Research
 
 - [COLDCARD Security Advisory](https://blog.coinkite.com/coldcard-mk3-seed-generation-warning/)
 - [Predictable RNG Fallback and 32-Bit Reseed in COLDCARD Firmware](https://engineering.block.xyz/blog/predictable-rng-fallback-and-32-bit-reseed-in-coldcard-firmware)
+- [Offline Seed Phrase Generation With Octal + Hex Dice By D++](https://entropy.site/dice)
 - [Button Mashing Entropy for COLDCARD](https://x.com/roasbeef/status/2083265977048059988)
 
 Improvement Proposals
