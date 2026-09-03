@@ -30,7 +30,6 @@ Discussion
 ### News, Tweets & Misc
 
 - [BIP-110 monitoring stream: mandatory signaling start](https://b10c.me/projects/028-bip110-monitoring-livestream/)
-- [Luke Dashjr has separated from OCEAN, resigning as Chairman, Chief Technology Officer, and director.](https://x.com/ocean_mining/status/2093894434941555151)
 - [Cornell Bitcoin Adoption Index](https://cornell-btpi-bitcoin-adoption-study.vercel.app/findings)
 - [OP_TEMPLATEHASH Ark demonstration](https://gitlab.com/ark-bitcoin/bark/-/tree/templatehash?ref_type=heads)
 - [Ledger app v2.5 adds human-readable policy descriptions](https://x.com/salvatoshi/status/2086727660353261863)
