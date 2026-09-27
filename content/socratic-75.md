@@ -38,10 +38,8 @@ Discussion
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
-- [[BIP Proposal] BIP324 One-Byte Message Type ID Alias Assignment](https://groups.google.com/g/bitcoindev/c/YjrkzS_Sjes)
 - [Comparison of Bitcoin Covenant Proposals for Vaults](https://groups.google.com/g/bitcoindev/c/Tv4k9kK5KYA)
 - [Silent payments light clients: measurements and index commitments](https://groups.google.com/g/bitcoindev/c/qqDYHnnoM7k)
-- [[BIP draft] Unspendable Internal Keys for Wallet Policies](https://groups.google.com/g/bitcoindev/c/se3TkNnbno4)
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
@@ -81,6 +79,8 @@ Improvement Proposals
 
 - [BIP 332: Stale Tip Relay](https://github.com/bitcoin/bips/blob/master/bip-0332.md)
 - [BIP 461: Deterministic ECDSA Signatures](https://github.com/bitcoin/bips/blob/master/bip-0461.md)
+- [BIP Proposal: BIP324 One-Byte Message Type ID Alias Assignment](https://groups.google.com/g/bitcoindev/c/YjrkzS_Sjes)
+- [BIP Draft: Unspendable Internal Keys for Wallet Policies](https://groups.google.com/g/bitcoindev/c/se3TkNnbno4)
 
 Noteworthy PRs
 --------------
