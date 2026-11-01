@@ -4,8 +4,156 @@
 	<link href="https://sfbitcoindevs.org/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://sfbitcoindevs.org"/>
 	<generator uri="https://www.getzola.org/">Zola</generator>
-	<updated>2026-10-01T00:00:00+00:00</updated>
+	<updated>2026-11-05T00:00:00+00:00</updated>
 	<id>https://sfbitcoindevs.org/feed.xml</id>
+	<entry xml:lang="en">
+		<title>Socratic Seminar 76</title>
+		<published>2026-11-05T00:00:00+00:00</published>
+		<updated>2026-11-05T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://sfbitcoindevs.org/socratic-76/" type="text/html"/>
+		<id>https://sfbitcoindevs.org/socratic-76/</id>
+		<content type="html">&lt;h2 id=&quot;housekeeping&quot;&gt;Housekeeping&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;This meetup is generously sponsored by &lt;a rel=&quot;external&quot; href=&quot;https://pubkey.bar/&quot;&gt;Pubkey&lt;/a&gt; and &lt;a rel=&quot;external&quot; href=&quot;https://bitnomial.com&quot;&gt;Bitnomial&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Questions are encouraged, including basic ones!&lt;/li&gt;
+&lt;li&gt;Socratic Seminars are held under the &lt;a rel=&quot;external&quot; href=&quot;https://www.chathamhouse.org/about-us/chatham-house-rule&quot;&gt;Chatham House Rule&lt;/a&gt;: share the information you receive, but do not reveal the identity of who said it.&lt;/li&gt;
+&lt;li&gt;For the privacy of other attendees, please refrain from taking photographs of other people without their permission.&lt;/li&gt;
+&lt;li&gt;Socratic seminars are best when the moderator can let the conversation flow, so try to keep things concrete and focused.&lt;/li&gt;
+&lt;li&gt;The reading list covers September 30th to Nov 1st.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;chain-weather-report&quot;&gt;Chain Weather Report&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://dashboard.clarkmoody.com/&quot;&gt;Clark Moody Dashboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://mempool.space/graphs/mempool#1m&quot;&gt;Mempool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://mempool.space/graphs/mining/hashrate-difficulty#1y&quot;&gt;Hashrate &amp;amp; Difficulty&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://mempool.space/graphs/mining/block-fee-rates#1m&quot;&gt;Block Fee Rates&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://mempool.space/graphs/mining/block-rewards#1m&quot;&gt;Block Rewards 1m&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://mainnet.observer/charts/utxoset-spend-age/&quot;&gt;UTXO Spend Age&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;discussion&quot;&gt;Discussion&lt;/h2&gt;
+&lt;h3 id=&quot;news-tweets-misc&quot;&gt;News, Tweets &amp;amp; Misc&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://en.wikipedia.org/wiki/2026_Binance_hack&quot;&gt;Binance Hack results in $6.3B theft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://www.tibane.net/research/ledger-nano-x-implant&quot;&gt;Ledger Nano X Implant&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://x.com/SpecterAnalyst/status/2108534068564373687&quot;&gt;Total losses estimated at $86MM+ across chains&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://x.com/roasbeef/status/2110813488822239619&quot;&gt;LayerTree&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://gitlab.com/1440000bytes/snail&quot;&gt;Snail: Send bitcoin transactions with zero on-chain fee&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;blogs&quot;&gt;Blogs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://lclhost.org/blog/quantum-workshop-2026/&quot;&gt;localhost research: Notes from a Post-Quantum Workshop&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://www.anthropic.com/research/ecdsa-curve-origins&quot;&gt;Claude reveals p256r1 curve origins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://proofofkeags.com/research/2026-10-19-connecting-map-to-territory.html&quot;&gt;btc-verified October Update: Connecting Map to Territory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://hackmd.io/@januszgrze/HJlHensozl&quot;&gt;Introducing Zark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://blog.bitbox.swiss/en/introducing-lightning-in-the-bitboxapp/&quot;&gt;Introducing Lightning in the BitBoxApp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;mining&quot;&gt;Mining&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/0xB10C/mainnet-observer/issues/186&quot;&gt;Braiins Pool is not an AntPool proxy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://arkpool.org/&quot;&gt;arkpool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://heatbit.com/?v=2&quot;&gt;Heatbit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://hashpool.dev/articles/what-is-hashpool/&quot;&gt;Hashpool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/vincenzopalazzo/landfall&quot;&gt;landfall&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;bitcoin-dev&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https://groups.google.com/g/bitcoindev&quot;&gt;bitcoin-dev&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://groups.google.com/g/bitcoindev/c/70VSp_ARD5Q&quot;&gt;Bitcoin Core security policy update&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://groups.google.com/g/bitcoindev/c/TBBakeBK8_E&quot;&gt;Getting BIP54 past the finish line&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://groups.google.com/g/bitcoindev/c/T9s8nflvlK0&quot;&gt;BIP54: On fixing time-warp and the (unsoundness) of the forward block idea&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;delving-bitcoin&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https://delvingbitcoin.org/&quot;&gt;Delving Bitcoin&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://delvingbitcoin.org/t/we-made-the-bitcoin-dev-mailing-list-readable-15-years-24-699-messages/2985&quot;&gt;We made the bitcoin-dev mailing list readable: 15 years, 24,699 messages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://delvingbitcoin.org/t/cassis-a-new-simple-scheme-for-generic-multi-layer-multi-hop-htlc-routing/2952&quot;&gt;Cassis, a new simple scheme for generic multi-layer multi-hop HTLC routing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://delvingbitcoin.org/t/descriptor-syntax-for-hash-preimages/2935&quot;&gt;Descriptor syntax for hash preimages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://delvingbitcoin.org/t/multiplication-in-tapscript-today-371-bytes-no-soft-fork/3010&quot;&gt;Multiplication in Tapscript today: 371 bytes, no soft fork&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://delvingbitcoin.org/t/silent-payments-for-multiparty-wallets/2960&quot;&gt;Silent Payments for Multiparty Wallets&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;bnoc&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https://bnoc.xyz/&quot;&gt;BNOC&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://bnoc.xyz/t/addrman-health-dashboard/185&quot;&gt;Addrman health dashboard&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://bnoc.xyz/t/compact-block-reconstruction-degradation-between-september-october-2026/198&quot;&gt;Compact block reconstruction degradation between September - October 2026&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://bnoc.xyz/t/satoshi-31-0-0-peers-with-no-service-flags-and-protocol-70015-pushed-transactions-then-stopped-together-on-oct-18/193&quot;&gt;/Satoshi:31.0.0/ peers with no service flags and protocol 70015 pushed transactions, then stopped together on Oct 18&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://bnoc.xyz/t/effect-of-linux-kernel-cve-2026-99999-cvss-9-3-pwnscape-on-the-bitcoin-network/189&quot;&gt;Effect of Linux Kernel CVE-2026-99999 (CVSS 9.3, PwnScape) on the Bitcoin network&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;cves-and-research&quot;&gt;CVEs and Research&lt;/h2&gt;
+&lt;h3 id=&quot;infosec&quot;&gt;InfoSec&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://bitcoincore.org/en/2026/10/28/disclose-fpausesend-oom/&quot;&gt;Core CVE-2026-117349 - Slow unbounded memory growth on paused pre-BIP31 peers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/&quot;&gt;Core CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://bitcoincore.org/en/2026/10/28/disclose-undo-overflow/&quot;&gt;Core CVE-2026-117346 - Undo file overflow under extreme conditions&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://delvingbitcoin.org/t/disclosure-dos-vulnerabilities-fixed-in-eclair-v0-14-0/2914&quot;&gt;Disclosure: DoS vulnerabilities fixed in Eclair v0.14.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://lwn.net/Articles/1097401/&quot;&gt;Debian alert DSA-6528-1 (kernel)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://cybersecuritynews.com/uefi-firmware-vulnerability/&quot;&gt;Critical UEFI Firmware Flaw Could Expose Millions of Servers to Pre-Boot Code Execution&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;research&quot;&gt;Research&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://robinlinus.com/bitcoin-poker.pdf&quot;&gt;Bitcoin Poker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/AdamISZ/ln-gap/blob/master/docs/paper/lngap-short.pdf&quot;&gt;LN-GAP : Lightning governed by arbitrary programs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/AdamISZ/lichen/blob/master/papers/lichen-v0.4.1.pdf&quot;&gt;Lichen: L2s In CHannels ENforced on bitcoin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://arxiv.org/pdf/2609.32015&quot;&gt;Compact Shielded CSV: Post-Quantum, Private, Lightweight Client-Side Validation Blockchain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://eprint.iacr.org/2026/2100.pdf&quot;&gt;Garbling Groth16 with Native Group Operations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/idealgroup/argo?_&quot;&gt;Argo is now open source&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;improvement-proposals&quot;&gt;Improvement Proposals&lt;/h2&gt;
+&lt;h3 id=&quot;bips&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bips/&quot;&gt;BIPs&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://groups.google.com/g/bitcoindev/c/p6UUOdGi9YI&quot;&gt;BIP Proposal: Wallet label synchronization (BIP-329 records over encrypted stores)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/lukecarriere/bip-cosigner-spending-policies/blob/468fdd1b75647432ed56c3a2b5579cbcfedaec74/bip-cosigner-spending-policies.md&quot;&gt;BIP Draft v2: Co-signer Spending Policies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;noteworthy-prs&quot;&gt;Noteworthy PRs&lt;/h2&gt;
+&lt;h3 id=&quot;bitcoin-core&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin&quot;&gt;Bitcoin Core&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/pull/36365&quot;&gt;fees: fall back to block_policy and minor api change&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/pull/35833&quot;&gt;log: prevent user input from injecting fake log lines&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/pull/36312&quot;&gt;net: don&#39;t discourage private broadcast peers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/pull/36277&quot;&gt;net: always complete all initial private broadcast connections&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/pull/35984&quot;&gt;sign: skip signing SIGHASH_SINGLE inputs with no corresponding output&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/pull/35301&quot;&gt;silent payments: Implement bip352 (take 2)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/pull/36338&quot;&gt;silent payments: fix P2PKH pubkey extraction from malleated scriptSig&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/pull/29278&quot;&gt;wallet: Add maxfeerate wallet startup option&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/pull/32895&quot;&gt;wallet: Prepare for future upgrades by recording versions of last client to open and decrypt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/pull/35752&quot;&gt;wallet: make encryption state updates atomic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;ldk&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https://git.rust-bitcoin.org/lightningdevkit/rust-lightning&quot;&gt;ldk&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/5126&quot;&gt;Apply a one-hop blinded path&#39;s CLTV expiry delta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/5042&quot;&gt;Fix some bugs the LSPS2 JIT flow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/pulls/5057&quot;&gt;Reject acknowledged commitment rollbacks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;lnd&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/lightningnetwork/lnd/&quot;&gt;lnd&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/lightningnetwork/lnd/pull/11290&quot;&gt;blindedpath: avoid uint32 overflow in accumulated fee calc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/lightningnetwork/lnd/pull/11173&quot;&gt;discovery: rotate failed historical syncers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/lightningnetwork/lnd/pull/11068&quot;&gt;lnwallet: reject commitments missing aux HTLC signatures&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/lightningnetwork/lnd/pull/11212&quot;&gt;multi: stop opening legacy channels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/lightningnetwork/lnd/pull/10919&quot;&gt;Local reputation: subsystem core, read only&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;rust-bitcoin&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/rust-bitcoin/rust-bitcoin&quot;&gt;rust-bitcoin&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/rust-bitcoin/rust-bitcoin/pull/6956&quot;&gt;bitcoin: introduce ScriptCode for sighash computation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;secp256k1&quot;&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin-core/secp256k1/&quot;&gt;secp256k1&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin-core/secp256k1/pull/1929&quot;&gt;silentpayments: perform tweak addition with actual scalars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin-core/secp256k1/pull/1933&quot;&gt;refactor: introduce ecmult_const_ge helper (preventing accidential gej leaks)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin-core/secp256k1/pull/1934&quot;&gt;Clear secret-dependent variables in _ecmult_const_xonly&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;releases&quot;&gt;Releases&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-32.1.md&quot;&gt;Bitcoin Core v32.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-31.2.md&quot;&gt;Bitcoin Core v31.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-30.4.md&quot;&gt;Bitcoin Core v30.4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-29.5.md&quot;&gt;Bitcoin Core v29.5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/ElementsProject/lightning/releases/tag/v26.06.9&quot;&gt;Core Lightning v26.06.9&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://git.rust-bitcoin.org/lightningdevkit/rust-lightning/releases/tag/v0.3-rc3&quot;&gt;LDK v0.3-rc3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a rel=&quot;external&quot; href=&quot;https://github.com/lightninglabs/wavelength/releases/tag/v0.2.1&quot;&gt;Wavelength v0.2.1&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+	</entry>
 	<entry xml:lang="en">
 		<title>Socratic Seminar 75</title>
 		<published>2026-10-01T00:00:00+00:00</published>
