@@ -32,34 +32,45 @@ Discussion
 - [Ledger Nano X Implant](https://www.tibane.net/research/ledger-nano-x-implant)
     - [Total losses estimated at $86MM+ across chains](https://x.com/SpecterAnalyst/status/2108534068564373687)
 - [LayerTree](https://x.com/roasbeef/status/2110813488822239619)
-- []()
+- [Snail: Send bitcoin transactions with zero on-chain fee](https://gitlab.com/1440000bytes/snail)
 
 ### Blogs
 
 - [localhost research: Notes from a Post-Quantum Workshop](https://lclhost.org/blog/quantum-workshop-2026/)
 - [Claude reveals p256r1 curve origins](https://www.anthropic.com/research/ecdsa-curve-origins)
-- []()
+- [btc-verified October Update: Connecting Map to Territory](https://proofofkeags.com/research/2026-10-19-connecting-map-to-territory.html)
+- [Introducing Zark](https://hackmd.io/@januszgrze/HJlHensozl)
+- [Introducing Lightning in the BitBoxApp](https://blog.bitbox.swiss/en/introducing-lightning-in-the-bitboxapp/)
+
+### Mining
+
+- [Braiins Pool is not an AntPool proxy](https://github.com/0xB10C/mainnet-observer/issues/186)
+- [arkpool](https://arkpool.org/)
+- [Heatbit](https://heatbit.com/?v=2)
+- [Hashpool](https://hashpool.dev/articles/what-is-hashpool/)
+- [landfall](https://github.com/vincenzopalazzo/landfall)
 
 ### [bitcoin-dev](https://groups.google.com/g/bitcoindev)
 
 - [Bitcoin Core security policy update](https://groups.google.com/g/bitcoindev/c/70VSp_ARD5Q)
-- []()
-- []()
+- [Getting BIP54 past the finish line](https://groups.google.com/g/bitcoindev/c/TBBakeBK8_E)
+- [BIP54: On fixing time-warp and the (unsoundness) of the forward block idea](https://groups.google.com/g/bitcoindev/c/T9s8nflvlK0)
 - []()
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
+- [We made the bitcoin-dev mailing list readable: 15 years, 24,699 messages](https://delvingbitcoin.org/t/we-made-the-bitcoin-dev-mailing-list-readable-15-years-24-699-messages/2985)
+- [Cassis, a new simple scheme for generic multi-layer multi-hop HTLC routing](https://delvingbitcoin.org/t/cassis-a-new-simple-scheme-for-generic-multi-layer-multi-hop-htlc-routing/2952)
 - [Descriptor syntax for hash preimages](https://delvingbitcoin.org/t/descriptor-syntax-for-hash-preimages/2935)
-- []()
-- []()
-- []()
+- [Multiplication in Tapscript today: 371 bytes, no soft fork](https://delvingbitcoin.org/t/multiplication-in-tapscript-today-371-bytes-no-soft-fork/3010)
+- [Silent Payments for Multiparty Wallets](https://delvingbitcoin.org/t/silent-payments-for-multiparty-wallets/2960)
 
 ### [BNOC](https://bnoc.xyz/)
 
-- []()
-- []()
-- []()
-- []()
+- [Addrman health dashboard](https://bnoc.xyz/t/addrman-health-dashboard/185)
+- [Compact block reconstruction degradation between September - October 2026](https://bnoc.xyz/t/compact-block-reconstruction-degradation-between-september-october-2026/198)
+- [/Satoshi:31.0.0/ peers with no service flags and protocol 70015 pushed transactions, then stopped together on Oct 18](https://bnoc.xyz/t/satoshi-31-0-0-peers-with-no-service-flags-and-protocol-70015-pushed-transactions-then-stopped-together-on-oct-18/193)
+- [Effect of Linux Kernel CVE-2026-99999 (CVSS 9.3, PwnScape) on the Bitcoin network](https://bnoc.xyz/t/effect-of-linux-kernel-cve-2026-99999-cvss-9-3-pwnscape-on-the-bitcoin-network/189)
 
 CVEs and Research
 -----------------
@@ -70,6 +81,8 @@ CVEs and Research
 - [Core CVE-2026-117350 - Unbounded memory growth through TCP urgent data on non-Linux systems](https://bitcoincore.org/en/2026/10/28/disclose-tcp-oom/)
 - [Core CVE-2026-117346 - Undo file overflow under extreme conditions](https://bitcoincore.org/en/2026/10/28/disclose-undo-overflow/)
 - [Disclosure: DoS vulnerabilities fixed in Eclair v0.14.0](https://delvingbitcoin.org/t/disclosure-dos-vulnerabilities-fixed-in-eclair-v0-14-0/2914)
+- [Debian alert DSA-6528-1 (kernel)](https://lwn.net/Articles/1097401/)
+- [Critical UEFI Firmware Flaw Could Expose Millions of Servers to Pre-Boot Code Execution](https://cybersecuritynews.com/uefi-firmware-vulnerability/)
 
 ### Research
 
@@ -77,6 +90,7 @@ CVEs and Research
 - [LN-GAP : Lightning governed by arbitrary programs](https://github.com/AdamISZ/ln-gap/blob/master/docs/paper/lngap-short.pdf)
 - [Lichen: L2s In CHannels ENforced on bitcoin](https://github.com/AdamISZ/lichen/blob/master/papers/lichen-v0.4.1.pdf)
 - [Compact Shielded CSV: Post-Quantum, Private, Lightweight Client-Side Validation Blockchain](https://arxiv.org/pdf/2609.32015)
+- [Garbling Groth16 with Native Group Operations](https://eprint.iacr.org/2026/2100.pdf)
 - [Argo is now open source](https://github.com/idealgroup/argo?_)
 
 Improvement Proposals
@@ -85,9 +99,7 @@ Improvement Proposals
 ### [BIPs](https://github.com/bitcoin/bips/)
 
 - [BIP Proposal: Wallet label synchronization (BIP-329 records over encrypted stores)](https://groups.google.com/g/bitcoindev/c/p6UUOdGi9YI)
-- []()
-- []()
-- []()
+- [BIP Draft v2: Co-signer Spending Policies](https://github.com/lukecarriere/bip-cosigner-spending-policies/blob/468fdd1b75647432ed56c3a2b5579cbcfedaec74/bip-cosigner-spending-policies.md)
 
 Noteworthy PRs
 --------------
@@ -95,6 +107,7 @@ Noteworthy PRs
 ### [Bitcoin Core](https://github.com/bitcoin/bitcoin)
 
 - [fees: fall back to block_policy and minor api change](https://github.com/bitcoin/bitcoin/pull/36365)
+- [log: prevent user input from injecting fake log lines](https://github.com/bitcoin/bitcoin/pull/35833)
 - [net: don't discourage private broadcast peers](https://github.com/bitcoin/bitcoin/pull/36312)
 - [net: always complete all initial private broadcast connections](https://github.com/bitcoin/bitcoin/pull/36277)
 - [sign: skip signing SIGHASH_SINGLE inputs with no corresponding output](https://github.com/bitcoin/bitcoin/pull/35984)
@@ -102,14 +115,7 @@ Noteworthy PRs
 - [silent payments: fix P2PKH pubkey extraction from malleated scriptSig](https://github.com/bitcoin/bitcoin/pull/36338)
 - [wallet: Add maxfeerate wallet startup option](https://github.com/bitcoin/bitcoin/pull/29278)
 - [wallet: Prepare for future upgrades by recording versions of last client to open and decrypt](https://github.com/bitcoin/bitcoin/pull/32895)
-- []()
-
-### [Core Lightning](https://github.com/ElementsProject/lightning)
-
-- []()
-- []()
-- []()
-- []()
+- [wallet: make encryption state updates atomic](https://github.com/bitcoin/bitcoin/pull/35752)
 
 ### [ldk](https://git.rust-bitcoin.org/lightningdevkit/rust-lightning)
 
@@ -127,13 +133,11 @@ Noteworthy PRs
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [bitcoin: introduce ScriptCode for sighash computation](https://github.com/rust-bitcoin/rust-bitcoin/pull/6956)
-- []()
-- []()
 
 ### [secp256k1](https://github.com/bitcoin-core/secp256k1/)
-- []()
-- []()
-- []()
+- [silentpayments: perform tweak addition with actual scalars](https://github.com/bitcoin-core/secp256k1/pull/1929)
+- [refactor: introduce ecmult_const_ge helper (preventing accidential gej leaks)](https://github.com/bitcoin-core/secp256k1/pull/1933)
+- [Clear secret-dependent variables in _ecmult_const_xonly](https://github.com/bitcoin-core/secp256k1/pull/1934)
 
 ### Releases
 
