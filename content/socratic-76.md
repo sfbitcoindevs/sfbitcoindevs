@@ -55,7 +55,6 @@ Discussion
 - [Bitcoin Core security policy update](https://groups.google.com/g/bitcoindev/c/70VSp_ARD5Q)
 - [Getting BIP54 past the finish line](https://groups.google.com/g/bitcoindev/c/TBBakeBK8_E)
 - [BIP54: On fixing time-warp and the (unsoundness) of the forward block idea](https://groups.google.com/g/bitcoindev/c/T9s8nflvlK0)
-- []()
 
 ### [Delving Bitcoin](https://delvingbitcoin.org/)
 
@@ -129,7 +128,7 @@ Noteworthy PRs
 - [discovery: rotate failed historical syncers](https://github.com/lightningnetwork/lnd/pull/11173)
 - [lnwallet: reject commitments missing aux HTLC signatures](https://github.com/lightningnetwork/lnd/pull/11068)
 - [multi: stop opening legacy channels](https://github.com/lightningnetwork/lnd/pull/11212)
-- [[1/?] Local reputation: subsystem core, read only](https://github.com/lightningnetwork/lnd/pull/10919)
+- [Local reputation: subsystem core, read only](https://github.com/lightningnetwork/lnd/pull/10919)
 
 ### [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin)
 - [bitcoin: introduce ScriptCode for sighash computation](https://github.com/rust-bitcoin/rust-bitcoin/pull/6956)
