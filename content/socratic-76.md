@@ -33,6 +33,8 @@ Discussion
     - [Total losses estimated at $86MM+ across chains](https://x.com/SpecterAnalyst/status/2108534068564373687)
 - [LayerTree](https://x.com/roasbeef/status/2110813488822239619)
 - [Snail: Send bitcoin transactions with zero on-chain fee](https://gitlab.com/1440000bytes/snail)
+- [bitcoinix: community reboot of nix-bitcoin](https://x.com/PavolRusnak/status/2110300699070537897)
+    - Github: [bitcoinix/bitcoinix](https://github.com/bitcoinix/bitcoinix)
 
 ### Blogs
 
